@@ -1,0 +1,10 @@
+config.background_image: EXPERIMENT.jpg
+config.neighbourhood_directions: out
+config.neighbourhood_scope: 5
+config.physics_mode: false
+config.show_inter_neighbour_edges: true
+created: 20241026234541175
+id: 6d9b08e7-1bac-4d6e-b18d-ea16fd971589
+isview: true
+modified: 20241027141540631
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Experimento Mental

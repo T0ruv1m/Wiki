@@ -1,0 +1,8 @@
+caption: commands
+created: 20241023224841249
+modified: 20241024164358397
+tags: commands ubuntu
+title: ubuntu/commands
+tmap.id: d5e9e628-e7c1-4f06-b290-be05a1782a80
+
+<<ccode"chmod -R g+s /path" "mudar permissão de todos os subdiretorios recursivamente" "bash">>

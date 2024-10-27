@@ -1,0 +1,19 @@
+created: 20241023225254343
+modified: 20241027002711255
+title: Base
+tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
+
+! Bem Vindo a Base!
+
+!! Projetos:
+{{Projetos}}
+
+!! Princípios de Programação:
+!! {{Princípios de Programação}}
+
+
+!! Documentação:
+
+[[Ubuntu]]
+
+{{lista implementação}}

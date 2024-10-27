@@ -1,0 +1,27 @@
+created: 20241024230720986
+modified: 20241026183420314
+tags: 
+title: Padrões Template
+tmap.id: e80cb48a-fcc1-43fa-a986-c6bdb56eeb90
+
+<<// img_intro>>
+
+---
+
+Problema:
+
+>''Esse é o Problema.''
+
+<<diamantes>>
+
+Portanto:
+
+> ''Faça isso e aquilo.''
+
+---
+
+
+Referências:
+<div class="footnote">
+1.<<refbib" ">>
+2.

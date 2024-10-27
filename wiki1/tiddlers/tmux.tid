@@ -1,0 +1,10 @@
+created: 20241023214950016
+modified: 20241027025324381
+tags: commands ubuntu/tools
+title: tmux
+tmap.id: 2b601d7b-50da-48a7-b220-7f4aed2ea768
+
+
+<<ccode  "tmux list-sessions" "listar sessões ativas" "bash" >>
+
+<<ccode "tmux attach -t nome" "entrar em uma sessão" "bash">>

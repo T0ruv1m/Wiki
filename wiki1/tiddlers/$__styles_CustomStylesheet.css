@@ -1,0 +1,9 @@
+/* Use Neue Helvetica for tiddler titles */
+.tc-title {
+    font-family: "Neue Helvetica", Arial, sans-serif;
+}
+
+/* Use Roboto for the main body text */
+.tc-tiddler-body {
+    font-family: "Roboto", Arial, sans-serif;
+}

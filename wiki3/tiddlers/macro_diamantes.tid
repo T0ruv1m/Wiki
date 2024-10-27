@@ -1,0 +1,13 @@
+created: 20241023113257663
+modified: 20241023113648931
+tags: $:/tags/Macro
+title: macro/diamantes
+tmap.id: 30f484d7-b08e-4771-a96e-d8a2d3d1ab6e
+type: text/vnd.tiddlywiki
+
+\define diamantes()
+<div style="text-align: center;">
+❖ ❖ ❖
+</div>
+\end
+
