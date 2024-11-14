@@ -1,5 +1,6 @@
 created: 20241023225254343
-modified: 20241027002711255
+modified: 20241113205838617
+tags: TableOfContents
 title: Base
 tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
 
@@ -8,8 +9,13 @@ tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
 !! Projetos:
 {{Projetos}}
 
-!! Princípios de Programação:
-!! {{Princípios de Programação}}
+!!! Boas Práticas:
+{{gudpractices}}
+
+---
+
+!!! Princípios de Programação:
+{{Princípios de Programação}}
 
 
 !! Documentação:

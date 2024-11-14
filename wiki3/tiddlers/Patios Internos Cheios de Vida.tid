@@ -1,7 +1,44 @@
 created: 20241025115736085
-modified: 20241026182623301
-tags: .padrão
+img_intro: https://i.pinimg.com/736x/55/5f/e1/555fe187e196ce6655d08738dc93f2cc.jpg
+modified: 20241109193057321
+tags: .padrão arquetipico falta/referencia
 title: Pátios Internos Cheios de Vida
+tmap.edges: {"e0227eee-0f81-479c-965a-e8200a049964":{"to":"f555db49-4e3b-4769-a68b-d546bd1338ce","type":"deve conter"}}
 tmap.id: d6335272-6c7a-4c9d-a1b4-ebbf0f8aca1d
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+<problema>
+
+Os pátios construídos em edifícios modernos geralmente são mortos. A intenção é que sejam espaços abertos privados para uso das pessoas, mas acabam sem uso, cheios de cascalho e esculturas abstratas.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Posicione cada pátio de modo que haja uma vista dele para algum espaço aberto maior; posicione-o de modo que pelo menos duas ou três portas se abram do edifício para ele e de modo que os caminhos naturais que conectam essas portas passem pelo pátio. E, em uma borda, ao lado de uma porta, faça uma varanda com telhado ou um alpendre, que seja contínuo com o interior e o pátio.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa"Live View">>
+
+---
+
+
+Referências:
+<footer>
+1.<<refbib" ">>
+2.FISCARELLI, Nicola. Courtyard 1. Disponível em: https://fineartamerica.com/featured/courtyard-1-nicola-fiscarelli.html. Acesso em: 7 nov. 2024.
+</footer>
+
 
 <iframe src="http://npl.wiki/view/welcome-visitors/view/growing-regions/view/patterns-of-scale/view/building-patterns/view/courtyard-building" height="400">

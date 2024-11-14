@@ -1,0 +1,5 @@
+description: Automatically assigned to an edge that does not have a type assigned
+modified: 20241108001608512
+show-label: false
+style: {"color":{"color":"gray"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/tmap:unknown

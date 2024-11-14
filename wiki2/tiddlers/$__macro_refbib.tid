@@ -1,0 +1,8 @@
+created: 20241029014908062
+modified: 20241107001819473
+tags: $:/tags/Macro
+title: $:/macro/refbib
+
+\define refbib(p:"")
+Alexander et al. ''Uma linguagem de padrões: a pattern language''. Bookman, 2012. p. $p$
+\end

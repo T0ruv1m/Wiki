@@ -9,11 +9,14 @@
         "felixhayashi/topstoryview",
         "flibbles/vis-network",
         "flibbles/relink",
-        "tiddlywiki/comments"
+        "tiddlywiki/comments",
+        "OokTech/TwederBob"
     ],
     "themes": [
         "tiddlywiki/vanilla",
-        "tiddlywiki/snowwhite"
+        "tiddlywiki/tight-heavier",
+        "tiddlywiki/snowwhite",
+        "tiddlywiki/readonly"
     ],
     "build": {
         "index": [

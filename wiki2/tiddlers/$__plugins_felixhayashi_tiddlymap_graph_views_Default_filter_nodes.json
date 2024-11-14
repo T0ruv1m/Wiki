@@ -1,6 +1,6 @@
 [
     {
-        "filter": " [field:tmap.id[bbf7f3f7-af39-4e2d-b9db-bdc1b7378ed6]] [field:tmap.id[502ab333-da9c-4956-9f6f-ebc07d96ed82]]",
+        "filter": " [field:tmap.id[bbf7f3f7-af39-4e2d-b9db-bdc1b7378ed6]] [field:tmap.id[502ab333-da9c-4956-9f6f-ebc07d96ed82]] ",
         "text": "",
         "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Default/filter/nodes"
     }

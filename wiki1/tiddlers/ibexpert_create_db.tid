@@ -1,0 +1,16 @@
+caption: criar database
+created: 20241106111322269
+modified: 20241106124213614
+tags: ibexpert
+title: ibexpert/create_db
+tmap.id: 8b42f7e7-f277-4294-996d-416ef27ffbf1
+
+server: local or remote
+
+for [[firebird_db]] usar:
+
+text=username: SYSDBA  
+pwd: masterkey  
+charset: WIN1251
+
+

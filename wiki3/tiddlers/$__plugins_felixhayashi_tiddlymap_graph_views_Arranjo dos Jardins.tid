@@ -1,0 +1,5 @@
+config.central-topic: 
+config.vis: {"edges":{"width":4}}
+id: 24ab09e8-ab46-4c84-bcc1-24805941a502
+isview: true
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Arranjo dos Jardins

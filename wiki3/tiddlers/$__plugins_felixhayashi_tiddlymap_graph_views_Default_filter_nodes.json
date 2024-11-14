@@ -1,8 +1,8 @@
 [
     {
-        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Default/filter/nodes",
+        "filter": "-[prefix[_]]",
         "text": "",
-        "type": "text/vnd.tiddlywiki",
-        "filter": "  "
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Default/filter/nodes",
+        "type": "text/vnd.tiddlywiki"
     }
 ]

@@ -1,27 +1,36 @@
 created: 20241024230720986
-modified: 20241026183420314
-tags: 
+modified: 20241111235135671
+tags: TableOfContents
 title: Padrões Template
 tmap.id: e80cb48a-fcc1-43fa-a986-c6bdb56eeb90
 
 <<// img_intro>>
 
----
+<<diamantes>>
 
 Problema:
 
->''Esse é o Problema.''
+<problema>
 
-<<diamantes>>
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
 
 Portanto:
 
-> ''Faça isso e aquilo.''
+<solucao>
 
----
+Faça isso e aquilo.
 
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
 
 Referências:
-<div class="footnote">
+<footer>
 1.<<refbib" ">>
-2.
+</footer>

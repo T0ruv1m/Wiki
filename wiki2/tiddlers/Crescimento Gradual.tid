@@ -1,0 +1,10 @@
+created: 20241028035631365
+modified: 20241030132703129
+title: Crescimento Gradual
+tmap.id: 7e12c603-883f-4144-a34e-4d698e49b6c1
+
+> O desenvolvimento de grandes blocos se baseia em uma visão do ambiente que é estática e descontínua; o crescimento fragmentado se baseia em uma visão do ambiente que é dinâmica e contínua.... De acordo com o ponto de vista de grandes blocos, cada ato de projeto ou construção é um evento isolado que cria um edifício isolado, "perfeito" no momento da construção e depois abandonado por seus construtores e projetistas para sempre. De acordo com o ponto de vista fragmentado, todo ambiente está mudando e crescendo o tempo todo, a fim de manter seu uso em equilíbrio; e a qualidade do ambiente é uma espécie de equilíbrio semiestável no fluxo do tempo.... O desenvolvimento de grandes blocos é baseado na ideia de substituição. O crescimento fragmentado é baseado na ideia de reparo < fonte: https://www.bradapp.com/docs/patterns-intro.html#TOC_PiecemealGrowth
+
+Chegamos finalmente a ideia de crescimento fragmentado. Isto é, a essência de todo processo adaptativo. Fundamental para o entendimento desse aspecto é a compreensão das construções como um processo gradual e contínuo. Até mesmo pequenas construções podem levar séculos até chegarem no seu pico de desenvolvimento.
+
+>O crescimento fragmentado baseia-se no pressuposto de que a adaptação entre os edifícios e seus usuários é necessariamente um processo lento e contínuo que não pode, em nenhuma circunstância, ser alcançado em um único salto."  [[How Buildings Learn]]

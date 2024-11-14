@@ -1,5 +1,42 @@
 created: 20241026181036829
-modified: 20241026181038030
-tags: falta/tudo
+img_intro: https://i.pinimg.com/564x/6a/22/4f/6a224f1aab429d69c1edaf94de21830f.jpg
+modified: 20241109193216635
+tags: .padrão arquetipico
 title: Transição da Entrada
+tmap.edges: {"c1cb9a26-a9db-415f-90de-892c647ee4c6":{"to":"f72773b9-883b-484b-a98a-fb1a53f84e72","type":"deve conter"}}
 tmap.id: f6aa1eb4-5c42-4335-926f-1c4ed9035742
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Os edifícios, especialmente as casas, com uma transição graciosa entre a rua e o interior, são mais tranquilos do que aqueles que se abrem diretamente para a rua.
+
+</problema>
+
+<<details label:"Descrição" src:"{{_desc_livro}}" srcClass:"alert alert-info"  labelClass:"alert alert-secondary">>
+
+Portanto:
+
+<solucao>
+
+Crie um espaço de transição entre a rua e a porta da frente. Faça com que o caminho que liga a rua à entrada passe por esse espaço de transição e marque-o com uma mudança de luz, uma mudança de som, uma mudança de direção, uma mudança de superfície, uma mudança de nível, talvez por meio de portões que façam uma mudança de ambiente e, acima de tudo, com uma mudança de vista.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa"Live View">>
+
+---
+
+
+Referências:
+<footer>
+1.<<refbib"548">>  
+2.
+</footer>

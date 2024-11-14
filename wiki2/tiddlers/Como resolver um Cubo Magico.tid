@@ -1,0 +1,50 @@
+created: 20241030021342892
+modified: 20241109171251090
+title: Como resolver um Cubo Mágico
+tmap.id: ec6bf96c-844e-473d-81a4-ebca2f7f1816
+
+Ao resolver o cubo temos duas opções:
+
+# Sermos jogados no caos de todas as milhoes de combinações possíveis ou;
+# nos limitarmos a utilização de um algoritmo desenvolvido por outra pessoa.
+
+A verdade é que a maioria das pessoas que aprenderam a resolver o cubo fizeram isso [[Seguindo uma Receita]], ou seja, um conjunto de algoritmos sequenciais que completam cada lado de forma [[Gradual|Crescimento Gradual]].^^(1)^^
+
+Assumimos então que resolvê-los de maneira consistente envolve sempre a aplicação da mesma sequência de algoritmos. Eles são úteis pois permitem dividir a tarefa complexa de completar o cubo em tarefas menores que podem ser manejadas uma de cada vez, sem perder o progresso das fases anteriores. Seguindo um algoritmo, qualquer um pode aprender a montar o cubo com facilidade.
+
+Por exemplo, o método mais famoso é chamado método de camadas. Nele você resolve o cubo em uma sequência de 4 passos, utilizando algumas [[regras de ouro|Todos se baseiam em regras de ouro]]:
+
+# Primeiro, você arruma a cruz da base;
+# depois é feito o F2L que significa primeiras duas camadas;
+# OLL que significa orientação da ultima camada;
+# o por último o PLL que sinifica permutação da ultima camada.
+
+O objetivo desses algoritmos é garantir que a solução ocorra por meio de uma sequência sem retrocesso. Isto é, eles permitem ignorar a parte do problema que já foi resolvida para focar na que está por resolver. Tudo isso deve ser feito sem danificar a organização das peças anteriores (muito embora elas sejam embaralhadas durante o algoritmo, depois de todos os movimentos elas retornam ao ponto inicial e com isso estamos cada vez mais próximos do cubo resolvido).
+
+
+Até mesmo os profissionais que montam o cubo magicamente em menos de 10 segundos não deixam de depender desses mesmos métodos, a diferença é que a experiência transforma essa aplicação consciente dos movimentos em memória muscular.  
+Ver [[Intuição é Conhecimento Acumulado]].
+
+---
+
+Caso a analogia com a Linguagem de Padrões nao tenha sido percebida até então, aqui vão algumas outras formulações:
+
+* [[A "Estrutura" na Borda do Caos]]: Em um cubo, nunca irá acontecer de uma borda branca estar ao lado outra borda branca, por exemplo. Portanto existem restrições, o que significa que não há permutações infinitas e que existe uma estrutura embutida no caos.
+> No entanto você verá apenas caos a menos que você saiba o que procurar, e é aí que você passa a depender de [[Abstrações|Padrões são Abstrações Úteis]]
+* As repetições/experiência levam ao reconhecimento de padrões e à memória muscular:
+>[[Uso dos Padrões requer Internalização]]
+* Lógica algoritmica e reconhecimento de padrões:
+> Ao resolver um cubo, você está sempre procurando um padrão.   
+``Se`` esse padrão ``então`` esse algoritmo.
+* Pensamento multidimensional
+* Ver vários movimentos à frente
+* Soluções múltiplas
+* Há mais do que apenas um método para resolver: 
+> OLL/PLL é rápido se você puder criar imagens mentais instantaneamente. Mas sempre há o F2L, que é mais lento e seguro, como a tartaruga.
+
+
+<footer>
+
+# Embora o número de permutações possíveis de um cubo 3x3x3 seja imenso e, portanto, o configure como um [[Problema Intratável]], depois que você aprende a resolvê-lo uma vez, todos os outros casos terão mais ou menos o mesmo grau de dificuldade. Por isso, para a maioria das pessoas a diversão de resolver o cubo se esvai logo após o primeiro sucesso. Os que continuam a tirar diversão do brinquedo estão muito provavelmente procurando fazê-lo de forma mais rapida e com o mínimo de movimentos (o que requer a escolha das regras mais eficazes).
+
+# A maneira que eu consegui aprender a montar não foi decorando o significado das notações mas guardando pequenas histórias que resumiam sequências inteiras que por algum motivo eram muito mais memoráveis e intuitivas.

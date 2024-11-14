@@ -10,7 +10,25 @@
   height: auto; /* Maintain aspect ratio */
 }
 
-.footnote {
+ problema {
+  text-align: center;
+  font-weight: 800;
+
+}
+
+ descricao {
+  font-size: 12px;
+  color: #333
+  text-align: justify;
+
+}
+
+ solucao {
+  text-align: center;
+  font-weight: 800;
+}
+
+ footer {
     font-size: 0.8em; /* Make the font smaller */
     color: #666; /* Set a dimmed color */
     margin-top: 10px; /* Space above the footnote */

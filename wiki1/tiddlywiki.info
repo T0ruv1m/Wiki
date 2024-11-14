@@ -19,11 +19,12 @@
         "tiddlywiki/codemirror-mode-javascript",
         "tiddlywiki/comments",
         "tiddlywiki/confetti",
-        "tiddlywiki/dynannotate"
+        "tiddlywiki/dynannotate",
+        "OokTech/TwederBob",
+        "OokTech/Bob"
     ],
     "themes": [
-        "tiddlywiki/vanilla",
-        "tiddlywiki/snowwhite"
+        "tiddlywiki/vanilla"
     ],
     "build": {
         "index": [

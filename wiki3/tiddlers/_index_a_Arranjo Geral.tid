@@ -1,0 +1,18 @@
+caption: Arranjo Geral
+created: 20241107215152566
+modified: 20241108232720326
+tags: index/arquitetura
+title: _index/a_Arranjo Geral
+tmap.id: d4888792-d2f9-4c97-adae-711577f6b21c
+
+//O primeiro grupo de padrões ajuda a lançar o arranjo geral de um grupo de edificações; a altura e o número destas edificações, os acessos ao terreno, as principais áreas de estacionamento e as linhas de movimento através do complexo://
+
+95. [[Edificação Como Complexo]]  
+96. [[Número de Pavimentos]]  
+97. [[Estacionamento Camuflado]]  
+98. [[Níveis Legíveis de Circulação]]  
+99. [[Edificação Principal]]  
+100. [[Rua de Pedestres]]  
+101. [[Ruas Internas]]  
+102. [[Família de Entradas]]  
+103. [[Estacionamentos Pequenos]]  

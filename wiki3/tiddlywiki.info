@@ -8,10 +8,11 @@
         "felixhayashi/hotzone",
         "felixhayashi/topstoryview",
         "flibbles/vis-network",
-        "flibbles/relink"
-        
+        "flibbles/relink",
+        "flibbles/relink-markdown"
     ],
     "themes": [
+        "tiddlywiki/centralised",
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
     ],

@@ -1,0 +1,13 @@
+created: 20241107220458597
+modified: 20241113205937892
+tags: 
+title: Technical Debt
+tmap.id: 6843c8b6-f903-4767-a961-4e14db54664a
+
+
+
+ways to avoid accumulating debt:
+
+* Aim for [[PlsDonLetMeBeMisunderstOOD]] while coding.
+> {{PlsDonLetMeBeMisunderstOOD}}
+* Always consider [[Refactoring]].

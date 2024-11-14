@@ -1,0 +1,10 @@
+created: 20241107123533387
+modified: 20241113205937889
+tags: principle/gudpractices
+title: PlsDonLetMeBeMisunderstOOD
+tmap.id: 47834817-cd27-4823-b4e5-787003d4c009
+video: https://youtu.be/uvXeeus94GY
+
+>"Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
+
+We have to write readable code, and the way to it seems to be [[OOD]].
