@@ -1,0 +1,12 @@
+{
+    "title": "MyPageTemplate",
+    "code-body": "yes",
+    "created": "20241024151000412",
+    "description": "{{$:/language/PageTemplate/Description}}",
+    "icon": "$:/core/images/layout-button",
+    "modified": "20241024151421216",
+    "name": "{{$:/language/PageTemplate/Name}}",
+    "tags": "",
+    "tmap.id": "36c6bc0f-c467-4130-8a0c-9a981396f7b8",
+    "text": "\\whitespace trim\n\\import [subfilter{$:/core/config/GlobalImportFilter}]\n\n<$vars\n\ttv-config-toolbar-icons={{$:/config/Toolbar/Icons}}\n\ttv-config-toolbar-text={{$:/config/Toolbar/Text}}\n\ttv-config-toolbar-class={{$:/config/Toolbar/ButtonClass}}\n\ttv-enable-drag-and-drop={{$:/config/DragAndDrop/Enable}}\n\ttv-show-missing-links={{$:/config/MissingLinks}}\n\tstoryviewTitle={{$:/view}}\n\tlanguageTitle={{{ [{$:/language}get[name]] }}}>\n\n<div class={{{ [all[shadows+tiddlers]tag[$:/tags/ClassFilters/PageTemplate]!is[draft]] :map:flat[subfilter{!!text}] tc-page-container [[tc-page-view-]addsuffix<storyviewTitle>] [[tc-language-]addsuffix<languageTitle>] :and[unique[]join[ ]] }}} >\n\n<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\" openLinkFromInsideRiver={{$:/config/Navigation/openLinkFromInsideRiver}} openLinkFromOutsideRiver={{$:/config/Navigation/openLinkFromOutsideRiver}} relinkOnRename={{$:/config/RelinkOnRename}}>\n\n<$dropzone enable=<<tv-enable-drag-and-drop>> class=\"tc-dropzone tc-page-container-inner\">\n\n<$list filter=\"[all[shadows+tiddlers]tag[$:/tags/PageTemplate]!has[draft.of]]\" variable=\"listItem\">\n\n\n<$transclude tiddler=<<listItem>>/>\n\n</$list>\n\n</$dropzone>\n\n</$navigator>\n\n<footer class=\"custom-footer\">\n    <p>© 2013 Uma Linguagem de Padrões </a></p>\n</footer>\n\n</div>\n\n</$vars>\n"
+}

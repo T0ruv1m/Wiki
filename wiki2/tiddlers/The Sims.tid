@@ -1,0 +1,9 @@
+created: 20241022215832747
+icon: 
+modified: 20241027153549097
+title: The Sims
+tmap.id: 63bf6eb2-7dd8-4b05-9697-351a921c5543
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+Muitos dos padrões do [[Livro: Uma Linguagem de Padrões]] estão presentes na programação do jogo original. Por exemplo, os sims ganham um aumento de necessidades quando estão em comodos iluminados por duas janelas, como o padrão. 

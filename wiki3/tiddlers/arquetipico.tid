@@ -1,0 +1,11 @@
+created: 20241026135118280
+icon: $:/core/images/transcludify
+modified: 20241026135845137
+title: arquetipico
+tmap.id: 5a82e6bc-c0fc-4920-9f70-e7f4fb546746
+
+> Ainda assim acreditamos, é claro, que essa linguagem aqui impressa seja algo mais do que um manual um professor ou uma versão de uma possível linguagem de padrões. Muitos dos padrões apresentados são arquetípicos - tão profundos, tão arraigados na natureza das coisas, que parece próvavel que eles serão tão parte da natureza humana e da ação humana daqui a 500 anos, tanto quanto o são atualmente. Duvidamos que alguém consiga construir uma linguagem de padrões válida, em sua própria mente, que não inlclua o parâmetro [[Arcadas]] por exemplo, ou o padrão [[Nichos]].
+
+Consideramos arquetípicos todos os padrões que estão marcados no livro original com dois asteríscos(**).
+
+<<tabs"[tag[arquetipico]]" class:"tc-vertical">>

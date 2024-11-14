@@ -1,0 +1,7 @@
+created: 20241025000200652
+description: A link that is contained in the tiddler's body pointing to another resource.
+label: links to
+modified: 20241025000415454
+show-label: false
+style: {"color":{"color":"rgba(255,174,3,0.66)"},"dashes":true,"arrows":{"middle":{"enabled":false},"from":{"enabled":false}}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/tw-body:link

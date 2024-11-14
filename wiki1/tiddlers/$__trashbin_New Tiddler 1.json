@@ -1,0 +1,8 @@
+{
+    "created": "20241024021341643",
+    "modified": "20241024021349997",
+    "tags": "",
+    "text": "6. Using /proc/meminfo\nFor detailed memory information, you can check /proc/meminfo.\n\nbash\nCopiar código\ncat /proc/meminfo\nThis will output detailed statistics on memory usage.\n\n",
+    "title": "New Tiddler",
+    "tmap.id": "31500880-bde6-4481-a1d2-40fb9c018205"
+}

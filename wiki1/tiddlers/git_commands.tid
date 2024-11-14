@@ -1,0 +1,15 @@
+caption: Commands
+created: 20241027155053301
+modified: 20241027155517439
+tags: git
+title: git/commands
+tmap.id: dfc6c718-4e90-44a7-8e00-7de90a86e845
+
+<<ccode"git --version">>
+<<ccode"sudo apt install git">>
+<<ccode"cd /path/to/your/project">>
+<<ccode"git init">>
+<<ccode"git add .">>
+<<ccode"git commit -m 'Initial commit'">>
+<<ccode"git remote add origin <URL>">>
+<<ccode"git push -u origin main">>
