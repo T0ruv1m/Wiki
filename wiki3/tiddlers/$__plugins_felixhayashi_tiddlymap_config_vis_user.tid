@@ -1,4 +1,0 @@
-title: $:/plugins/felixhayashi/tiddlymap/config/vis/user
-type: text/vnd.tiddlywiki
-
-{"nodes":{"color":{"background":"rgba(252,237,93,1)","border":"rgba(50,53,53,1)"},"font":{"size":18}},"edges":{"font":{"align":"top","face":"verdana"}},"physics":{"forceAtlas2Based":{"gravitationalConstant":-401}}}
