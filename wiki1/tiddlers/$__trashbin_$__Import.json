@@ -1,7 +1,0 @@
-{
-    "title": "$:/Import",
-    "type": "application/json",
-    "plugin-type": "import",
-    "status": "pending",
-    "text": "{\n    \"tiddlers\": {\n        \"Untitled\": {\n            \"title\": \"Untitled\",\n            \"text\": \"$:/plugins/wikilabs/space-space-newline\"\n        }\n    }\n}"
-}
