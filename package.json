@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/T0ruv1m/Wiki/issues"
   },
-  "homepage": "https://github.com/T0ruv1m/Wiki#readme"
+  "homepage": "https://github.com/T0ruv1m/Wiki#readme",
+  "dependencies": {
+    "tiddlywiki": "^5.3.5"
+  }
 }
