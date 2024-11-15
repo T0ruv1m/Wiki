@@ -9,7 +9,7 @@
     "notifications": "true",
     "popups.enabled": "true",
     "popups.delay": "400",
-    "popups.width": "400px",
+    "popups.width": "600px",
     "popups.height": "480px",
     "jsonIndentation": "1",
     "alwaysAddNodeIdToViewFilter": "true",

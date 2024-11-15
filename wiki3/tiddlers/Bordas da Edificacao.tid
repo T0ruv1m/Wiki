@@ -1,5 +1,38 @@
 created: 20241109193556977
-modified: 20241109193557887
+img_intro: https://i.pinimg.com/736x/bd/91/9b/bd919b97f32958c8abeb811871bedd3a.jpg
+modified: 20241114234906565
 tags: .padrão
 title: Bordas da Edificação
+tmap.edges: {"3e2099f2-e04c-4fec-8fa4-ae5d7d9e740c":{"to":"f555db49-4e3b-4769-a68b-d546bd1338ce","type":"deve conter"},"d1be3910-8c40-449b-87ca-0fb0bd5695d8":{"to":"4d215aa9-0d96-4dc0-8929-e88eb6bb6ee7","type":"deve conter"},"6c100bf2-102f-4487-a80b-d1061cee8f19":{"to":"dd2357c1-ea9b-4ff4-ab2b-3e5739f98a8a","type":"pode incluir"},"9509f264-37dc-4d82-8b2a-89dc8ed948eb":{"to":"7bdf13c5-7171-47a2-b596-e46e9fe068e6","type":"deve conter"},"87570e74-c988-4dab-8bbf-5c1abf2a81f0":{"to":"dbfb010e-bf65-443e-8923-f9a0921f04c9","type":"pode incluir"}}
 tmap.id: 68b4feb2-20a7-4f9d-ad1d-a04ecda0197e
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Na maioria das vezes, um edifício é visto como algo que se volta para dentro, para seus cômodos. As pessoas não costumam pensar em um edifício como algo que também deve ser orientado para o exterior.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Certifique-se de tratar a borda do edifício como uma "coisa", um "lugar", uma zona com volume, e não seja meramente uma linha ou interface que não tem espessura. Recorte a fachada da edificação , criando lugares que convidem a permanência das pessoas. Crie lugares que tenham profundidade e cobertura, lugares para sentar, inclinar-se e caminhar, especialmente nos pontos ao longo do perímetro que têm uma vista interessante.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib"751">>
+</footer>

@@ -21,7 +21,8 @@
         "tiddlywiki/confetti",
         "tiddlywiki/dynannotate",
         "OokTech/TwederBob",
-        "OokTech/Bob"
+        "OokTech/Bob",
+        "sobjornstad/TiddlyRemember"
     ],
     "themes": [
         "tiddlywiki/vanilla"

@@ -4,7 +4,7 @@ config.neighbourhood_scope: 1
 config.physics_mode: true
 config.refresh-triggers: $:/temp/tmap/currentTiddler
 config.show_inter_neighbour_edges: true
-config.vis: {"physics":{"forceAtlas2Based":{"springConstant":0.09}},"layout":{"hierarchical":{"nodeSpacing":260}},"nodes":{"physics":false},"edges":{"font":{"strokeWidth":8,"align":"horizontal","face":"tahoma"},"smooth":{"forceDirection":"vertical","roundness":0.7},"width":3}}
+config.vis: {"physics":{"forceAtlas2Based":{"springConstant":0.09}},"layout":{"hierarchical":{"levelSeparation":215}},"nodes":{"physics":false,"font":{"size":20}},"edges":{"font":{"strokeWidth":2,"align":"horizontal","face":"verdana","strokeColor":"rgba(255,255,255,1)","background":"rgba(255,255,255,1)","size":10},"smooth":{"forceDirection":"horizontal","roundness":0.7},"width":2}}
 created: 20150331114808577
 isview: true
 modified: 20241108120917619

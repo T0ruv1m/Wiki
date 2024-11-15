@@ -1,4 +1,4 @@
 created: 20241108000713521
-modified: 20241109025009033
-style: {"font":{"strokeWidth":6},"width":4}
+modified: 20241114220143939
+style: {"font":{"strokeWidth":3,"size":12},"width":3,"arrows":{"to":{"scaleFactor":0.9}},"smooth":{"roundness":0.45,"forceDirection":"vertical"},"shadow":{"size":1},"color":{"opacity":0.9}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/deve conter
