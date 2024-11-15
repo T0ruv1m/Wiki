@@ -1,0 +1,11 @@
+auto-trigger-input: 1
+auto-trigger-textarea: 1
+caption: autofill
+created: 20241026221206596
+display-filter: [<currentTiddler>]
+filter: [all[tiddlers]!is[system]!is[draft]search:title<query>]
+modified: 20241026221217984
+tags: $:/tags/EC/AutoComplete/Trigger
+template: [[$option$]]$caret$
+title: $:/EvidentlyCube/Trigger/1
+trigger: [[

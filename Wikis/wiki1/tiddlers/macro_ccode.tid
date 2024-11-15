@@ -1,0 +1,18 @@
+created: 20241023214922204
+modified: 20241024160806895
+tags: $:/tags/Macro
+title: macro/ccode
+tmap.id: 779e9d8d-c65c-4e21-9822-1519de9d5abb
+
+\define ccode(code:"" description:"" language:"")
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">$description$</div>
+  <div style="text-align: right;">
+    <<copy-to-clipboard """$code$""">>
+  </div>
+</div>
+<$codeblock code="$code$" language="$language$" />
+
+\end
+

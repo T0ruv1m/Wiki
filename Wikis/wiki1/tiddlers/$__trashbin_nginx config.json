@@ -1,0 +1,8 @@
+{
+    "created": "20241023224448815",
+    "modified": "20241023224448815",
+    "tags": "",
+    "text": "<<ccode\"\" \"server {\n    listen 80;\n    server_name yourdomain.com;\n\n    location / {\n        proxy_pass http://localhost:8080;  # Bob server running on 8080\n        auth_basic \"Restricted Content\";\n        auth_basic_user_file /etc/nginx/.htpasswd;\n    }\n}\n\" \"ngnix config para wiki\">>",
+    "title": "nginx config",
+    "tmap.id": "0aa02967-2160-4667-80dd-54c736be9cf9"
+}

@@ -1,0 +1,36 @@
+created: 20241024230720986
+modified: 20241114223314858
+tags: TableOfContents
+title: Padrões Template
+tmap.id: e80cb48a-fcc1-43fa-a986-c6bdb56eeb90
+
+<<// img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

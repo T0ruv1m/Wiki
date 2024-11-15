@@ -1,0 +1,44 @@
+created: 20241024174711620
+img_intro: https://i.pinimg.com/564x/e0/04/7a/e0047af841a4fa7d63859f02a95bd5cb.jpg
+modified: 20241112010356790
+tags: .padrão
+title: Cobertura Envolvente
+tmap.edges: {"88415a83-2665-4d35-810c-db966638653f":{"to":"c29c1da4-5ec5-4f45-a94b-5ca8a399723a","type":"utiliza"}}
+tmap.id: 8d91ca5e-4f1d-4793-bca3-87cd9009957a
+
+<<img_intro>>
+
+Esse padrão dá o caráter das partes com inclinação acentuada ou abobadadas; o próximo dá o caráter das partes que devem ser planas.
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+A cobertura desempenha um papel primordial em nossas vidas. As edificações mais primitivas não passam de uma cobertura. Se a cobertura ficar oculta, sua presença não será sentida em torno da edificação e as pessoas sentirão a falta da sensação de proteção.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+ Dê caimento a cobertura ou transforme-a em uma abóbada, torne toda sua superfície visível e abaixe bastante os beirais, para que fiquem a apenas 1,80 metro ou 2 metros em certos locais, como junto á entrada, onde as pessoas costumam parar. Deixe o pavimento de cobertura de cada volume imediatamente sob a cobertura, de mode que a cobertura não apenas o cubra, mas na verdade o circunde totalmente.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Harmonia Interior Exterior">>
+
+---
+
+<<details label:"outras formas" src:"{{_imgs_cobertura}}" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+
+Referências:
+<div class="footnote">
+1.<<refbib" ">>

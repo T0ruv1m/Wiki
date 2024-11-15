@@ -1,0 +1,7 @@
+[
+    {
+        "filter": "[field:tmap.id[37003e78-44fb-4612-b55e-a11ffb4bcb7c]] [field:tmap.id[d0f0c03a-bb9b-42c8-abcb-e68ec37759a6]] [field:tmap.id[faea8f83-bd98-46f4-b10c-4b4c74333f9d]] [field:tmap.id[bd1f5041-e0eb-45d9-9073-c952066fb234]] [field:tmap.id[c668173e-5d40-43bc-b687-89ac14a6baed]] [field:tmap.id[7e43388a-dbba-4fa7-98ed-7caec44bdf56]] [field:tmap.id[c6497822-7b24-4e69-869b-4cfa58584cae]] [field:tmap.id[ba4df6b0-06b6-427f-8542-2be66f01fba1]] [field:tmap.id[dfb790f1-3df0-4491-a137-0795c3cd9c32]] [field:tmap.id[379b870a-8ece-41d0-9f10-fc5ed05827d9]]",
+        "text": "",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Árvore/filter/nodes"
+    }
+]

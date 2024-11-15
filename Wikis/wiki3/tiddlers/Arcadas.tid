@@ -1,0 +1,40 @@
+created: 20241023111928277
+img_intro: https://live.staticflickr.com/6059/6246629905_892b51197b_c.jpg
+modified: 20241114205251312
+tags: .padrão arquetipico
+title: Arcadas
+tmap.edges: {"9c9c2c71-50c5-4d43-8074-b41119aa3db8":{"to":"8d91ca5e-4f1d-4793-bca3-87cd9009957a","type":"intensifica"}}
+tmap.id: f555db49-4e3b-4769-a68b-d546bd1338ce
+type: text/vnd.tiddlywiki
+
+<<img_intro>>
+
+---
+
+<problema>
+
+As arcadas - passeios cobertos contíguos às edificações, que são espaços de transição por seu caráter ambíguo, em parte interno e em parte externo - desempenham um papel vital na maneira como as pessoas interagem com as edificações.
+
+</problema>
+
+<<diamantes>>
+
+Portanto:
+
+<solucao>
+
+Sempre que os passeios correrem ao longo das edificações, construa arcadas e use-as, acima de tudo, para conectar as edificações entre si de modo que uma pessoa possa caminhar de um lugar a outro sob a proteção das arcadas.
+
+</solucao>
+
+<<diamantes>>
+
+---
+
+<<mapa "Live View">>
+
+Referência:
+<footer>
+1.<<refbib "581">>
+<br>
+2.ALCAIDE. <strong>Arcade. Castro-Urdiales, Cantabria. Soportales</strong>. 2011. Disponível em: <a href="https://www.flickr.com/photos/alcaide/6246629905/in/gallery-62914653@N04-72157628470890511/">https://www.flickr.com/photos/alcaide/6246629905/in/gallery-62914653@N04-72157628470890511/</a>. Acesso em: 23 out. 2024.

@@ -1,0 +1,24 @@
+created: 20241101020054751
+modified: 20241109000553443
+tags: padroes
+title: Padrões São Ferramentas
+tmap.id: df9d24da-5af3-4de6-abec-59b6e659c141
+
+Utilizemos então o poder da abstração para enxergá-los como ferramentas e entender suas limitações.
+
+---
+
+''Padrões são como Ferramentas, e as ferramentas são muito úteis para resolver problemas específicos. Entretanto, tentar usar um alicate como martelo e uma chave de fenda como furadeira são formas bem ineficazes de colocar um parafuso na parede.''
+
+Do mesmo modo, os padrões são extremamente poderosos, entretanto eles perdem o sentido se tornando imediatamente inúteis quando aplicados fora do lugar, cultura e clima que os forjou inicialmente.
+
+
+Usando a analogia isso se torna óbvio, porém, ao resolver problemas de ordem intelectual não é raro nos ver cometendo erros sistemáticos. Errar é humano, porém um erro persistente sugere estarmos utilizando a ferramenta mental errada. Aqui enfatizamos a possibilidade de um [[Erro de Enquadramento]] na escolha da abstração.
+
+Portanto:
+
+>''Esteja atento a quando e onde utilizar os padrões. Aplique-os somente quando as condições pedirem, verificando a todo momento se não há como reformular o problema de um jeito mais simples.''
+
+---
+
+É possível que, para resolver um problema em tempo real, seja necessário já termos internalizado alguns padrões. ver [[Uso dos Padrões requer Internalização]].

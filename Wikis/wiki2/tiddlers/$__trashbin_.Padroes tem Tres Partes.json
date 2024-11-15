@@ -1,0 +1,9 @@
+{
+    "created": "20241028043534108",
+    "title": ".Padrões tem Três Partes",
+    "caption": "Padrões tem Três Partes",
+    "modified": "20241114170229471",
+    "tags": "padroes",
+    "text": "Todo padrão segue o mesmo formato.\nContexto - Problema - Solução.\nTemos uma situação onde esse problema ocorre, uma descrição breve do conflito em questão e por fim uma configuração que resolve esse conflito.\n\n!!! Exemplos: \n\n* [[Entroncamento em T|http://189.126.106.101:8080/wiki3#Entroncamento%20em%20%22T%22]] resolve conflitos de forças no sistema viário.\n\n* [[Transição da Entrada|http://189.126.106.101:8080/wiki3#Transi%C3%A7%C3%A3o%20da%20Entrada]] resolve conflitos entre forças psicológicas internas.¹\n\n* [[Jardim crescendo Selvagem|http://189.126.106.101:8080/wiki3#Jardim%20Crescendo%20Selvagem]] resolve conflitos entre as forças da natureza, o processo de crescimento natural das plantas e ações naturais das pessoas em um jardim.¹\n\n<div class=\"footnote\">\n1.[[The Timeless Way of Building]] p.248",
+    "tmap.id": "0f7b527e-0f67-468e-a408-726d2a8b0a74"
+}

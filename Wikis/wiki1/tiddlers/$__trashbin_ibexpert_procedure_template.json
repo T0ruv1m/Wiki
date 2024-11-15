@@ -1,0 +1,8 @@
+{
+    "created": "20241106180043076",
+    "text": "<<ccode \"begin\n\n  /* INSERT */\n  if(:modo = 'I') then\n  begin\n    id_s = gen_id(gen_INSERTVALUE, 1);\n    insert into\n        TABLENAME (\n        field_1,\n        field_2\n        ) values (\n        field_1_e,\n        field_2_e\n        );\n  end \n\n  /* UPDATE */\n  if(:modo = 'U') then\n  begin\n    update\n        TABLENAME set\n             field_1 = :field_1_e,\n\t\t\t\t\t\t field_2 = :field_2_e;\n\n  end \n\n  /* DELETE */\n  if(:modo = 'D') then\n  begin\n    delete from TABLENAME where id = :id_e;\n  end\n\n  suspend;\nend\" \"criar procedimento\" \"pascal\">>",
+    "modified": "20241106182326695",
+    "tags": "",
+    "title": "ibexpert/procedure_template",
+    "tmap.id": "2574ce23-f388-4a51-9e61-3fc56b40afad"
+}

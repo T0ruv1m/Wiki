@@ -1,0 +1,37 @@
+created: 20241025131717722
+img_intro: https://i.postimg.cc/jdXg2VLc/garden-roof.jpg
+modified: 20241109193234992
+tags: .padrão
+title: Terraço Jardim
+tmap.edges: {"0675bda0-8ca8-497e-9ad0-ba4627121447":{"to":"dd2357c1-ea9b-4ff4-ab2b-3e5739f98a8a","type":"pode aparecer como"}}
+tmap.id: 2329d13f-6aad-4d2e-8a2b-47bd76935c71
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Uma grande parte da superfície da terra, em uma cidade, consiste em telhados. Junte isso ao fato de que a área total de uma cidade que pode ser exposta ao sol é finita, e você perceberá que é natural, e até mesmo essencial, fazer telhados que aproveitem o sol e o ar.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Tornar partes de quase todos os sistemas de telhado utilizáveis como jardins de telhado. Faça com que essas partes sejam planas, talvez com terraços para plantio, com lugares para sentar e dormir, lugares privados. Posicione os jardins no telhado em vários andares e sempre possibilite a saída direta para o terraço jardim a partir de alguma parte habitada do edifício.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib"576">>

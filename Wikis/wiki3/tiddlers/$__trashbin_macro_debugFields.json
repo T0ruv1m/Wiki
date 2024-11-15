@@ -1,0 +1,8 @@
+{
+    "created": "20241112005551791",
+    "modified": "20241112005605709",
+    "tags": "$:/tags/Macro",
+    "text": "\\define debugFields()\n<p>img1 field value: {{!!img1}}</p>\n<p>img2 field value: {{!!img2}}</p>\n<p>img3 field value: {{!!img3}}</p>\n\\end\n",
+    "title": "macro/debugFields",
+    "tmap.id": "4699758b-f35b-45c1-9171-bef8134fbcd4"
+}

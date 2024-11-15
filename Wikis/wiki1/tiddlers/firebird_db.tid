@@ -1,0 +1,9 @@
+created: 20241106111139517
+modified: 20241108203213573
+tags: database
+title: firebird_db
+tmap.id: 979c06f2-11d8-49cb-817a-8455d7bc3a68
+
+<<ccode "isql -user SYSDBA -password masterkey '192.168.0.148/3050:C:\database\BD.FDB'" "vá para o diretorio do firebird" "bash">>
+
+

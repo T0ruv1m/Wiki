@@ -1,0 +1,22 @@
+created: 20241022213512713
+modified: 20241107212102801
+title: Wiki
+tmap.id: 1598e4af-d311-44cf-b121-2ffeef12e61a
+type: text/vnd.tiddlywiki
+
+
+Wikis permitem que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]]. "QUOTE".
+
+Você certamente conhece o formato por conta do seu maior exponente, a Wikipedia. No entanto, embora a Wikipedia possa ser vista como uma wiki, nem todas as wikis seguem o mesmo formato.
+
+A Wikipedia continua a contribuir com o propósito original dessas plataformas, que é promover a colaboração e o compartilhamento de conhecimento. No entanto, seu crescimento exponencial a transformou em uma instituição global, revisada de forma incessante mundialmente. Esse caráter conflituoso, centralizado e de alta exposição afasta a apropriação como um espaço de livre colaboração para comunidades menores.
+
+Ao estudar o livro da linguagem de padrões, chegamos à conclusão de que o formato wiki - sendo derivado da lógica do próprio livro - é na verdade um formato mais adequado para armazenar e compartilhar padrões que sua mídia original.
+
+Observe o quão antiquado e volumoso o livro se apresenta hoje. Além disso, ele não favorece a colaboração e disseminação, por mais que essa fosse a intenção do autor.  
+Ver: [[Como Utilizar a Linguagem]]
+
+Na verdade, essa foi uma ideia que pegamos emprestada de outros sites hospedados com o mesmo objetivo: compartilhar ideias e colaborar com o trabalho original.  <br>
+Ver: [[NPL]]
+
+[[MetaWiki]] | [[A Estrutura da Wiki]]

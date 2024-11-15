@@ -1,0 +1,8 @@
+created: 20241106145730265
+modified: 20241106151049657
+tags: $:/tags/Macro
+title: $:/macros/descricao
+
+\define descricao(descricao)
+<<details label:"Descrição" src:"{{!!descricao}}" srcClass:"alert alert-info" labelClass:"alert alert-secondary">>
+\end

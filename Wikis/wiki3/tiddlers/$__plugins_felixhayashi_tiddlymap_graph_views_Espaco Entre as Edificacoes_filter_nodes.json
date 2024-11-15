@@ -1,0 +1,7 @@
+[
+    {
+        "filter": "[field:tmap.id[f555db49-4e3b-4769-a68b-d546bd1338ce]] [tag[.padrao]] [field:tmap.id[85c0a344-9be4-4441-9f43-b56eea9cc8ab]] -[prefix[_]]",
+        "text": "",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Espaço Entre as Edificações/filter/nodes"
+    }
+]
