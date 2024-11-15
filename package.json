@@ -4,7 +4,7 @@
   "description": "building a wiki",
   "main": "index.js",
   "scripts": {
-    "test": "node /usr/local/lib/node_modules/tiddlywiki/tiddlywiki.js . --build index"
+    "test": "node /usr/local/lib/node_modules/tiddlywiki/tiddlywiki.js ./Wikis/wiki3 --build index"
   },
   "repository": {
     "type": "git",
