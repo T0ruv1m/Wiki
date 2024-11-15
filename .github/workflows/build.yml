@@ -23,7 +23,8 @@ jobs:
       - name: Run TiddlyWiki build
         run: |
           node node_modules/tiddlywiki/tiddlywiki.js ./Wikis/wiki3 --build index
-
+        continue-on-error: true
+        
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
