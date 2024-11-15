@@ -26,5 +26,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ./Wikis/wiki3/output
+          publish_dir: ./Wikis/wiki3/output/
           keep_files: true   
