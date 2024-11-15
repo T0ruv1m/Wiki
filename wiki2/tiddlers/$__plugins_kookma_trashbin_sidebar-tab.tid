@@ -1,9 +1,0 @@
-caption: Trashbin
-created: 20241109022402203
-list-after: 
-modified: 20241109022408566
-tags: $:/tags/SideBar
-title: $:/plugins/kookma/trashbin/sidebar-tab
-type: text/vnd.tiddlywiki
-
-{{$:/plugins/kookma/trashbin/ui/sidebar}}

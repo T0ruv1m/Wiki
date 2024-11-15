@@ -1,8 +1,0 @@
-created: 20241029012713290
-modified: 20241029013533336
-title: Recursividade
-tmap.id: 0ae76305-6368-4112-ab7e-283887933658
-
-Recursividade ocorre quando uma função recorre a si mesma no curso da operação.
-
-<<alert primary "{{Recursividade1}}" width:60%>>

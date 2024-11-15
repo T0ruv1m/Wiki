@@ -1,7 +1,0 @@
-[
-    {
-        "filter": "[field:tmap.id[31104a00-cc49-4f63-bbb6-8b0465332d63]] [field:tmap.id[ca1596d6-f046-4c91-9567-d9b4cbf01155]]    ",
-        "text": "",
-        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Arranjo Geral/filter/nodes"
-    }
-]

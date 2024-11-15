@@ -1,7 +1,0 @@
-created: 20241027001827580
-modified: 20241112131346812
-tags: principle/gudpractices
-title: IfAintBrokeDontFixIt!
-tmap.id: 79c8efc4-2821-4851-92de-8e0fb6ac8b42
-
-But if it breaks, them take the oportunity to [[Refactor]] it.

@@ -1,9 +1,0 @@
-created: 20241106203027423
-modified: 20241107234918595
-tags: $:/tags/Macro
-title: macro/mapa
-tmap.id: 0871c57d-18c6-41d9-b7fe-adcdf5e2a2c4
-
-\define mapa(mapa:"")
-<<details label:"Mapa" src:'<$tiddlymap view="$mapa$" height="680px"/>' srcClass:"alert alert-warning" labelClass:"alert alert-secondary">>
-\end

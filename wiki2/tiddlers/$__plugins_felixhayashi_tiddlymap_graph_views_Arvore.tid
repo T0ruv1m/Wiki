@@ -1,4 +1,0 @@
-config.vis: {"nodes":{"shape":"ellipse","font":{"size":23}},"layout":{"hierarchical":{"levelSeparation":140}},"edges":{"font":{"strokeWidth":4}}}
-id: 1888837c-0e98-439b-a54b-9af7745e892a
-isview: true
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/Árvore
