@@ -21,6 +21,9 @@ jobs:
         run: |
             npm run build
 
+      - name: Clone Submodules
+        run: git submodule update --init --recursive
+        
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
