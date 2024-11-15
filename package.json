@@ -20,6 +20,15 @@
   },
   "homepage": "https://github.com/T0ruv1m/Wiki#readme",
   "dependencies": {
-    "tiddlywiki": "^5.3.5"
+    "tiddlywiki": "^5.3.5",
+    "tiddlywiki/filesystem": "latest", 
+    "tiddlywiki/tiddlyweb": "latest", 
+    "tiddlywiki/menubar": "latest", 
+    "felixhayashi/tiddlymap": "latest", 
+    "felixhayashi/hotzone": "latest", 
+    "felixhayashi/topstoryview": "latest", 
+    "flibbles/vis-network": "latest", 
+    "flibbles/relink": "latest", 
+    "flibbles/relink-markdown": "latest"
   }
 }
