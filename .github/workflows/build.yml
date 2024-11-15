@@ -1,35 +1,42 @@
-name: Build TiddlyWiki
+name: Wiki Actions
 
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main   # Trigger when code is pushed to the `main` branch
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write    # Allow pushing to repository contents
+      pages: write       # Allow deploying to GitHub Pages
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2-beta
-        with:
-          node-version: '16'
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      - name: Install Dependency
+      - name: Install dependencies
         run: npm install
-        
-      - name: Clone Submodules
-        run: git submodule update --init --recursive  
-        
-      - name: Build
-        run: |
-            npm run build
-        continue-on-error: true
 
-      - name: Deploy
+      - name: Run TiddlyWiki build
+        run: |
+          node node_modules/tiddlywiki/tiddlywiki.js ./Wikis/wiki3 --build index
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: ./Wikis/wiki3/output/
-          keep_files: true   
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token for authentication
+          publish_dir: ./Wikis/wiki3/output   # Specify the directory containing your `index.html`
+          publish_branch: gh-pages  # The branch to deploy to (usually `gh-pages`)
+
+      - name: Commit and push changes to gh-pages branch
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Deploy to GitHub Pages"
+          git push --force https://github.com/${{ github.repository }} gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
