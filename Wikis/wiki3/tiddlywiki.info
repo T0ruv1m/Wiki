@@ -4,7 +4,6 @@
         "tiddlywiki/filesystem",
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/menubar",
-        "felixhayashi/tiddlymap",
         "felixhayashi/hotzone",
         "felixhayashi/topstoryview",
         "flibbles/vis-network",
