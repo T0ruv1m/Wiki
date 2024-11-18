@@ -1,2 +1,2 @@
-filter: -[prefix[_]] -[[tw-body:link]] -[[tw-body:transclude]] -[[tw-list:tags]] -[[tw-list:list]]
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-body:transclude]] -[[tw-list:tags]] -[[tw-list:list]] -[prefix[branco2]]
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Árvore/filter/edges

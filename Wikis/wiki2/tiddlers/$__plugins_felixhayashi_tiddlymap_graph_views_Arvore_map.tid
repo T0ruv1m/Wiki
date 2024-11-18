@@ -2,7 +2,7 @@ title: $:/plugins/felixhayashi/tiddlymap/graph/views/Árvore/map
 
 {
  "37003e78-44fb-4612-b55e-a11ffb4bcb7c": {
-  "x": 21,
+  "x": -42,
   "y": -210
  },
  "d0f0c03a-bb9b-42c8-abcb-e68ec37759a6": {
@@ -40,5 +40,13 @@ title: $:/plugins/felixhayashi/tiddlymap/graph/views/Árvore/map
  "379b870a-8ece-41d0-9f10-fc5ed05827d9": {
   "x": 425,
   "y": 210
+ },
+ "dea2d481-55df-484d-878b-592bfdd229c5": {
+  "x": 177,
+  "y": -77
+ },
+ "d0fdc4f9-80e2-45d0-82c5-17454ed49483": {
+  "x": 85,
+  "y": 70
  }
 }

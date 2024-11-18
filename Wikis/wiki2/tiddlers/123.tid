@@ -1,5 +1,5 @@
-created: 20241114142829492
-modified: 20241114142829492
+created: 20241117203345498
+modified: 20241117203345498
 title: 123
-tmap.edges: {"c0a4ffc1-a95a-4b14-98af-42cef30855cc":{"to":"c668173e-5d40-43bc-b687-89ac14a6baed","type":" "},"50b8a8bc-7174-45f8-9048-3c8f581f755b":{"to":"c6497822-7b24-4e69-869b-4cfa58584cae","type":" "}}
-tmap.id: d0f0c03a-bb9b-42c8-abcb-e68ec37759a6
+tmap.edges: {"2f5aa908-d07a-444d-8867-7f4e19d496da":{"to":"faea8f83-bd98-46f4-b10c-4b4c74333f9d","type":"contem"},"0924cd2a-8860-4391-853d-f5ced91a2176":{"to":"bd1f5041-e0eb-45d9-9073-c952066fb234","type":"contem"},"9d03e266-f4b3-4501-bf98-36e9e7e707a4":{"to":"c668173e-5d40-43bc-b687-89ac14a6baed","type":"contem"},"8ec1c736-ba49-4077-89f2-c79d75b12d54":{"to":"bd1f5041-e0eb-45d9-9073-c952066fb234","type":"branco2"},"add25a14-f464-40c1-84ab-b5831450b6f9":{"to":"faea8f83-bd98-46f4-b10c-4b4c74333f9d","type":"branco2"},"5103047b-0ca7-46e2-8304-ead41dd5fc85":{"to":"c668173e-5d40-43bc-b687-89ac14a6baed","type":"branco2"}}
+tmap.id: 0b617387-f0ee-4f35-9d4d-3ba9c9aa585a

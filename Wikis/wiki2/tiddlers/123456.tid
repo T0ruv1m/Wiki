@@ -1,5 +1,5 @@
 created: 20241114142822503
 modified: 20241114142822503
 title: 123456
-tmap.edges: {"cdc6c72f-b551-4b3d-b7c3-fced473b5b76":{"to":"d0f0c03a-bb9b-42c8-abcb-e68ec37759a6","type":" "},"ccb84b82-3a17-49af-8876-52c871aba8f8":{"to":"7e43388a-dbba-4fa7-98ed-7caec44bdf56","type":" "}}
+tmap.edges: {"7154a220-e533-4ad0-8f7e-2e5212600529":{"to":"c6497822-7b24-4e69-869b-4cfa58584cae","type":"contem"},"2e3bfe13-0d20-4da9-a200-e8402d8c47cc":{"to":"dea2d481-55df-484d-878b-592bfdd229c5","type":"contem"},"fd714eaf-d086-4072-98c1-b0282d395a56":{"to":"c5b04174-a4a3-4184-85bc-0522805eb775","type":"contem"},"5c47955d-76d0-48c0-8958-2d7270c46953":{"to":"dea2d481-55df-484d-878b-592bfdd229c5","type":"branco2"},"50c27683-262e-4e55-b1dc-1d645e5bfbb6":{"to":"c5b04174-a4a3-4184-85bc-0522805eb775","type":"branco2"}}
 tmap.id: 37003e78-44fb-4612-b55e-a11ffb4bcb7c

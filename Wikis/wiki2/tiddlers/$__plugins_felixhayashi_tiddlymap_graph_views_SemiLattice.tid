@@ -1,0 +1,7 @@
+config.raster: 
+config.vis: {"layout":{"hierarchical":{"sortMethod":"directed"}},"nodes":{"shape":"ellipse"},"edges":{"smooth":{"roundness":0.1,"enabled":false},"width":2}}
+created: 20241117210129155
+id: 2107dea3-efdf-4fc0-83e1-57d3a7b8a0df
+isview: true
+modified: 20241117210136363
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/SemiLattice
