@@ -1,5 +1,5 @@
 created: 20241030122036255
-modified: 20241120215820326
+modified: 20241121235213908
 title: Notes On The Synthesis Of Form
 tmap.id: dbd1c80f-4e4c-46b9-9618-fabcffc70706
 
@@ -8,17 +8,21 @@ Esse trabalho foi a primeira publicação de Alexander. Em seu prefácio, conté
 > 
 
 
-Esse livro foi sua tese de pós Doutorado, publicado enquanto era ainda muito novo mas já tentava resolver o enorme problema de planejar uma nova vila para uma comunidade na Ìndia. Apesar de ser bastante influente na época, e ser descrito como um livro excepcional de Design, o próprio autor deixa uma errata em sua edição de 30 anos onde pede desculpas pela forma como conduziu seu raciocínio e diz que sua última intenção era que alguém fizesse dessa investigação uma metodologia. 
+Esse livro foi sua tese de pós Doutorado, publicado enquanto era ainda muito novo mas já tentava resolver o enorme problema de planejar uma nova vila para uma comunidade na Ìndia. Apesar de ser bastante influente na época, e ser descrito como um livro excepcional de Design, o próprio autor deixa uma errata em sua edição de 10 anos onde pede desculpas pela forma como conduziu seu raciocínio e diz que sua última intenção era que alguém fizesse dessa investigação uma metodologia, e pede que desconsiderem toda a segunda metade do livro, visto que o maior valor dos livros está nos diagramas e não em todos aqueles cálculos matemáticos. Sendo assim iremos focar apenas na primeira metade e evitaremos construir qualquer sistema ou método usando os conceitos do livro.
 
-Alexander no fim não concorda com a sua própria forma de pensar quando dessa publicação, embora muito do que foi dito aqui permaneça de uma forma ou de outra em seus trabalhos seguintes.
+Acreditamos que Alexander no fim não concorda com a sua própria forma de pensar quando da publicação dessa tese, embora muito do que foi dito aqui tenha permanecido de uma forma ou de outra em seus trabalhos seguintes. 
 
-No livro Alexander desenvolve de forma pioneira e paralela a toda uma tradição emergente(campo da computação e sistemas), uma investigação  sobre o problema que é descrito por essa tradição  como o problema da "Coesão e Acoplamento". 
+No inicio do livro ele propõe que, ao lidar com qualquer problema de design, teremos mais sucesso em resolvê-lo se o organizarmos  em termos de "Forma" ( tudo aquilo que pode ser modificado pelo designer ) e "Contexto" (o que está fora do escopo de alterações possíveis).
 
-Ele propõe que, ao lidar com qualquer problema de design, se o organizarmos  em termos de "Forma" ( tudo aquilo que pode ser modificado pelo designer ) e "Contexto" (o que está fora do escopo de alterações possíveis) temos mais sucesso em resolvê-lo.
+>A frase popular "pensar fora da caixa" nos incentiva a reconhecer restrições que podem não ser aplicáveis e a ignorá-las. Mas essa frase não é totalmente precisa. Se a "caixa" é o limite das restrições e condições, então o truque é encontrar a caixa, que pode ser consideravelmente maior do que você pensa. - (Hunt; Thomas, 1999, p.42)
+
+Outro mérito do livro está em ter desenvolvido, de forma pioneira e paralela a toda uma tradição emergente(campo da engenharia de softwares), uma investigação  sobre o problema que é descrito nessa tradição  como o problema da "Coesão e Acoplamento".
 
 Depois disso, podemos então dividir o problema em suas varíaveis e agrupá-las em pequenos sub-sistemas, Esses grupos contém todas aquelas que se influenciam de forma mais direta, e eles devem ser resolvídos de uma vez só. Uma investigação direta desse ponto do livro é elaborado na nota: 
 
 [[Sistema Altamente Acoplado]].
+
+
 
 Acreditamos porém que o aspecto mais interessante do livro é a dicotomia que ele faz entre as formas de cultura. Aqui ele elabora uma distinção, um pouco grosseira porém didática, entre as Culturas "Concientes de Si" (Self-Concious) e "Inconcientes de Si" (Unself-Concious). 
 
@@ -37,3 +41,6 @@ Para Alexander, termos como Acustica, Ventilação, Ensolação, que são ensina
 Mas, o que Alexander propõe no fim é que, uma vez perdida a inocência, não existe caminho de volta. Devemos portanto deixar a "forma direta" de lado e aprender a trabalhar com abstrações, porém estas devem ser corrigidas, devem resumir bem um problema real e não um problema hipotético. A tarefa de diagramação deve acontecer da forma como Platão idealizava, dividindo a idéia em componentes menores, tomando sempre o cuidado de cortar nas juntas, para que seja possível desacoplar com sucesso o Nexus de problemas, e então resolvê-los um a um. 
 
 Testemunhamos aqui o nascer de um germe. Toda a ideia dos diagramas e das hierarquias que aqui aparecem de forma prematura, seriam então revisadas na época da publicação de [[A Cidade Não É Uma Árvore]] e culminaria, décadas depois, na sua teoria da Linguagem de Padrões.
+
+<footer>
+HUNT, Andrew; THOMAS, David. The Pragmatic Programmer: from journeyman to master. 1. ed. Boston: Addison-Wesley, 1999
