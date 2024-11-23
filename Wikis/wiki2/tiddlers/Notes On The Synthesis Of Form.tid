@@ -1,46 +1,67 @@
 created: 20241030122036255
-modified: 20241121235213908
+modified: 20241123002053250
 title: Notes On The Synthesis Of Form
 tmap.id: dbd1c80f-4e4c-46b9-9618-fabcffc70706
 
-Esse trabalho foi a primeira publicação de Alexander. Em seu prefácio, contém uma citação a Platão:
+Esse trabalho foi a primeira publicação de Alexander. Ele inicia o livro com uma citação a Platão:
 
 > 
 
 
-Esse livro foi sua tese de pós Doutorado, publicado enquanto era ainda muito novo mas já tentava resolver o enorme problema de planejar uma nova vila para uma comunidade na Ìndia. Apesar de ser bastante influente na época, e ser descrito como um livro excepcional de Design, o próprio autor deixa uma errata em sua edição de 10 anos onde pede desculpas pela forma como conduziu seu raciocínio e diz que sua última intenção era que alguém fizesse dessa investigação uma metodologia, e pede que desconsiderem toda a segunda metade do livro, visto que o maior valor dos livros está nos diagramas e não em todos aqueles cálculos matemáticos. Sendo assim iremos focar apenas na primeira metade e evitaremos construir qualquer sistema ou método usando os conceitos do livro.
+Esta foi uma publicação derivada de sua tese de pós Doutorado, publicado enquanto era ainda muito novo. Mesmo assim já lidava com um problema em larga escala, planejar uma nova vila para uma comunidade de Indianos. Apesar de ser bastante influente na época, e ser descrito como um livro excepcional de Design, o próprio autor deixa uma errata no prefácio da edição de 10 anos onde pede desculpas pela forma como conduziu seu raciocínio e diz que sua última intenção era que alguém fizesse de sua investigação uma metodologia a ser seguida cegamente. Segue dizendo que o que há de maior valor nesta publicação são os diagramas e não todos aqueles cálculos matemáticos, que podem até mesmo ser desconsiderados. Sendo assim, iremos fazer sua vontade e evitaremos, neste resumo, construir qualquer elaboração sistemática utilizando os conceitos do livro, apenas descrevendo alguns pontos interessantes.
 
-Acreditamos que Alexander no fim não concorda com a sua própria forma de pensar quando da publicação dessa tese, embora muito do que foi dito aqui tenha permanecido de uma forma ou de outra em seus trabalhos seguintes. 
+Apesar de elaborar um ponto de vista muito interessante, acreditamos que Alexander já havia,quando da publicação da segunda edição, abandonado essa forma de pensar. Ainda assim, grande parte do foi dito neste primeiro livro pode ser usado como uma espécie de rastro do pensamento, que nos irá permitir entender sua visão mais tardia e maturada.
+ 
+!!! Forma e Contexto:
+Um dos primeiros exercícios conduzidos no livro é a proposição de que, ao lidar com qualquer problema de design, teremos mais sucesso em resolvê-lo se o organizarmos  em termos de ''Forma'' - tudo aquilo que pode ser modificado pelo designer - e ''Contexto'' - o que está fora do escopo de influência, as forças externas que atuam sobre a Forma.
 
-No inicio do livro ele propõe que, ao lidar com qualquer problema de design, teremos mais sucesso em resolvê-lo se o organizarmos  em termos de "Forma" ( tudo aquilo que pode ser modificado pelo designer ) e "Contexto" (o que está fora do escopo de alterações possíveis).
+O exemplo concreto desse pensamento é seu clássico exemplo da Chaleira. ...
 
 >A frase popular "pensar fora da caixa" nos incentiva a reconhecer restrições que podem não ser aplicáveis e a ignorá-las. Mas essa frase não é totalmente precisa. Se a "caixa" é o limite das restrições e condições, então o truque é encontrar a caixa, que pode ser consideravelmente maior do que você pensa. - (Hunt; Thomas, 1999, p.42)
 
-Outro mérito do livro está em ter desenvolvido, de forma pioneira e paralela a toda uma tradição emergente(campo da engenharia de softwares), uma investigação  sobre o problema que é descrito nessa tradição  como o problema da "Coesão e Acoplamento".
+!!! 
 
-Depois disso, podemos então dividir o problema em suas varíaveis e agrupá-las em pequenos sub-sistemas, Esses grupos contém todas aquelas que se influenciam de forma mais direta, e eles devem ser resolvídos de uma vez só. Uma investigação direta desse ponto do livro é elaborado na nota: 
+Outro mérito do livro está em ter desenvolvido, de forma pioneira e completamente paralela a toda uma tradição emergente(campo da engenharia de softwares), uma investigação  sobre o que é chamado nesse campo de "O problema da Coesão e Acoplamento".
+
+Depois de identificar a forma do problema, poderíamos então dividir o objeto em suas varíaveis. Essas podem aparecer de forma bastante específica e direta como: 
+Então podemos agrupá-las em pequenos sub-sistemas. Esses grupos contém todas aquelas variáveis que se relacionam e influenciam-se de forma mais direta. É necessário que esses subsistemas sejam isolados e resolvidos de uma vez só. Uma investigação direta do porquê disso é elaborado na nota: 
 
 [[Sistema Altamente Acoplado]].
 
-
-
-Acreditamos porém que o aspecto mais interessante do livro é a dicotomia que ele faz entre as formas de cultura. Aqui ele elabora uma distinção, um pouco grosseira porém didática, entre as Culturas "Concientes de Si" (Self-Concious) e "Inconcientes de Si" (Unself-Concious). 
-
-Ele diz que o indivíduo, quando parte de uma cultura inconciente de si, age alterando a forma das sua própria habitação de maneira muito mais direta, muitas vezes sem ser mediado por qualquer conceito. Nessas alterações (que se dão de forma constante) ele não recebe qualquer mérito por suas capacidades de resolução de problemas, pelo contrário, é provavél que ele nem pense muito no que está fazendo. Ao se deparar com um [[Desajuste]] na sua casa, ele apenas age de forma inteiramente depende à uma tradição que lhe incute uma reação correta. Esse saber muitas das vezes é passado adiante, numa relação mestre-discípulo, sem qualquer possibilidade de crítica metodológica.
-
-Essa descrição, feita dessa maneira, só faz sentido e só pode ser pensada porque o escritor e seus interlocutores todos cituam-se dentro do lado oposto, uma Cultura Consciente de Si. Nela, tanto os métodos quanto os indivíduos ganharam uma auto-consciência e podem ser discutidos e criticados. Numa cultura consciente-de-si esses saberes construtivos que antes eram distribuidos na população como um todo, agora se vêm concentrados em uma figura especializada, e passados adiante através de [[Conceitos Arbitrarios]], ensinados em pequenas comunidades acadêmicas.
-
-O argumento que ele formula é que essa mediação conceitual criada pela tradição acadêmica cria um abismo que faz com que o indivíduo, agora um "planejador" se torne incapaz de resolver até mesmo o mais simples dos problemas. Isso porquê antes as soluções eram como que "baixadas" de uma sabedoria coletiva que surgia de um longo processo adaptativo e era o encargo de toda uma cultura e uma forma de fazer. 
-
-Agora, por outro lado, ela cai completamente sobre os ombros de uma única pessoa, que deve, tendo em mão apenas alguns conceitos aprendidos em sala de aula, lidar com uma míriade de problemas de difícil categorização e que escapam rapidamente de sua competência. Além de tudo, os profissionais tem agora a responsabilidade de lidar com estruturas de uma ordem de magnitude e complexidade muito maior que um habitante de um iglu, por exemplo. Um planejador em uma cultura como a nossa lida com a elaboração de estruturas gigantescas chamadas Shoppings, Mercados, Condomínios, Aeroportos, etc.
-
-Juntamos a escala dos problemas e a incopetência inerente aos nossos métodos, e temos a receita perfeita para o fracasso. O indivíduo dentro dessa cultura se vê sem alternativa a não ser simplificar o problema usando modelos mentais e com isso tornar-se escravo de metodologias que, apesar de não entregar nunca resultados satisfatórios, ao menos conseguem satisfazer o a legislação e suas próprias concepções modestas de sucesso.
+Esses sistemas possuem escalas diferentes, alguns são mais amplos enquanto outros são mais localizados, por conta disso eles podem ser organizados em uma estrutura hierárquica, onde subsistemas contém e estão contidos em outros.
+Como estamos falando do mundo físico, Alexander propõe que sempre será possível representar a solução desses subsistemas em forma diagramática. Fazer esses diagramas não é simples, no entanto. Não entraremos nos pormenores de como ele os produziu, mas podemos ver o resultado final nas imagens a seguir: 
  
-Para Alexander, termos como Acustica, Ventilação, Ensolação, que são ensinadas são fruto de um profundo engano sobre a natureza do problemas. Somos levados pelo [[Viés do Essencialismo]] a acreditar que todos os problemas de ordem arquitetônica devem conformar a essas categorias quando na verdade cada problema indivídual iria requerir sua própria família de conceitos que melhor resume os sub-problemas em jogo.
+>>> IMAGEM.
 
-Mas, o que Alexander propõe no fim é que, uma vez perdida a inocência, não existe caminho de volta. Devemos portanto deixar a "forma direta" de lado e aprender a trabalhar com abstrações, porém estas devem ser corrigidas, devem resumir bem um problema real e não um problema hipotético. A tarefa de diagramação deve acontecer da forma como Platão idealizava, dividindo a idéia em componentes menores, tomando sempre o cuidado de cortar nas juntas, para que seja possível desacoplar com sucesso o Nexus de problemas, e então resolvê-los um a um. 
+!!! 2 formas de Cultura
 
-Testemunhamos aqui o nascer de um germe. Toda a ideia dos diagramas e das hierarquias que aqui aparecem de forma prematura, seriam então revisadas na época da publicação de [[A Cidade Não É Uma Árvore]] e culminaria, décadas depois, na sua teoria da Linguagem de Padrões.
+Acreditamos porém que o aspecto mais interessante do livro é a dicotomia que ele faz entre as formas de cultura. Aqui ele elabora uma distinção, um pouco grosseira porém esclarecedora, entre as Culturas "Concientes de Si" (//Self-Concious Cultures//) e "Inconcientes de Si" (//Unself-Concious Cultures//). Iremos descrever ambos os casos:
+
+O indivíduo, quando parte de uma cultura inconciente de si, age alterando a forma da sua própria habitação de maneira  direta, muitas vezes sem ser mediado por qualquer conceito ou regra que possa ser descrita em palavras. Essas alterações se dão de forma constante, toda vez que um [[Desajuste]] é detectado na sua casa. Por trabalhar neles não recebem qualquer mérito, já não é atribuido ao indivíduo qualquer prêmiação por suas capacidades de resolução de problemas. Na verdade, é bem provavél que nem mesmo ele pense muito no que está fazendo. Isso ocorre porquê nessa cultura as soluções são como que "baixadas" de uma sabedoria coletiva que emerge dentro de um longo processo adaptativo. Nele os problemas construtivos são encargo de toda uma comunidade, de uma forma de fazer, e um ser humano atua como uma ferramenta, um canal de ações dessa cultura. 
+
+Tomamos por exemplo um eskimo em seu Iglu. Ao se deparar com um [[Desajuste]] na sua moradia, digamos, uma mudança súbta de temperatura, ele reage apenas fazendo ou tapando um buraco da parede e assim corrige esse defeito imediatamente. Nessa parte é elaborada a necessidade de [[Feedback]] constante para manter esse sistema em equilíbrio.
+
+Percebe-se que não existe nenhuma demanda por soluções criativas, cada pessoa age de forma inteiramente depende à sua tradição que lhe incute uma reação correta a cada situação. Esse saber atravessa gerações sendo na maior parte das vezes passado adiante numa relação mestre-discípulo. Por não haver críticas metológicas, essas culturas acabam acumulando formas bem específicas e parecidas em suas moradias. Podemos interpretar essa resistência à mudanças como uma viscosidade que impede quaisquer alterações grosseiras na forma das construções. As alterações, no entanto, inevitavelmente acontecem, mas acontecem sempre de forma isolada e pontual, surgem como inovações feitas por um único indíviduo e espalham somente se se provarem úteis. Também podem surgir alterações na forma geral das edificações em resposta a uma nova tecnologia assimilada ou uma necessidade que acaba de surgir. Podemos notar nessa interpretação um esquema muito parecido com a teoria da evolução das espécies, deixando espaço para propor algo como um [[Darwinismo Construtivo]]. 
+
+!!! Culturas Conscientes-de-si.
+
+Acontence que essa descrição, feita dessa maneira, só faz sentido e só pode ser pensada nesses termos porque tanto o escritor e seus interlocutores situam-se dentro de uma outra forma de cultura, aquela Consciente de Si. Estando nelas, tanto os métodos quanto os indivíduos desenvolveram algo como auto-consciência e por isso podem ser discutidos e criticados. Isso a princípio é bom pois favorece inovações constantes. Entretanto, numa cultura consciente-de-si, esse saber construtivo que antes era distribuido na população como um todo, agora se vê concentrado em um nicho. Um dos sinais mais claros dessa transição é a aparição de uma figura especializada (um profissional por assim dizer). Agora o conhecimento é passado adiante através de conceitos e abstrações que são ensinadas em pequenas comunidades acadêmicas.
+
+Quando a simples tarefa de corrigir desajustes sai do controle do habitante e as edificações só podem ser tocadas por indivíduos especializados, aquele processo dinâmico e esparso de correções imediatas agora tem o dever de ser feito de forma certeira, abrupta e regulamentada. Isso gera profundos problemas, a crítica encontra sua extensão nas notas [[Repetição sem Repetição]],[[Abordagem Tudo ou Nada]] e [[Commoditização da Construção]].
+
+Os impactos dessa nova lógica de produção vão além. Alexander argumenta que a mediação conceitual criada pela tradição acadêmica, além de amputar a produção orgânica e descentralizada do espaço, cria um abismo irremediável entre o saber e o fazer que em última instância torna o indivíduo, agora um "planejador", incapaz de resolver até mesmo o mais simples dos problemas. Esse problema é investigado com mais rigor em [[Conceitos Arbitrarios]] e [[Construção como um Fazer]].
+
+Esses conceitos arbitrários, para além de danificar as construções, também impõe sérios danos ao indivíduo. Isso ocorre porque, enquanto na outra cultura o ser humano atua apenas como a mídia que executa os procedimentos corretos na ordem e na hora correta, nesta os profissionais possuem uma reputação a defender e qualquer fracasso pode colocar tudo a perder. Além disso, como sua atuação está limitada a usar modelos teóricos profundamente ineficientes para lidar com problemas concretos, quando confrontados com a dura e cinzenta realidade, que se recusa com imenso vigor a conformar-se às suas ideias abstratas, acabam sendo deixados sozinhos, à própria sorte e com imensa ansiedade.
+
+Isso não é atoa, afinal o fardo do saber de toda uma civilização caiu sobre os ombros de uma única pessoa que deve, com apenas alguns conceitos e ferramentas aprendidas em sala de aula, lidar com uma míriade de problemas acumulados, todos de difícil categorização e que facilmente escapam de sua gama de competências. Além disso, os profissionais têm a responsabilidade de lidar com estruturas em uma ordem de magnitude e complexidade muito maior do que as enfrentadas por um habitante de um iglu, por exemplo. Um planejador em uma cultura como a nossa lida, embora colaborando em pequenos grupos, com a elaboração de estruturas gigantescas chamadas shoppings, mercados, condomínios, aeroportos, entre outros. Essa natureza dos problemas é trabalhada em [[Problemas Intratáveis]].
+
+Combinando a escala dos problemas e a incompetência inerente a esses métodos, temos a receita perfeita para o fracasso. O indivíduo dessa cultura, vítima de uma autonomia aterrorizante, vê-se sem alternativa a não ser simplificar o problema utilizando modelos, desenhos e métodos. Assim, torna-se escravo de metodologias que, apesar de apenas ocasionalmente e acidentalmente entregarem resultados satisfatórios, ao menos ajudam a aliviar a ansiedade e satisfazer demandas legislativas. Mesmo de frente a essa tragédia, com o passar do tempo essa lógica de produção se torna a norma e com isso todos se adaptam ao novo normal e à sua definição modesta de sucesso.
+
+---
+
+Mas, o que Alexander propõe no fim é que, uma vez perdida a inocência, não existe caminho de volta. Culturas que por algum motivo tornam-se concientes dos seus processos devem deixar a "forma direta de agir" de lado e aprender a trabalhar com abstrações, essas porém devem ser corrigidas para conseguir resumir bem um problema real e não um problema hipotético. A tarefa de diagramação deve acontecer da forma como Platão idealizava, dividindo a idéia em componentes menores, tomando sempre o cuidado de cortar nas juntas, para que seja possível desacoplar com sucesso esses macro-sistemas e então resolvê-los, um a um.
+
+Nesta obra, acreditamos termos testemunhado o surgimento de um germe conceitual, uma versão prematura do pensamento amadurecido do autor. A ideia dos diagramas e hierarquias, ao invés de abandonada, evolui e se transforma nas publicações subsequentes. É possível testemunhar a lógica hierárquica adquirir novas dimensões em [[A Cidade Não É Uma Árvore]] e por fim integrar-se ao conceito de "sistema de forças".Efetivamente, cerca de uma década depois, esse pensamento é reorganizado para compor a aclamada teoria da [[Linguagem de Padrões]], que estranhamente se provou mais útil na computação e em outros campos do design, talvez por serem campos emergentes que ainda não haviam se consolidado nessa [[Abordagem Cartesiana|Arquitetura Cartesiana]] em que a arquitetura se encontra presa.
 
 <footer>
 HUNT, Andrew; THOMAS, David. The Pragmatic Programmer: from journeyman to master. 1. ed. Boston: Addison-Wesley, 1999
