@@ -1,0 +1,16 @@
+created: 20241124000740982
+modified: 20241124001342541
+title: O problema da Coesão e Acoplamento
+tmap.id: 1d6611c5-7ee1-412a-87eb-3a9749250354
+
+A ideia geral de totalidade, ou de ver as coisas de forma holística, pode ser rastreada até o filósofo chinês Chuang Tzu (360 a.C.), que via a estrutura de uma vaca como um todo complexo, no qual algumas partes eram mais conectadas (ou coerentes) do que outras. O açougueiro que entende a estrutura da vaca sempre corta a carne dos pontos macios e das fendas da carne, fazendo com que a carne se desfaça de acordo com sua própria estrutura.
+
+Platão usa a mesma metáfora para descrever a divisão de uma ideia em outras menores, de modo que cada uma represente um conceito puro.
+
+Alexander pensa da mesma forma ao dizer que [[Padrões são Átomos]].
+
+Nós necessitamos, para resolver problemas complexos, de dividí-lo em partes menores, mais manejáveis. Para isso seria melhor se construíssemos sistemas que são muito coesos e pouco acoplados.
+
+Porém acontece que, como demonstrado em [[A Cidade Não É Uma Árvore]], nossa tentativa de categorizar acaba reduzindo a complexidade entranhada do todo.
+
+

@@ -1,5 +1,5 @@
 created: 20241030143724620
-modified: 20241101021615249
+modified: 20241123191242051
 title: Erro de Enquadramento
 tmap.id: c7638692-00b1-44ec-8d08-f3467905aea6
 
@@ -8,5 +8,11 @@ russian pencil;
 
 Como gostamos de pensar sobre um problema jacobs.
 
+>A frase popular "pensar fora da caixa" nos incentiva a reconhecer restrições que podem não ser aplicáveis e a ignorá-las. Mas essa frase não é totalmente precisa. Se a "caixa" é o limite das restrições e condições, então o truque é encontrar a caixa, que pode ser consideravelmente maior do que você pensa. - (Hunt; Thomas, 1999, p.42)
+
 [[Conceitos Arbitrarios]]
 [[Tabuleiro de Xadrez Mutilado]]
+
+
+<footer>
+HUNT, Andrew; THOMAS, David. The Pragmatic Programmer: from journeyman to master. 1. ed. Boston: Addison-Wesley, 1999
