@@ -1,5 +1,5 @@
 created: 20241028010021412
-modified: 20241101150333736
+modified: 20241124211113103
 tags: padroes
 title: Padrões são Átomos
 tmap.id: a51fc800-98f2-4b19-ab57-94dfd982071d
@@ -13,7 +13,8 @@ Padrões são a menor unidade possível de uma construção. E isso permite que 
 
 Por conta disso os [[Padrões são Campos, não Coisas!]]
 
-Apesar do termo atomo ser empregado aqui para descrever os padrões, eu diria que a concepção proposta está mais próxima da teoria [[Gestault]] que de um Atomismo qualquer.
+Apesar do termo atomo ser empregado aqui para descrever os padrões, percebe-se pelos trechos extraídos que a concepção proposta está mais próxima da teoria [[Gestault]] que de um Atomismo qualquer.
+
 <div class="footnote">
 1.CAREY, John Homer. Architecture as a 3D Language. 1977.  
 2.ALEXANDER, Christopher. [[What is an Unfolding?|O que é um Desdobramento?]] Disponível em: https://www.livingneighborhoods.org/ht-0/whatisanunfolding.htm. Acesso em: 28 out. 2024.

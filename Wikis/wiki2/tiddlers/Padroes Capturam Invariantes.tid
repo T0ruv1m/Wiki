@@ -1,5 +1,5 @@
 created: 20241029220351010
-modified: 20241109000700747
+modified: 20241124211954098
 tags: padroes
 title: Padrões Capturam Invariantes
 tmap.id: cfab5b48-9f39-493c-9aea-807432c6fcac
@@ -7,4 +7,4 @@ tmap.id: cfab5b48-9f39-493c-9aea-807432c6fcac
 mito do barco de Theseus
 
 o melhor jeito de capturar a essencia que  permanesce no fluxo é encontrar o nome apropriado para ela. 
-Esse aspecto é melhor tratado em [[Conceitos Arbitrarios]]
+Esse aspecto é melhor tratado em [[O Poder de Nomear]]

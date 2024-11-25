@@ -1,0 +1,41 @@
+created: 20241124213537362
+modified: 20241124221037114
+title: Problema Intratável
+tmap.id: 849947c1-daff-4e81-938e-40b27c7f5eee
+
+O casamento da forma com a função não é tão simples, eles não se dão bem um com o outro.  Porém imagine que seja possivel conceber uma construção perfeita, no sentido de corresponder a todos os requisitos estéticos e funcionais. Se esse for nosso estado de meta, nossa espectativa como profissionais, então a complexidade do problema não nos é clara na superfície.
+
+Quando fazemos um programa de necessidades da edificação, acabamos selecionando apenas aquilo que conseguimos enxergar como necessário e relevante. Mas se formos levar em conta todos os problemas que poderiam ser solucionados através da forma planejada, chegariamos à uma lista extenunante. Pensando apenas em termos de configuração(removendo limitações de orçamento, estética e escolha de materiais) podemos citar alguns dos ajustes necessários para se chegar em um layout adequado para uma cozinha:
+
+* A cozinha como um todo deve ser bem iluminada;
+* A bancada deve ser extensa e na altura ideal para as pessoas que mais utilizam;
+* É necessário espaço para armazenar todo tipo de utensílio, e acessá-los com facilidade;
+* Fogão, geladeira, pia e bancadas não devem estar muito distantes do outro;
+* Deve haver um espaço de circulação mínimo para que as pessoas não trombem umas nas outras;
+* A porta da geladeira não deve atrapalhar a circulação quando estiver aberta.
+* Deve haver tomadas disponíveis para todos os eletrodomésticos e  eletroportáteis.
+* Deve haver algum meio de evacuar a fumaça, calor e gordura produzidos no fogão;
+* O fogão e forno devem ficar distantes de outros objetos para não danificá-los com o calor;
+* Temperos e ferramentas usados constantemente devem estar sempre disponíveis a mão, possivelmente em uma prateleira;
+
+O problema pode ficar mais complexo ao considerar que  essas variáveis se inter-relacionam de alguma maneira.(Janelas limitam o espaço onde a geladeira pode ficar, reduzem a área disponível para armários suspensos e prateleiras e, quando abertas, podem atrapalhar no cozimento. Mesmo assim é necessário manter o mínimo de iluminação ventilação). Pensar somente nesses ajustes também deixa de lado demandas específicas e preferências estéticas.  
+
+O volume alocado para a função de cozinhar é diferente em cada casa, então um modelo único de cozinha (que se encaixa como um lego) não seria suficiente para se adaptar a todos os casos.
+
+Se fôssemos estudar todas as varíaveis e a forma como elas se relacionam, e  só depois calcular qual é a maneira mais adequada para aquele contexto, provavelmente ficaríamos presos no mesmo projeto o resto da vida.  Esse tipo de problema cai no que é chamado pelos matemáticos de explosão combinatória, quando as variáveis são tantas que seu processamento se torna *computacionalmente intratável*.
+
+>Intratabilidade é a propriedade de um sistema que, sendo complexo o suficiente, não permite nenhuma maneira de saber o resultado de uma ação, exceto pela execução completa da simulação. Ou seja, deixar o sistema funcionar e verificar o resultado posteriormente.
+
+O verdade os problemas são tão complexo que se não tomarmos decisões arbitrárias(puramente por gosto ou hábito) seremos vítima do que os psicólogos chamam de paralisia por análise.
+
+As pessoas que estavam envolvidas na formulação de uma inteligência aritificial de xadrêz nos anos XX, passaram por um problema similar. Mesmo no Xadrez, um jogo com um numero de posições e movimentos restritos, o número de possíveis caminhos aumenta exponencialmente a cada turno. Nem mesmo um computador com os poderes de processamento atuais consegue calcular a menor sequência de movimentos que leva até um check-mate.
+Para resolver esse problema,  eles fizeram com que a máquina operasse através de heurísticas (ou "[[Regras de Ouro|Todos se baseiam em regras de ouro]]").
+
+No curso aprendemos algumas regras que informam nossas decisões e reduzem o fardo cognitivo que é planejar uma edificação. Porém, por conta da natureza do problema, é impossível prever todos os conflitos. Só sabemos que conforme tomamos decisões alguns desses conflitos se tornam mais aparentes. Sendo assim uma estratégia comum é tomar a decisão primeiro e lidar com os problemas que ela ocasiona depois. A partir das nossas primeiras concepções nós remendamos e modificamos a ideia original até limpá-la de todos os conflitos e erros grosseiros que conseguimos simular simplesmente olhando para o desenho ou modelo. 
+
+Esse modo de resolver o projeto parece suficiente enquanto estamos na faculdade, pois não somos levados a realmente executar nossos projetos. Só no canteiro de obras nós perceberíamos a quantidade de microproblemas que foram criados por aquela decisão de colocar a parede em um local específico quando estavámos no computador alguns meses antes. Esse é o problema exposto em [[Feedback no Canteiro]] e [[Crítica ao Design auxiliado por Computadores]].
+
+Acontece que, como já foi dito anteriormente, aprendemos a resolver problemas intratáveis usando regras de ouro.
+Cada etapa de um processo intratável contém uma operação mais adequada para aproximar o problema de um estado em que podemos considerá-lo resolvido. 
+
+E como cada etapa modifica a anterior, elas não podem ser pensadas todas antes de se começar o trabalho. Deve-se esperar a condição que se forma após a ultima operação, formando um todo por [[Crescimento Gradual]]. Isso não é possível quando ainda estamos no estágio de simulação. ver [[O mundo é o melhor modelo de si]].

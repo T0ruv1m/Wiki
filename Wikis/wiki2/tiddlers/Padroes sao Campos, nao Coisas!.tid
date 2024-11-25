@@ -1,5 +1,5 @@
 created: 20241028013844367
-modified: 20241107012510978
+modified: 20241124211843530
 tags: padroes
 title: Padrões são Campos, não Coisas!
 tmap.id: 146759ed-09d4-4144-be41-d2e8c4d77ebc
@@ -15,3 +15,7 @@ Em [[The Timeless Way of Building]] Alexander descreve a nave de uma igreja da s
 
 {{Descrição de uma Nave de Igreja}}
 
+Com isso é permitido notar que os padrões dizem respeito a configuração, o Eidos, a estrutura subjacente aos objetos e ,mais importante, o espaço entre eles. As coisas só são o que são quando colocadas em relação a todas as outras. Portanto, não faz sentido pensar em um padrão isolado. Devemos vê-los como campos morfológicos que, bem como as palavras, só tem sentido quando dentro de uma frase e de todo um contexto compartilhado.
+
+<footer>
+<<twb>>

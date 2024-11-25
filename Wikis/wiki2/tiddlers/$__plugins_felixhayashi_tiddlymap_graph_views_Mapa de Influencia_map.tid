@@ -14,6 +14,7 @@ type: text/vnd.tiddlywiki
   "y": -539
  },
  "74ee80f0-d330-460b-b22f-bcaefb02be75": {
+  "size": 42,
   "x": 219,
   "y": -232
  },
@@ -47,8 +48,8 @@ type: text/vnd.tiddlywiki
   "y": -378
  },
  "e6e688e2-5f24-4aca-bf99-996a7a6a3aaa": {
-  "x": -371,
-  "y": -495
+  "x": -270,
+  "y": -669
  },
  "4fb536dc-9b47-4f3d-bb80-4d6fd43f797e": {
   "x": 849,
@@ -139,14 +140,17 @@ type: text/vnd.tiddlywiki
   "y": -77
  },
  "1a446e79-6188-40bf-a700-e4f8b5eb9571": {
-  "x": -547,
-  "y": -741
+  "x": -472,
+  "y": -782
  },
  "82bf67a1-a7b5-4f26-8d8b-25af5327be16": {
   "x": 483,
   "y": -226
  },
  "b63b567d-b123-4512-bcea-e3fbd63c431d": {
+  "color": {
+   "background": "rgba(234,104,104,1)"
+  },
   "x": -131,
   "y": -242
  },
@@ -154,8 +158,8 @@ type: text/vnd.tiddlywiki
   "color": {
    "background": "rgba(144,255,177,0.9)"
   },
-  "x": 115,
-  "y": -861
+  "x": 105,
+  "y": -812
  },
  "98ab4bd6-fe58-4710-bfa5-b986da04100a": {
   "x": -85,
@@ -270,8 +274,8 @@ type: text/vnd.tiddlywiki
   "y": 35
  },
  "e9c7650c-b933-4d36-b895-d0187aea98c5": {
-  "x": -391,
-  "y": -232
+  "x": -419,
+  "y": -290
  },
  "a785a3f3-8a79-4926-9137-a00849aac0fb": {
   "x": -100,
@@ -414,12 +418,16 @@ type: text/vnd.tiddlywiki
   "y": -24
  },
  "dbd1c80f-4e4c-46b9-9618-fabcffc70706": {
-  "x": -206,
-  "y": -814
+  "color": {
+   "background": "rgba(73,70,73,1)"
+  },
+  "label": "Notas sobre a Síntese da Forma",
+  "x": -140,
+  "y": -828
  },
  "60ef5987-e7ba-4972-ac99-36b1df4757bf": {
-  "x": -286,
-  "y": -674
+  "x": -410,
+  "y": -518
  },
  "7bc4e7df-bc21-4fd4-93cb-997a3de2e83b": {
   "x": -75,
@@ -736,5 +744,21 @@ type: text/vnd.tiddlywiki
  "1d6611c5-7ee1-412a-87eb-3a9749250354": {
   "x": -90,
   "y": 141
+ },
+ "7f7863ad-3784-4928-9bd3-38ba2e69e397": {
+  "x": -87,
+  "y": 127
+ },
+ "655a2b5b-2249-4877-a63d-927661e0c3fd": {
+  "x": -73,
+  "y": 111
+ },
+ "849947c1-daff-4e81-938e-40b27c7f5eee": {
+  "x": 42,
+  "y": -29
+ },
+ "498e8a12-b5e7-41de-aa13-5058aa522bda": {
+  "x": -88,
+  "y": 130
  }
 }
