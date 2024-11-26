@@ -1,5 +1,5 @@
 created: 20241023225254343
-modified: 20241116212432256
+modified: 20241125131837323
 tags: TableOfContents
 title: Base
 tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
@@ -17,7 +17,7 @@ tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
 <<details label:"Princípios de Programação" src:"{{programmingPrinciples}}" srcClass:"alert alert-primary" labelClass:"alert alert-primary">>
 
 !! Documentação:
-[[Ubuntu]]
+[[Ubuntu]] [[Delphi]]
 
 ---
 
