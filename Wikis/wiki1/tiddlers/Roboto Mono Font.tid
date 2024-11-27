@@ -1,0 +1,12 @@
+created: 20241126162855376
+modified: 20241126162928325
+tags: $:/tags/Stylesheet
+title: Roboto Mono Font
+tmap.id: e4a22a7d-d49b-430b-b0b3-ede7de030d2a
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+</style>

@@ -22,10 +22,13 @@
         "tiddlywiki/dynannotate",
         "OokTech/TwederBob",
         "OokTech/Bob",
-        "sobjornstad/TiddlyRemember"
+        "sobjornstad/TiddlyRemember",
+        "tiddlywiki/markdown"
     ],
     "themes": [
-        "tiddlywiki/vanilla"
+        "tiddlywiki/centralised",
+        "tiddlywiki/vanilla",
+        "tiddlywiki/tight-heavier"
     ],
     "build": {
         "index": [
