@@ -1,21 +1,19 @@
 created: 20241029033236923
-modified: 20241109163948728
+modified: 20241128225318227
 title: 漢字
 tmap.id: dddd488e-e7d2-4b35-b35c-18e579ec5ce1
 
 o título desta nota contém 2 kanjis que juntos significam a palavra "kanji".
 
-Kanjis são esses simbolos que vieram da china e carregam muito significado em cada traço. Mas eu garanto que os falantes da língua não precisam decifrar  eles para identificar o significado das palavras no cotidiano, isso ocorre automaticamente e involuntariamente.
-
-Assim como é impossivel para nós deixar de ver essas letras na tela como representações de fonêmas e palavras, para um japonês a leitura dos kanjis ocorre de forma tão natural quanto para nós é ler as letras do alfabeto romano concatenadas umas nas outras.
+Kanji é como os japoneses chamam esses simbolos que se originam da china e carregam muito significado em cada traço. Apesar disso eu garanto que os falantes da língua não se lembram deles e sequer precisam decifrá-los toda vez para identificar o significado das palavras. No uso cotidiano, isso ocorre de maneira rápida, automática e involuntaria, assim como é impossivel para nós deixar de ver essas letras concatenadas como representações de palavras. 
 
 No entanto no Japonês e outras linguas que utilizam ideogramas ocorre um fenômeno particular. O significado não está imediatamente atrelado ao som. Um falante poderia se esquecer da pronuncia de algum kanji e ainda assim conseguir lembrar do significado, ou vice-versa.
 
-O Kanji serve para abstrair e compactar a escrita em hiragana,um outro alfabeto utilizado por eles de forma simultanea. (uma mesma frase quase sempre contem kanjis quanto hiraganas misturados). Se escrevessemos a palavra //Kanji// usando apenas o hiragana ficariamos com isso:
+O Kanji serve para abstrair e compactar a escrita em hiragana, que é um outro alfabeto utilizado por eles de forma simultanea. (Uma frase em japonês quase sempre contem tantos kanjis quanto hiraganas misturados). Se escrevessemos a palavra //Kanji// usando apenas o alfabeto hiragana ficariamos com isso:
 
 >かんじ.
 
-Estes sim tem um som associado a cada um, porém note que são apenas 3 simbolos usados para  dizer a mesma palavra que nós gastamos 5.
+Estes sim contém sons associados, porém note que são apenas 3 simbolos usados para  dizer a mesma palavra que nós gastamos 5.
 Isso porque cada hiragana comprime uma "silaba" e não uma letra:
 
 >か(ka) ん(n) じ(ji).
@@ -29,7 +27,7 @@ aqui esta escrito em romaji (como eles chamam o alfabeto romano) uma frase intei
 >iee ga utsukushii
 
 esse parcelamento utilizando espaços nos ajuda a distinguir as palavras, entretanto seu som não evoca nenhum sentido.Para que fizesse sentido seria necessario compreender não só o significado de cada palavra como a estrutura gramatical em que elas se encontram.
-Por mais que você nunca tenha lido exatamente essa frase que estou escrevendo, você ja ouviu essas mesmas palavras sendo usadas antes e consegue a partir disso atribuir significado ao texto. O mesmo não ocorre quando ouve uma lingua estrangeira.
+Por mais que você nunca tenha lido exatamente essa frase que estou escrevendo, você ja encontrou essas mesmas palavras sendo usadas antes e consegue, a partir disso, atribuir significado ao texto. O mesmo não ocorre quando se ouve uma lingua estrangeira.
 
 <<details label:"Costura Aspecto/Gestalt" src:"{{Costura Aspecto/Gestalt}}" srcClass:"alert alert-secondary" labelClass:"alert alert-secondary">>
 
