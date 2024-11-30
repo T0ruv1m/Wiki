@@ -1,5 +1,5 @@
 created: 20241023225254343
-modified: 20241127234557709
+modified: 20241129184734671
 tags: TableOfContents
 title: Base
 tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
@@ -19,8 +19,9 @@ tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
 !! Documentação:
 [[Ubuntu]] | [[Delphi]]
 
-[[User Interface Design]]  
-[[utilities]]
+[[User Interface Design]]
+
+⚒ [[utilities]]
 
 ---
 

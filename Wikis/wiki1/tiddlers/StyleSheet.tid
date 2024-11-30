@@ -1,0 +1,14 @@
+created: 20241129181659619
+modified: 20241129181727845
+tags: $:/tags/Stylesheet
+title: StyleSheet
+tmap.id: cc24d07c-848d-4600-b2d4-a67d7167ac41
+type: text/vnd.tiddlywiki
+
+ footer {
+    font-size: 0.8em; /* Make the font smaller */
+    color: #666; /* Set a dimmed color */
+    margin-top: 10px; /* Space above the footnote */
+    padding: 5px; /* Optional padding for spacing */
+    border-top: 1px solid #ddd; /* Optional top border for separation */
+}
