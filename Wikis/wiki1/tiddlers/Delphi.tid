@@ -1,6 +1,6 @@
 created: 20241122111445885
 iniciantes: 
-modified: 20241129185817474
+modified: 20241201200552207
 tags: 
 title: Delphi
 tmap.id: ce035a8e-55ca-4df5-85d5-8e1edfb5c798
@@ -8,15 +8,11 @@ type: text/markdown
 
 ## Playlists:
 
-[Delphi para Iniciantes](https://youtu.be/msw6MuJWVRQ?list=PLjC0a8M4Dmz9SQxT5Qkds50RU1-ZqafnT)
-
 [Tutoriais para Futuras Implementações](https://www.youtube.com/playlist?list=PLCLIKt-QpRhKyxYj8lzLfr-Oe_NB8p_oT&jct=IRz8OdlSFCKusEJSDEbyNA)
 
 ## HotKeys:
 {{DelphiHotkeys}}
 
 <footer>
-
-Links úteis: [Delphi Ultimate Codebank](https://www.softpedia.com/get/Programming/Other-Programming-Files/Delphi-Ultimate-Codebank.shtml)
 
 </footer>
