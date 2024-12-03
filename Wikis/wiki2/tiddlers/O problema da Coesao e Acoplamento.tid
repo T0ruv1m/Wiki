@@ -1,5 +1,5 @@
 created: 20241124000740982
-modified: 20241124210923785
+modified: 20241202222520086
 title: O problema da Coesão e Acoplamento
 tmap.id: 1d6611c5-7ee1-412a-87eb-3a9749250354
 
@@ -9,6 +9,6 @@ Platão usa a mesma metáfora para descrever a divisão de uma ideia em outras m
 
 Nós necessitamos, para resolver problemas complexos, de dividí-lo em partes menores, mais manejáveis. Para isso seria melhor se construíssemos sistemas que são muito coesos e pouco acoplados. Isso é o mesmo que dizer que eles possuem pontos de ruptura que podem ser facilmente desplugados.
 
-O problema todo é que, como demonstrado em [[A Cidade Não É Uma Árvore]], nossa tentativa de categorizar o mundo sempre acaba reduzindo a complexidade entranhada do todo.
+O problema todo é que, como demonstrado em [[Livro: A Cidade Não É Uma Árvore]], nossa tentativa de categorizar o mundo sempre acaba reduzindo a complexidade entranhada do todo.
 
 

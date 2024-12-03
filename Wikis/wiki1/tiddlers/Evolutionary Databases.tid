@@ -1,0 +1,9 @@
+created: 20241202104654258
+modified: 20241202105551690
+title: Evolutionary Databases
+tmap.id: 807d94c7-2249-4f3d-8d5a-0f57bf0dc736
+
+Why Evolutionary Database Development?
+
+>Evolutionary database development is a concept whose time has come. Instead of trying to design your database schema up front early in the project, you instead build it up throughout the life of a project to reflect the changing requirements defined by your stakeholders. Like it or not, requirements change as your project progresses.
+- Martin Fowler

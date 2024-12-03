@@ -1,5 +1,5 @@
 created: 20241026133810059
-modified: 20241109003810068
+modified: 20241202222520086
 tags: padroes
 title: Padrões estão Entrelaçados
 tmap.id: 9b5126af-63ef-4000-a0d3-3521ad6fdae5
@@ -9,7 +9,7 @@ tmap.id: 9b5126af-63ef-4000-a0d3-3521ad6fdae5
 Apesar de serem atômicos, eles não são desacoplaveis, como peças de LEGO. Eles estão colados, interpenetrados e dependem uns dos outros de tal forma que perderiam todo o significado se utilizados individualmente, aqui e ali.
 (ver [[A Estrutura da Linguagem]])
 
-Esse caráter dos padrões provavelmente deriva-se do insight gerado em sua investigação sobre a estrutura da cidade em [[A Cidade Não É Uma Árvore]]. Isto se torna explicito no inicio de uLdP:
+Esse caráter dos padrões provavelmente deriva-se do insight gerado em sua investigação sobre a estrutura da cidade em [[Livro: A Cidade Não É Uma Árvore]]. Isto se torna explicito no inicio de uLdP:
 
 > Em suma, nenhum padrão é uma entidade isolada. Cada padrão existe somente porque é sustentato por outros padrões: os padrões maiores, dentro dos quais ele se inclui, os padrões do mesmo tamanho, que o circundam, e os padrões menores, nele inserido.(ALEXANDER et al, 2013)^^(1)^^
 

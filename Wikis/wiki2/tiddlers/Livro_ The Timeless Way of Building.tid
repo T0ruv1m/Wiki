@@ -1,0 +1,48 @@
+created: 20241026223928387
+modified: 20241202222540109
+tags: livro
+title: Livro: The Timeless Way of Building
+tmap.edges: {"f712cc49-10ec-4829-8e4f-283d37e422c8":{"to":"74ee80f0-d330-460b-b22f-bcaefb02be75","type":"guia complementar de"}}
+tmap.id: b63b567d-b123-4512-bcea-e3fbd63c431d
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+Na primeira página de "Uma Linguagem de Padrões":  
+
+
+<<<
+Este volume oferece a linguagem para arquitetura e planejamento urbano; o outro volume oferece a teoria e as instruções para o uso da linguagem. Este volume descreve os padrões detalhados para cidades, bairros, casas , jardins e ambientes. O outro volume explica a disciplina que torna possível utilizar tais padrões para criar uma edificação ou uma cidade. Este livro é a fonte do modo intemporal; o outro é sua prática e origem.
+<<<
+
+O outro volume a qual ele se refere é //The Timeless Way of Building// (O modo intemporal de Construir). Embora "Uma Linguagem de Padrões" tenha sido traduzida para o português em 2013, o o modo intemporal que o sustenta permaneceu intraduzido.
+
+Diferente do livro amarelo, que é prático e mundano, o outro contém uma abordagem poética e as vezes mística. Percebe-se logo na dedicatória:
+
+<<<
+Para você, a mente de nenhuma mente, na qual a forma intemporal nasceu. (tradução nossa)
+<<<
+
+Devido a essa escolha estilística, o livro pode aparentar, ao leitor desavisado, como esotérico e delirante. Entretanto a mensagem que ele passa é verdadeiramente simples, e se baseia nos seguintes pontos:
+
+* Cada um de nós tem, no coração, o desejo de criar um mundo(p.9) 
+* Essa capacidade de criar já é acessível a todos, imediatamente.(p.14). 
+* No entantanto, estamos convencidos da necessidade de seguir rigidamente um determinado método, um sistema.
+* A insegurança provocada por essas regras, conceitos e ideias limitam nosso talento nato para criar coisas belas.
+* O propósito de aprender essa disciplina é simplesmente nos conectar com essas intuições e nos liberar de uma vez por todas de todo método.
+
+O ambicioso plano do mal que reside no núcleo desse livro era empoderar cada pessoa a planejar e construir suas próprias casas, como era feito nas sociedades tradicionais do passado. A concretização desse plano transformaria o arquiteto, como conhecemos hoje, em uma profissão obsoleta. Sabemos agora, 40 anos após a publicação dos volumes, que o plano falhou. Mas uma questão ainda nos resta, porque?
+
+Poderiámos dizer que Alexander estava contaminado de um romantismo doentio e que suas ideias não batem com a realidade do mundo. Afinal, o quão difícil seria para nós hoje convencer a prefeitura de que podemos construir nossas próprias casas, sem nenhum planejamento e regulamentação?
+
+Mas não precisamos concordar com as soluções que Alexander oferece para reconhecer a premissa, e esta é a seguinte:  
+
+No passado, ja fomos capazes de edificar cidades inteiras que são muito mais belas que as cidades contemporâneas. Porque e quando essa habilidade se perdeu? E de que outro modo poderiámos modificar essa paisagem a não ser por uma mudança no "código genético" que fabrica as cidades a todo tempo? Me refiro a construção informal, afinal atos isolados, projetos esporádicos que reparam um ou outro canto nunca vão compensar pelo estado geral.^^(1)^^
+
+Posso me lembrar de alguns fatores que ele cita nessa e em obras subsequentes, como as responsáveis pelo estado atual:
+
+# Os métodos de produção industrial, que modularizam a construção e matam o saber procedural e artesanal.
+# A criação de uma profissão especializada, que tira o poder da mão das pessoas e as convence de que são incompetentes demais para construir e modificar suas casas.
+# Uma [[Visão de Mundo|Arquitetura Cartesiana]] em particular que contaminou tudo.
+
+<footer>
+1. Para entender melhor esse aspecto ler [[A flor e a semente]].

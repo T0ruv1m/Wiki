@@ -1,0 +1,7 @@
+{
+    "title": "$:/Import",
+    "type": "application/json",
+    "plugin-type": "import",
+    "status": "pending",
+    "text": "{\n    \"tiddlers\": {\n        \"Untitled 1\": {\n            \"title\": \"Untitled 1\",\n            \"text\": \"As soon as one freezes a design, it becomes obsolete in terms of its concepts.\"\n        }\n    }\n}"
+}

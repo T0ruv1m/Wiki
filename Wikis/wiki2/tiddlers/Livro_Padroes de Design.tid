@@ -1,0 +1,20 @@
+created: 20241022214545535
+modified: 20241202232400115
+title: Livro:Padrões de Design
+tmap.edges: {"e116f3b2-da55-452a-8ae0-3628b3b6f8bc":{"to":"21d7639a-41c7-4cbc-992a-43bb2810736e","type":"influenciou"}}
+tmap.id: 7b057521-966b-40fd-bbc2-abed6f30c731
+type: text/vnd.tiddlywiki
+
+Esse livro foi diretamente inspirado pelo trabalho de Alexander e, por seus próprios méritos, gerou um impacto significativo no campo da engenharia de software e desenvolvimento de sistemas orientados a objeto. (campos relativos a computação).
+
+Algumas das conquistas foram: 
+
+''1.'' Estabeleceram um Vocabulário Comum;
+
+>Ao tornar práticas recorrentes em entidades compartilháveis, criaram uma espécie de [[Lingua Franca|Padrões estabelecem uma Lingua Franca de Design]], um vocábulo comum entre os programadores.  
+
+''2.'' Mérito em reutilizar soluções comprovadas;
+
+> Já deve ter ouvido que não é necessário reinventar a roda. No campo do desenvolvimento de softwares isso é levado a sério. Bibliotecas, pacotes, plugins e fragmentos de código são reutilizados o tempo todo. Os padrões permitiram também a reaplicação de abstrações úteis. [[Padrões são Recorrentes]]
+
+Outros verbo muito usado na computação, que se relaciona intimamente com a abordagem de Alexander com a arquitetura, é [[Refatorar]].

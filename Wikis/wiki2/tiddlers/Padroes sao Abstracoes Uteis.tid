@@ -1,10 +1,10 @@
 created: 20241028010259903
-modified: 20241113234214082
+modified: 20241202222520087
 tags: padroes
 title: Padrões são Abstrações Úteis
 tmap.id: 71f0b01e-e424-4be1-b181-f40b26e6d99f
 
-''A abstração é uma ferramenta poderosa e talvez a única maneira em que a mente humana consiga trabalhar problemas complexos.'' ^^([[1|A Cidade Não É Uma Árvore]])^^
+''A abstração é uma ferramenta poderosa e talvez a única maneira em que a mente humana consiga trabalhar problemas complexos.'' ^^([[1|Livro: A Cidade Não É Uma Árvore]])^^
 
 O que a abstração faz é fornecer um modelo mental que nos permite focar nos aspectos relevantes naquele momento enquanto desconsideramos o resto.
 
@@ -26,7 +26,7 @@ Portanto:
 Se estiver interessado em abstrações ver [[漢字]] ｜ [[Como resolver um Cubo Mágico]] | [[Modelos Mentais]]
 
 <footer>
-1. [[A Cidade Não É Uma Árvore]]  
+1. [[Livro: A Cidade Não É Uma Árvore]]  
 2. [[Erro de Enquadramento]]  
 3. [[Sistema de Complexidade Ordenada]]
 </footer>

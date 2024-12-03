@@ -421,7 +421,6 @@ type: text/vnd.tiddlywiki
   "color": {
    "background": "rgba(73,70,73,1)"
   },
-  "label": "Notas sobre a Síntese da Forma",
   "x": -140,
   "y": -828
  },
@@ -772,5 +771,17 @@ type: text/vnd.tiddlywiki
  "d52643dc-5bea-431c-ba0f-f68f5bafb7aa": {
   "x": -97,
   "y": 125
+ },
+ "453f0c00-6885-42fa-a6e7-e91c0c1f26df": {
+  "x": 39,
+  "y": 33
+ },
+ "1abd29f5-5efa-408b-b768-dad6e8cfdbb5": {
+  "x": 2,
+  "y": -51
+ },
+ "10c84303-6abd-4f47-8918-6622b4e74cf7": {
+  "x": 8,
+  "y": 50
  }
 }

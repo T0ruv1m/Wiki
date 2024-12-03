@@ -1,11 +1,14 @@
 created: 20241022213512713
-modified: 20241107212102801
+modified: 20241203003913549
 title: Wiki
 tmap.id: 1598e4af-d311-44cf-b121-2ffeef12e61a
 type: text/vnd.tiddlywiki
 
 
-Wikis permitem que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]]. "QUOTE".
+Wikis permitem que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]].
+
+>O desenvolvimento do wiki é particularmente revelador. Como Cunningham deixa claro, os wikis foram inventados como um meio de trocar padrões entre os utilizadores e, além disso, a própria estrutura de um wiki segue a de um padrão (Cunningham & Mehaffy, 2013). Tal como acontece com a estrutura de um padrão, cada página wiki identifica um tópico com um nome, uma descrição de um problema ou questão, uma secção que analisa o problema e, em seguida, uma conclusão que fornece uma solução de configuração. Além disso, existem //hyperlinks// de tópicos de nível superior na parte superior e de tópicos de nível inferior na parte inferior, o que permite que a página wiki (ou padrão) seja ligada numa relação web com muitos outros padrões (a estrutura da Wikipédia está ainda mais próxima da estrutura de padrões de Alexander, muitas vezes com uma fotografia icónica e hiperligações omnipresentes, embora o tópico de cada página wiki não seja um “problema” em si, mas um tópico de conhecimento mais amplo, por exemplo, a própria “linguagem de padrões” da página wiki). (Mehaffy p.237)
+
 
 Você certamente conhece o formato por conta do seu maior exponente, a Wikipedia. No entanto, embora a Wikipedia possa ser vista como uma wiki, nem todas as wikis seguem o mesmo formato.
 
@@ -20,3 +23,7 @@ Na verdade, essa foi uma ideia que pegamos emprestada de outros sites hospedados
 Ver: [[NPL]]
 
 [[MetaWiki]] | [[A Estrutura da Wiki]]
+
+
+<footer>
+1. MEHAFFY, Michael. Patterns of Growth: Operationalizing Alexander’s "Web Way of Thinking". *Urban Planning*, v. 8, n. 3, 2023. p. 1-15. DOI: 10.17645/up.v8i3.6688. Disponível em: <https://www.up-journal.org/10.17645/up.v8i3.6688>. Acesso em: 02 dez. 2024.

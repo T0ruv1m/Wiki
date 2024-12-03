@@ -1,0 +1,34 @@
+created: 20241202113248354
+modified: 20241202235744065
+title: Padrões estabelecem uma Lingua Franca de Design
+tmap.id: 1abd29f5-5efa-408b-b768-dad6e8cfdbb5
+
+Neologismos são criados a todo tempo para tentar acompanhar as mudanças culturais e preencher lacunas comunicativas. Todo campo de conhecimento acumula inevitavelmente um jargão contendo termos que modificam o significado de palavras cotidianas, ou até mesmo inventam novos termos e expressões para se referir a determinado aspecto ou processo recorrente. 
+
+Os padrões são poderosos justamente por serem capazes de guardar simultaneamente essas novas entidades e as condições necessárias para alcançá-las. Padrões Generativos são ainda mais potentes por serem capazes de especificar ''como'' chegar até aquele estado.
+
+Consideramos que uma das possíveis vantagens da popularização das linguagens de padrões é que terêmos um vocabulário compartilhado, um léxico contendo formas de expressar aquilo que torna as edificações melhores. Isso só é possível se os padrões cairem na boca do povo, ou seja, todos entendam a função que eles ocupam nas conversas em que discutimos a concepção da forma.
+
+Imagine discussões entre planejadores que se deem da seguinte maneira:
+
+---
+
+-Acho que o entorno dessa edificação está faltando em alguma coisa...
+
+- Talvez ainda precise de um //Espaço Externo Positivo// que torne o exterior mais habitável.
+
+- Mas se alterarmos a forma dela perderemos as propriedades de uma //Edificação Longa e Estreita//.
+
+- Que tal propor uma //Arcada// nas //Bordas da Edificação// e aproveitar o pavimento superior para fazer uma //Sacada Habitável//?
+
+- Ótima ideia, acho que isso resolve os problemas nessa escala.
+
+---
+
+Note como os termos utilizados se referem à entidades que podem ser imediatamente reconhecidas por ambos os integrantes da conversa. Isso não é simplesmente uma sofisticação artificial usada para impressionar os clientes. Acontece que muitos dos termos utilizados na conversa são abstratos demais para referenciar diretamente objetos na edificação, e justamente por isso são tão úteis. Os padrões nessa escala são melhor interpretados como sendo estruturas nebulosas que contém algumas propriedades desejáveis . 
+
+Pensar desse modo requer um entendimento mais profundo das relações espaciais presentes no espaço edificado. Muitas vezes essas entidades existem na nossa mente de planejador, mas não conseguimos expressá-las senão por meio de desenhos. É fato de que os arquitetos possuem um vocabulário muito limitado que consegue expressar apenas formas, volumes, materiais e superficies.(Salingaros, 1998, p.159) Agora, armados com um vocabulário de padrões, podemos usar palavras para definir esses aspectos cruciais e comunicar nossas intenções com facilidade.
+
+
+<footer>
+SALINGAROS, Nikos A. Structure of Pattern Languages. *ARQ: Architectural Research Quarterly*, Cambridge, v. 2, n. 3, 1998. ISSN 1359-1355. eISSN 1474-0516. Disponível em: <https://www.cambridge.org/core/journals/arq-architectural-research-quarterly>. Acesso em: 02 nov. 2024.

@@ -1,10 +1,19 @@
 created: 20241029221047653
-modified: 20241201205406948
+modified: 20241203002651690
 tags: blank
 title: A Estrutura da Linguagem
 tmap.id: 56d49019-8fbb-4a61-b6dc-b4263994f762
 
-[[The Timeless Way of Building]] cápitulo 16.
+[[Nikos Salingaros]] atribui o fracasso da aplicabilidade dos padrões no universo da arquitetura à falta de compreensão sobre a estrutura da linguagem:
+
+>Qualquer fraqueza percebida dos padrões pode estar nos padrões individuais, mas é mais provável que seja o resultado de não se compreender a sua linguagem combinatória. Embora os padrões de design escritos na forma alexandrina façam alusão à sua conetividade com outros padrões (no prelúdio e no posfácio), é difícil visualizá-los sem um mapa de ligação. Mesmo os arquitectos que utilizam padrões tendem a não saber como é que os padrões se ligam uns aos outros, de forma que o design resultante carece frequentemente de coerência em grande escala. (Salingaros, 1998, p.151)
+
+Esse aspecto importante, porém alegadamente negligênciado nas tentativas documentadas da aplicação da linguagem resultaram no que Alexander mesmo considerava "um resultado medíocre".^^(2)^^
+
+O livro compânion de Uma Linguagem de Padrões, entitulado de [[The Timeless Way of Building|Livro: The Timeless Way of Building]] aborda essa dimensão importante da linguagem com mais detalhes.
 
 
-[[Nikos Salingaros]] escreveu um artigo sobre.
+
+<footer>
+1.SALINGAROS, Nikos A. Structure of Pattern Languages. *ARQ: Architectural Research Quarterly*, Cambridge, v. 2, n. 3, 1998. ISSN 1359-1355. eISSN 1474-0516. Disponível em: <https://www.cambridge.org/core/journals/arq-architectural-research-quarterly>. Acesso em: 02 nov. 2024.
+2.QUILLEN, Jenny. History from A Pattern Language to the Nature of Order. [S.l.: s.n.], 2024. Disponível em: <https://youtu.be/ad5XAPgKJoM>. Acesso em: 02 dez. 2024.

@@ -1,13 +1,17 @@
 created: 20241125182709988
-modified: 20241129185833099
+modified: 20241202181304600
 tags: delphi hotkeys
 title: DelphiHotkeys
 tmap.id: c70de9c7-ddb7-4bd4-ab50-51ab50d10857
 
 
 ```
-Alt+F11 = adicionar Unit no Uses  
-Ctrl+Shift+C = Cria Implementações
-Ctrl+Shift+F11 = Options
+Alt+F11 = adicionar Unit no Uses;
+Ctrl+C = Cria um esqueleto de implementação para as procedures e functions definidas;
+Ctrl+Shift+C = Cria definições para as implementações;
+Shift+up or Shift+down = Navega da navegaçao para implementação;
+
+
+Ctrl+Shift+F11 = Options;
 
 ```
