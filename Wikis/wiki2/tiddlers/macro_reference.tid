@@ -1,5 +1,5 @@
 created: 20241107001407883
-modified: 20241201215405844
+modified: 20241203103534493
 tags: $:/tags/Macro
 title: macro/reference
 tmap.id: c71e9745-be71-4713-abdf-220357ea9873
@@ -10,4 +10,8 @@ Alexander, Christopher. ''The Timeless Way of Building''. New York: Oxford Unive
 
 \define noo2(p:"")
 ALEXANDER, Christopher. The Nature of Order: Book 2 - The Process of Creating Life. 1. ed. Berkeley: Center for Environmental Structure, 2002. $p$
+\end
+
+\define hbl(p:"")
+BRAND, Stewart. [[Livro: How Buildings Learn]]: what happens after they're built. New York: Viking, 1994. $p$
 \end
