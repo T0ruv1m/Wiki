@@ -1,5 +1,5 @@
 created: 20241029221047653
-modified: 20241203002651690
+modified: 20241204112856729
 tags: blank
 title: A Estrutura da Linguagem
 tmap.id: 56d49019-8fbb-4a61-b6dc-b4263994f762
@@ -12,7 +12,7 @@ Esse aspecto importante, porém alegadamente negligênciado nas tentativas docum
 
 O livro compânion de Uma Linguagem de Padrões, entitulado de [[The Timeless Way of Building|Livro: The Timeless Way of Building]] aborda essa dimensão importante da linguagem com mais detalhes.
 
-
+>De fato, tanto o Uma Linguagem de Padrões quanto o The Timeless Way of Building dizem que a linguagem de padrões deve ser usada sequencialmente. Na prática, porém, esse recurso foi abandonado e não foi enfatizado no uso. Como resultado, a bela eficácia das linguagens tradicionais e sua natureza sequencial simples e bela desapareceram de vista. FONTE!!
 
 <footer>
 1.SALINGAROS, Nikos A. Structure of Pattern Languages. *ARQ: Architectural Research Quarterly*, Cambridge, v. 2, n. 3, 1998. ISSN 1359-1355. eISSN 1474-0516. Disponível em: <https://www.cambridge.org/core/journals/arq-architectural-research-quarterly>. Acesso em: 02 nov. 2024.

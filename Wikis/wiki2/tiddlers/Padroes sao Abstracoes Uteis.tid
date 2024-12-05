@@ -1,5 +1,5 @@
 created: 20241028010259903
-modified: 20241202222520087
+modified: 20241204172550926
 tags: padroes
 title: Padrões são Abstrações Úteis
 tmap.id: 71f0b01e-e424-4be1-b181-f40b26e6d99f
@@ -12,7 +12,7 @@ A representação de uma porta em planta baixa, por exemplo, é uma abstração 
 
 Saber distinguir o que é sinal e o que é barulho é a habilidade crucial que separa os experts dos amadores. Por isso se você usar abstrações construidas por alguém entendido do assunto pode alcançar um desempenho aceitável.
 
-Acontece que nem toda abstração é util. A forma que você escolhe para enquadrar seu problema pode ditar completamente as suas chances de conseguir resolvê-lo, e mesmo profissionais e pessoas muito competentes estão sujeitas a esse tipo de cilada.^^([[2|Tabuleiro de Xadrez Mutilado]])^^ Como um pequeno experimento, tente resolver o [[Problema dos 9 Pontos]].
+Acontece que nem toda abstração é util. A forma que você escolhe para enquadrar seu problema pode ditar completamente as suas chances de conseguir resolvê-lo, e mesmo profissionais e pessoas muito competentes estão sujeitas a esse tipo de cilada.^^([[2|Erro de Enquadramento]])^^ Como um pequeno experimento, tente resolver o [[Problema dos 9 Pontos]].
 
 Portanto:
 

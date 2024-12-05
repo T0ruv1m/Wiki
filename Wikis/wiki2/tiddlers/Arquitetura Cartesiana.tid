@@ -1,5 +1,5 @@
 created: 20241114170951434
-modified: 20241121225304975
+modified: 20241204183303618
 title: Arquitetura Cartesiana
 tmap.id: 44336d02-3d91-4f0b-bd68-1ff311e82297
 
@@ -10,7 +10,9 @@ A arquitetura cartesiana, como resolvi chamá-la aqui, se refere a forma como a 
 * As edificações, ou melhor o mundo todo, pode ser visto como uma máquina.
 * Podemos replicar o mundo através de um modelo, atribuindo  coordenadas sob planos.
 
-Alexander discorda de todos esses pontos e atribui a essa visão de mundo a maioria dos problemas da arquitetura contemporânea.Podemos considerá-lo o Anti-Descartes nesse sentido. Entretanto ele mas ele não culpa ninguém em particular, nem mesmo o próprio filósofo. O que ocorreu foi que essa ferramenta extremamente útil desenvolvida por ele saiu de controle e por fim chegamos ao ponto de acreditar que o mundo realmente funciona dessa maneira.
+Isso nos leva a concepções como [[Abordagem Tudo ou Nada]] e [[Commoditização da Construção]].
+
+Alexander discorda de todos esses pontos e atribui a essa visão de mundo a maioria dos problemas da arquitetura contemporânea.Podemos considerá-lo o Anti-Descartes nesse sentido. Entretanto ele não culpa ninguém em particular, nem mesmo o próprio filósofo. O que ocorreu foi que essa ferramenta extremamente útil desenvolvida por ele saiu de controle e por fim chegamos ao ponto de acreditar que o mundo realmente funciona dessa maneira.
 
 Os respectivos contrapontos estão expostos em:
 
@@ -18,3 +20,5 @@ Os respectivos contrapontos estão expostos em:
 * [[Sentimento como Critério]]
 * [[O mundo é feito de Centros|Centros]]
 * [[O mundo é o melhor modelo de si]]
+
+Essa visão de mundo, como também a forma de produção potenciada pelo [[Taylorismo]], contribuíram juntamente para [[A Morte da Poiesis]].

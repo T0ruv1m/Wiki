@@ -1,16 +1,22 @@
 created: 20241114165222790
-modified: 20241202222557755
+modified: 20241204183656723
 tags: BibliadosSistemas
 title: Imediatismo do Feedback
 tmap.id: 8fafa4e3-288b-4ccc-b6aa-08614b8f1b7c
 
-A característica vital do feedback é sua imediaticidade. Pois somente por meio de uma ação imediata é possível evitar o acúmulo de várias falhas que exigiriam uma correção simultânea - uma tarefa que, como vimos, pode levar tempo demais para ser viável na prática. [[Livro: Notas sobre a Síntese da Forma]] p.51 (ver [[Sistema Altamente Acoplado]])
+>A característica vital do feedback é sua imediaticidade. Pois somente por meio de uma ação imediata é possível evitar o acúmulo de várias falhas que exigiriam uma correção simultânea - uma tarefa que, como vimos, pode levar tempo demais para ser viável na prática. (Alexander, 1964,  p.51)
+
+(ver [[Sistema Altamente Acoplado]])
 
 ---
 
 >''A NATUREZA SÓ É SÁBIA QUANDO OS FEEDBACKS SÃO RÁPIDOS''
-Não apenas a natureza, mas os sistemas em geral, não podem ser sábios quando os feedbacks são indevidamente atrasados. É provável que o feedback cause problemas se for muito lento ou muito rápido. Ele deve ser ajustado aos ritmos de resposta do sistema, bem como ao ritmo dos eventos reais - uma dupla restrição. Porém, por mais oportuno que seja o feedback, ele tem limitações intrínsecas. Ele não pode prever o futuro." (Gall, 2018, p. 181)
+>Não apenas a natureza, mas os sistemas em geral, não podem ser sábios quando os feedbacks são indevidamente atrasados. É provável que o feedback cause problemas se for muito lento ou muito rápido. Ele deve ser ajustado aos ritmos de resposta do sistema, bem como ao ritmo dos eventos reais - uma dupla restrição. Porém, por mais oportuno que seja o feedback, ele tem limitações intrínsecas. Ele não pode prever o futuro." (Gall, 2018, p. 181)
+
+O imediatismo nos leva a compor as coisas de forma iterativa ao invés de sequencial. Isso significa ir refinando gradualmente o todo usando a informação recebida de volta como instrução para as próximas operações.
+Esse processo é chamado de [[Diferenciação]].
 
 
 <footer>
-
+1.<<nsof>>
+2.<<tsb>>

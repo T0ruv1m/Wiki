@@ -1,5 +1,5 @@
 created: 20241030122036255
-modified: 20241203105956477
+modified: 20241204181858322
 tags: falta/imagem
 title: Livro: Notas sobre a Síntese da Forma
 tmap.id: dbd1c80f-4e4c-46b9-9618-fabcffc70706
@@ -9,14 +9,17 @@ Esse trabalho foi a primeira publicação de Alexander. Ele inicia o livro com u
 
 >Primeiro, a inclusão de detalhes dispersos em uma única ideia, para que todos entendam do que se está falando... Em segundo lugar, a separação da ideia em partes, dividindo-a nas articulações, como a natureza orienta, sem quebrar nenhum membro ao meio, como um mau cortador faria." Platão, Phaedrus, 265D
 
-Esta foi uma publicação derivada de sua tese de pós Doutorado, publicado enquanto era ainda muito novo. Mesmo assim já lidava com um problema em larga escala, planejar uma nova vila para uma comunidade de Indianos. Apesar de ser bastante influente na época, e ser descrito como um livro excepcional de Design, o próprio autor deixa uma errata no prefácio da edição de 10 anos onde pede desculpas pela forma como conduziu seu raciocínio e diz que sua última intenção era que alguém fizesse de sua investigação uma metodologia a ser seguida cegamente. Segue dizendo que o que há de maior valor nesta publicação são os diagramas e não todos aqueles cálculos matemáticos, que podem até mesmo ser desconsiderados. Sendo assim, iremos fazer sua vontade e evitaremos, neste resumo, construir qualquer elaboração sistemática utilizando os conceitos do livro, nos limitando a uma descrição de pontos interessantes.
+Esta foi uma publicação derivada de sua tese de pós Doutorado, publicado enquanto era ainda muito novo. Mesmo assim já lidava com um problema em larga escala, planejar uma nova vila para uma comunidade de Indianos. 
 
-Apesar de ter elaborado um ponto de vista único, acreditamos que Alexander já havia,quando da publicação da segunda edição, abandonado essa forma de pensar. Ainda assim, grande parte do foi dito neste primeiro livro pode ser usado como uma espécie de rastro do pensamento, que irá nos permitir entender sua visão mais tardia e madura sobre o assunto.
+Apesar de ser bastante influente na época, e ser descrito como um livro excepcional de Design, o próprio autor deixa uma errata no prefácio da edição de 10 anos onde pede desculpas pela forma como conduziu seu raciocínio e diz que sua última intenção era que alguém fizesse de sua investigação uma metodologia a ser seguida cegamente. O autor segue dizendo que o que há de maior valor nesta publicação são os diagramas e não todos aqueles cálculos matemáticos, que podem até mesmo ser desconsiderados. Sendo assim, iremos fazer sua vontade e evitaremos, neste resumo, construir qualquer elaboração sistemática utilizando os conceitos do livro, nos limitando a uma descrição de pontos interessantes.
+
+O mérito do livro é ter conseguido elaborar um ponto de vista único. Ainda assim, acreditamos que Alexander já havia,quando da publicação da segunda edição, abandonado essa forma de pensar. Ainda assim, grande parte do foi dito neste primeiro livro pode ser usado como uma espécie de rastro do pensamento, que irá nos permitir entender sua visão mais tardia e madura sobre o assunto.
 
 !!! Forma e Contexto:
 Um dos primeiros exercícios conduzidos no livro é a proposição de que, ao lidar com qualquer problema de design, teremos mais sucesso em resolvê-lo se o organizarmos  em termos de ''Forma'' - tudo aquilo que pode ser modificado pelo designer - e ''Contexto'' - o que está fora do escopo de influência. Em outras palavras, o contexto são as forças externas que atuam sobre a forma.
 
 O exemplo concreto desse pensamento é dado uitilizando uma chaleira.
+$completar$
 
 Esse aspecto é abordado também quando falamos de [[Erro de Enquadramento]].
 
@@ -26,6 +29,7 @@ Outro mérito do livro está em ter desenvolvido, de forma pioneira e completame
 
 Depois de identificar a forma do problema, poderíamos então dividir o objeto em suas varíaveis. Essas podem aparecer de forma bastante específica e direta como:
 
+$completar$
 
 Depois disso podemos agrupá-las em pequenos sub-sistemas. Isto é, grupos que contém todas aquelas variáveis que se relacionam e influenciam-se de forma mais direta. É necessário que esses subsistemas sejam isolados e resolvidos de uma vez só. Uma investigação direta da necessidade de resolução simultânea é conduzida em: [[Sistema Altamente Acoplado]].
 
