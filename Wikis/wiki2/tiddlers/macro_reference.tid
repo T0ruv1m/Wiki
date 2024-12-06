@@ -1,5 +1,5 @@
 created: 20241107001407883
-modified: 20241204140116289
+modified: 20241205105107264
 tags: $:/tags/Macro
 title: macro/reference
 tmap.id: c71e9745-be71-4713-abdf-220357ea9873
@@ -18,4 +18,8 @@ BRAND, Stewart. [[Livro: How Buildings Learn]]: what happens after they're built
 
 \define nsof(p:"")
 ALEXANDER, Christopher. Notes on the Synthesis of Form. Cambridge: Harvard University Press, 1964. $p$
+\end
+
+\define tsb(p:"")
+GALL, John. The Systems Bible: the beginner's guide to systems large and small. 4. ed. Ann Arbor: General Systemantics Press, 2018. $p$
 \end
