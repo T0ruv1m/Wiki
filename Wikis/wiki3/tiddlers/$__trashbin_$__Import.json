@@ -1,0 +1,8 @@
+{
+    "title": "$:/Import",
+    "modified": "20241022215050490",
+    "status": "pending",
+    "type": "application/json",
+    "text": "{\n    \"tiddlers\": {\n        \"Untitled text/plain\": {\n            \"title\": \"Untitled text/plain\",\n            \"text\": \"<</img_intro>>\\r\\n\\r\\n<<diamantes>>\\r\\n\\r\\nProblema:\\r\\n\\r\\n<problema>\\r\\n\\r\\nEsse é o Problema.\\r\\n\\r\\n</problema>\\r\\n\\r\\n<<descricao\\\"{{_desc_livro}}\\\">>\\r\\n\\r\\nPortanto:\\r\\n\\r\\n<solucao>\\r\\n\\r\\nFaça isso e aquilo.\\r\\n\\r\\n</solucao>\\r\\n\\r\\n<<diamantes>>\\r\\n\\r\\n<<mapa \\\"Live View\\\">>\\r\\n\\r\\nReferências:\\r\\n<footer>\\r\\n1.<<refbib\\\" \\\">>\\r\\n</footer>\",\n            \"type\": \"text/plain\"\n        }\n    }\n}",
+    "plugin-type": "import"
+}

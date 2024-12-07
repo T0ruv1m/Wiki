@@ -1,0 +1,10 @@
+created: 20241207010937574
+modified: 20241207012047461
+tags: $:/tags/Macro
+title: macro/outras
+tmap.id: 0cc05a29-c202-4474-bcca-a023b8d63b45
+
+\define outras(n:"")
+<<details label:"Outras Imagens" src:"<<image-pretty img:{{!!img1}} style='width: 100%;' alt:'Image 1'>>" srcClass:"alert alert-secondary" labelClass:"alert alert-secondary">>
+\end
+

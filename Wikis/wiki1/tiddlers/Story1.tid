@@ -1,0 +1,17 @@
+created: 20241206222619558
+modified: 20241206222944994
+title: Story1
+tmap.id: 2b197ae6-fdba-4e12-a240-a9f99afcf398
+
+[[Como um Usuario do Municipio eu quero comprar remédio para que eu possa cubrir minhas demandas]]
+
+Como um Usuario do Municipio, eu quero adicionar remedios ao meu carrinho para que eu possa terminar a compra depois.
+		
+Como um Usuario do Municipio, eu quero ver os itens no carrinho para que eu possa revisar a compra anter de confirmá-la;
+
+Como um Funcionario do CISALV, eu quero ter os produtos separados por Fornecedor para que eu possa fazer as OS mais rápido;
+
+Como um Funcionario do CISALV, eu quero que relatorios de compra sejam gerados automaticamente, para que eu tenha menos trabalho operacional.
+
+
+	

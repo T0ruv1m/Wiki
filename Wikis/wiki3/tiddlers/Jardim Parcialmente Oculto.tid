@@ -1,6 +1,37 @@
 created: 20241107233007750
-modified: 20241109192840524
+modified: 20241207001056032
 tags: .padrão
 title: Jardim Parcialmente Oculto
-tmap.edges: {"1936c4c9-949c-41a5-8b06-d491a2a9d5bc":{"to":"f6aa1eb4-5c42-4335-926f-1c4ed9035742","type":"intensifica"},"0df489fb-4af2-4909-ac3c-1a962e90f66b":{"to":"d6335272-6c7a-4c9d-a1b4-ebbf0f8aca1d","type":"pode aparecer como"},"99657126-cff1-4d8a-8494-2ffff190d9ba":{"to":"2329d13f-6aad-4d2e-8a2b-47bd76935c71","type":"pode aparecer como"},"57f5e760-5b39-4ace-bab9-c2b087bd1584":{"to":"63355349-ab47-4876-8c18-e19d450088b5","type":"deve conter"},"5d7326ab-6e42-4257-9915-a4abc1c2cd1a":{"to":"de600c5f-c0a0-497d-8d37-79ece841f9a2","type":"deve conter"},"d7fc6b6f-305e-49ee-a989-4bd7de2afa0e":{"to":"c23526f3-bb26-4c07-a053-9be083078023","type":"conecta-se a"}}
+tmap.edges: {"0df489fb-4af2-4909-ac3c-1a962e90f66b":{"to":"d6335272-6c7a-4c9d-a1b4-ebbf0f8aca1d","type":"pode aparecer como"},"99657126-cff1-4d8a-8494-2ffff190d9ba":{"to":"2329d13f-6aad-4d2e-8a2b-47bd76935c71","type":"pode aparecer como"},"57f5e760-5b39-4ace-bab9-c2b087bd1584":{"to":"63355349-ab47-4876-8c18-e19d450088b5","type":"deve conter"},"5d7326ab-6e42-4257-9915-a4abc1c2cd1a":{"to":"de600c5f-c0a0-497d-8d37-79ece841f9a2","type":"deve conter"},"d7fc6b6f-305e-49ee-a989-4bd7de2afa0e":{"to":"c23526f3-bb26-4c07-a053-9be083078023","type":"conecta-se a"},"86785017-e3f6-47b9-a8eb-91336949a677":{"to":"f6aa1eb4-5c42-4335-926f-1c4ed9035742","type":"colabora com"}}
 tmap.id: 712c77d7-aa61-432e-a3c6-3781f0d90955
+
+<</img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

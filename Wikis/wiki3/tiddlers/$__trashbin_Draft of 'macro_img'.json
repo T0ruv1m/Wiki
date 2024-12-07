@@ -1,0 +1,10 @@
+{
+    "text": "\\define img(n:\"\")\n<<image-pretty img:{{!!img$n$}} style=\"width: 100%;\" alt:\"Image 1\">>",
+    "created": "20241207011220988",
+    "modified": "20241207011728990",
+    "tags": "$:/tags/Macro",
+    "title": "Draft of 'macro/img'",
+    "tmap.id": "83f0ec30-a540-4558-bc47-f29fbddb806a",
+    "draft.title": "macro/img",
+    "draft.of": "macro/img"
+}

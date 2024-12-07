@@ -1,0 +1,41 @@
+created: 20241207004430418
+img_intro: https://i.pinimg.com/736x/a8/c6/92/a8c692ec7f753f53bdb2445de0dc5078.jpg
+modified: 20241207005954814
+tags: arquetipico padrão/construcao
+title: Enrijecimento Gradual
+tmap.id: c6db91bb-bbee-4fe4-9234-45c8f6a114ef
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+A filosofia fundamental por trás do uso das linguagens de padrões é que as edificações devem ser adaptadas de maneira única às necessidades de seus usuários e lugares; e que o projeto das edificações deve ser um tanto informal e fluido, de modo a atender a estas sutilezas.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Reconheça o fato de que você não está montando uma edificação por meio de mera união de compoentes, como se fosse um kit de construção, mas que , em vez disso, está "tecendo" uma estrutura que já começa completa, como um todo, ainda que frágil, e gradualmente torne-a cada vez mais rígida, até que a obra completa fique muito mais firme e forte.
+
+Acreditamos que, nos dias de hoje, a versão mais natural deste processo seja a construção de uma trama composta de materiais em chapa ou de tecidos, a qual é então enrijecida por um enchimento que trabalhe a compressão.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+<<details label:"Outras Imagens" src:"{{_imgs_enrijecimento}}" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+Referências:
+<footer>
+1.<<refbib"961">>
+</footer>

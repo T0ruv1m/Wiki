@@ -1,5 +1,37 @@
 created: 20241109191636014
-modified: 20241109191638045
+img_intro: 
+modified: 20241207002158346
 tags: .padrão
 title: Gradiente de Intimidade
 tmap.id: 1892a05c-9a93-4f05-8382-46e9e41bb54a
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

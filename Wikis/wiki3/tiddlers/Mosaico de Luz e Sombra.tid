@@ -1,5 +1,41 @@
 created: 20241109191831877
-modified: 20241109191832945
+img_intro: https://i.pinimg.com/736x/b7/7d/de/b77dde8e77af9c894f3ba770b8590208.jpg
+modified: 20241207002206938
 tags: .padrão
 title: Mosaico de Luz e Sombra
+tmap.edges: {"e1976995-6b51-471a-9161-175ace488de4":{"to":"45e24a09-f6d0-4ab6-aa8b-a7fc6f9e7b5c","type":"colabora com"}}
 tmap.id: 95e8c242-d68a-4577-b450-db6baf2ef403
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+
+2. Foto por Paco Rodrigues.
+
+</footer>

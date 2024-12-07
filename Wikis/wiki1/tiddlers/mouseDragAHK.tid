@@ -1,0 +1,16 @@
+created: 20241206164501511
+modified: 20241206164520494
+title: mouseDragAHK
+tmap.id: 4ef914fc-d05b-4b4b-b37b-5d500022d632
+
+<<code"^+q::
+	Click, 1850, 260
+	Sleep, 100
+	MouseClickDrag L, 1866, 262, 1260, 262, 2
+	Click, 1260, 262
+	Click, 1690, 262
+	Sleep, 1500
+	Send, {WheelDown 6}
+	
+return
+">>

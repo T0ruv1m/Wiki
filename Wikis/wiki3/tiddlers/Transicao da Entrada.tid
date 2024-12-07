@@ -3,7 +3,7 @@ img_intro: https://i.pinimg.com/564x/6a/22/4f/6a224f1aab429d69c1edaf94de21830f.j
 modified: 20241109193216635
 tags: .padrão arquetipico
 title: Transição da Entrada
-tmap.edges: {"c1cb9a26-a9db-415f-90de-892c647ee4c6":{"to":"f72773b9-883b-484b-a98a-fb1a53f84e72","type":"deve conter"}}
+tmap.edges: {"c1cb9a26-a9db-415f-90de-892c647ee4c6":{"to":"f72773b9-883b-484b-a98a-fb1a53f84e72","type":"deve conter"},"b2226ec3-446c-4aaf-b41f-70222f9e5eb4":{"to":"45e24a09-f6d0-4ab6-aa8b-a7fc6f9e7b5c","type":"pode incluir"}}
 tmap.id: f6aa1eb4-5c42-4335-926f-1c4ed9035742
 
 <<img_intro>>

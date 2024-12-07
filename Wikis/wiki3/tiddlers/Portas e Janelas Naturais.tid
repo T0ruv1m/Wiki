@@ -1,0 +1,41 @@
+created: 20241206230513328
+img1: https://i.pinimg.com/736x/e3/6b/09/e36b09c67f6fcf3d46b8c7aad63eb173.jpg
+img_intro: https://i.pinimg.com/736x/08/82/d8/0882d8244ad7134d6567075567f11879.jpg
+modified: 20241206234627313
+tags: 
+title: Portas e Janelas Naturais
+tmap.id: 849f044f-2433-4608-aa5e-da791e779e08
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Encontrar a posição ideal para uma janela ou porta é um processo sutil. Mas há alguns modos de construir que levam esse processo em consideração.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Jamais utilize janelas ou portas padronizadas. Faça cada abertura ter um tamanho diferente, conforme sua posição.
+
+Não fixe a posição exata das esquadrias de portas e janelas antes de ter construido uma boa parte da estrutura de cada ambiente e poder entrar no espaço e julgar, a olho, exatamente onde gostaria de colocar cada abertura e escolher que tamnho ela deveria ter. Para decidir, marque as aberturas com barbantes.
+
+Conforme sobem os pavimentos faça as janelas cada vez menores.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+Referências:
+<footer>
+1.<<refbib"1046">>
+</footer>

@@ -1,5 +1,40 @@
 created: 20241109193728276
-modified: 20241109193729117
+img1: https://i.pinimg.com/736x/28/4b/43/284b43e5f1c239f5ef321906fd12ba02.jpg
+img_intro: https://i.pinimg.com/736x/67/ba/2a/67ba2ae888debec35aaf35108fe401dc.jpg
+modified: 20241207012050987
 tags: .padrão
 title: Passeio com Pérgola e Verde
 tmap.id: 0cc327ab-8c9c-4c4e-a3ae-02ce77e43060
+
+<</img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+<<outras"1">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>
