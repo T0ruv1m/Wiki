@@ -1,10 +1,20 @@
 created: 20241207010937574
-modified: 20241207012047461
+img1: https://i.pinimg.com/736x/ad/11/a5/ad11a51522021bdaf50319434f70fe61.jpg
+modified: 20241207032547320
 tags: $:/tags/Macro
 title: macro/outras
 tmap.id: 0cc05a29-c202-4474-bcca-a023b8d63b45
 
-\define outras(n:"")
-<<details label:"Outras Imagens" src:"<<image-pretty img:{{!!img1}} style='width: 100%;' alt:'Image 1'>>" srcClass:"alert alert-secondary" labelClass:"alert alert-secondary">>
+\define outras(img-quantity:"")
+<$set name="imageCount" value="<<img-quantity>>">
+  <<details 
+    label:"Outras Imagens" 
+    src="""<div class='centered-image' style='display: flex; justify-content: space-between; align-items: flex-start; width: 100%;'>
+      <$list filter="[<imageCount>range[1..3]]">
+        <img src={{!!img<currentTiddler>}} style='width: 240px; object-fit: cover; overflow: hidden; margin-right: 10px;' />
+      </$list>
+    </div>"""
+    srcClass:"alert alert-secondary" 
+    labelClass:"alert alert-secondary">>
+</$set>
 \end
-

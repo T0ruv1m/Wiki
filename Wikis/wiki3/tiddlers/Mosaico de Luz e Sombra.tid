@@ -1,9 +1,9 @@
 created: 20241109191831877
 img_intro: https://i.pinimg.com/736x/b7/7d/de/b77dde8e77af9c894f3ba770b8590208.jpg
-modified: 20241207002206938
+modified: 20241208000719580
 tags: .padrão
 title: Mosaico de Luz e Sombra
-tmap.edges: {"e1976995-6b51-471a-9161-175ace488de4":{"to":"45e24a09-f6d0-4ab6-aa8b-a7fc6f9e7b5c","type":"colabora com"}}
+tmap.edges: {"e1976995-6b51-471a-9161-175ace488de4":{"to":"45e24a09-f6d0-4ab6-aa8b-a7fc6f9e7b5c","type":"colabora com"},"e391c5e3-d7db-4fa2-8d35-275961316492":{"to":"cecf17cb-8c46-4c31-990c-ad222811482c","type":"deve conter"},"30f43ee1-1ce8-467e-a85d-93b305b4ccf4":{"to":"cfc326b4-c7d4-486c-9b3b-c7f9ff2d7015","type":"utiliza"}}
 tmap.id: 95e8c242-d68a-4577-b450-db6baf2ef403
 
 <<img_intro>>
@@ -14,7 +14,7 @@ Problema:
 
 <problema>
 
-Esse é o Problema.
+Em uma edificação com níveis de iluminação uniformes, há poucos "lugares" que funcionam como ambientes efetivos para os eventos humanos. Isso ocorre porque, em grande parte, os lugares que configuram ambientes efetivos são determinados pelo nível de iluminação.
 
 </problema>
 
@@ -24,7 +24,7 @@ Portanto:
 
 <solucao>
 
-Faça isso e aquilo.
+Alterne as áreas iluminadas e sombreadas por toda a edificação, de maneira que as pessoas caminhem naturalmente em direção à luz sempre que estiverem se deslocando para um lugar importante , um banco, uma entrada, uma escada, um corredor, um lugar especialmente bonito. As demais áreas devem ser mais escuras, para aumentar o contraste.
 
 </solucao>
 
@@ -34,7 +34,7 @@ Faça isso e aquilo.
 
 Referências:
 <footer>
-1.<<refbib" ">>
+1.<<refbib" 644">>
 
 2. Foto por Paco Rodrigues.
 

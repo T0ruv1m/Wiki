@@ -1,12 +1,34 @@
 created: 20241024170622010
-modified: 20241108232213652
+modified: 20241208002906791
 tags: 
 title: Home
 tmap.id: b3776389-b10a-4516-a700-9080d580bd1f
 
+<footer>
+[[Livro: Uma Linguagem de Padrões|http://189.126.106.101:8080/wiki2]]
+</footer>
 
-* [[Livro: Uma Linguagem de Padrões|http://189.126.106.101:8080/wiki2]]
-* [[_Índice da Linguagem Original]]
+Comece pelo:
+
+!! [[_Índice da Linguagem Original]]
+
+ou: 
+
+<<details label:" Padrões Favoritos" src:"
+* [[Espaço Externo Positivo]]
+* [[Parquinhos Rústicos e Dinâmicos]]
+* [[Vista Zen]]
+* [[Enrijecimento Gradual]]
+* [[Coisas da Sua Vida]]
+" srcClass:"alert alert-secondary" labelClass:"alert alert-secondary">>
+
+---
+
+Ver também:
+
+[[Padrões Pessoais]]
+
+---
 
 <<details label:"Pequeno Disclaimer" src:"{{_disclaimer}}" srcClass:"alert alert-secondary" labelClass:"alert alert-primary">>
 

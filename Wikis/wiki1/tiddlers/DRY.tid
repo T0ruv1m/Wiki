@@ -1,5 +1,5 @@
 created: 20241116205758265
-modified: 20241116205843505
+modified: 20241207034855557
 tags: principle/gudpractices
 title: DRY
 tmap.id: 8156251e-2771-4eb5-a764-ddbd2542b884
@@ -7,3 +7,5 @@ tmap.id: 8156251e-2771-4eb5-a764-ddbd2542b884
 Don't Repeat Yourself
 
 Each thing must have only one representation within a system.
+
+Of course it has a evil twin. The Anti-pattern [[WET]].

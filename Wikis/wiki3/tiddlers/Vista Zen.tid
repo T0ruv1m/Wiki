@@ -1,6 +1,6 @@
 created: 20241109191824684
 img_intro: https://i.pinimg.com/736x/93/04/40/930440aff751bdbdfb9fcbe376925a23.jpg
-modified: 20241207000209895
+modified: 20241208001729437
 tags: .padrão
 title: Vista Zen
 tmap.edges: {"8808be4e-8b09-40e8-a812-b80d825d99a4":{"to":"849f044f-2433-4608-aa5e-da791e779e08","type":"deve conter"},"aeb1d1b4-8860-4d6e-bcf2-8c4a89c76eaf":{"to":"cecf17cb-8c46-4c31-990c-ad222811482c","type":"deve conter"}}
@@ -35,5 +35,5 @@ Se a janela for posicionada corretamente, as pessoas terão apenas um vislumbre 
 
 Referências:
 <footer>
-1.<<refbib" ">>
+1.<<refbib"641">>
 </footer>

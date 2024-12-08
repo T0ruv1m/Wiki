@@ -1,0 +1,36 @@
+created: 20241207235350588
+img_intro: https://i.pinimg.com/736x/b7/3b/92/b73b92e9ac2882231c4ec51ae5565623.jpg
+modified: 20241207235925944
+title: Coisas da Sua Vida
+tmap.id: 60ee98e9-8c54-453e-9b46-5f5b3ac2934c
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+A "decoração" e o conceito de "arquitetura de interior" se tornaram tão difundidos que os próprios usuários muitas vezes se esquecem do instinto que têm pelas coisas que eles realmente querem ter ao seu redor.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Não caia na armadilha de acreditar que uma decoração moderna deve ser chique, psicodélica, "natural", "modernista", "orgânica" ou qualquer outra coisa que os artistas da moda acreditam. A decoração mais bonita de todas é aquela que vem direto de sua vida - os objetos que têm valor sentimental, as coisas que contam sua história.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib"1164">>
+</footer>
