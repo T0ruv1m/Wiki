@@ -1,9 +1,21 @@
 created: 20241209003222370
-modified: 20241209005538016
+modified: 20241210011927402
+tags: 
 title: O que Software tem a ver com Arquitetura?
 tmap.id: 07a240cf-be55-4ed5-b411-0d70dadbadb7
 
-Os engenheiros de software é ainda um bebê se comparado à Arquitetura. O campo nasceu no século passado, mas no seu curto período de vida ja sofreu com a tentativa de imposição de métodos de trabalho derivados de outras profissões. Eles aprenderam, da forma mais difícil, que o design é um processo dinâmico que exige reajustes constantes, e não uma cascata de decisões e estágios totalmente independentes. Em meio a pressão por resultados e a observada ineficiência dos métodos empregados, tiveram que protestar em busca de melhores condições, um desses protestos resultou no "Manifesto AGILE". Essa lição foi tão profunda que hoje a "Metodologia Ágil" é amplamente aplicada no mercado. Ela se opõe fortemente ao que chamam de "Big Design Upfront" (Grande Planejamento Antecipado). No Manifesto Ágil, eles afirmam o seguinte:
+!! O programador e o Arquiteto:
+
+Uma parte integral de qualquer método são as ferramentas que ele utiliza. E todos podem notar que, atualmente, a maior parte do trabalho arquitetônico é realizada por meio de softwares. Isso significa que as ferramentas utilizadas pelos arquitetos foram projetadas por engenheiros de software.
+Querendo ou nao, isso acaba por determinar grande parte do que somos capazes de fazer e de como pensamos sobre projetar. Sendo eles os criadores de nossas ferramentas, os programadores tornam-se, de repente, figuras relevantes para os arquitetos contemporâneos. Considero então interessante explorar as semelhanças e diferenças entre essas profissões.
+
+A engenharia de software, tendo nascido no século passado, é ainda um bebê se comparado ao tempo de vida da Arquitetura como disciplina. Essa nova profissão, mesmo no seu curto período de vida, ja sofreu com a tentativa de se adequar aos métodos de trabalho derivados de outras profissões.
+
+Justamente por ser tão recente, uma mesma geração de programadores conseguiu presenciar a perda em eficiência e qualidade gerada pela transição da forma mais informal e direta de trabalho, característica dos primórdios da disciplina, para métodos rígidos e burocráticos como o chamado "Modelo em Cascata".
+
+Em meio a pressão por resultados e a observada ineficiência dos métodos recentemente empregados,  esses profissionais aprenderam, da forma mais difícil, que teriam mais sucesso entendendo o design como um processo dinâmico e de reajustes constantes, e não uma cascata de decisões e estágios totalmente independentes e sequênciais, como é por exemplo o modus operandi dos arquitetos.
+
+Em meio a essa situação emergiram figuras que protestaram em busca de melhores condições de trabalho e revisões metodológicas, um desses protestos resultou no "Manifesto AGILE". A lição aprendida nesse período foi tão profunda que hoje  "Metodologia Ágil" é amplamente aplicada no mercado. Ela se opõe fortemente ao que chamam de "Big Design Upfront" (Grande Planejamento Antecipado). No Manifesto Ágil, publicado e assinado por diversos programadores importantes, eles afirmam o seguinte:
 
 >"Estamos descobrindo melhores maneiras de desenvolver software, fazendo-o nós mesmos e ajudando outros a fazê-lo. Através deste trabalho, passamos a valorizar:
 
@@ -14,28 +26,33 @@ Os engenheiros de software é ainda um bebê se comparado à Arquitetura. O camp
 
 >Ou seja, embora haja valor nos itens à direita, valorizamos mais os itens à esquerda." (Manifesto Ágil, 2001).
 
-O que muitos não sabem é que os signatários desse manifesto foram fortemente influenciados por [[Christopher Alexander]], incluindo [[Ward Cunningham]] e [[A Gangue dos Quatro]], que são citados nesse trabalho. Essa metodologia se baseia na ideia de [[Crescimento Gradual]], proposta por Alexander, que defende que o design é melhor alcançado por meio de iterações constantes e espaçados ao longo do tempo, ao invés de um planejamento rígido e definido desde o início.
+O que muitos não sabem é que os signatários desse manifesto foram fortemente influenciados por [[Christopher Alexander]], incluindo [[Ward Cunningham]] e [[A Gangue dos Quatro]], que são citados nesse trabalho. Essa metodologia se baseia na ideia de [[Crescimento Gradual]], proposta por Alexander, que na época tentava convencer seus colegas arquitetos da mesma coisa: que teríamos mais sucesso trabalhando por meio de iterações constantes e espaçadas ao longo do tempo, ao invés de um planejamento rígido e definido desde o início.
 
-A ideia central à ambos é que, apenas tendo uma concepção inicial do todo e, em seguida, ajustando-a gradualmente, torna-se possível alcançar resultados precisos e satisfatórios. O processo de tentativa e erro revela as condições de melhoria, algo que o design estático não consegue prever adequadamente.
+Reforçamos que a ideia central em ambos os casos é a de que, apenas partindo de uma concepção inicial do todo e, em seguida, ajustando-a gradualmente, torna-se possível alcançar resultados precisos e satisfatórios. O processo de tentativa e erro revela as condições de melhoria, algo que o design estático não consegue prever adequadamente.
 
-Atualmente, a maior parte do trabalho arquitetônico é realizada por meio de softwares. Isso significa que as ferramentas utilizadas pelos arquitetos foram projetadas por engenheiros de software,e isso acaba determinando grande parte do que somos capazes de fazer e de como pensamos sobre o projetar. Como criadores de nossas ferramentas, os programadores tornam-se, de repente, figuras relevantes para os arquitetos contemporâneos. Considero então interessante explorar as semelhanças e diferenças entre essas profissões.
+Sofwares e construções são, entretanto, coisas muito diferentes. O mundo do software tem a vantagem de ser virtual, de lidar com produtos efêmeros e sem peso físico, os chamados programas de computador. Reformas em programas são mais baratas e não geram resíduos. Tudo o que um programador faz ocorre em um meio maleável, sem decisões "concretas" no sentido literal. Isso torna a adaptabilidade muito mais fácil, mas isso não é suficiente para dizer que que edificações não deveriam buscar ser também entidades adaptáveis.
 
-O mundo do software tem a vantagem de ser virtual, lidando com produtos efêmeros e sem peso físico, os chamados programas. Reformas em programas são mais baratas e não geram resíduos. Tudo o que um programador faz ocorre em um meio tratável, sem decisões "concretas" no sentido literal.
+Talvez pensando nisso, as ferramentas virtuais de planejamento tentem simular esse ambiente fluido, mas, como o estudioso de sistemas (Gall, 2018) nos diz [[Novos Sistemas Significam Novos Problemas]]: as simulações por computador, por serem tão abstratas e dissociadas do mundo, falham em fornecer tudo o que um arquiteto precisa para trabalhar.
 
-Consequentemente, as ferramentas virtuais de planejamento tentam simular esse ambiente fluido, mas enfrentam um problema: as simulações por computador, por serem tão abstratas e dissociadas do mundo, falham em fornecer tudo o que um arquiteto precisa para trabalhar. Escritores, programadores, designers gráficos ou pintores, ao usar o computador, estão definitivamente mais próximos da "coisa real", ou seja, do meio de seu trabalho. Já o arquiteto age como se fosse apenas mais um elemento nesse conjunto de profissões enqunato, na verdade, nosso trabalho é muito diferente. Ao invés de estarmos em contato direto com o produto criado, trabalhamos em abstrações que informam um passo posterior e distante.
+Escritores, programadores, designers gráficos ou pintores, ao usar o computador, estão definitivamente mais próximos da "coisa real", ou seja, do meio de seu trabalho. Já o arquiteto age como se fosse apenas mais uma dessas profissões enquanto, na verdade, seu trabalho é de uma natureza inteiramente diferente. Ao invés de nos colocarmos em contato direto com o produto criado, trabalhamos exclusivamente nesses modelos e desenhos que impõem descritivamente como a edificação vai ser concebida em um passo posterior e distante. É nesse momento onde toda a adaptabilidade das estruturas físicas vai por água abaixo.
 
-Se reinterpretarmos o arquiteto como alguém que simplesmente produz desenhos no computador, então pode-se dizer que ele está cumprindo seu papel adequadamente. Contudo, se adotarmos a concepção mais ampla de que o arquiteto cria edifícios, torna-se evidente o quão dissociados estamos de nosso verdadeiro trabalho criativo. Com essa mudança de perspectiva, podemos criticar as ferramentas que usamos, compreender por que frequentemente falhamos em entregar bons resultados e buscar formas melhores de trabalhar.
+Se reinterpretarmos o arquiteto como alguém que simplesmente produz desenhos no computador, então pode-se dizer que ele está sim cumprindo seu papel adequadamente. Contudo, ao adotarmos a concepção mais ampla de que o arquiteto cria edifícios, torna-se evidente o quanto essas abstrações nos distanciam de nosso verdadeiro ambiente criativo. Somente com essa mudança de perspectiva, podemos criticar as ferramentas que usamos, compreender por que frequentemente falhamos em entregar bons resultados e com isso buscar formas melhores de trabalhar.
 
- Uma extensão a esse pensamento está em: [[Crítica ao Design auxiliado por Computadores]]
+Uma extensão a esse pensamento está em: [[Crítica ao Design auxiliado por Computadores]]
 
-Christopher Alexander percebeu isso e dedicou grande parte de sua carreira a tentar fazer as pessoas notarem esse problema. Ele buscou encontrar novas formas de trabalho que entregassem resultados confiáveis e de qualidade.
+Christopher Alexander percebeu isso e dedicou grande parte de sua carreira a tentar fazer as pessoas notarem o problema criado por essa forma relativamente recente de conceber construções. Ele buscou, ao longo de sua carreira, encontrar novas formas de trabalho que entregassem resultados confiáveis e de qualidade.
 
->"A ideia de que podemos chegar a um edifício usando desenhos é uma ficção. Por favor, acreditem, é uma ficção."
+>"A ideia de que podemos chegar a um edifício usando desenhos é uma ficção. Por favor, acreditem, é uma ficção." [...] Maior parte do meu trabalho é tentar encontrar alternativas modernas para fazer essa coisa direito. Isso envolve muitas coisas, envolve uma grande quantidade de trabalho juntamente com as pessoas para as quais as construções são feitas, envolve um processo mais lento com o terreno e, é claro, envolve a integração completa das atividades de design, construção e monetização.(tradução nossa)
 (Alexander, disponível em: https://youtu.be/a8wPKso-J4A).
 
-Dica: Uma solução envolve a integração completa das atividades de design, construção e monetização. [[Construção como um Fazer]]
+Acreditamos que o trabalho de Alexander foi tão frutífero no campo do desenvolvimento de software justamente por conta de sua filosofia conversar tão bem com a intuição humana mais primitiva de como fazer as coisas. A minha hipótese é a de que os programadores foram os primeiros as notarem isso devido ao fato de que essas metodologias que já dominava a maioria das profissões ainda não tinham sido consolidadas dentro dessa nova cultura.
 
-Referências
-AGILE Manifesto. Manifesto for Agile Software Development. Disponível em: https://agilemanifesto.org/. Acesso em: 08 dez. 2024.
-ALEXANDER, Christopher. The Timeless Way of Building. Oxford University Press, 1979.
-ALEXANDER, Christopher. Vídeo: "The idea that we can get to a building using drawings is a fiction". Disponível em: https://youtu.be/a8wPKso-J4A. Acesso em: 08 dez. 2024.
+Talvez chegue o período em que nova geração de arquitetos se posicione para  reavaliar os métodos e mudar a natureza da profissão, assim como fizeram os desenvolvedores de software ao ouvirem as palavras de um arquiteto revoltado. Ou, talvez, a solução tenha de vir de fora, de alguma revolução tecnológica possibilitada pelas IAs ou pelo surgimento de outra disciplina completamente nova.
+
+<footer>
+
+1.AGILE Manifesto. Manifesto for Agile Software Development. Disponível em: https://agilemanifesto.org/. Acesso em: 08 dez. 2024.
+
+2.<<twb>>
+
+3.ALEXANDER, Christopher. Vídeo: ''Christopher Alexander Lecture 1995 London''. Disponível em: https://youtu.be/a8wPKso-J4A. Acesso em: 08 dez. 2024.

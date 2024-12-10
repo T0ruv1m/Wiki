@@ -1,0 +1,54 @@
+created: 20241209235734014
+modified: 20241210000250896
+tags: $:/tags/Tiddly2PDF/pdfStyle Tiddly2PDF/pdfStyle
+title: $:/PDF/Stylesheet
+type: text/css
+
+/* General Styles */
+body {
+  font-family: "Georgia"; /* Choose a legible font */
+  font-size: 18px; /* Comfortable size for body text */
+  line-height: 1.6; /* Good spacing between lines */
+  color: #333; /* Dark gray for text */
+  background-color: #F7F7F7; /* Light gray for background */
+  margin: 0;
+  padding: 20px;
+}
+
+/* Container for the content */
+.content {
+  max-width: 800px; /* Limit line length */
+  margin: 0 auto; /* Center the content */
+  padding: 20px;
+  background-color: #FFF; /* White background for the content area */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for focus */
+  border-radius: 8px; /* Rounded corners for a friendly look */
+}
+
+/* Headers */
+h1, h2, h3 {
+  font-family: "Arial", "Sans-serif"; /* Differentiated font for headings */
+  color: #222; /* Slightly darker for headings */
+  line-height: 1.4; /* Compact spacing for headers */
+  margin-bottom: 10px;
+}
+
+/* Paragraphs */
+p {
+  margin: 0 0 1em; /* Space between paragraphs */
+}
+
+/* Links */
+a {
+  color: #007BFF; /* Blue for links */
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #0056b3; /* Darker blue for hover state */
+  text-decoration: none;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0 0

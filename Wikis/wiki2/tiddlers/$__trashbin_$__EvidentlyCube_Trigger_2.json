@@ -1,0 +1,15 @@
+{
+    "created": "20241210001206455",
+    "auto-trigger-input": "1",
+    "auto-trigger-textarea": "1",
+    "caption": "Enclosed",
+    "display-filter": "",
+    "filter": "[all[tiddlers]!is[system]!is[draft]search:title<query>]",
+    "modified": "20241210001938539",
+    "tags": "$:/tags/EC/AutoComplete/Trigger",
+    "template": "{{$option$}}$caret$",
+    "text": "",
+    "title": "$:/EvidentlyCube/Trigger/2",
+    "transform-filter": "",
+    "trigger": "{{"
+}

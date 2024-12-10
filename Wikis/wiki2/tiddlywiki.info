@@ -10,7 +10,8 @@
         "flibbles/vis-network",
         "flibbles/relink",
         "tiddlywiki/comments",
-        "OokTech/TwederBob"
+        "OokTech/TwederBob",
+	"tiddlywiki-printriver/printriver"
     ],
     "themes": [
         "tiddlywiki/vanilla",

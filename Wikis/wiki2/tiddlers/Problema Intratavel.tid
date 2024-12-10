@@ -1,5 +1,5 @@
 created: 20241124213537362
-modified: 20241124221037114
+modified: 20241209145449840
 title: Problema Intratável
 tmap.id: 849947c1-daff-4e81-938e-40b27c7f5eee
 
@@ -28,14 +28,14 @@ Se fôssemos estudar todas as varíaveis e a forma como elas se relacionam, e  s
 
 O verdade os problemas são tão complexo que se não tomarmos decisões arbitrárias(puramente por gosto ou hábito) seremos vítima do que os psicólogos chamam de paralisia por análise.
 
-As pessoas que estavam envolvidas na formulação de uma inteligência aritificial de xadrêz nos anos XX, passaram por um problema similar. Mesmo no Xadrez, um jogo com um numero de posições e movimentos restritos, o número de possíveis caminhos aumenta exponencialmente a cada turno. Nem mesmo um computador com os poderes de processamento atuais consegue calcular a menor sequência de movimentos que leva até um check-mate.
+As pessoas que estavam envolvidas na formulação de uma inteligência aritificial de xadrêz nos anos XX, passaram por um problema similar. Mesmo no Xadrez, um jogo com um numero de posições e movimentos restritos, o número de possíveis "linhas do tempo" aumenta exponencialmente a cada turno. Nem mesmo um computador com os poderes de processamento atuais consegue calcular a menor sequência de movimentos que leva até um check-mate.
 Para resolver esse problema,  eles fizeram com que a máquina operasse através de heurísticas (ou "[[Regras de Ouro|Todos se baseiam em regras de ouro]]").
 
-No curso aprendemos algumas regras que informam nossas decisões e reduzem o fardo cognitivo que é planejar uma edificação. Porém, por conta da natureza do problema, é impossível prever todos os conflitos. Só sabemos que conforme tomamos decisões alguns desses conflitos se tornam mais aparentes. Sendo assim uma estratégia comum é tomar a decisão primeiro e lidar com os problemas que ela ocasiona depois. A partir das nossas primeiras concepções nós remendamos e modificamos a ideia original até limpá-la de todos os conflitos e erros grosseiros que conseguimos simular simplesmente olhando para o desenho ou modelo. 
+No curso aprendemos algumas regras que informam nossas decisões e reduzem o fardo cognitivo que é planejar uma edificação. Porém, por conta da natureza do problema, é impossível prever todos os conflitos. Só sabemos que, conforme tomamos decisões alguns, desses conflitos se tornam mais aparentes. Sendo assim uma estratégia comum é tomar a decisão primeiro e lidar com os problemas que ela ocasiona depois. A partir das nossas primeiras concepções nós remendamos e modificamos a ideia original até limpá-la de todos os conflitos e erros grosseiros que conseguimos prever simplesmente olhando para o desenho ou modelo. 
 
 Esse modo de resolver o projeto parece suficiente enquanto estamos na faculdade, pois não somos levados a realmente executar nossos projetos. Só no canteiro de obras nós perceberíamos a quantidade de microproblemas que foram criados por aquela decisão de colocar a parede em um local específico quando estavámos no computador alguns meses antes. Esse é o problema exposto em [[Feedback no Canteiro]] e [[Crítica ao Design auxiliado por Computadores]].
 
 Acontece que, como já foi dito anteriormente, aprendemos a resolver problemas intratáveis usando regras de ouro.
 Cada etapa de um processo intratável contém uma operação mais adequada para aproximar o problema de um estado em que podemos considerá-lo resolvido. 
 
-E como cada etapa modifica a anterior, elas não podem ser pensadas todas antes de se começar o trabalho. Deve-se esperar a condição que se forma após a ultima operação, formando um todo por [[Crescimento Gradual]]. Isso não é possível quando ainda estamos no estágio de simulação. ver [[O mundo é o melhor modelo de si]].
+E como cada etapa modifica a anterior, elas não podem ser pensadas todas antes de se começar o trabalho. Deve-se esperar a condição que se forma após a ultima operação, formando um todo por [[Crescimento Gradual]]. Todas as decisões não podem ser tomadas quando ainda estamos no estágio de simulação. Por isso, ver [[O mundo é o melhor modelo de si]].

@@ -1,21 +1,20 @@
 created: 20241030143724620
-modified: 20241204172634474
+modified: 20241210013727263
 tags: falta/consertar
 title: Erro de Enquadramento
 tmap.id: c7638692-00b1-44ec-8d08-f3467905aea6
 
-russian pencil;
+>Há uma história em que a NASA tentou descobrir como fazer uma esferográfica que funcionasse no espaço. Se alguma vez tentou usar uma esferográfica sobre a cabeça, provavelmente já percebeu que é a gravidade que mantém a tinta fluindo. Após uma série de protótipos, vários testes e toneladas de dinheiro investido, a NASA desenvolveu uma caneta totalmente funcional e independente da gravidade, que empurra a tinta para o papel por meio de nitrogénio comprimido. De acordo com esta história, os russos enfrentaram o mesmo problema. Então, eles usaram lápis.(De Bono apud Ahrens, 2023, p 31)
 
-
-Como gostamos de pensar sobre um problema jacobs.
+---
 
 >A frase popular "pensar fora da caixa" nos incentiva a reconhecer restrições que podem não ser aplicáveis e a ignorá-las. Mas essa frase não é totalmente precisa. Se a "caixa" é o limite das restrições e condições, então o truque é encontrar a caixa, que pode ser consideravelmente maior do que você pensa. - (Hunt; Thomas, 1999, p.42)
 
 [[Conceitos Arbitrarios]] se refere a como abstrações podem facilmente nos remover da realidade e formular os problemas de forma errada.
 
-[[Conceitos Arbitrarios]]
-[[Tabuleiro de Xadrez Mutilado]]
-
+[[Tabuleiro de Xadrez Mutilado]] e [[Problema dos 9 Pontos]] são demonstrações de erros de enquadramento.
 
 <footer>
-HUNT, Andrew; THOMAS, David. The Pragmatic Programmer: from journeyman to master. 1. ed. Boston: Addison-Wesley, 1999
+1.AHRENS, Sönke. Como escrever boas notas: Uma técnica simples para melhorar a escrita, o aprendizado e o raciocínio. Capa comum, São Paulo: Auster, 2023.
+
+2.HUNT, Andrew; THOMAS, David. The Pragmatic Programmer: from journeyman to master. 1. ed. Boston: Addison-Wesley, 1999

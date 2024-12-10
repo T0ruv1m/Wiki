@@ -1,6 +1,6 @@
 created: 20241027210211534
-modified: 20241101150615974
-tags: TableOfContents
+modified: 20241210002403625
+tags: TableOfContents pdf
 title: O que é um Padrão afinal?
 tmap.id: 982b4bac-b0f5-42ff-ac87-20482872c7b9
 
@@ -13,7 +13,6 @@ A definição mais concisa seria:
 Talvez seja necessário destrinchar essa definição.Por isso,aqui estão separadas algumas notas que descrevem positivamente aspectos específicos dos padrões e os definem por perspectivas diferentes.
 
 <<tabs "[tag[padroes]]" class:"tc-vertical">>
-
 
 <footer>
 A enfase em //inventado// é explicado melhor na nota [[Padrões são Diamantes]]

@@ -1,0 +1,9 @@
+author: Simon Huber
+dependents: 
+description: A story river for printing
+list: readme license
+plugin-type: plugin
+revision: 0
+title: $:/plugins/BTC/PrintRiver
+type: application/json
+version: 0.3.1

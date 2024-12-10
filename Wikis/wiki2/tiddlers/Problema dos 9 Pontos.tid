@@ -1,10 +1,29 @@
 created: 20241028012554312
-modified: 20241030143720510
+modified: 20241210011403021
 title: Problema dos 9 Pontos
 tmap.id: 989f3a2c-29c8-4f40-a252-36f78c2b0693
 
+<br>
+<br>
+
+<<image-basic [[9dot.png]] width:"200px" align:"center" caption:"" tooltip:"" alt:"">>
+
+<br>
+<br>
+
+O problema é bem simples:
+
+Primeiro replique esse padrão em uma folha de papel.
+
+Então tente percorrer os 9 pontos usando no máximo 4 traços retos sem criar descontinuidades (isto é, sem tirar a caneta do papel e começar de outro ponto).
+
+<<details label:"Dica" src:"Tente pensar fora da caixa!">>
 
 
+A incapacidade da maioria das pessoas em resolver esse problema é um exemplo clássico de um [[Erro de Enquadramento]]. Estamos tão acostumados a postular o problema de um jeito que criamos restrições onde não existem.
+
+A dicotomia "forma" e "contexto" elaborada em [[Livro: Notas sobre a Síntese da Forma]] talvez seja melhor compreendida a luz deste exemplo.
+
+<<details label:"Ver Solução" src:"{{_solução9dot}}<br>Essa é apenas uma das soluções possíveis. Se você não tinha conseguido e achou que o problema tinha 'pegadinha', então tente resolver criando um padrão diferente.">>
 
 
-Esse é um exemplo clássico de um [[Erro de Enquadramento]]
