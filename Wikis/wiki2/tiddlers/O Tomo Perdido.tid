@@ -1,0 +1,35 @@
+created: 20241211231704157
+modified: 20241212005112707
+title: O Tomo Perdido
+tmap.id: bbf54d65-5b4c-4d27-a2d5-47c3a8566d48
+
+!! Resultados ineficazes:
+
+É provável que o maior crítico da teoria dos padrões tenha sido o próprio Alexander. Sua opnião é de que as tentativas documentadas da aplicação da linguagem culminaram em nada senão "edifícios fragmentados" e, em ultima instância, "um resultado medíocre".^^(2)^^
+
+Logo após a publicação do [[Livro: Uma Linguagem de Padrões]] em 1977, Alexander, tentando endereçar esses aspectos que a linguagem de padrões não conseguia resolver, abandona todo seu trabalho e se dedica a escrever o que iremos chamar posteriormente de sua "Segunda Teoria". 
+
+A publicação dessa outra teoria, que alguns autores consideram uma versão  revisada da primeira(Leitner) (Quillen), ocorre apenas após um longo período de silêncio, um hiato que leva 25 anos e culmina na publicação de quatro volumes de uma mesma obra entitulada [[The Nature of Order]]. 
+
+Entretanto, o objetivo aqui não é discutir seus pensamentos mais recentes, mas sim resgatar um //tomo perdido//. Um livro citado nas primeiras palavras da primeira página do livro uma linguagem de padrões, que é dito também como sendo uma outra metade da mesma obra.
+
+O que prentedemos enfatizar é que apesar de ser citado na primeira página e com isso parecer ser importante,o que realmente ocorre é que ele foi deixado completamente de lado.
+
+!! O aspecto negligenciado:
+
+Mesmo Alexander tendo seguido em frente e deixado os padrões para trás, alguns dos fiéis adeptos ao seu primeiro trabalho passaram a defender que era ainda muito cedo para descartá-lo e que as razões pelas quais a linguagem falhou dizem menos respeito a teoria e sim como ela foi mal-interpretada na prática.
+
+Para entender isso podemos começar lendo as primeira páginas do Livro, que citam a existência de uma estrutura em formato de rede que sustenta a aplicação dos padrões:
+
+> Uma linguagem de padrões tem a estrutura de uma rede. Esse conceito é explicado em detalhes no volume //The Timeless Way of Building//. Contudo, quando usamos a rede de uma linguagem, sempre a empregamos com uma sequência, utilizando os padrões, sempre passando dos padrões maiores para os menores, partindo daqueles que criam as estruturas para aqueles que as refinam e então aos que refinam ainda mais... (Alexander, 2013, p. xxi)
+
+[[Nikos Salingaros]], um matemático por formação e amigo antigo de Alexander, mas que ainda é ativo e bastante influente no campo da arquitetura, atribui o fracasso da aplicabilidade dos padrões no universo da arquitetura à falta de compreensão sobre essa estrutura da linguagem, dizendo que exatamente esse aspecto de rede foi negligênciado pelos primeiros usuários:
+
+>Qualquer fraqueza percebida dos padrões pode estar nos padrões individuais, mas é mais provável que seja o resultado de não se compreender a sua linguagem combinatória. Embora os padrões de design escritos na forma alexandrina façam alusão à sua conetividade com outros padrões (no prelúdio e no posfácio), é difícil visualizá-los sem um mapa de ligação. Mesmo os arquitectos que utilizam padrões tendem a não saber como é que os padrões se ligam uns aos outros, de forma que o design resultante carece frequentemente de coerência em grande escala. (Salingaros, 1998, p.151)
+
+Como já fora citado no trecho de abertura, o livro auxiliar de Uma Linguagem de Padrões que é chamado pelo nome em inglês: [[The Timeless Way of Building|Livro: The Timeless Way of Building]] aborda essa dimensão importante da linguagem com mais detalhes. Nele temos um capítulo inteiro dedicado a entender [[A Estrutura da Linguagem]]. A razão pela qual utiliza-se, tanto aqui como no trecho citado, o nome original da obra e não sua tradução é, justamente, porque não houve tradução alguma. "//O modo atemporal de construir//" como talvez fosse chamado desse lado do equador ainda não pode ser discutido e criticado, já que não é nem conhecido, e sua aplicação ainda não poderia ter falhado uma vez que a edição brasileira de ULDP só foi publicada 46 anos após a original, em 2013, sem qualquer previsão para a subsequente tradução do importante tomo parceiro.
+
+Por conta disso, se Salingaros,  e outros defensores da primeira teoria estiverem corretos em seu julgamento, então nós brasileiros teremos uma dificuldade ainda maior em instrumentalizar os padrões. Isso ocorrerá devido a inviabilidade de acesso amplo ao livro que fornece os alicerces para sua correta utilização.
+
+Meus pensamentos a respeito do livro estão concentrados na nota [[Livro: The Timeless Way of Building]].
+

@@ -1,4 +1,6 @@
 created: 20241030130705573
-modified: 20241030130705573
+modified: 20241211233305553
 title: The Nature of Order
 tmap.id: 60ef5987-e7ba-4972-ac99-36b1df4757bf
+
+De fato, tanto o Uma Linguagem de Padrões quanto o The Timeless Way of Building dizem que a linguagem de padrões deve ser usada sequencialmente. Na prática, porém, esse recurso foi abandonado. Como resultado, a bela eficácia das linguagens tradicionais e sua natureza sequencial simples e bela desapareceram de vista.

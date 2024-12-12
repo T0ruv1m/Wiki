@@ -1,6 +1,6 @@
 created: 20241022213512713
 icon: $:/wiki.gif
-modified: 20241203003913549
+modified: 20241211225442239
 title: Wiki
 tmap.id: 1598e4af-d311-44cf-b121-2ffeef12e61a
 tmap.style: {}
@@ -9,7 +9,9 @@ type: text/vnd.tiddlywiki
 
 Wikis permitem que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]].
 
->O desenvolvimento do wiki é particularmente revelador. Como Cunningham deixa claro, os wikis foram inventados como um meio de trocar padrões entre os utilizadores e, além disso, a própria estrutura de um wiki segue a de um padrão (Cunningham & Mehaffy, 2013). Tal como acontece com a estrutura de um padrão, cada página wiki identifica um tópico com um nome, uma descrição de um problema ou questão, uma secção que analisa o problema e, em seguida, uma conclusão que fornece uma solução de configuração. Além disso, existem //hyperlinks// de tópicos de nível superior na parte superior e de tópicos de nível inferior na parte inferior, o que permite que a página wiki (ou padrão) seja ligada numa relação web com muitos outros padrões (a estrutura da Wikipédia está ainda mais próxima da estrutura de padrões de Alexander, muitas vezes com uma fotografia icónica e hiperligações omnipresentes, embora o tópico de cada página wiki não seja um “problema” em si, mas um tópico de conhecimento mais amplo, por exemplo, a própria “linguagem de padrões” da página wiki). (Mehaffy p.237)
+[[Michael Mehaffy]] explica algumas relações da Wiki com a Linguagem de Padrões:
+
+>O desenvolvimento do wiki é particularmente revelador. Como Cunningham deixa claro, os wikis foram inventados como um meio de trocar padrões entre os utilizadores e, além disso, a própria estrutura de um wiki segue a de um padrão (Cunningham & Mehaffy, 2013). Tal como acontece com a estrutura de um padrão, cada página wiki identifica um tópico com um nome, uma descrição de um problema ou questão, uma secção que analisa o problema e, em seguida, uma conclusão que fornece uma solução de configuração. Além disso, existem //hyperlinks// de tópicos de nível superior na parte superior e de tópicos de nível inferior na parte inferior, o que permite que a página wiki (ou padrão) seja ligada numa relação web com muitos outros padrões (a estrutura da Wikipédia está ainda mais próxima da estrutura de padrões de Alexander, muitas vezes com uma fotografia icónica e hiperligações omnipresentes, embora o tópico de cada página wiki não seja um “problema” em si, mas um tópico de conhecimento mais amplo, por exemplo, a própria “linguagem de padrões” da página wiki). (Mehaffy p.237, tradução nossa)
 
 
 Você certamente conhece o formato por conta do seu maior exponente, a Wikipedia. No entanto, embora a Wikipedia possa ser vista como uma wiki, nem todas as wikis seguem o mesmo formato.
@@ -18,7 +20,7 @@ A Wikipedia continua a contribuir com o propósito original dessas plataformas, 
 
 Ao estudar o livro da linguagem de padrões, chegamos à conclusão de que o formato wiki - sendo derivado da lógica do próprio livro - é na verdade um formato mais adequado para armazenar e compartilhar padrões que sua mídia original.
 
-Observe o quão antiquado e volumoso o livro se apresenta hoje. Além disso, ele não favorece a colaboração e disseminação, por mais que essa fosse a intenção do autor.  
+<<pretty-image label:"Observe o quão antiquado e volumoso o livro se apresenta hoje. Além disso, ele não favorece a colaboração e disseminação, por mais que essa fosse a intenção do autor.">>  
 Ver: [[Como Utilizar a Linguagem]]
 
 Na verdade, essa foi uma ideia que pegamos emprestada de outros sites hospedados com o mesmo objetivo: compartilhar ideias e colaborar com o trabalho original.  <br>

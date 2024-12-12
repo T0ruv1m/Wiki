@@ -1,23 +1,23 @@
 created: 20241030120940718
-modified: 20241203004041994
+modified: 20241211231409164
 title: A Estrutura da Wiki
 tmap.id: 0c171fd7-f3d3-4f8f-9c61-6f3587918d6f
 
 Uma boa Wiki tem a infraestrutura de uma cidade viva.
 
-* O modelo e o conteúdo das notas é aprimorado com o passar do tempo, porém isso não interfere na vinculação, todas elas coexistem nesse vasto ecossistema. 
-* Às vezes, entradas antigas são renovadas, algumas são apenas a estrutura sem nenhum conteúdo, mas, no final das contas, o relacionamento é o que mais importa^^(1)^^;
-* Quanto mais interconectado e de uso misto for uma Wiki, melhor.  
+* Da mesma forma como [[Jane Jacobs]] considera um dos fatores essenciais para a vida em zonas urbanas a presença de edifícios de diferentes idades, na Wiki, as notas recem criadas se interligam a notas antigas de forma que todas elas coexistem nesse vasto ecossistema que fica mais rico com a passagem do tempo e com a pluralidade de perspectivas.
 
->(na verdade é preciso tomar cuidado para não criar um [[Sistema Altamente Acoplado]], se tudo é interligado explicitamente, então as relações perdem seu sentido)
+* Da mesma forma como a cidade só se mantém viva quando é constantemente modificada pelos proprios moradores, as notas irão perder seu valor se deixarem de renovar-se para corresponder ao seu ambiente(outras notas). Algumas notas recem-criadas seguem templates aprimorados e são bem estruturadas enquanto outras permanecem apenas como pequenos textos não formatados.
 
-* Alguns distritos da Wiki podem perder relevância e se tornar áreas abandonadas da cidade. Mas, mais tarde, essas mesmas áreas podem ser revitalizadas quando ganharem relevância denovo. 
-* Algumas notas podem ser enterradas profundamente e redescobertas apenas muito tempo depois, como um movimento de renascimento, por meio de um esforço arqueográfico.
-* Tentar controlar o processo com imposições e grandes mudanças pode acabar matando o sistema. 
+* Aquelas que contém apenas o título sem nenhum conteúdo são como lotes vagos, aguardando uma construção.
 
-!!! Revisão é Adiada Eternamente:
+* A princípio pensa-se que quanto mais interconectado e de uso misto for uma Wiki, melhor. Entretanto todos os centros estão sujeitos a [[Diversidade Auto-Destrutiva]].No caso da Wiki é preciso tomar cuidado para não criar um [[Sistema Altamente Acoplado]] onde tudo é interligado explicitamente, pois isso faria as relações perdem seu sentido.
 
-{{Revisões Adiadas Eternamente}}
+* Alguns distritos da Wiki podem perder relevância e se tornar áreas abandonadas da cidade. Mas, mais tarde, essas mesmas áreas podem ser revitalizadas quando o tópico ganhar relevância para os colaboradores.
+ 
+* Algumas notas podem ser enterradas profundamente no mar de conteúdo criado e redescobertas apenas muito tempo depois, como um movimento de renascimento, por meio de um esforço arqueográfico.
+
+* Tentativas de controlar o processo com imposições e grandes mudanças pode acabar matando o sistema. Ver [[Lei de Gall]] 
 
 <footer>
 1.[[A Estrutura da Linguagem]]

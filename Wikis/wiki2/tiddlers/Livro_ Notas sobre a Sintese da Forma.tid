@@ -1,11 +1,11 @@
 created: 20241030122036255
-modified: 20241204181858322
+modified: 20241212010008558
 tags: falta/imagem
 title: Livro: Notas sobre a Síntese da Forma
 tmap.id: dbd1c80f-4e4c-46b9-9618-fabcffc70706
 tmap.style: {}
 
-Esse trabalho foi a primeira publicação de Alexander. Ele inicia o livro com uma citação a Platão:
+Esse trabalho foi a primeira publicação de Alexander. Ele já inicia sua carreira de escritor colocando no lugar da dedicatória uma citação a Platão:
 
 >Primeiro, a inclusão de detalhes dispersos em uma única ideia, para que todos entendam do que se está falando... Em segundo lugar, a separação da ideia em partes, dividindo-a nas articulações, como a natureza orienta, sem quebrar nenhum membro ao meio, como um mau cortador faria." Platão, Phaedrus, 265D
 
@@ -27,9 +27,7 @@ Esse aspecto é abordado também quando falamos de [[Erro de Enquadramento]].
 
 Outro mérito do livro está em ter desenvolvido, de forma pioneira e completamente paralela a toda uma tradição emergente(campo da engenharia de softwares), uma investigação  sobre o que é chamado nesse campo de "[[O problema da Coesão e Acoplamento]]". 
 
-Depois de identificar a forma do problema, poderíamos então dividir o objeto em suas varíaveis. Essas podem aparecer de forma bastante específica e direta como:
-
-$completar$
+Depois de identificar a forma do problema, poderíamos então dividir o objeto em suas varíaveis. Essas podem aparecer de forma bastante específica e direta como descrevemos em [[Problema Intratável]].
 
 Depois disso podemos agrupá-las em pequenos sub-sistemas. Isto é, grupos que contém todas aquelas variáveis que se relacionam e influenciam-se de forma mais direta. É necessário que esses subsistemas sejam isolados e resolvidos de uma vez só. Uma investigação direta da necessidade de resolução simultânea é conduzida em: [[Sistema Altamente Acoplado]].
 

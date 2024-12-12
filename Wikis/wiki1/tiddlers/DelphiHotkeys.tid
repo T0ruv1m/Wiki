@@ -1,5 +1,5 @@
 created: 20241125182709988
-modified: 20241203135219313
+modified: 20241211172641760
 tags: delphi hotkeys
 title: DelphiHotkeys
 tmap.id: c70de9c7-ddb7-4bd4-ab50-51ab50d10857
@@ -11,5 +11,6 @@ Ctrl+Shift+C = Cria Implementações
 Ctrl+Shift+F11 = Options
 Ctrl+Shift+I = Increase Indentation
 Ctrl+Shift+U = Decrease Indentation
+Alt+ClickHold = Custom Selection 
 
 ```
