@@ -1,17 +1,17 @@
 created: 20241211231704157
-modified: 20241212005112707
+modified: 20241212025117909
 title: O Tomo Perdido
 tmap.id: bbf54d65-5b4c-4d27-a2d5-47c3a8566d48
 
 !! Resultados ineficazes:
 
-É provável que o maior crítico da teoria dos padrões tenha sido o próprio Alexander. Sua opnião é de que as tentativas documentadas da aplicação da linguagem culminaram em nada senão "edifícios fragmentados" e, em ultima instância, "um resultado medíocre".^^(2)^^
+É provável que o maior crítico da teoria dos padrões tenha sido o próprio Alexander. Sua opnião é de que as tentativas documentadas da aplicação da linguagem culminaram em nada senão "edifícios fragmentados" e, em ultima instância, "um resultado medíocre".^^(1)^^
 
-Logo após a publicação do [[Livro: Uma Linguagem de Padrões]] em 1977, Alexander, tentando endereçar esses aspectos que a linguagem de padrões não conseguia resolver, abandona todo seu trabalho e se dedica a escrever o que iremos chamar posteriormente de sua "Segunda Teoria". 
+Sua frustração foi tanta que, logo após a publicação do [[Livro: Uma Linguagem de Padrões]] em 1977, ele abandona todo seu trabalho e se dedica a escrever o que iremos chamar posteriormente de sua "Segunda Teoria", uma última tentativa de endereçar esses aspectos que a linguagem de padrões não conseguia resolver. 
 
 A publicação dessa outra teoria, que alguns autores consideram uma versão  revisada da primeira(Leitner) (Quillen), ocorre apenas após um longo período de silêncio, um hiato que leva 25 anos e culmina na publicação de quatro volumes de uma mesma obra entitulada [[The Nature of Order]]. 
 
-Entretanto, o objetivo aqui não é discutir seus pensamentos mais recentes, mas sim resgatar um //tomo perdido//. Um livro citado nas primeiras palavras da primeira página do livro uma linguagem de padrões, que é dito também como sendo uma outra metade da mesma obra.
+Entretanto, o objetivo aqui não é discutir seus pensamentos mais recentes, mas sim resgatar um //tomo perdido//. Um livro citado nas primeiras palavras da primeira página do livro uma linguagem de padrões, mencionado como sendo "a outra metade de uma única obra".
 
 O que prentedemos enfatizar é que apesar de ser citado na primeira página e com isso parecer ser importante,o que realmente ocorre é que ele foi deixado completamente de lado.
 
@@ -33,3 +33,5 @@ Por conta disso, se Salingaros,  e outros defensores da primeira teoria estivere
 
 Meus pensamentos a respeito do livro estão concentrados na nota [[Livro: The Timeless Way of Building]].
 
+<footer>
+1. QUILLEN, Jenny. History from A Pattern Language to the Nature of Order. [S.l.: s.n.], 2014. Disponível em: <https://youtu.be/ad5XAPgKJoM>. Acesso em: 02 dez. 2024.

@@ -1,5 +1,5 @@
 created: 20241107001407883
-modified: 20241205105107264
+modified: 20241212154227936
 tags: $:/tags/Macro
 title: macro/reference
 tmap.id: c71e9745-be71-4713-abdf-220357ea9873
@@ -13,7 +13,7 @@ ALEXANDER, Christopher. The Nature of Order: Book 2 - The Process of Creating Li
 \end
 
 \define hbl(p:"")
-BRAND, Stewart. [[Livro: How Buildings Learn]]: what happens after they're built. New York: Viking, 1994. $p$
+BRAND, Stewart. [[Livro: How Buildings Learn]]: what happens after they're built. New York: Viking, 1995. $p$
 \end
 
 \define nsof(p:"")

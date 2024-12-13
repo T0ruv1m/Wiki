@@ -1,11 +1,16 @@
 created: 20241026223928387
-modified: 20241212005615406
+modified: 20241212150012500
 tags: livro
 title: Livro: The Timeless Way of Building
 tmap.edges: {"f712cc49-10ec-4829-8e4f-283d37e422c8":{"to":"74ee80f0-d330-460b-b22f-bcaefb02be75","type":"guia complementar de"}}
 tmap.id: b63b567d-b123-4512-bcea-e3fbd63c431d
 tmap.style: {}
 type: text/vnd.tiddlywiki
+
+Escrito por [[Christopher Alexander]], publicado em: 1979  
+Para uma contextualização melhor do livro, começar por [[O Tomo Perdido]].
+
+
 
 Na primeira página de "Uma Linguagem de Padrões":  
 
@@ -46,4 +51,4 @@ Posso me lembrar de alguns fatores que ele cita nessa e em obras subsequentes, c
 # Uma [[Visão de Mundo|Arquitetura Cartesiana]] em particular que contaminou tudo.
 
 <footer>
-1. Para entender melhor esse aspecto ler [[A flor e a semente]].
+1. Para entender melhor esse aspecto ler [[A flor e a Semente]].

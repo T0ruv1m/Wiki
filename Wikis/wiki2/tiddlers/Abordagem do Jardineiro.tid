@@ -1,12 +1,13 @@
 created: 20241124221630702
-modified: 20241124224413682
+modified: 20241212145533578
+tags: biologia
 title: Abordagem do Jardineiro
 tmap.id: 498e8a12-b5e7-41de-aa13-5058aa522bda
 
 >"Acho que há dois tipos de escritores: os arquitetos e os jardineiros. Os arquitetos planejam tudo com antecedência, como um arquiteto que constrói uma casa. Eles sabem quantos cômodos haverá na casa, que tipo de telhado terão, por onde passarão os fios, que tipo de encanamento haverá. Eles têm tudo planejado e projetado antes mesmo de pregarem a primeira tábua. Os jardineiros cavam um buraco, colocam uma semente e a regam. Eles meio que sabem qual é a semente, sabem se plantaram uma semente de fantasia ou uma semente misteriosa ou qualquer outra. Mas quando a planta nasce e eles a regam, eles não sabem quantos galhos ela terá, mas descobrem à medida que ela cresce. E eu sou muito mais um jardineiro do que um arquiteto". 
 -George R. R. Martin (tradução nossa)
 
-Hayao Miyazaki, o famoso diretor japonês de filmes de animação também segue essa abordagem:
+Hayao Miyazaki, o famoso diretor japonês de filmes de animação também parece seguir a abordagem do jardineiro:
 
 >Hayao Miyazaki parou de escrever roteiros há muito tempo. Ele nem sequer se preocupa em finalizar os storyboards. ... Depois de mergulhar no processo, ele começa a criar storyboards enquanto faz todos os outros trabalhos, desde a animação principal até o final. Usando seus poderes de concentração contínua, a produção começa a assumir os elementos de uma performance infinitamente improvisada.
 
@@ -16,8 +17,9 @@ Aqui podemos ver que o que informa o desenrolar da trama é justamente o process
 
 Dado que arquitetura como um todo lide com um [[Sistema de Complexidade Ordenada]] e seus profissionais estão sempre resolvendo um [[Problema Intratável]], talvez a abordagem correta até mesmo para o arquiteto seja seguir o caminho do jardineiro e permitir que decisões sejam tomadas durante o processo de forma que a criação influencie também o desdobramento de si mesma.
 
-Diferente dos métodos atuais, esse processo de criação é permeado por [[Imprevisibilidade]] e por isso pode dar muito errado caso não haja a expertise necessária para realizá-lo. Entretanto isso não é tão incomum e inviável quanto parece. A [[Arquitetura do Improviso]] em que o processo guia a história do edifício já foi defendida por autores como [[Stewart Brand]] e [[Christopher Alexander]], e ambos já demonstraram aplicações reais dessa abordagem.
+Diferente dos métodos atuais, esse processo de criação é permeado por [[Imprevisibilidade]] e por isso pode dar muito errado caso não haja a expertise necessária para realizá-lo. Entretanto isso não é tão incomum e inviável quanto parece. A [[Arquitetura do Improviso]] em que o processo guia a história do edifício já foi defendida por autores como [[Stewart Brand]] e [[Christopher Alexander]], e ambos já demonstraram aplicações reais dessa forma de construir. Na verdade o argumento de Alexander em [[Livro: The Timeless Way of Building]] é que essa forma já foi operante e dominou toda a construção em muitas culturas ao longo de toda a história humana. Nosso trabalho seria apenas recuperá-la.
 
 <footer>
-1.MARTIN, George R. R. Gardener vs. Architect: George R. R. Martin on the two types of writers (S01E02). YouTube, 23 jan. 2013. Disponível em: https://youtu.be/7Z-xhM24bho. Acesso em: 24 nov. 2024.  
+1.MARTIN, George R. R. Gardener vs. Architect: George R. R. Martin on the two types of writers (S01E02). YouTube, 23 jan. 2013. Disponível em: https://youtu.be/7Z-xhM24bho. Acesso em: 24 nov. 2024.
+
 2.What Makes Ghibli Storytelling So Different? Animation Obsessive, 2024. Disponível em: https://animationobsessive.substack.com/p/what-makes-ghibli-storytelling-so. Acesso em: 24 nov. 2024.

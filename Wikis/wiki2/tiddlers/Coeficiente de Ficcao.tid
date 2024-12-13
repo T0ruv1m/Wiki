@@ -1,5 +1,15 @@
 created: 20241114165513175
-modified: 20241201205650864
+modified: 20241212154214845
 tags: BibliadosSistemas blank
 title: Coeficiente de Ficção
 tmap.id: fedd2753-cea8-4015-a7e8-9f075c9c41fe
+
+>A modelagem e a simulação por computador podem ser úteis, mas também podem desviar os projetistas para soluções “ideais” ilusórias. Essas soluções são inevitavelmente frágeis - elas funcionam somente em um conjunto de condições. O projeto auxiliado por computador (CAD) levou a construções mais fracas que não suportam circunstâncias incomuns, como furacões. Antes dos computadores, os engenheiros lidavam com a incerteza criando uma grande margem de segurança. Eles estavam certos. Superdimensione seus componentes.
+
+(Brand, 1995, p.408)
+
+[[Crítica ao Design auxiliado por Computadores]]
+
+<footer>
+
+<<hbl>>
