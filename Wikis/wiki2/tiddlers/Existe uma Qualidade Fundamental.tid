@@ -1,24 +1,28 @@
 created: 20241104142448890
-modified: 20241202105853049
+modified: 20241213211853453
 tags: falta/referência pressuposto
 title: Existe uma Qualidade Fundamental
 tmap.id: 828c9bbf-d094-445a-acb9-1cac61ab5c2a
 
-O trabalho de Alexander baseia-se principalmente na seguinte afirmação:
+O trabalho de Alexander baseia-se principalmente na seguinte afirmação, feita por ele em uma conferência quando perguntado o que lhe inspirou a fazer a linguagem de padrões:
 
-> 90% of agreement.
+> “Bem, não era muito diferente de qualquer outro tipo de ciência. Meus colegas e eu fizemos observações, procuramos ver o que funcionava, estudamos, tentamos destilar os elementos essenciais e os escrevemos” 
+
+>“Mas”, continuei, ”fizemos uma coisa diferente. Assumimos desde o início que tudo se baseava na natureza real do sentimento humano e 一 essa é a parte incomum - que o sentimento humano é, em sua maior parte, o mesmo de pessoa para pessoa, em sua maior parte o mesmo em cada pessoa. Cada um de nós tem suas idiossincrasias, seu caráter humano individual e único. Essa é a parte em que as pessoas se concentram com mais frequência quando estão falando sobre sentimentos e comparando sentimentos. Mas essa parte idiossincrática é, na verdade, apenas cerca de dez por cento dos sentimentos que sentimos. Noventa por cento dos nossos sentimentos são coisas em que somos todos iguais e sentimos as mesmas coisas. Portanto, desde o início, quando criamos a linguagem de padrões, nos concentramos nesse fato e nessa parte da experiência e dos sentimentos humanos em que nossos sentimentos são todos iguais. É isso que a linguagem de padrões é - um registro daquilo que existe em nós, que pertence aos noventa por cento de nossos sentimentos, em que nossos sentimentos são todos iguais”(Alexander, 2002, p.3)
 
 Toda a linguagem original se ancora nessa máxima. Cada padrão possui, em certo grau de intensidade, o que ele chama de [[Qualidade Sem um Nome]] e todos os julgamentos de valor são feitos a partir dessa constatação e tentando alcançar um nível maior de presença dessa qualidade. 
 
-Segundo sua visão, essa qualidade existe de forma concreta no mundo e esteve presente, de uma forma ou de outra, nas edificações que seguiam a forma intemporal de construir (efetivamente em todas as culturas que precedem a revolução industrial).
+Segundo sua visão, essa qualidade existe de forma concreta no mundo e esteve presente, de uma forma ou de outra, nas edificações que seguiam a forma intemporal de construir (efetivamente presente em diferentes graus em todas as culturas que precedem a revolução industrial).
 
 A teoria de Alexander fundamenta-se igualmente na ideia de que todos conseguem perceber, mesmo sem reconhecer plenamente, a presença dessa qualidade nas coisas. Ela se torna mais palpável quando deixamos nossas idiosincrasias e concepções estilísticas de lado e confiamos apenas no [[Sentimento como Critério]].
 
-Dessa forma, a Linguagem de Padrões não pode ser considerada uma abordagem científica, uma vez que o paradigma científico atual não admite a existência de propriedades não mensuráveis por instrumentos ou métodos quantitativos. Além disso, a Ciência moderna rejeita a atribuição de valores supostamente objetivos que não possam ser empiricamente verificáveis. Em nossa concepção contemporânea de objetividade, os fatos devem ser rigorosamente distinguidos dos valores, sendo os primeiros passíveis de validação independente de juízos subjetivos, enquanto os segundos pertencem ao domínio das interpretações pessoais e culturais.^^(x)^^
+Dessa forma, a Linguagem de Padrões não pode ser considerada uma abordagem científica, uma vez que o paradigma científico atual não admite a existência de propriedades não mensuráveis por instrumentos ou métodos quantitativos. Além disso, a Ciência moderna rejeita a atribuição de valores supostamente objetivos que não possam ser empiricamente verificáveis. Em nossa concepção contemporânea de objetividade, os fatos devem ser rigorosamente distinguidos dos valores, sendo os primeiros passíveis de validação independente de juízos subjetivos, enquanto os segundos pertencem ao domínio das interpretações pessoais e culturais.^^(1)^^
 
 Apesar de reivindicar um critério objetivo para sua própria teoria, Alexander sempre admitiu a relatividade cultural dos padrões. A janela contextual de cada um serve justamente para impedir que eles se tornem //ideias fora do lugar//, eles evitam um reducionismo universalizante atuando somente dentro do ambiente, cultura e situação em que eles se fazem necessários.
 
 <footer>
 
-x. Essa concepção pluralística é defendida por Jacobs como essencialmente positiva. Sua visão é de que a perda da ordem visual nas cidades corresponde ao aumento da liberdade intelectual dos indivíduos(ver [[Ordem Visual]])  
+<<noo1>>
+
+1. Essa concepção pluralística é defendida por Jacobs como essencialmente positiva. Sua visão é de que a perda da ordem visual nas cidades corresponde ao aumento da liberdade intelectual dos indivíduos(ver [[Ordem Visual]])  
 O que alguns adeptos dessa ideia buscam formas de reconciliar essa controversa teoria com as ciências naturais.[[Nikos Salingaros]] já publicou artigos atribuindo nossa preferência por determinadas formas à instintos psicológicos e ancestrais compartilhados pela espécie.
