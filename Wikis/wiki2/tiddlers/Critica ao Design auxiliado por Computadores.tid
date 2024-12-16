@@ -1,13 +1,21 @@
 created: 20241124212935390
-modified: 20241209145003397
+modified: 20241216005232686
 tags: blank
 title: Crítica ao Design auxiliado por Computadores
 tmap.id: 7f7863ad-3784-4928-9bd3-38ba2e69e397
 
 
 
+O maior problema com relação ao uso do computador como auxiliar de projeto é que ele deixa de ser um auxiliar e se torna um substituto para o contato real com a obra, projetos podem ser encomendados de outro lugar do mundo, feito por uma equipe que nunca esteve no local e que o conhece apenas por fotografias e medidas topográficas.
 
+É essa postura de distanciamento que acaba gerando os problemas. Vê como se tornou a praxis aceita pela maioria dos escritórios, de mesmo quando não estão impedidos por um distânciamento geográfico, tirar algumas fotos e medidas do local e, em seguida abandoná-lo e a partir daí conduzir todo o processo de planejamento. Tudo ocorre em cima de uma abstração distante(em fidelidade) do que realmente é o lugar. Somos pegos pela [[Falácia da Concretude Deslocada]], esquecemos que o software não nos fornece um ambiente de experimentação passivo mas sim uma réplica estéril que aceita qualquer ideia, independente da absurdo da sua implementação.
 
+<<details label:"Coeficiência de Ficção" src:"{{Coeficiente de Ficção}}" srcClass:"alert alert-secondary">>
 
+Algumas soluções para reduzir os conflitos e absurdos causados pelo alto coeficiente de ficção dos softwares CAD envolvem  a inserção dados climáticos em um modelo 3d. Também tornou-se padrão da industria utilizar softwares BIM que restringem a possibildade formal em prol da executabilidade das estruturas. Esses modelos permitem prever muitos dos conflitos a priori, antes que a construção se inicie. 
 
+Alexander, no entanto se opõe a essas práticas comuns dizendo que a complexidade dos problemas que emergem no local da obra não pode ser premeditada. Isso pode ser explicado se tratarmos arquitetura como um [[Problema Intratável]].
 
+Essa ideia de que, a partir de uma planta ou modelo, podemos especificar todos os detalhes da construção pode ser revisitada como uma extrapolação do [[Métodos fracos - Planejamento]]. É claro que fazer marcas em um papel pode nos ajudar a prever alguns problemas, mas Alexander propõe que seria melhor se usássemos como apenas uma abordagem possível e não uma escritura necessária, seguida religiosamente de forma a predestinar cada detalhe da construção final.
+
+>A ideia que herdamos do pensamento dos últimos anos é que, ao construir algo, você faz um plano tão detalhado que ele pode se tornar uma especificação para um empreiteiro e protegê-lo em um tribunal se algo der errado com uma determinada linha de parafusos. Esse raciocínio jurídico começou a dominar a arquitetura e a construção e, como resultado de aceitá-lo, caímos em uma ficção de que é realmente possível fazer um projeto de uma parte do ambiente ou do ambiente completo e fazê-lo funcionar. Isso é uma ficção. É muito claro que se isso fosse aplicado a um ser humano ou a um narciso, não funcionaria.[[A flor e a Semente]]

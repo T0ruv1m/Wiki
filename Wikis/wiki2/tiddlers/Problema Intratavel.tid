@@ -1,11 +1,11 @@
 created: 20241124213537362
-modified: 20241212023731931
+modified: 20241216011346827
 title: Problema Intratável
 tmap.id: 849947c1-daff-4e81-938e-40b27c7f5eee
 
-O casamento da forma com a função não é tão simples, eles não se dão muito bem um com o outro. Porém imaginamos, quando ainda jovens e inocentes, que de alguma forma seremos capazes de conceber uma construção perfeita, no sentido de corresponder ou até superar a todos os requisitos estéticos e funcionais dos nossos clientes. Mesmo quando você abandona essa expectativa e passa a buscar apenas um resultado minimamente satisfatório, ainda assim acreditamos que complexidade do problema não está clara na superfície.
+O casamento da forma com a função não é tão simples, eles não se dão muito bem um com o outro. Porém imaginamos, quando ainda iniciantes e inocentes, que de alguma forma seremos capazes de conceber uma construção perfeita, no sentido de corresponder ou até superar a todos os requisitos estéticos e funcionais dos nossos clientes. Mesmo quando você perde a inocência e abandona essa expectativa, passando a buscar apenas um resultado minimamente satisfatório, ainda assim, acredito que complexidade do problema não está clara na superfície.
 
-Por exemplo, quando fazemos um programa de necessidades da edificação, acabamos selecionando apenas aquilo que conseguimos enxergar como necessário e relevante. Mas, se realmente fossemos levar em conta todos os problemas que poderiam ser solucionados através da forma planejada, chegariamos à uma lista extenunante. Vamos pegar como escopo apenas uma cozinha simples e pensar apenas em termos de configuração(removendo limitações de orçamento, estética e escolha de materiais), algumas das variáveis a serem consideradas são:
+Por exemplo, quando fazemos um programa de necessidades da edificação, acabamos selecionando apenas aquilo que conseguimos enxergar como necessário e relevante. Mas, se realmente fossemos levar em conta todos os problemas que poderiam ser solucionados através da forma planejada, chegariamos à uma lista extenuante. Vamos pegar como escopo apenas uma cozinha simples e pensar apenas em termos de configuração(removendo limitações de orçamento, estética e escolha de materiais), algumas das variáveis a serem consideradas são:
 
 * A cozinha como um todo deve ser bem iluminada;
 * A bancada deve ser extensa e na altura ideal para as pessoas que mais utilizam;
@@ -31,11 +31,13 @@ Na verdade os problemas são tão complexos que se não tomarmos decisões arbit
 As pessoas que estavam envolvidas na formulação de uma inteligência aritificial de xadrêz há cerca de 20 anos passaram por um problema similar. Mesmo no Xadrez, um jogo com um numero de posições e movimentos restritos, o número de possíveis "linhas do tempo" aumenta exponencialmente a cada turno. Nem mesmo um computador com os poderes de processamento atuais consegue calcular a menor sequência de movimentos que leva até um check-mate.
 Para resolver esse problema,  eles fizeram com que a máquina operasse através de heurísticas (ou "[[Regras de Ouro|Todos se baseiam em regras de ouro]]"). Apenas isso foi o suficiente para vencer o melhor ser humano do mundo na época.
 
+>O Deep Blue, o computador de xadrez da IBM, pode examinar cerca de 200 milhões de movimentos possíveis por segundo. Nessa velocidade impressionante, o Deep Blue ainda precisaria de cerca de cinquenta e cinco mil bilhões de anos para pensar em vinte jogadas e escolher a melhor. (Em comparação, estima-se que o Big Bang tenha ocorrido há apenas 14 bilhões de anos). Mas vinte jogadas ainda não são um jogo completo de xadrez. Como consequência, os computadores de xadrez, como o Deep Blue, não conseguem encontrar a melhor sequência de movimentos, mas precisam se basear em regras de ouro, assim como fazem os grandes mestres.(GIGERENZER, 2014, p.79, tradução nossa)
+
 No curso de arquitetura aprendemos algumas regras que informam nossas decisões e reduzem o fardo cognitivo que é planejar uma edificação. Porém, por conta da natureza do problema, é impossível prever todos os conflitos. Só sabemos que, conforme tomamos decisões, alguns desses conflitos se tornam mais aparentes. Sendo assim, uma estratégia comum é tomar a decisão primeiro e lidar com os problemas que ela ocasiona depois. A partir das nossas primeiras concepções nós então remendamos e modificamos a ideia original até limpá-la de todos os conflitos e erros grosseiros que conseguimos prever simplesmente olhando para o desenho ou modelo.
 
 Sabemos que, por conta disso, o design é uma tarefa não deterministica. Isso significa que se o mesmo problema for oferecido para vários alunos diferentes, todos irão terminar com projetos completamente únicos. Isso pode significar tanto que vários deles encontraram soluções alternativas ainda que igualmente satisfatórias, tanto como ,se me permite extender a analogia com xadrêz, que a maioria das decisões tomadas estão sujeitas a serem "Blunders". Blunders é o nome dado no xadrêz aos erros grosseiros causados por movimentos não pensados e que acabam diminuindo nossas chances de vencer o jogo.
 
-<<details label:"Outros paralelos com Xadrêz" src:" ">> 
+<<details label:"Outros paralelos com Xadrêz" src:"{{Analogia Xadrêz}}">> 
 
 Devido ao fato de qualquer projeto ser uma simulação que não consegue prever todas essas ciladas, trabalhar exclusivamente por meio deles acaba criando uma ilusão de segurança que por fim se converte em juros técnicos altíssimos.
 
@@ -46,3 +48,7 @@ Essa traiçoeira ilusão pode perdurar durante toda a formação acadêmica de u
 Acontece que, se quisermos realmente resolver esses problemas, como já foi dito anteriormente, seremos cedo ou tarde levados a adotar regras de ouro que simplificam nossa tomada de decisões.
 
 Para que tudo ocorra conforme o planejado é necessário deixar de planejar muita coisa. Isto é, levar em conta que, apesar das nossas intençoes iniciais, cada etapa modifica a forma anterior e com isso as decisões de projeto não podem ser todas tomadas com antecedência. Deve-se esperar a condição que emerge após a ultima operação (Feedback) e só então partir para uma nova decisão que se baseie, de preferência, exclusivamente no novo estado. Acreditamos ser este o aspecto essencial do que Alexander chama de [[Crescimento Gradual]].
+
+<footer>
+
+1.GIGERENZER, Gerd. Gut feelings: The intelligence of the unconscious. Londres: Penguin Books, 2014.

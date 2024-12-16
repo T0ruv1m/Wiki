@@ -1,5 +1,5 @@
 created: 20241029043226727
-modified: 20241202222520086
+modified: 20241215212343641
 tags: 
 title: Costura Aspecto/Gestalt
 tmap.id: 5f458b63-ef0e-4ac9-9d30-6e7ce18b6a37
@@ -22,7 +22,7 @@ Alexander concebe seus padrões da mesma forma, como existindo apenas em relaç�
 
 Dentro dessa concepção, as coisas só existem dentro de outras coisas e contendo outras, total ou parcialmente relacionadas (como uma trama)^^(1)^^ e isso se repete [[recursivamente|Recursividade]] em todos níveis de escala.
 
-Ler [[O que é um Desdobramento?]]
+Ler [[Desdobramento]]
 
 <footer>
 1.[[Livro: A Cidade Não É Uma Árvore]]

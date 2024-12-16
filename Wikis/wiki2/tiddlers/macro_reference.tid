@@ -1,5 +1,5 @@
 created: 20241107001407883
-modified: 20241213211543173
+modified: 20241216013453463
 tags: $:/tags/Macro
 title: macro/reference
 tmap.id: c71e9745-be71-4713-abdf-220357ea9873
@@ -26,4 +26,12 @@ ALEXANDER, Christopher. Notes on the Synthesis of Form. Cambridge: Harvard Unive
 
 \define tsb(p:"")
 GALL, John. The Systems Bible: the beginner's guide to systems large and small. 4. ed. Ann Arbor: General Systemantics Press, 2018. $p$
+\end
+
+\define battle(p:"")
+ALEXANDER, Christopher; NEIS, HansJoachim; ALEXANDER, Maggie Moore. Battle for the Life and Beauty of the Earth: A struggle between two world systems. Cambridge: Harvard University Press, 2012.
+\end
+
+\define ats(p:"")
+DREYFUS, Hubert; KELLY, Sean. All things shining: Reading the Western classics to find meaning in a secular age. New York: Free Press, 2011. eBook Kindle.
 \end

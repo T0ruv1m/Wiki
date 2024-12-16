@@ -1,8 +1,10 @@
 created: 20241109001812217
-modified: 20241204182506948
+modified: 20241216013656740
 tags: falta/referência
 title: A Morte da Poiesis
 tmap.id: 2bbdea1c-3f8b-484b-9b23-a85660974247
+
+>Nutrir a poiesis é uma arte em extinção. Em parte, esse é o resultado do nosso próprio sucesso: os avanços tecnológicos diminuíram a importância das habilidades especializadas na vida contemporânea.(Dreyfus e Kelly,2011, loc:3410, tradução nossa)
 
 A palavra Poiesis deriva do verbo grego poiein, que significa "fazer" ou "trazer algo à existência". Diferentemente de um simples "fazer" mecânico, poiesis envolve o processo criativo que transforma algo potencial em algo real. Acreditamos que, devido aos dispositivos aceleradores proporcionados pelos avanços tecnológicos, a humanidade como um todo atrofiou sua capacidade de gerar estruturas físicas de forma "poietica".
 
@@ -12,13 +14,19 @@ A produção do espaço, sob essa ocular, é feita enxergando o mundo apenas com
 
 A modularização da construção possui vantagens notáveis, com ela ganhamos eficiência, economia e a garantia de um determinado padrão de qualidade, o que por sua vez nos permite antecipar custos e replicar edifícios com maior precisão. Entretanto, Alexander nos leva a notar que ao otimizar esses processos, inevitavelmente mudamos a forma final. Na tentativa de remover essa [[Rugosidade]] e variação inerentes aos materiais, acabamos por produzir ambientes estéreis, incapazes de responder as necessidades exclusivas e às variações geográficas. O que é feito segundo essas normas não será, nem poderá ser levado a ser, //site especific//.
 
-Como exposto em [[Morfologia de Coisas Naturais]], Alexander critica esses processos por sua natureza padronizante. Esses produtos idênticos quase sempre tornam impossíveis as tentativas de conceber uma [[Estrutura Gerada]].
+Dreyfus e Kelly retratam o processo de concepção de formas artesanais como permeadas de [[Feedback]]:
 
-No trecho a seguir ele enfatiza a perda de [[Feedback]] causada por essas novas formas de produção:
+>Existe, portanto, uma espécie de ciclo de feedback entre artesão e artesanato: cada um cultiva o outro em um estado de compreensão e respeito mútuos (Dreyfus e Kelly, 2011, loc:3390, tradução nosas)
+
+No trecho a seguir Alexander enfatiza a perda dessa retroalimentação causada por essas novas formas de produção:
 
 >Pode-se dizer: mas a forma das madeiras modernas também é determinada pelo processo moderno de serragem, assim como as madeiras antigas eram moldadas pelo uso do enxó. Mas há uma enorme diferença. O processo moderno não deixa espaço para feedback. Ele ocorre sem considerar o caráter de cada tronco e sua posição em uma construção. O processo tradicional de uso do enxó permite que cada peça de madeira seja talhada, moldada e esculpida de acordo com seu lugar na casa. E há um feedback constante em andamento. Com quase cada golpe do enxó ou da ferramenta de entalhe, o artesão olha para o que fez, avalia, verifica em relação à totalidade para ver se está adequado – e, como resultado, mantém o processo de preservação da estrutura no curso certo. Se desviar, mesmo que minimamente, ele o ajusta novamente. Nada disso é possível com o processo de serragem moderna ou com o processo de montagem que o segue. (Alexander, 2002, p92, tradução nossa)
 
-[[Taylor|Taylorismo]], que propôs essa nova forma de produção, admitidamente buscava extinguir os processos de julgamento e variações naturais do seu fluxo de produção, utilizando inclusive o termo [[regras de ouro|Todos se baseiam em regras de ouro]] para se referir a forma como os artesãos guiavam suas obras.
+[[Taylor|Taylorismo]], que propôs essa nova forma de produção, admitidamente buscava extinguir os processos de julgamento e variações naturais do seu fluxo de produção, utilizando inclusive o termo (rules of thumb) que aqui traduzimos como [[regras de ouro|Todos se baseiam em regras de ouro]], para se referir a forma como os trabalhadores guiavam suas obras.
+
+<<details label:"Citação no original do artigo de Taylor" src:"
+>[...]The inefficient rule-of-thumb methods, which are still almost universal in all trades, and in practicing which our workmen waste a large part of their effort.
+>This paper will attempt to show the enormous gains which would result from the substitution by our workmen of scientific for rule-of-thumb methods (Taylor,1911, p.5)">>
 
 O sucesso na aplicação do taylorismo diminuiu a quantidade de trabalho socialmente exigido para produção de materiais e componentes construtivos, geralmente às custas da replicação de resultados homogêneos. Mesmo com a perda de qualidade, os ganhos em eficiência foram o suficiente para tornar obsoletas as formas tradicionais de construção. Em última análise, o artesanato é incapaz de competir com a eficacia desses processos e portanto está fadado a extinção em sociedades orientadas pelo lucro.
 
@@ -26,8 +34,14 @@ O sucesso na aplicação do taylorismo diminuiu a quantidade de trabalho socialm
 
 >Devemos admitir que os avanços tecnológicos criam dispositivos maravilhosos que nos economizam trabalho, liberando nosso precioso tempo que antes era dedicado a processos muito lentos e exaustivos. Mas esse avanço vem acompanhado de uma forma de armadilha. Um exemplo disso é a mulher da era agrária, que antes desfrutava da solidariedade do grupo ao carregar a roupa suja para lavar na beira do rio. De fato, o barulho e o canto alegres de jovens mulheres lavando roupa é exatamente o que acorda o náufrago Odisseu, abandonado na costa de Féia, no poema épico de Homero. Hoje em dia, esse trabalho ainda é realizado principalmente por mulheres, mas agora elas o passam trancadas em suas próprias casas, isoladas umas das outras.(tradução nossa)
 
-Alexander defende a ideia de que "criar totalidade cura o criador"(Making Wholeness Heals the Maker). O que ele pode querer dizer com essa afirmação enigmática é que nossas habilidades não são meramente capacidades extras e passivas, mas que o exercício delas causa transformações simultâneas no ser e no mundo a sua volta. Ou seja, são capazes de transformar o organismo e olhar dele sobre o mundo. Para capturar esse lado reformulamos a frase em outros termos: [[Poeisis Reconfigura o Criador]].
+Alexander defende a ideia de que "criar totalidade cura o criador"(Making Wholeness Heals the Maker). O que ele pode querer dizer com essa afirmação enigmática é que nossas habilidades não são meramente capacidades extras e passivas, mas que o exercício delas causa transformações simultâneas no ser e no mundo a sua volta. Ou seja, são capazes de transformar o organismo e olhar dele sobre o mundo. Para capturar esse lado reformulamos a frase usando o termo introduzido aqui: [[Poeisis Reconfigura o Criador]].
 
 <footer>
-1.ALEXANDER, Christopher. The Nature of Order: Book 2 - The Process of Creating Life. 1. ed. Berkeley: Center for Environmental Structure, 2002.  
-2.PAGLIA, Camille. Postmodernism is a plague upon the mind and the heart. Fausto - Filosofia, Cultura e Literatura Clássica, 2023. Disponível em: https://faustomag.com/camille-paglia-postmodernism-is-a-plague-upon-the-mind-and-the-heart/. Acesso em: 24 nov. 2024.
+
+
+1.<<ats>>  
+2.ALEXANDER, Christopher. The Nature of Order: Book 2 - The Process of Creating Life. 1. ed. Berkeley: Center for Environmental Structure, 2002.  
+3.TAYLOR, Frederick W. The Principles of Scientific Management. New York: Harper & Brothers, 1911.  
+4.PAGLIA, Camille. Postmodernism is a plague upon the mind and the heart. Fausto - Filosofia, Cultura e Literatura Clássica, 2023. Disponível em: https://faustomag.com/camille-paglia-postmodernism-is-a-plague-upon-the-mind-and-the-heart/. Acesso em: 24 nov. 2024.  
+
+
