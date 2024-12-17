@@ -1,7 +1,12 @@
 created: 20241106195757281
-modified: 20241116210954091
+modified: 20241216112911765
 tags: OODPrinciple
 title: Abstraction
 tmap.id: b503ae46-4df4-4028-a3b7-70f4531e7811
 
-////[[Classes]]
+[[Classes]]
+
+Abstraction is the art of ignoring complexity and details.
+
+
+A tentativa de seguir esse princípio pode causar problemas. Ver [[PrematureAbstraction]]

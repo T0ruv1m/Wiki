@@ -1,5 +1,7 @@
 created: 20241116210456105
-modified: 20241116210928120
+modified: 20241216113054303
 tags: OODPrinciple
 title: Inheritance
 tmap.id: 043a660e-6cb3-4cc7-a23c-ba9f6af24e08
+
+This is the most problematic Principle. So don't follow it. JK it may be useful in some cases. But as a rule-of-thumb prefer [[CompositionOverInheritance]]
