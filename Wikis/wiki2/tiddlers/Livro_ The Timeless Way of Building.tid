@@ -1,5 +1,5 @@
 created: 20241026223928387
-modified: 20241212150012500
+modified: 20241220013706755
 tags: livro
 title: Livro: The Timeless Way of Building
 tmap.edges: {"f712cc49-10ec-4829-8e4f-283d37e422c8":{"to":"74ee80f0-d330-460b-b22f-bcaefb02be75","type":"guia complementar de"}}
@@ -12,7 +12,7 @@ Para uma contextualização melhor do livro, começar por [[O Tomo Perdido]].
 
 
 
-Na primeira página de "Uma Linguagem de Padrões":  
+Na primeira página do [[Livro: Uma Linguagem de Padrões]]:  
 
 
 <<<
@@ -33,7 +33,7 @@ Devido a essa escolha estilística, o livro pode aparentar, ao leitor desavisado
 * Essa capacidade de criar já é acessível a todos, imediatamente.(p.14). 
 * No entantanto, estamos convencidos da necessidade de seguir rigidamente um determinado método, um sistema.
 * A insegurança provocada por essas regras, conceitos e ideias limitam nosso talento nato para criar coisas belas.
-* O propósito de aprender essa disciplina é simplesmente nos conectar com essas intuições e nos liberar de uma vez por todas de todo método.
+* O propósito de aprender essa disciplina é simplesmente nos conectar com essas intuições e nos liberar de uma vez por todas de todo método. Isto é o [[Núcleo do Caminho]].
 
 O ambicioso plano do mal que reside no núcleo desse livro era empoderar cada pessoa a planejar e construir suas próprias casas, como era feito nas sociedades tradicionais do passado. A concretização desse plano transformaria o arquiteto, como conhecemos hoje, em uma profissão obsoleta. Sabemos agora, mais de 40 anos após a publicação dos volumes, que o plano falhou. Mas uma questão ainda nos resta, porque?
 

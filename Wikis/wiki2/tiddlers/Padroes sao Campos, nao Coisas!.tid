@@ -1,10 +1,10 @@
 created: 20241028013844367
-modified: 20241203004718866
+modified: 20241220013533837
 tags: padroes
 title: Padrões são Campos, não Coisas!
 tmap.id: 146759ed-09d4-4144-be41-d2e8c4d77ebc
 
->Mas cachoeira é barranco de chão, e água se caindo por ele, retombando; o senhor consome essa água, ou desfaz o barranco, sobra cachoeira alguma? (Rosa, 2001)
+>Mas cachoeira é barranco de chão, e água se caindo por ele, retombando; o senhor consome essa água, ou desfaz o barranco, sobra cachoeira alguma? Viver é negócio muito perigoso...(Rosa, 2001)
 
 Padrões são Campos Morfologicos constituidos de relações entre coisas. E poderia-se dizer que essas coisas que os constituem são também relações.
 
@@ -17,7 +17,7 @@ Em [[Livro: The Timeless Way of Building]] Alexander descreve a nave de uma igre
 
 Com isso é permitido notar que:
 
-''Os padrões dizem respeito a configuração, o Eidos, a estrutura subjacente aos objetos e ,mais importante, o espaço entre eles. As coisas só são o que são quando colocadas em relação a todas as outras. Portanto, não faz sentido pensar em um padrão isolado. Devemos vê-los como campos morfológicos que, bem como as palavras, só tem sentido quando dentro de uma frase e, na verdade, dentro de todo um contexto compartilhado.
+''Os padrões dizem respeito a configuração - ou Eidos, ou a estrutura subjacente aos objetos - e ,mais importante, o espaço entre eles. As coisas só são o que são quando colocadas em relação a todas as outras. Portanto, não faz sentido pensar em um padrão isolado. Devemos vê-los como campos morfológicos que, bem como as palavras, só tem sentido quando dentro de uma frase e, na verdade, dentro de todo um contexto compartilhado.
 ''
 <footer>
 1.ROSA, João Guimarães. *Grande Sertão: Veredas*. 5. ed. Rio de Janeiro: Editora Nova Fronteira, 2001.

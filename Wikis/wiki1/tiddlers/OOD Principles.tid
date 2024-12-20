@@ -1,5 +1,5 @@
 created: 20241113205555942
-modified: 20241129185755700
+modified: 20241219133643290
 tags: principle
 title: OOD Principles
 tmap.id: 28a1048f-7253-409f-9751-1c87dfc99646
@@ -9,3 +9,5 @@ OOD stands for ''O''bject ''O''riented ''D''esign.
 It has four principles:
 
 <<tabs "[tag[OODPrinciple]]">>
+
+Não confundir com [[POG]]
