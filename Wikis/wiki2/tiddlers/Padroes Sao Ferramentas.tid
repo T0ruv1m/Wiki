@@ -1,5 +1,5 @@
 created: 20241101020054751
-modified: 20241109000553443
+modified: 20241222233651271
 tags: padroes
 title: Padrões São Ferramentas
 tmap.id: df9d24da-5af3-4de6-abec-59b6e659c141
@@ -8,7 +8,7 @@ Utilizemos então o poder da abstração para enxergá-los como ferramentas e en
 
 ---
 
-''Padrões são como Ferramentas, e as ferramentas são muito úteis para resolver problemas específicos. Entretanto, tentar usar um alicate como martelo e uma chave de fenda como furadeira são formas bem ineficazes de colocar um parafuso na parede.''
+''Padrões são como Ferramentas, e as ferramentas são muito úteis para resolver problemas específicos. Entretanto, tentar usar uma chave de fenda como furadeira e um alicate como martelo são formas bem ineficazes de colocar um prego na parede.''
 
 Do mesmo modo, os padrões são extremamente poderosos, entretanto eles perdem o sentido se tornando imediatamente inúteis quando aplicados fora do lugar, cultura e clima que os forjou inicialmente.
 

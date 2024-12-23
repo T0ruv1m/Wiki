@@ -1,5 +1,5 @@
 created: 20241030144436420
-modified: 20241213001657289
+modified: 20241222233127326
 tags: BibliadosSistemas biologia sistemas
 title: Lei de Gall
 tmap.id: 1484660c-b193-41d1-9bdc-67e6fc5bac79
@@ -10,7 +10,7 @@ Esse é um dos aforismos expressos no [[Livro: A Bíblia dos Sistemas]]. Apesar 
 
 No contexto da arquitetura poderíamos dizer que toda casa complexa que funciona evoluiu de uma casa simples que funcionava. (Brand, 1995, p. 409) nos apresenta um caso da chamada //complicação prematura//:
 
-<<image-pretty img:[[image.png]] width:"200" caption:"PREMATURAMENTE COMPLICADA, esta casa nova de US$ 140.000 tenta parecer que foi acrescentada por gerações. Como resultado, os acréscimos reais serão difíceis, e a complexidade exigente aumenta muito os custos de construção e manutenção da casa original">>
+<<image-pretty img:[[toocomplextoosoon.png]] width:"200" caption:"PREMATURAMENTE COMPLICADA, esta casa nova de US$ 140.000 tenta parecer que foi acrescentada por gerações. Como resultado, os acréscimos reais serão difíceis, e a complexidade exigente aumenta muito os custos de construção e manutenção da casa original">>
 
 Nós, arquitetos, complexificamos as formas de propósito, fazemos isso na tentativa de replicar esses [[Traços Interessantes de Evolução]]. Mas como a falsa evolução não corresponderá à necessidade do usuário, a casa certamente não estará em equilíbrio em termos de funcionalidade.
 

@@ -1,9 +1,28 @@
 created: 20241028031637388
-modified: 20241212150436858
+modified: 20241222223604721
 tags: Notes sistemas
 title: Sistema Altamente Acoplado
 tmap.id: 3652485e-a766-4082-aef5-918f1c216aa3
 
+>''“O princípio da gelatina: quando tudo se correlaciona com tudo o mais, as coisas nunca se acomodam ''
+>
+>O leitor com experiência em agricultura pode imaginar um bando de galinhas d'angola tentando se acomodar para dormir em uma noite de luar. Cada som leve, cada folha que se vira, aciona pelo menos uma ave, que aciona todo o bando, que continua se acionando em uma sequência interminável até que todos os membros estejam sonolentos demais para continuar dando o alarme. Se pelo menos uma ave permanecer alerta o suficiente para cacarejar uma vez, todo o processo é acionado novamente. [Ninguém, incluindo o fazendeiro cansado e sua família, consegue dormir”. (Gall, 2018, p. 178)
+
+---
+
+Esse princípio, exposto de maneira humorística por Gall, é essencialmente o mesmo descrito por Alexander no [[Livro: Notas sobre a Síntese da Forma]]. A diferença é que Alexander o descreve como um sistema de luzes que estão interligadas por uma fiação complexa.
+
+>Por outro lado, imagine interconexões tão ricas entre as luzes que qualquer luz ainda acesa desperte rapidamente todas as outras do estado desligado e as acenda novamente. A única maneira pela qual esse sistema pode alcançar a adaptação é pela pura chance de que todas as 100 luzes se apaguem no mesmo momento. O tempo médio que deve transcorrer antes que isso aconteça será da ordem de 2.100 segundos, ou 1.022 anos. (Alexander, 1964, p.40)
+
+O essencial aqui é o fato de que, quando um sistema é altamente interconectado, cada pequena mudança cria uma instabilidade que se propagará para outras ad infinitum, e o sistema nunca voltará ao normal. Isso é usado para se referir a perda da viscosidade que ocorre durante a transição cultural descrita no livro.
+
+Para os problemas que ainda não chegaram nesse estado de [[Intratabilidade|Problema Intratável]], a abordagem sugerida é descrita em [[Sistema de Complexidade Ordenada]]
+ 
 
 html das luzes.
 [[Problema Entranhado]]
+
+
+<footer>
+<<tsb>>  
+<<nsof>>

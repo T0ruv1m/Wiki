@@ -1,5 +1,5 @@
 created: 20241109173505648
-modified: 20241210014512263
+modified: 20241222232022091
 title: Conceitos Arbitrarios
 tmap.id: cadf5a48-5774-4198-9669-c88bb515111d
 
@@ -8,13 +8,14 @@ Para Alexander, termos como Acustica, Ventilação e Circulação, que são ensi
 Jane Jacobs compartilha de uma visão similar quando diz que, ao conjurar um conceito, nossa mente dicotomiza o mundo em função deste.
 Como dito por ela, a forma como nós gostamos de enquadrar um assunto não é necessariamente a forma do próprio assunto. Entender o tipo de problema que estamos lidando é essencial para resolvê-los. Para isso, talvez seja necessário abrir mão dos nossos conceitos pré-fabricados e observar o mundo com olhos curiosos. p.477
 
-Segundo o pensamento de Alexander, os que propuseram esses métodos foram levados pelo [[Viés do Essencialismo]] a acreditar que todos os problemas de ordem arquitetônica devem conformar a essas categorias gerais quando, na verdade, cada situação indivídual iria requerir sua própria família de conceitos que consegue melhor encapsular e tornar evidentes os sub-problemas em jogo. Esses termos são utilizados e diagramados por profissionais na tentativa de reduzir o problema em partes menores, fáceis de serem lidadas. Entretando, ele argumenta, a escolha dessas categorias é arbitrária e se refere muito mais à maneira como a arquitetura é ensinada do que com uma preocupação real com o problema em jogo.
+Segundo o pensamento de Alexander, os que propuseram esses métodos foram levados pelo [[Viés do Essencialismo]] a acreditar que todos os problemas de ordem arquitetônica devem conformar a essas categorias gerais quando, na verdade, cada situação indivídual iria requerir sua própria família de conceitos que consegue melhor encapsular e tornar evidentes os sub-problemas em jogo. Esses termos são utilizados e diagramados por profissionais na tentativa de reduzir o problema em partes menores, fáceis de serem lidadas. Entretando, ele argumenta, a escolha dessas categorias é arbitrária e se refere muito mais à maneira como a arquitetura é ensinada do que com uma preocupação real com os subsistemas em jogo.
 
-Um conceito como "Segurança", por exemplo, poder se referir a coisas muito diferentes ao enquanto pensamos no cruzamento de uma avenida e no manuseio de uma chaleira,por exemplo. Por mais que nos sirva para nos atentar à necessidades latentes em ambos os casos. Isso se deve ao poder dos conceitos em enviesar nossa perspectiva:
+<<image-pretty img:[[notsubsystem.png]] width:"" align:"" caption:"A parte preenchida se refere aos aspectos que o conceito trás a tona, enquanto os verdadeiros subsistemas seriam dois grupos de pontos menos acoplados." tooltip:"(Alexander, 1964, p.66)" alt:"">>
 
 
+Um conceito como "Segurança", por exemplo, poder se referir a coisas muito diferentes ao enquanto pensamos no cruzamento de uma avenida e no manuseio de uma chaleira. Por mais que nos sirva para nos atentar à necessidades latentes em ambos os casos. Isso se deve ao poder dos conceitos em enviesar nossa perspectiva: [[Vieses]]
 
-Porém somos levados, muito facilmente a confundir [[o mapa pelo Território|Falácia da Concretude Deslocada]]:
+Além disso, o uso de conceitos nos leva, muito facilmente, a confundir [[o mapa pelo Território|Falácia da Concretude Deslocada]]:
 
 >"O NOME NÃO É, DE FORMA ALGUMA, A COISA" (Gall, 2018, p. 69)
 
@@ -28,6 +29,10 @@ Por conta disso, o treinamento acadêmico que é orientado por generalizações 
 
 Jacobs nesse trecho soa como Michel de Montaigne, que também ja havia dito:
 "Prefiro a companhia de camponeses porque eles não foram educados o suficiente para raciocinar incorretamente". 
+
+---
+
+Alguns outros autores criticam o uso inadivertido dos conceitos:
 
 Ermínia Maricato também critica, quando se refere as "ideias fora do lugar" a importação de conceitos e teorias como modelos universais aplicáveis em qualquer situação. Como os modelos ingleses de urbanização em cidades latinas marcadas pela produção informal. 
 

@@ -1,6 +1,6 @@
 created: 20241022215832747
 icon: $:/thesims-icon.png
-modified: 20241216221936493
+modified: 20241223002236105
 tags: software
 title: The Sims
 tmap.id: 63bf6eb2-7dd8-4b05-9697-351a921c5543
@@ -20,13 +20,12 @@ Acreditamos que esse dinamismo gerado pelo habitar/construir é um dos aspectos 
 
 !!! Trivia:
 
-O jogo foi primeiramente pensado para ser um simulador de arquitetura apenas, e os sims viriam apenas para avaliar as construções. Notando que os sims eram o aspecto mais interessante do jogo, houve uma guinada no desenvolvimento que o transformou em um simulador misto.
+* O jogo foi primeiramente pensado para ser um simulador de arquitetura apenas, e os sims viriam apenas para avaliar as construções. Notando que os sims eram o aspecto mais interessante do jogo, houve uma guinada no desenvolvimento que o transformou em um simulador misto.
+* O [[Livro: Uma Linguagem de Padrões]] foi uma inspiração direta para o criador, e muitos dos padrões estão presentes na programação do jogo original. Por exemplo, os sims ganham um aumento de necessidades quando estão em comodos iluminados por duas janelas,exatamente como o padrão [[Iluminação Natural Vinda de Dois Lados|http://189.126.106.101:8080/wiki3#Ilumina%C3%A7%C3%A3o%20Natural%20vinda%20de%20Dois%20Lados]] nos diz.
 
-O [[Livro: Uma Linguagem de Padrões]] foi uma inspiração direta para o criador, e muitos dos padrões estão presentes na programação do jogo original. Por exemplo, os sims ganham um aumento de necessidades quando estão em comodos iluminados por duas janelas,exatamente como o padrão [[Iluminação Natural Vinda de Dois Lados|http://189.126.106.101:8080/wiki3#Ilumina%C3%A7%C3%A3o%20Natural%20vinda%20de%20Dois%20Lados]] nos diz.
+!!!!Uma lição para os arquitetos:
 
-Uma lição para os arquitetos:
 O sucesso dos jogo nos mostra que, apesar de nós humanos, principalmente os arquitetos, sermos famosos por valorizar planejamento e ordem, as coisas que deixam a vida realmente interessante estão infundidas na [[Impermanência]] e na [[Imprevisibilidade]].
-
 
 <footer>
 <<hbl>>
