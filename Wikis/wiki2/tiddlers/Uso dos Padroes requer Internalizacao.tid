@@ -1,9 +1,9 @@
 created: 20241101153958153
-modified: 20241101233246212
+modified: 20241225145135094
 title: Uso dos Padrões requer Internalização
 tmap.id: 52ff0cd7-1f5a-4602-921a-486ffa5f88dd
 
-A posição de Alexander é a de que [[Todos se baseiam em regras de ouro]], e mesmo quando travamos e resolvemos repensar o problema do zero, estamos ainda combinando padrões já presentes na nossa mente.(p. 205)
+A posição de Alexander é a de que [[Todos se baseiam em Regras Gerais]], e mesmo quando travamos e resolvemos repensar o problema do zero, estamos ainda combinando padrões já presentes na nossa mente.(p. 205)
 
 Fazendo uma analogia com o aprendizado de um idioma, somente quando internalizamos o vocabulário e certas regras gramáticais conseguimos torná-lo operável. O ato da fala se torna então uma resposta espontânea e imediata à situação. Em poucas palavras:  
 A velocidade é a essencia da espontaneidade.^^(1)^^

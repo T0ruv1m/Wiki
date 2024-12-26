@@ -1,5 +1,5 @@
 created: 20241124213537362
-modified: 20241216011346827
+modified: 20241226020026626
 title: Problema Intratável
 tmap.id: 849947c1-daff-4e81-938e-40b27c7f5eee
 
@@ -29,9 +29,9 @@ Se fôssemos estudar todas as varíaveis e a forma como elas se relacionam, e  s
 Na verdade os problemas são tão complexos que se não tomarmos decisões arbitrárias(puramente por gosto ou hábito) seremos vítima do que os psicólogos chamam de paralisia por análise.
 
 As pessoas que estavam envolvidas na formulação de uma inteligência aritificial de xadrêz há cerca de 20 anos passaram por um problema similar. Mesmo no Xadrez, um jogo com um numero de posições e movimentos restritos, o número de possíveis "linhas do tempo" aumenta exponencialmente a cada turno. Nem mesmo um computador com os poderes de processamento atuais consegue calcular a menor sequência de movimentos que leva até um check-mate.
-Para resolver esse problema,  eles fizeram com que a máquina operasse através de heurísticas (ou "[[Regras de Ouro|Todos se baseiam em regras de ouro]]"). Apenas isso foi o suficiente para vencer o melhor ser humano do mundo na época.
+Para resolver esse problema,  eles fizeram com que a máquina operasse através de heurísticas (ou "[[Regras Gerais|Todos se baseiam em Regras Gerais]]"). Apenas isso foi o suficiente para vencer o melhor ser humano do mundo na época.
 
->O Deep Blue, o computador de xadrez da IBM, pode examinar cerca de 200 milhões de movimentos possíveis por segundo. Nessa velocidade impressionante, o Deep Blue ainda precisaria de cerca de cinquenta e cinco mil bilhões de anos para pensar em vinte jogadas e escolher a melhor. (Em comparação, estima-se que o Big Bang tenha ocorrido há apenas 14 bilhões de anos). Mas vinte jogadas ainda não são um jogo completo de xadrez. Como consequência, os computadores de xadrez, como o Deep Blue, não conseguem encontrar a melhor sequência de movimentos, mas precisam se basear em regras de ouro, assim como fazem os grandes mestres.(GIGERENZER, 2014, p.79, tradução nossa)
+>O Deep Blue, o computador de xadrez da IBM, pode examinar cerca de 200 milhões de movimentos possíveis por segundo. Nessa velocidade impressionante, o Deep Blue ainda precisaria de cerca de cinquenta e cinco mil bilhões de anos para pensar em vinte jogadas e escolher a melhor. (Em comparação, estima-se que o Big Bang tenha ocorrido há apenas 14 bilhões de anos). Mas vinte jogadas ainda não são um jogo completo de xadrez. Como consequência, os computadores de xadrez, como o Deep Blue, não conseguem encontrar a melhor sequência de movimentos, mas precisam se basear em regras gerais, assim como fazem os grandes mestres.(GIGERENZER, 2014, p.79, tradução nossa)
 
 No curso de arquitetura aprendemos algumas regras que informam nossas decisões e reduzem o fardo cognitivo que é planejar uma edificação. Porém, por conta da natureza do problema, é impossível prever todos os conflitos. Só sabemos que, conforme tomamos decisões, alguns desses conflitos se tornam mais aparentes. Sendo assim, uma estratégia comum é tomar a decisão primeiro e lidar com os problemas que ela ocasiona depois. A partir das nossas primeiras concepções nós então remendamos e modificamos a ideia original até limpá-la de todos os conflitos e erros grosseiros que conseguimos prever simplesmente olhando para o desenho ou modelo.
 

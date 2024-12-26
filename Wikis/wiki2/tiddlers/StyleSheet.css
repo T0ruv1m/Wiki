@@ -10,7 +10,8 @@
   height: auto; /* Maintain aspect ratio */
 }
 
- footer {
+  footer {
+    page-break-after: always;
     font-size: 0.8em; /* Make the font smaller */
     color: #666; /* Set a dimmed color */
     margin-top: 10px; /* Space above the footnote */
@@ -19,6 +20,7 @@
 }
 
 .footnote {
+    page-break-after: always;
     font-size: 0.8em; /* Make the font smaller */
     color: #666; /* Set a dimmed color */
     margin-top: 10px; /* Space above the footnote */
@@ -26,3 +28,17 @@
     border-top: 1px solid #ddd; /* Optional top border for separation */
 }
 
+@media print {
+  /* General text styles for PDF */
+  body {
+    font-family: "PT Serif", serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 24px;
+    text-align: center;
+    color: navy;
+  }

@@ -1,5 +1,5 @@
 created: 20241030021342892
-modified: 20241109171251090
+modified: 20241225145504584
 title: Como resolver um Cubo Mágico
 tmap.id: ec6bf96c-844e-473d-81a4-ebca2f7f1816
 
@@ -12,7 +12,7 @@ A verdade é que a maioria das pessoas que aprenderam a resolver o cubo fizeram 
 
 Assumimos então que resolvê-los de maneira consistente envolve sempre a aplicação da mesma sequência de algoritmos. Eles são úteis pois permitem dividir a tarefa complexa de completar o cubo em tarefas menores que podem ser manejadas uma de cada vez, sem perder o progresso das fases anteriores. Seguindo um algoritmo, qualquer um pode aprender a montar o cubo com facilidade.
 
-Por exemplo, o método mais famoso é chamado método de camadas. Nele você resolve o cubo em uma sequência de 4 passos, utilizando algumas [[regras de ouro|Todos se baseiam em regras de ouro]]:
+Por exemplo, o método mais famoso é chamado método de camadas. Nele você resolve o cubo em uma sequência de 4 passos, utilizando algumas [[regras gerais|Todos se baseiam em Regras Gerais]]:
 
 # Primeiro, você arruma a cruz da base;
 # depois é feito o F2L que significa primeiras duas camadas;

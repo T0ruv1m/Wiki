@@ -1,5 +1,5 @@
 created: 20241028035631365
-modified: 20241215220557797
+modified: 20241225152411709
 tags: biologia
 title: Crescimento Gradual
 tmap.id: 7e12c603-883f-4144-a34e-4d698e49b6c1
@@ -8,6 +8,7 @@ Chegamos finalmente a ideia de crescimento fragmentado. Isto é, a essência de 
 
 
 > "O desenvolvimento de grandes blocos se baseia em uma visão do ambiente que é estática e descontínua; o crescimento fragmentado se baseia em uma visão do ambiente que é dinâmica e contínua.... De acordo com o ponto de vista de grandes blocos, cada ato de projeto ou construção é um evento isolado que cria um edifício isolado, "perfeito" no momento da construção e depois abandonado por seus construtores e projetistas para sempre. De acordo com o ponto de vista fragmentado, todo ambiente está mudando e crescendo o tempo todo, a fim de manter seu uso em equilíbrio; e a qualidade do ambiente é uma espécie de equilíbrio semiestável no fluxo do tempo.... O desenvolvimento de grandes blocos é baseado na ideia de substituição. O crescimento fragmentado é baseado na ideia de reparo" 
+(Alexander, 1975, p. 76)
 
 ---
 
@@ -18,6 +19,7 @@ Chegamos finalmente a ideia de crescimento fragmentado. Isto é, a essência de 
 >A preocupação é que, com o crescimento gradual, você pode acabar se encurralando. Os padrões são uma técnica para evitar isso. Eles incorporam um tipo de previsão - na verdade, uma retrospectiva derivada de outros sistemas bem-sucedidos. -- [DaveHarris](https://wiki.c2.com/?DaveHarris)
 
 <footer>
-1.https://www.bradapp.com/docs/patterns-intro.html#TOC_PiecemealGrowth  
-2.<<hbl>>  
-3.(https://wiki.c2.com/?DaveHarris)
+1. ALEXANDER, Christopher. The Oregon experiment. New York: Oxford University Press, 1975.  
+2.https://www.bradapp.com/docs/patterns-intro.html#TOC_PiecemealGrowth  
+3.<<hbl>>  
+4.(https://wiki.c2.com/?DaveHarris)

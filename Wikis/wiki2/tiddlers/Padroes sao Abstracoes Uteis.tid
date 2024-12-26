@@ -1,5 +1,5 @@
 created: 20241028010259903
-modified: 20241204172550926
+modified: 20241225233926305
 tags: padroes
 title: Padrões são Abstrações Úteis
 tmap.id: 71f0b01e-e424-4be1-b181-f40b26e6d99f
@@ -19,7 +19,7 @@ Portanto:
 >''Os padrões devem ser entendidos como modelos conceituais que nos atentam a perceber os conflitos relevantes de dentro de um determinado contexto enquanto orientam a construir uma coisa que resolve esses conflitos.''
 
 ---
-* Isso parece distante porém nós utilizamos essas ferramentas o tempo todo para simplicar e lidar com problemas do dia a dia. Nas palavras de Alexander: [[Todos se baseiam em regras de ouro]].
+* Isso parece distante porém nós utilizamos essas ferramentas o tempo todo para simplicar e lidar com problemas do dia a dia. Nas palavras de Alexander: [[Todos se baseiam em Regras Gerais]].
 
 * Trabalhando um padrão de cada vez é possível resolver problemas que jamais seriam solúveis se tentassemos visualizar todo o sistema de uma vez só. ^^([[3|Sistema de Complexidade Ordenada]])^^.
 

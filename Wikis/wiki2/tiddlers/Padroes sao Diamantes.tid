@@ -1,6 +1,6 @@
 caption: Padrões são Diamantes
 created: 20241026005058622
-modified: 20241212024152589
+modified: 20241225234544276
 tags: falta/consertar padroes
 title: Padrões são Diamantes
 tmap.id: cb9551a8-0669-4450-a7dd-4266b28ae842
@@ -17,11 +17,12 @@ Se eles reaparecem com tanta incidência, então os padrões devem refletir uma 
 (Alexander 1979,p283) descreve o episódio em que um de seus alunos propõe um dos exemplos mais engraçados para um padrão:
 "Sacada de Hospício". Isso é um exemplo de padrão que alguém inventou. O aluno propõe: por um lado, gostamos de contemplar a vista, e isso se aplica também para pacientes. Por outro lado, doentes mentais "tem uma tendência para se jogarem dos prédios". Para resolver esse conflito a altura do guarda-corpo deve ser alta o suficiente para impedir que eles saltem, mas baixa o suficiente para que eles possam aproveitar a vista. Esse é um exemplo absurdo, por mais que contenha a estrutura correta para um padrão, sabemos que ele não ajudaria em muita coisa.
 
+<!-- 
 No entanto nem sempre isso é obvio. Le Corbusier inventou, com muita devoção e paciência, o padrão de torres altas envoltas de espaços verdes. Sua intenção era boa, dar as pessoas luz, ventilação e acesso ao verde. Ele passou muitos anos desenvolvendo esse padrão, na teoria e na prática. 
 No entando ele esquece, ou não percebe, que existia uma outra força essencial no sistema - o instinto humano por proteção e terriorialidade. 
 
 Esses vastos e abstratamente belos espaços verdes ao redor de suas construções não são utilizados justamente por que são publicos demais, eles pertencem a muitas pessoas ao mesmo tempo, e estão sobre os olhos de muitos apartamentos ao redor deles. Devido a essas circunstancias, essa única força destrói a capacidade do padrão de gerar espaços vivos.(Alexander 1979,p284).
-
+-->
 
 ''Tudo isso é para dizer que nós não tiramos os padrões da própria cabeça, simplesmente. Essas boas práticas tendem a brotar expontâneamente nas cidades. Por isso apenas observamos o que já dá certo e tentamos formular essa configuração em uma [[Entidade Compartilhável]] e reutilizável.''
 

@@ -1,0 +1,30 @@
+created: 20241225152744204
+modified: 20241225164524871
+title: Dualismo Planejar/Construir
+tmap.id: b245a3d1-b91e-425b-8dcf-bfbfaa0cb965
+
+Referindo-se as metodologias predominantes atualmente, temos como principal  a chamada Design-Bid-Build, o projeto é completamente desvinculado da construção.
+A construção começa exatamente onde as decisões de projeto terminam.
+Podemos ver a estrutura cartesiana operando através perfeita dissociação entre o que é "planejamento" e o que é execução.
+
+<<image-pretty img:[[Pasted image 20240603150927.png]] width:200 >>
+
+Para o designer preso a essa mentalidade, a execução nunca pode superar a qualidade do projeto concebido. A execução está, no melhor dos casos, à altura da proposta. Mas é claro que nenhuma arquitetura está livre de seu contexto, e as coisas inevitavelmente sairão do planejado. Isso poderia ser visto como normal, em qualquer cultura sã, mas aqui não há surpresas felizes, apenas decadência, um desvio da versão idealizada e inalterada.
+
+---
+
+Por outro lado, o [[Processo Design-Build]] diminui o dualismo ao integrar o projeto e a construção por meio de ciclos de feedback em todos os níveis. O projeto e a construção entram em uma conversa em que um informa o outro conforme a forma ganha vida.  
+
+<<image-pretty img:[[Pasted image 20240603151236.png]] width:300>>
+
+(Para uma abordagem ainda mais direta, podemos ver [[Construção como um Fazer]]
+
+Propomos que o arquiteto não precisa funcionar como um Demiurgo que plasma no papel a forma ideal de como uma casa deve ser. Seria melhor que ele fosse reintegrado como consultor geral, alguém com um bom olho para estética e para os problemas funcionais comuns que inevitavelmente surgem, um profissional que possa ajudar a nutrir o crescimento de cada edifício na direção certa, de maneira gradual, como um artista de bonsai faria. ([[Wabi-to-Sabi]])
+
+> O planejamento, como inicialmente concebido, está inevitavelmente destinado a ser transformado durante o curso da sua execução. Design é semelhante ao termo wittgensteniano “jogo”, no qual, como ele diz, “jogamos e criamos as regras à medida que avançamos”. Nenhum arquiteto pode prever o resultado. Nenhuma arquitetura está livre de seu contexto. A arquitetura é um evento por excelência, no sentido de que é um fazer ou um tornar-se que excede o controle do criador. (Katarani, 1995, p.xxxviii)
+
+
+
+<footer>
+
+KARATANI, Kojin. Architecture as metaphor: language, number, money. Cambridge: The MIT Press, 1995.

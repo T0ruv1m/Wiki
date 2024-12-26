@@ -1,0 +1,25 @@
+created: 20241028033752169
+modified: 20241225145352584
+tags: pressuposto
+title: Todos se baseiam em Regras Gerais
+tmap.id: e0a11f80-9a9a-4fba-aaed-d10f872f9eb9
+
+Alexander pensa o processo de construção tradicional como guiado por "Rules of Thumb"(Cuja tradução literal seria //Regras de Dedão//, mas que escolhemos traduzir como //Regras Gerais//) 
+
+No trecho ele descreve o processo de construção de um celeiro por um fazendeiro qualquer:
+
+> E o fazendeiro é capaz de fazer um novo celeiro, diferente de todos que ele ja viu antes, ao coletar todos os padrões que ele conhece, para celeiros, e combinar eles de uma nova maneira.
+>//Esses padrões são expressos como regras gerais, que qualquer fazendeiro pode combinar e recombinar para fazer uma variedade infinita de celeiros.//
+(Alexander,1979,p.179)
+
+Aaparece nessa explicação o aspecto de [[Reincidência Variada|Padrões são Recorrentes]] dos padrões. Já que cada manifestação é a reaplicação das mesmas regras, entretanto por serem grosseiras e aproximadas, fazem com que cada instância seja diferente e adaptada às minúcias da situação.
+
+Essas regras gerais encontram seu paralelo no jargão científico ''Heurística''.
+
+Heurísticas são ferramentas que nós usamos a todo tempo para lidar com problemas, quando elas saem de controle ou são usadas em contextos inadequados passamos a chamá-las de [[Vieses]]. Alguns deles são bens comuns na arquitetura.
+
+<footer>
+
+1.https://thesideview.co/journal/rules-of-thumb-and-adaptive-rationality/
+
+

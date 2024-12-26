@@ -1,5 +1,5 @@
 created: 20241109011652214
-modified: 20241216010414996
+modified: 20241226015921738
 tags: [[Propriedade Fundamental]] blank
 title: Rugosidade
 tmap.id: d79580cc-e183-4dcd-bfcf-ceb86f1ae14e
@@ -7,8 +7,10 @@ tmap.id: d79580cc-e183-4dcd-bfcf-ceb86f1ae14e
 [[Wabi-to-Sabi]]
 Linkar em [[Padrões são Recorrentes]] 
 
-As linhas dos edifícios reais não podem se conformar com a rigidez e a precisão do plano cartesiano. É claro que as paredes têm de se conformar a ângulos de aproximadamente 90 graus, mas é só isso, grosso modo. As coisas reais têm rugosidade, pequenas imperfeições e distorções que são, de fato, microadaptações. Se imaginássemos um modelo 3D que capturasse esse caráter da vida real, identificaríamos que os elementos são dobrados, estendidos, contraídos, girados de muitas maneiras que são muito difíceis de reproduzir em nossos softwares de auxílio à computação comumente usados. 
+As linhas dos edifícios reais não podem se conformar com a rigidez e a precisão do plano cartesiano. É claro que as paredes têm de se conformar a ângulos de aproximadamente 90 graus,enfatizamos aqui o ''aproximadamente''.
 
-Podemos ver como o processo de planejamento a partir do software considera o material uma propriedade que pode ser aplicada posteriormente a qualquer forma que modelarmos.
+As coisas reais têm rugosidade, pequenas imperfeições e distorções que são, na verdade, microadaptações. Se imaginássemos um modelo 3D que capturasse esse caráter da vida real, identificaríamos que os elementos são todos dobrados, estendidos, contraídos, girados de muitas maneiras que são difíceis de reproduzir em nossos softwares auxiliares.
 
-E também veríamos que, na realidade, esse "desajeito" não é simplesmente um ruído aleatório, fruto da negligência, uma deformação descuidada de uma forma ideal, mas uma morfologia complexa que ganha vida devido à adaptação em todos os níveis de escala. 
+Podemos ver como o processo de planejamento a partir do software considera o material uma propriedade que pode ser aplicada posteriormente, como uma "pele" a qualquer forma que modelarmos.
+
+E também veríamos que, na realidade, essa "deformidade" não é simplesmente um ruído aleatório, fruto da negligência, uma formação descuidada de uma forma ideal, mas uma morfologia complexa que ganha vida devido à adaptação em todos os níveis de escala. 
