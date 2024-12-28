@@ -1,0 +1,8 @@
+created: 20241227235116375
+list: [[Draft of 'New Tiddler 1']] [[Draft of 'New Tiddler 4']] [[Draft of 'New Tiddler 3']] [[Draft of 'New Tiddler 2']]
+modified: 20241227235119068
+muuri-tiddler-width: 1
+title: New Kanban
+tmap.id: 5f06d77f-5724-4f2e-a0e3-3b665977ae64
+
+{{||$:/plugins/BTC/Muuri-Kanban/ui/KanbanTemplate}}

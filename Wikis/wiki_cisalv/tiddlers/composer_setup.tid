@@ -1,0 +1,22 @@
+caption: setup
+created: 20241024152214308
+modified: 20241227181216911
+tags: composer
+title: composer/setup
+tmap.id: 2187c5aa-2cdf-475c-b11f-1e3e3db4cbf2
+
+1. Crie um diretório controlado onde será colocado o autoload.php e suas dependências.
+
+2. Rode esse script lá dentro.
+
+```
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+
+```
+
+<<ccode "sudo mv composer.phar /usr/local/bin/composer""3. Mova o `composer.phar` para o bin:">>
+
+https://getcomposer.org/download/

@@ -1,0 +1,9 @@
+{
+    "title": "dragWindowProcedure",
+    "text": "<<code\"procedure Tform.PanelMouseDown(Sender: TObject; Button: TMouseButton;\n  Shift: TShiftState; X, Y: Integer);\n  const\n   sc_DragMove = $f012;\nbegin\n  inherited;\n  ReleaseCapture;\n  Perform(wm_SysCommand, sc_DragMove, 0);\nend;\">>",
+    "type": "text/markdown",
+    "created": "20241202140638887",
+    "modified": "20241202140919897",
+    "tags": "delphi snnipet",
+    "tmap.id": "a16ec4c4-f0db-4c23-a598-b872641810d7"
+}

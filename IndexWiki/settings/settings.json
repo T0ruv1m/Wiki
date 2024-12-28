@@ -37,14 +37,14 @@
     }
   },
   "wikis": {
-    "wiki1": {
-      "__path": "wiki1"
-    },
-    "wiki2": {
-      "__path": "wiki2"
-    },
     "wiki3": {
       "__path": "wiki3"
+    },
+    "wiki_cisalv": {
+      "__path": "wiki_cisalv"
+    },
+    "meta_wiki": {
+      "__path": "meta_wiki"
     }
   },
   "ws-server": {
@@ -136,7 +136,9 @@
     "federatedMessageQueueTimeout": 1500,
     "saveTiddlerDelay": 200
   },
-  "servingFiles": {},
+  "servingFiles": {
+    "": ""
+  },
   "saver": {
     "host": "localhost",
     "port": "61192",

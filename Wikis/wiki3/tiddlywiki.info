@@ -9,7 +9,10 @@
         "felixhayashi/topstoryview",
         "flibbles/vis-network",
         "flibbles/relink",
-        "flibbles/relink-markdown"
+        "flibbles/relink-markdown",
+        "tiddlywiki-printriver/printriver",
+	"tiddlywiki-Muuri/BTC/Muuri",
+	"tiddlywiki-muuri-kanban/BTC/Muuri-Kanban"
     ],
     "themes": [
         "tiddlywiki/centralised",

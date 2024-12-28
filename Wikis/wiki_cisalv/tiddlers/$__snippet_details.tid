@@ -1,0 +1,7 @@
+caption: Details Tab
+created: 20241227133159654
+modified: 20241227133252341
+tags: $:/tags/TextEditor/Snippet
+title: $:/snippet/details
+
+<<details label:"" src:"" srcClass:"" labelClass:"">>

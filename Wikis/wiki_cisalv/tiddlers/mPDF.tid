@@ -1,0 +1,34 @@
+created: 20241024150328552
+modified: 20241227181216913
+tags: Library php
+title: mPDF
+tmap.id: 24100b1b-d25e-448a-9f47-f77b58e89371
+
+!!! Pre-requisitos:
+[[composer/setup]]
+
+<<ccode "sudo apt update
+sudo apt install php-gd
+sudo apt install php-mbstring
+sudo apt install zip
+sudo apt install unzip" "pacotes necessários">>
+
+!!! Instalação:
+
+<<ccode "composer require mpdf/mpdf""instalar mpdf">>
+
+<<ccode code:"<?php
+require_once '/var/www/sites/composer/vendor/autoload.php';
+
+// Require composer autoload
+//require_once __DIR__ . '/vendor/autoload.php';
+// Create an instance of the class:
+$mpdf = new \Mpdf\Mpdf();
+
+// Write some HTML code:
+$mpdf->WriteHTML('Hello World');
+
+// Output a PDF file directly to the browser
+$mpdf->Output();"
+
+"MBS" >>

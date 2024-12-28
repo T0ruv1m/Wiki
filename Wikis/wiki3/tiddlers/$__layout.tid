@@ -1,5 +1,5 @@
 created: 20241206223809717
-modified: 20241206223901717
+modified: 20241228002514205
 title: $:/layout
 
-$:/core/ui/PageTemplate
+$:/plugins/BTC/Muuri/ui/Layout

@@ -1,0 +1,12 @@
+caption: commands
+created: 20241024162415151
+modified: 20241227181110168
+tags: commands composer
+title: composer/commands
+tmap.id: 72df0142-d8ff-4948-a93d-e3cd68407417
+
+<<code "composer show" >>
+
+<<code "composer require" >>
+
+<<code "composer remove" >>

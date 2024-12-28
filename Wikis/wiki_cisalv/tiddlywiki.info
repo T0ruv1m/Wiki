@@ -1,0 +1,57 @@
+{
+    "description": "Basic client-server edition",
+    "plugins": [
+        "tiddlywiki/filesystem",
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/menubar",
+        "felixhayashi/tiddlymap",
+        "felixhayashi/hotzone",
+        "felixhayashi/topstoryview",
+        "flibbles/vis-network",
+        "flibbles/relink",
+        "tiddlywiki/comments",
+        "tiddlywiki/confetti",
+        "tiddlywiki/dynannotate",
+        "OokTech/TwederBob",
+        "OokTech/Bob",
+        "sobjornstad/TiddlyRemember",
+        "tiddlywiki/markdown",
+        "BTC/Muuri",
+        "BTC/Muuri-Kanban",
+        "tiddlywiki-printriver/printriver",
+        "tiddlywiki/cecily",
+        "tiddlywiki/blog"
+    ],
+    "themes": [
+        "tiddlywiki/centralised",
+        "tiddlywiki/vanilla",
+        "tiddlywiki/tight-heavier"
+    ],
+    "build": {
+        "index": [
+            "--render",
+            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "index.html",
+            "text/plain"
+        ],
+        "static": [
+            "--render",
+            "$:/core/templates/static.template.html",
+            "static.html",
+            "text/plain",
+            "--render",
+            "$:/core/templates/alltiddlers.template.html",
+            "alltiddlers.html",
+            "text/plain",
+            "--render",
+            "[!is[system]]",
+            "[encodeuricomponent[]addprefix[static/]addsuffix[.html]]",
+            "text/plain",
+            "$:/core/templates/static.tiddler.html",
+            "--render",
+            "$:/core/templates/static.template.css",
+            "static/static.css",
+            "text/plain"
+        ]
+    }
+}

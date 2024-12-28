@@ -1,0 +1,10 @@
+caption: commands
+created: 20241023224841249
+modified: 20241227232424096
+tags: commands ubuntu
+title: ubuntu/commands
+tmap.id: d5e9e628-e7c1-4f06-b290-be05a1782a80
+
+<<ccode"chmod -R g+s /path" "mudar permissão de todos os subdiretorios recursivamente" "bash">>
+
+{{Linux-commands-cheat-sheet-2023-Red-Hat-Developer.pdf}}
