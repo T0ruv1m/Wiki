@@ -1,13 +1,14 @@
 created: 20241024170622010
-modified: 20241208002906791
+modified: 20241228031021718
 tags: 
 title: Home
 tmap.id: b3776389-b10a-4516-a700-9080d580bd1f
 
 <footer>
-[[Livro: Uma Linguagem de Padrões|http://189.126.106.101:8080/wiki2]]
+[[Livro: Uma Linguagem de Padrões|http://189.126.106.101/meta_wiki]]
 </footer>
 
+<<details label:"Pequeno Disclaimer" src:"{{_disclaimer}}" srcClass:"alert alert-secondary" labelClass:"alert alert-primary">>
 Comece pelo:
 
 !! [[_Índice da Linguagem Original]]
@@ -30,5 +31,4 @@ Ver também:
 
 ---
 
-<<details label:"Pequeno Disclaimer" src:"{{_disclaimer}}" srcClass:"alert alert-secondary" labelClass:"alert alert-primary">>
 

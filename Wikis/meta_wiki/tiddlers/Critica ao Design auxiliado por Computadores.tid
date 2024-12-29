@@ -1,5 +1,5 @@
 created: 20241124212935390
-modified: 20241216005232686
+modified: 20241228033822640
 tags: blank
 title: Crítica ao Design auxiliado por Computadores
 tmap.id: 7f7863ad-3784-4928-9bd3-38ba2e69e397
@@ -10,7 +10,7 @@ O maior problema com relação ao uso do computador como auxiliar de projeto é 
 
 É essa postura de distanciamento que acaba gerando os problemas. Vê como se tornou a praxis aceita pela maioria dos escritórios, de mesmo quando não estão impedidos por um distânciamento geográfico, tirar algumas fotos e medidas do local e, em seguida abandoná-lo e a partir daí conduzir todo o processo de planejamento. Tudo ocorre em cima de uma abstração distante(em fidelidade) do que realmente é o lugar. Somos pegos pela [[Falácia da Concretude Deslocada]], esquecemos que o software não nos fornece um ambiente de experimentação passivo mas sim uma réplica estéril que aceita qualquer ideia, independente da absurdo da sua implementação.
 
-<<details label:"Coeficiência de Ficção" src:"{{Coeficiente de Ficção}}" srcClass:"alert alert-secondary">>
+<<details label:"Coeficiênte de Ficção" src:"{{Coeficiente de Ficção}}" srcClass:"alert alert-secondary">>
 
 Algumas soluções para reduzir os conflitos e absurdos causados pelo alto coeficiente de ficção dos softwares CAD envolvem  a inserção dados climáticos em um modelo 3d. Também tornou-se padrão da industria utilizar softwares BIM que restringem a possibildade formal em prol da executabilidade das estruturas. Esses modelos permitem prever muitos dos conflitos a priori, antes que a construção se inicie. 
 

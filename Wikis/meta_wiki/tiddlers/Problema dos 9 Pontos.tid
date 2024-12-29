@@ -1,5 +1,5 @@
 created: 20241028012554312
-modified: 20241216012229975
+modified: 20241228031908804
 title: Problema dos 9 Pontos
 tmap.id: 989f3a2c-29c8-4f40-a252-36f78c2b0693
 
@@ -22,7 +22,7 @@ Então tente percorrer os 9 pontos usando no máximo 4 traços retos sem criar d
 
 A incapacidade da maioria das pessoas em resolver esse problema é um exemplo clássico de um [[Erro de Enquadramento]]. Estamos tão acostumados a postular o problema de um jeito que criamos restrições onde não existem.
 
-A dicotomia "forma" e "contexto" elaborada em [[Livro: Notas sobre a Síntese da Forma]] talvez seja melhor compreendida a luz deste exemplo.
+A dicotomia "forma" e "contexto" elaborada em [[Livro: Notas sobre a Síntese da Forma]] talvez seja melhor compreendida sob a luz deste exemplo.
 
 <<details label:"Ver Solução" src:"{{_solução9dot}}<br>Essa é apenas uma das soluções possíveis. Se você não tinha conseguido e achou que o problema tinha 'pegadinha', então tente resolver criando um padrão diferente.">>
 

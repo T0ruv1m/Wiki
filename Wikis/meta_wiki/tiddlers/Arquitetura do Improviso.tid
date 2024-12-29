@@ -1,5 +1,5 @@
 created: 20241113220626098
-modified: 20241215212343641
+modified: 20241228033606340
 tags: 
 title: Arquitetura do Improviso
 tmap.id: 67c96b0e-3022-47ae-ba37-c8a5cf7b6d66
@@ -28,6 +28,7 @@ Se quisermos ter estruturas adaptáveis, esse desvio não deve estar pressuposto
 
 > Uma adaptabilidade verdadeira requer que o resultado final seja imprevisível também durante a construção.(Alexander, 2002, p.240) 
 
+[[Construção como um Fazer]]
 
 <footer>
 <<hbl>>  
