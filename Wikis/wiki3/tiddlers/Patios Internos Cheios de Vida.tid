@@ -1,6 +1,6 @@
 created: 20241025115736085
 img_intro: https://i.pinimg.com/736x/55/5f/e1/555fe187e196ce6655d08738dc93f2cc.jpg
-modified: 20241109193057321
+modified: 20241229231114631
 tags: .padrão arquetipico falta/referencia
 title: Pátios Internos Cheios de Vida
 tmap.edges: {"e0227eee-0f81-479c-965a-e8200a049964":{"to":"f555db49-4e3b-4769-a68b-d546bd1338ce","type":"deve conter"}}
@@ -39,6 +39,3 @@ Referências:
 1.<<refbib" ">>
 2.FISCARELLI, Nicola. Courtyard 1. Disponível em: https://fineartamerica.com/featured/courtyard-1-nicola-fiscarelli.html. Acesso em: 7 nov. 2024.
 </footer>
-
-
-<iframe src="http://npl.wiki/view/welcome-visitors/view/growing-regions/view/patterns-of-scale/view/building-patterns/view/courtyard-building" height="400">

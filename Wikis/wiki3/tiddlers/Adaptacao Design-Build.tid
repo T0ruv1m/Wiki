@@ -1,0 +1,44 @@
+created: 20241229232653338
+modified: 20241229234025896
+tags: NPL
+title: Adaptação Design-Build
+tmap.id: de48f3a4-fba0-4bff-bb84-fc0fe81ee476
+
+<</img_intro>>
+
+<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='http://npl.wiki/view/design-build-adaptation' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+ Há uma qualidade importante nos edifícios que respondem às oportunidades de evolução de seu contexto durante a construção. No entanto, uma abordagem de projeto e construção pode introduzir incerteza, complexidade e custo no processo de construção.
+
+</problema>
+
+<<descricao"
+Alguns dos edifícios mais bonitos e bem-sucedidos do mundo foram produzidos a partir de um processo de design/build. As grandes catedrais medievais são um exemplo disso: muitas vezes a construção começou com pouco mais do que uma planta baixa e uma elevação de uma única baía, desenhada com tinta sobre gesso. Seguiram-se muitas centenas de desenhos, modelos e maquetes, e os belos resultados surgiram desse cuidadoso processo evolutivo.
+
+Ao mesmo tempo, as abordagens de design-build podem ser caras se não forem bem gerenciadas. A questão crítica é a governança das mudanças, de modo que nenhuma mudança introduza custos e/ou tempo adicionais em relação ao que foi planejado. Isso pode ser feito se for gerenciado com cuidado.
+
+Estamos começando a perceber que há uma relação entre as nossas construções mais bem-sucedidas - medidas pela saúde e satisfação do usuário - e os processos da biologia. Nesses sistemas biológicos, aprendemos uma lição profunda com seu processo de crescimento com adaptação, em que cada etapa do desenvolvimento verifica a coerência latente do todo emergente. Em um processo “linear” ou mecanicista, por outro lado, uma estrutura é construída estritamente de acordo com um projeto. Isso torna impossível ajustar um projeto usando o feedback enquanto ele está sendo executado. O resultado é que perdemos uma capacidade poderosa de nos adaptarmos muito mais às sensibilidades humanas. No entanto, como podemos ver em exemplos históricos, esse método levou a resultados excelentes. O desafio agora é fazer um esforço extra para implementar um procedimento com maior feedback na formação de um ambiente construído de melhor qualidade.
+">>
+
+Portanto:
+
+<solucao>
+
+Incorpore uma metodologia de design-build nos processos de construção. Use uma colaboração interativa entre designers, construtores e artesãos, procurando no local oportunidades e combinações emergentes.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+
+</footer>

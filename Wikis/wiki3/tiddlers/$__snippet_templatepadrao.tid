@@ -1,0 +1,36 @@
+caption: template Padrão
+created: 20241229215441852
+modified: 20241229215518842
+tags: $:/tags/TextEditor/Snippet
+title: $:/snippet/templatepadrao
+
+<</img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

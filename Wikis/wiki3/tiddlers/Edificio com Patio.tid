@@ -1,0 +1,40 @@
+created: 20241229231151381
+modified: 20241229233015891
+tags: NPL
+title: Edifício com Pátio
+tmap.id: 50a28073-f7af-441b-87c7-1847d683194f
+
+
+<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='http://npl.wiki/view/courtyard-building' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+
+<</img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Em bairros movimentados, há necessidade de um espaço externo silencioso que faça parte do edifício e de luz e ar para entrar nos cômodos no meio do edifício. Esse é o arquétipo do Edifício com Pátio
+
+</problema>
+
+<<descricao"">>
+
+Portanto:
+
+<solucao>
+
+Quando os edifícios se tornarem muito profundos para permitir a entrada de ar e luz, ou quando eles se beneficiarem de um espaço externo privativo dentro deles, coloque-os como edifícios com Pátios. Crie varandas em frente a eles ou envolvendo dois ou mais lados. Se os pátios não forem totalmente cercados por edifícios, cerque-os com paredes ou cercas apropriadas, para que funcionem como espaços externos privados.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+http://npl.wiki/view/courtyard-building
+</footer>

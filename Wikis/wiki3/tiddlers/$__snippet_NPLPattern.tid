@@ -1,0 +1,38 @@
+caption: Padrão NPL
+created: 20241229232812121
+modified: 20241229233019897
+tags: $:/tags/TextEditor/Snippet
+title: $:/snippet/NPLPattern
+
+<</img_intro>>
+
+<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='http://npl.wiki/view/courtyard-building' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+
+</footer>

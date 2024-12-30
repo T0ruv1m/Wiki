@@ -1,5 +1,38 @@
 created: 20241109193548037
-modified: 20241109193550478
+img_intro: https://i.pinimg.com/736x/d3/74/f9/d374f9fab280aa35a3094577b11c33d2.jpg
+modified: 20241229223522917
 tags: .padrão arquetipico
 title: Iluminação Natural vinda de Dois Lados
+tmap.edges: {}
 tmap.id: 176adacb-78c6-4679-8eb8-8ac9f9e071f1
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Quando têm escolha, as pessoas sempre tendem a ocupar preferencialmente os ambientes que recebem luz natural por dois lados, deixando desocupados e vazios os recintos que são apenas iluminados por um dos lados.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Posicione cada ambiente de maneira que ele tenha pelo menus duas paredes externas, e então coloque janelas nestas duas paredes, de modo que a luz natural sempre incida no interior oriunda de mais de uma direção.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib"745">>
+</footer>

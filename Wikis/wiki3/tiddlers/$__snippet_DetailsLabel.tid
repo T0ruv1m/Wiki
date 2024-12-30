@@ -1,0 +1,7 @@
+caption: Detalhes
+created: 20241229232856350
+modified: 20241229233007533
+tags: $:/tags/TextEditor/Snippet
+title: $:/snippet/DetailsLabel
+
+<<details label:"" src:"" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
