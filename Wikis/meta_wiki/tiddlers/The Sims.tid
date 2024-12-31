@@ -1,6 +1,6 @@
 created: 20241022215832747
 icon: $:/thesims-icon.png
-modified: 20241223002236105
+modified: 20241230104403344
 tags: software
 title: The Sims
 tmap.id: 63bf6eb2-7dd8-4b05-9697-351a921c5543
@@ -11,7 +11,7 @@ type:
 
 Apesar de uma primeira recepção negativa, o jogo foi um sucesso. Recebeu 3 sequências e mais de 100 pacotes de expansão ao todo, sendo uma das franquias mais lucrativas de todos os tempos. O que é que torna essa premissa do cotidiano em um jogo tão viciante? Bem, os motivos são vários, porém podemos apontar alguns:
 
-* O criador conseguiu reunir em um único jogo não apenas um simulador da vida cotidiana mas também um simulador de construção.Todos os jogos principais da franquia permitem com que o jogador alterne quando quiser entre a simulação e a construção, e expanda a casa da sua família de modo gradual, para atender as demandas do estado atual da família, que está sempre em fluxo. Afinal, os sims se casam, tem filhos, envelhecem e morrem como todos nós, apenas em um ritmo muito mais acelerado.   
+* O criador conseguiu reunir em um único jogo não apenas um simulador da vida cotidiana mas também um simulador de construção.Todos os jogos principais da franquia permitem com que o jogador alterne quando quiser entre a simulação e a construção, e expanda a casa de modo gradual, para atender as demandas do estado atual da família, que está sempre em fluxo. Afinal, os sims  tem filhos, envelhecem e morrem como todos nós, apenas em um ritmo muito mais acelerado.   
 Acreditamos que esse dinamismo gerado pelo habitar/construir é um dos aspectos mais interessantes do jogo, as casas são sempre um trabalho em progresso sujeito a modificações, e somente convivendo com os sims e lidando com as funções diárias conseguimos entender a melhor maneira de elaborar a casa.
 
 >VIVER/ CONSTRUIR é a forma mais íntima e tradicional. Habitar no local de construção pode poupar dinheiro, pode contribuir para a sensibilidade do local e dos usos no projeto e pode distribuir os custos de construção e os incómodos ao longo do tempo ou incitar os habitantes a apressarem-se e a terminarem a maldita construção. (Brand, 1995, p.411, tradução nossa)
@@ -20,7 +20,7 @@ Acreditamos que esse dinamismo gerado pelo habitar/construir é um dos aspectos 
 
 !!! Trivia:
 
-* O jogo foi primeiramente pensado para ser um simulador de arquitetura apenas, e os sims viriam apenas para avaliar as construções. Notando que os sims eram o aspecto mais interessante do jogo, houve uma guinada no desenvolvimento que o transformou em um simulador misto.
+* O jogo foi primeiramente pensado para ser um simulador de arquitetura, e os sims viriam apenas para avaliar as construções. Notando que os sims eram o aspecto mais interessante do jogo, houve uma guinada no desenvolvimento que o transformou em um simulador misto.
 * O [[Livro: Uma Linguagem de Padrões]] foi uma inspiração direta para o criador, e muitos dos padrões estão presentes na programação do jogo original. Por exemplo, os sims ganham um aumento de necessidades quando estão em comodos iluminados por duas janelas,exatamente como o padrão [[Iluminação Natural Vinda de Dois Lados|http://189.126.106.101:8080/wiki3#Ilumina%C3%A7%C3%A3o%20Natural%20vinda%20de%20Dois%20Lados]] nos diz.
 
 !!!!Uma lição para os arquitetos:

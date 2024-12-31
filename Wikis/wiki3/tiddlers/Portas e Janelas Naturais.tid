@@ -1,7 +1,7 @@
 created: 20241206230513328
 img1: https://i.pinimg.com/736x/e3/6b/09/e36b09c67f6fcf3d46b8c7aad63eb173.jpg
-img_intro: https://i.pinimg.com/736x/08/82/d8/0882d8244ad7134d6567075567f11879.jpg
-modified: 20241206234627313
+img_intro: https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/881de6d0-dc62-41f7-b636-a0c4c85953f6/cae8fefb-4ecc-4337-9d6e-2f4ae8eb4c05_500x490.jpeg
+modified: 20241230124233025
 tags: 
 title: Portas e Janelas Naturais
 tmap.id: 849f044f-2433-4608-aa5e-da791e779e08
@@ -33,6 +33,8 @@ Conforme sobem os pavimentos faça as janelas cada vez menores.
 </solucao>
 
 <<diamantes>>
+
+<<details label:"Coteúdo Adicional" src:"[[Placing Windows|https://www.patternlanguage.com/sequences/slideshows/gray/windowplacing-unfolding.html]] " srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
 
 <<mapa "Live View">>
 Referências:

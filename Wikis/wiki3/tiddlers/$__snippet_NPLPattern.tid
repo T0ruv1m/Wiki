@@ -1,12 +1,12 @@
 caption: Padrão NPL
 created: 20241229232812121
-modified: 20241229233019897
+modified: 20241230185150638
 tags: $:/tags/TextEditor/Snippet
 title: $:/snippet/NPLPattern
 
 <</img_intro>>
 
-<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='http://npl.wiki/view/courtyard-building' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='{{!!link_npl}}' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
 
 <<diamantes>>
 
@@ -34,5 +34,5 @@ Faça isso e aquilo.
 
 Referências:
 <footer>
-
+{{!!link_npl}}
 </footer>

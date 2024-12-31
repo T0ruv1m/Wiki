@@ -1,6 +1,6 @@
 created: 20241207004430418
 img_intro: https://i.pinimg.com/736x/a8/c6/92/a8c692ec7f753f53bdb2445de0dc5078.jpg
-modified: 20241207164026084
+modified: 20241230114201506
 tags: arquetipico padrão/construcao
 title: Enrijecimento Gradual
 tmap.id: c6db91bb-bbee-4fe4-9234-45c8f6a114ef
@@ -32,8 +32,6 @@ Acreditamos que, nos dias de hoje, a versão mais natural deste processo seja a 
 <<diamantes>>
 
 <<mapa "Live View">>
-
-<<details label:"Outras Imagens" src:"{{_imgs_enrijecimento}}" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
 
 Referências:
 <footer>

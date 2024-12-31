@@ -1,5 +1,36 @@
 created: 20241207005821623
-modified: 20241207005821623
+modified: 20241230185438993
 title: Materiais Apropriados
-tmap.edges: {"b5f93b4b-d5d5-478a-b67e-b41f17fdd7d0":{"to":"c6db91bb-bbee-4fe4-9234-45c8f6a114ef","type":"colabora com"}}
+tmap.edges: {"b5f93b4b-d5d5-478a-b67e-b41f17fdd7d0":{"to":"c6db91bb-bbee-4fe4-9234-45c8f6a114ef","type":"colabora com"},"9c3b79f3-5e3f-460e-9b00-61f6a44d56b9":{"to":"bfcdc882-bfba-4638-bb0a-ac81d0c939a0","type":"colabora com"},"570dcf6d-599f-4be4-98df-5a3bc4b2f817":{"to":"f0667392-7239-4205-9f8c-619d2a2662b5","type":"colabora com"}}
 tmap.id: 9448e656-5274-4da2-bab4-d6fe977531e9
+
+<</img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

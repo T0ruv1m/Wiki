@@ -1,0 +1,48 @@
+created: 20241230183410270
+link_npl: http://npl.wiki/view/complex-materials
+modified: 20241230212017261
+tags: NPL
+title: Material Complexo
+tmap.id: f0667392-7239-4205-9f8c-619d2a2662b5
+
+<</img_intro>>
+
+<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='http://npl.wiki/view/complex-materials' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+...Ao criar um Urbanismo Biofílico, tome cuidado para que os materiais não sejam muito simples e monolíticos.
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Muitos edifícios são feitos com extensões simples e sem graça de metal e vidro, repetidos incessantemente. Esses materiais são feios.
+
+</problema>
+
+<<descricao"
+
+Muitas vezes, os materiais mais bonitos são também os mais complexos, ou seja, eles têm divisões estruturais ricas que podem ser vistas em escala humana. Madeira, estuque, tijolo, metal enferrujado e outros materiais têm essa rica complexidade. O metal perfeitamente liso, o vidro e os painéis de madeira pintados não têm. Ao criar ambientes  que mostram a escala fractal, o nível menor do que o ornamento é definido pela microestrutura dos materiais.
+
+Materiais naturais, como madeira e pedra polida, podem revelar padrões maravilhosos de sua estrutura biológica anterior. Devido à escala fractal, nós nos conectamos intimamente a essas menores escalas, de 1 cm a menos de 1 mm. Isso explica o amor universal por materiais naturais caros para construção, especialmente se usados em superfícies internas. Mas os materiais amorfos, como concreto, vidro e metal liso, não apresentam nenhuma subestrutura organizada. Eles não satisfazem o desejo humano de complexidade organizada nas menores escalas.¹ 
+
+A fôrma para concreto poderia ser usada para esse fim, mas bons exemplos são muito raros: muito mais comum é uma superfície cinza áspera e pouco atraente que não satisfaz nossa necessidade básica de complexidade organizada.
+">>
+
+Portanto:
+
+<solucao>
+
+Evite grandes extensões de painéis de metal e vidro perfeitamente planos e lisos. Use materiais complexos que tenham características estruturais sutis que possam ser percebidas em escalas humanas.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+{{!!link_npl}}
+</footer>

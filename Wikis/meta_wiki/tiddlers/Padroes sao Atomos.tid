@@ -1,15 +1,17 @@
 created: 20241028010021412
-modified: 20241225234141316
+modified: 20241231015219840
 tags: padroes
 title: Padrões são Átomos
 tmap.id: a51fc800-98f2-4b19-ab57-94dfd982071d
 
->"Qualquer edifício específico que estivermos analisando é uma combinação de ideias. Mesmo que essas ideias sejam válidas individualmente, vou querer usá-las em outros edifícios, em outras combinações, e não nessa combinação específica. Não poderei fazer isso, a menos que eu saiba exatamente onde uma ideia termina e outra começa. Portanto, devo ser capaz de identificar ideias que sejam, de certa forma, //atômicas//. A apresentação normal de edifícios - plantas, seções, fotos - não faz nada disso para mim. As ideias não são expressas em uma forma utilizável." ^^(1)^^
+>"Qualquer edifício específico que estivermos analisando é uma combinação de ideias. Mesmo que essas ideias sejam válidas individualmente, vou querer usá-las em outros edifícios, em outras combinações, e não nessa combinação específica. Não poderei fazer isso, a menos que eu saiba exatamente onde uma ideia termina e outra começa. Portanto, devo ser capaz de identificar ideias que sejam, de certa forma, //atômicas//. A apresentação normal de edifícios - plantas, seções, fotos - não faz nada disso para mim. As ideias não são expressas em uma forma utilizável."(Alexander apud Carey, 1977)
 
 Padrões são a menor unidade possível de uma construção. E isso permite que eles sejam recombinados e reutilizados em outras situações e com que uma edificação seja decomposta em partes. Porém os atomos aqui não se referem aquele modelo clássico que os via como pequenas unidades estáticas de matéria. Esses atomos estariam muito mais próximos da concepção derivada da teoria quantica que os formula como um sistema de relações.
 
 
 {{2.4}}
+
+(Alexander em [[Desdobramento]])
 
 Por conta disso os [[Padrões são Campos, não Coisas!]]
 

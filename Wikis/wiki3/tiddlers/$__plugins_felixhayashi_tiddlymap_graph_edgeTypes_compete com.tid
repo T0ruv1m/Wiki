@@ -1,4 +1,4 @@
 created: 20241229223752095
-modified: 20241229230458339
-style: {"arrows":{"from":true},"color":{"color":"rgba(226,103,104,1)"},"smooth":{"forceDirection":"horizontal","type":"horizontal"}}
+modified: 20241230121053808
+style: {"arrows":{"from":true},"color":{"color":"rgba(226,103,104,1)"},"smooth":{"forceDirection":"horizontal","type":"curvedCW"}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/compete com

@@ -1,5 +1,5 @@
 created: 20241024170622010
-modified: 20241228031021718
+modified: 20241230185942961
 tags: 
 title: Home
 tmap.id: b3776389-b10a-4516-a700-9080d580bd1f
@@ -9,9 +9,11 @@ tmap.id: b3776389-b10a-4516-a700-9080d580bd1f
 </footer>
 
 <<details label:"Pequeno Disclaimer" src:"{{_disclaimer}}" srcClass:"alert alert-secondary" labelClass:"alert alert-primary">>
-Comece pelo:
 
-!! [[_Índice da Linguagem Original]]
+Comece Pelos Índices:
+
+<<details label:"Índice da Linguagem Original" src:"{{_Índice da Linguagem Original}}">>
+<<details label:"Índice da New Pattern Language" src:"{{_Índice da NPL}}">>
 
 ou: 
 
@@ -27,7 +29,8 @@ ou:
 
 Ver também:
 
-[[Padrões Pessoais]]
+<<details label:"Índice dos Padrões Pessoais" src:"{{Padrões Pessoais}}">>
+
 
 ---
 

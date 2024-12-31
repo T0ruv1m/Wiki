@@ -1,16 +1,16 @@
 created: 20241027210211534
-modified: 20241228031410571
+modified: 20241230095211505
 tags: TableOfContents
 title: O que é um Padrão afinal?
 tmap.id: 982b4bac-b0f5-42ff-ac87-20482872c7b9
 
-"Padrão" é traduzido do inglês "Pattern". Esse termo foi //inventado//^^(1)^^ por Alexander e seus amigos e se refere ao formato em que a informação do livro é armazenada. É um formato bem simples que cita um problema corriqueiro seguido de uma instrução que ajuda a resolvê-lo. Porém, além de serem um formato, o conteúdo dos padrões tenta apontar para coisas profundas.
+"Padrão" é traduzido do inglês "Pattern". Esse termo foi //inventado//^^(1)^^ por Alexander e seus amigos e se refere ao formato em que a informação do livro é armazenada. É um formato bem simples que cita um problema corriqueiro seguido de uma instrução que ajuda a resolvê-lo. Porém, além de serem um formato, o conteúdo dos padrões tenta apontar para alguns aspectos profundos do espaço construído.
 
-A definição mais concisa dessa coisa seria:
+Uma definição mais concisa seria:
 
 > Um padrão é uma pepita de informações instrutivas que captura a estrutura essencial de um grupo de soluções comprovadas para um problema recorrente que surge em um determinado contexto e em um sistema de forças.
 
-Talvez seja necessário destrinchar essa definição.Por isso,aqui estão separadas algumas notas que descrevem positivamente aspectos específicos dos padrões e os definem por perspectivas diferentes.
+Vemos como necessário não só destrinchar como expandir essa definição. Por isso,aqui estão separadas algumas notas que descrevem positivamente , por meio de metáforas, aqueles aspectos dos padrões que julgamos mais importantes:
 
 <<tabs "[tag[padroes]]" class:"tc-vertical">>
 
