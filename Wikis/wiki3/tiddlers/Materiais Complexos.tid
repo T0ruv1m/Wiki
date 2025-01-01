@@ -1,11 +1,12 @@
 created: 20241230183410270
+img_intro: https://i.pinimg.com/736x/83/42/7c/83427cdf4b1ee6bde657bc9a39cdbc6f.jpg
 link_npl: http://npl.wiki/view/complex-materials
-modified: 20241230212017261
+modified: 20241231210724823
 tags: NPL
-title: Material Complexo
+title: Materiais Complexos
 tmap.id: f0667392-7239-4205-9f8c-619d2a2662b5
 
-<</img_intro>>
+<<img_intro>>
 
 <<details label:"NPL - Acesso ao Padrão" src:"<iframe src='http://npl.wiki/view/complex-materials' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
 
@@ -21,7 +22,7 @@ Muitos edifícios são feitos com extensões simples e sem graça de metal e vid
 
 </problema>
 
-<<descricao"
+<<descricao+"
 
 Muitas vezes, os materiais mais bonitos são também os mais complexos, ou seja, eles têm divisões estruturais ricas que podem ser vistas em escala humana. Madeira, estuque, tijolo, metal enferrujado e outros materiais têm essa rica complexidade. O metal perfeitamente liso, o vidro e os painéis de madeira pintados não têm. Ao criar ambientes  que mostram a escala fractal, o nível menor do que o ornamento é definido pela microestrutura dos materiais.
 

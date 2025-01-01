@@ -1,5 +1,37 @@
 created: 20241109193743467
-modified: 20241109193745109
-tags: .padrão
+img_intro: https://i.pinimg.com/736x/77/8f/40/778f40f0621345439fbdbb90a03fa4aa.jpg
+modified: 20241231200608205
+tags: .padrão falta/editar
 title: A Horta
 tmap.id: 820b8d31-8136-416b-9114-2b9d14a7b460
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

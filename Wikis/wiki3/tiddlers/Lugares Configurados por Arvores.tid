@@ -1,5 +1,37 @@
 created: 20241109193711849
-modified: 20241109193712734
+img_intro: https://i.pinimg.com/736x/43/da/16/43da160bc9591316668806a415981ffe.jpg
+modified: 20241231202453238
 tags: .padrão
 title: Lugares Configurados por Árvores
 tmap.id: c5ee2ac3-90db-4cfd-822a-357deeff3faa
+
+<<img_introh>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Quando as árvores são plantadas ou podadas sem levar em conta os lugares especiais que elas podem criar, elas são consideradas mortas para as pessoas que precisam delas.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Se estiver plantando árvores, plante-as de acordo com a natureza delas, para formar cercas, avenidas, praças, bosques e árvores únicas espalhadas no meio de espaços abertos. E molde os edifícios próximos em resposta às árvores, de modo que as próprias árvores, e as árvores e os edifícios juntos, formem lugares que as pessoas possam usar.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

@@ -1,0 +1,40 @@
+created: 20241231182149436
+img_intro: https://i.pinimg.com/736x/83/30/b4/8330b4865cdf5d37176696b7cc02ebdd.jpg
+modified: 20241231184353977
+tags: favorito padrão/construcao
+title: Ornamento
+tmap.edges: {"3d08617b-bb35-443e-8553-2677c8bbe2bb":{"to":"60ee98e9-8c54-453e-9b46-5f5b3ac2934c","type":"pode incluir"}}
+tmap.id: 0684da56-4eae-4af2-8212-735986890cf3
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Todas as pessoas têm o instinto de decorar seu entorno.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Examine a edificação e identifique aquelas juntas e transições que precisam de ênfase ou de uma energia de união extra. Quinas, lugares onde materiais diferentes se encontram, guarnições de porta, entradas principais, o lugar onde uma parede encontra outra, o portão do jardim, uma cerca - todos esses são lugares naturais que pedem ornamentação.
+
+Assim, busque temas simples e aplique seus elementos repetidas vezes às juntas e aos limites escolhidos por você. Faça os ornamentos trabalharem como juntas ao longo dos limites e das bordas, de modo que consigam amarrar os dois lados e torná-los um só.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib"1147">>
+</footer>

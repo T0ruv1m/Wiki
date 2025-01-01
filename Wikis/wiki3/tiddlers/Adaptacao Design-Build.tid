@@ -1,6 +1,6 @@
 created: 20241229232653338
 img_intro: http://npl.wiki/assets/image/15.1_FRESNO_FRAMING.png
-modified: 20241230190920680
+modified: 20241231223740339
 tags: NPL
 title: Adaptação Design-Build
 tmap.id: de48f3a4-fba0-4bff-bb84-fc0fe81ee476
@@ -19,7 +19,7 @@ Problema:
 
 </problema>
 
-<<descricao "
+<<descricao+ "
 Alguns dos edifícios mais bonitos e bem-sucedidos do mundo foram produzidos a partir de um processo de design/build. As grandes catedrais medievais são um exemplo disso: muitas vezes a construção começou com pouco mais do que uma planta baixa e uma elevação de uma única baía, desenhada com tinta sobre gesso. Seguiram-se muitas centenas de desenhos, modelos e maquetes, e os belos resultados surgiram desse cuidadoso processo evolutivo.
 
 Ao mesmo tempo, as abordagens de design-build podem ser caras se não forem bem gerenciadas. A questão crítica é a governança das mudanças, de modo que nenhuma mudança introduza custos e/ou tempo adicionais em relação ao que foi planejado. Isso pode ser feito se for gerenciado com cuidado.
@@ -41,5 +41,5 @@ Incorpore uma metodologia de design-build nos processos de construção. Use uma
 
 Referências:
 <footer>
-
+http://npl.wiki/view/design-build-adaptation
 </footer>

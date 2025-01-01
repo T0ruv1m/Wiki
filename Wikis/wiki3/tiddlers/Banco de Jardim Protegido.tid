@@ -1,6 +1,39 @@
 created: 20241106125734886
-modified: 20241109192351193
+img_intro: https://i.pinimg.com/736x/6c/a3/d3/6ca3d307558efdef0ffa9c47222d23b5.jpg
+modified: 20241231201734525
 tags: .padrão
 title: Banco de Jardim Protegido
 tmap.edges: {"70135031-385e-401b-9cd4-dae829cb2e35":{"to":"cd42b212-1bff-4511-9671-345d5a61d12f","type":"por meio de"}}
 tmap.id: c23526f3-bb26-4c07-a053-9be083078023
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Em algum lugar de cada jardim, deve haver pelo menos um local, um assento de jardim tranquilo, no qual uma pessoa - ou duas pessoas - possa entrar em si mesma e entrar em contato com nada além da natureza.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Crie um lugar tranquilo no jardim - um recinto privado com um assento confortável, vegetação densa e sol. Escolha o local para o assento com cuidado; escolha o local que lhe proporcionará o tipo mais intenso de solidão.
+
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

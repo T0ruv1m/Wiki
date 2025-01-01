@@ -1,0 +1,7 @@
+caption: Youtube Video
+created: 20241231165556057
+modified: 20241231165714689
+tags: $:/tags/TextEditor/Snippet
+title: $:/snippet/youtube_video
+
+<iframe width="560" height="315" src="url" frameborder="0" allowfullscreen></iframe>

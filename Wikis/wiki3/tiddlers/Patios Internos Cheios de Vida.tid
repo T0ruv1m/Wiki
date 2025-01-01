@@ -3,7 +3,7 @@ img_intro: https://i.pinimg.com/736x/55/5f/e1/555fe187e196ce6655d08738dc93f2cc.j
 modified: 20241229231114631
 tags: .padrão arquetipico falta/referencia
 title: Pátios Internos Cheios de Vida
-tmap.edges: {"e0227eee-0f81-479c-965a-e8200a049964":{"to":"f555db49-4e3b-4769-a68b-d546bd1338ce","type":"deve conter"}}
+tmap.edges: {"e0227eee-0f81-479c-965a-e8200a049964":{"to":"f555db49-4e3b-4769-a68b-d546bd1338ce","type":"deve conter"},"cfe6ecd6-9059-406b-a71c-4edeed3b3b39":{"to":"95e8c242-d68a-4577-b450-db6baf2ef403","type":"pode incluir"}}
 tmap.id: d6335272-6c7a-4c9d-a1b4-ebbf0f8aca1d
 
 <<img_intro>>

@@ -1,5 +1,5 @@
 created: 20241023114145621
-modified: 20241230184603220
+modified: 20241231202323616
 tags: $:/tags/Macro
 title: macro/img_intro
 tmap.id: 67660e46-94aa-4238-bb7c-0471fb9cc61d
@@ -11,4 +11,8 @@ type: text/vnd.tiddlywiki
 </div>
 \end
 
-
+\define img_introh()
+<div class="centered-image">
+  <img src={{!!img_intro}} alt={{!!title}} style="width: 560px; height: 360px; object-fit: cover; overflow: hidden; border: 4px solid #b3b3b3; border-radius: 8px;" />
+</div>
+\end

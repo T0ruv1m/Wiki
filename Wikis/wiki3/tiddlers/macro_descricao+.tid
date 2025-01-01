@@ -1,0 +1,9 @@
+created: 20241231195221736
+modified: 20241231195304807
+tags: $:/tags/Macro
+title: macro/descricao+
+tmap.id: fe675d00-2ae9-45ee-8adb-9a54a94aa4f3
+
+\define descricao+(rotulo"")
+<<details label:"Descrição" src:"$rotulo$"  labelClass:"alert alert-primary">>
+\end

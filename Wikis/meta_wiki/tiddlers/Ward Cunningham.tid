@@ -1,7 +1,13 @@
 created: 20241022213445430
-modified: 20241102153024694
+modified: 20241231181835756
 title: Ward Cunningham
 tmap.edges: {"004d14fe-9d9a-474d-a227-c9712f4dfffe":{"to":"1598e4af-d311-44cf-b121-2ffeef12e61a","type":"a desenvolver"},"f159264c-17c8-4ef4-aa8f-93ffa274df76":{"to":"fb2a09a4-fe93-48dd-9fa1-647f063b5ac4","type":"influenciou"}}
 tmap.id: 21d7639a-41c7-4cbc-992a-43bb2810736e
 tmap.style: {}
 type: text/vnd.tiddlywiki
+
+A lei de Cunningham afirma que "a melhor maneira de obter a resposta certa na Internet não é fazer uma pergunta, é postar a resposta errada."
+
+Cunningham foi o inventor do software Wiki-Wiki, popularmente conhecido apenas como Wiki. O epitome desse tipo de software é a plataforma Wikipedia, mundialmente acessada e constantemente revisada.
+
+Cunningham for diretamente influenciado por [[Christopher Alexander]]

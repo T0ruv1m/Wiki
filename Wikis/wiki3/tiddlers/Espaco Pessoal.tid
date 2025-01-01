@@ -1,5 +1,7 @@
 created: 20241109192222489
-modified: 20241109192223346
+img_intro: 
+modified: 20241231203455886
 tags: .padrão
 title: Espaço Pessoal
+tmap.edges: {"9cd6cb08-08bc-48fe-8e0a-6de5d562da10":{"to":"77daa6aa-4a51-480e-8c44-42a731978cd5","type":"deve conter"},"1906d2a2-2048-455e-b252-7344af73be4d":{"to":"2e583b65-dcdd-4413-8e20-17bbcea64d94","type":"deve conter"}}
 tmap.id: 3ec33179-8856-4f9c-8ce5-9eab3109573f

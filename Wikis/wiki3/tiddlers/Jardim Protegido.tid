@@ -1,5 +1,38 @@
 created: 20241108104505014
-modified: 20241109193723071
+img1: https://i.pinimg.com/736x/c5/e1/73/c5e173bf33be4f2d1b95610231fd8747.jpg
+img_intro: https://i.pinimg.com/736x/6d/be/c3/6dbec3d65fd1a1467f41bad793cce869.jpg
+modified: 20241231201329206
 tags: .padrão
 title: Jardim Protegido
 tmap.id: de600c5f-c0a0-497d-8d37-79ece841f9a2
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Jardins e pequenos parques públicos não proporcionam alívio suficiente contra o ruído, a menos que estejam bem protegidos.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Forme algum tipo de cercamento para proteger o interior de um jardim tranquilo das vistas e dos sons do tráfego que passa. Se for um jardim grande ou um parque, o cercado pode ser suave, pode incluir arbustos, árvores, encostas e assim por diante. No entanto, quanto menor o jardim, mais rígido e definido deve ser o cercado. Em um jardim muito pequeno, forme o cercado com prédios ou muros; mesmo sebes e cercas não serão suficientes para impedir a entrada de som.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>
