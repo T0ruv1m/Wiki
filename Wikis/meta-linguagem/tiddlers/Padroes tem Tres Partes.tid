@@ -1,0 +1,38 @@
+created: 20241029002649495
+modified: 20250101213519224
+tags: padroes
+title: Padrões tem Três Partes
+tmap.id: 560be685-c8fe-4c01-b1a4-2f163364c529
+tmap.style: {}
+
+!!! ''Todo padrão segue o mesmo formato:''
+
+<<card 
+header:"contexto"
+title:"Nome"
+subtitle:"''Frase Problema''"
+text:"Descrição do Problema"
+footer:" Portanto:
+''Solução do Problema''"
+width:"18rem"
+class:"text-dark"
+>>
+
+Um padrão sempre é formulado como uma espécie de regra que estabelece uma relação entre um contexto, um problema e uma solução. ^^(1)^^.
+
+O contexto limita o campo de influência do padrão. Isso quer dizer que eles só funcionam em situações onde o conflito de forças que os caracteriza está presente.  
+//Terraço Utilizável// não seria aplicável em um Iglu, por exemplo.
+
+Portanto:
+
+> ''todo padrão serve para resolver um conflito de forças específico:'' 
+
+* [[Entroncamento em T|http://padroes.wiki.br/linguagem#Entroncamento%20em%20%22T%22]] resolve conflitos de forças que só ocorrem no sistema viário.
+
+* [[Transição da Entrada|http://padroes.wiki.br/linguagem#Transi%C3%A7%C3%A3o%20da%20Entrada]] resolve conflitos entre forças psicológicas internas.^^(2)^^
+
+* [[Jardim crescendo Selvagem|http://padroes.wiki.br/linguagem#Jardim%20Crescendo%20Selvagem]] resolve conflitos entre as forças da natureza, o processo de crescimento natural das plantas e ações naturais das pessoas em um jardim.^^(2)^^ 
+
+<footer>
+1.[[Livro: The Timeless Way of Building]] p.253  
+2.[[Livro: The Timeless Way of Building]] p.248

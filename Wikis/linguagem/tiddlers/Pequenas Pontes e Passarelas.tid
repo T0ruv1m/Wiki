@@ -1,0 +1,38 @@
+created: 20250101133438096
+img_intro: https://i.pinimg.com/736x/68/f0/49/68f049b5cb5247ff1742caf7801e2138.jpg
+modified: 20250101134617561
+tags: pessoal
+title: Pequenas Pontes e Passarelas
+tmap.edges: {"85bf7ec4-62c4-4da7-af07-02f3967da386":{"to":"f6aa1eb4-5c42-4335-926f-1c4ed9035742","type":"colabora com"}}
+tmap.id: f87e2db0-a954-4aca-a59a-9786cf5a41de
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é o Problema.
+
+</problema>
+
+<<descricao"">>
+
+Portanto:
+
+<solucao>
+
+Faça isso e aquilo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+
+</footer>

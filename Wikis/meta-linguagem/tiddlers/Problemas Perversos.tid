@@ -1,0 +1,20 @@
+created: 20241028031655036
+modified: 20250101201644201
+tags: falta/consertar
+title: Problemas Perversos
+tmap.id: 430eabff-872e-4a09-b648-0d2cd85bd0ce
+
+Os problemas que nos são dados na escola e na faculdade  são , mais frequentemente, exemplos de problemas domados. Na sua proposta eles já nos fornecem uma estrutura bem definida e um critério de sucesso. Uma vez aplicados os procedimentos corretos é garantido que se chegue a uma solução.
+
+Entretanto não é essa categoria de problemas que os profissionais lidam no dia a dia. Na realidade estamos o tempo todo sendo expostos à problemas perversos.
+
+É um termo que se refere a uma classe de problemas em que o agente responsável por resolvê-lo não possui a menor idéia de como resolver, nem mesmo sabe se o problema está próximo de uma resolução, até ele finalmente ser resolvido. Somente quando conseguimos estabelecer uma rota de ações que garantem uma solução - muitas das vezes descrita de forma algorítimica - é que ele deixa de ser "perverso" e entra para o conjunto dos problemas domados.
+
+Um exemplo dramático desse tipo de problema perverso foi o projeto da ponte original Tacoma Narrows. Na época em que a ponte foi construída, a principal consideração ao projetar uma ponte era que ela fosse forte o suficiente para suportar a carga planejada. No caso da ponte Tacoma Narrows, o vento criou uma ondulação harmônica inesperada, de um lado para o outro. Em um dia tempestuoso de 1940, a ondulação cresceu de forma incontrolável até que a ponte desabou.
+
+Esse é um bom exemplo de um problema perverso porque, até o colapso da ponte, seus engenheiros não sabiam que a aerodinâmica precisava ser considerada a tal ponto. Somente construindo a ponte (resolvendo o problema) é que eles puderam aprender sobre a consideração adicional no problema que lhes permitiu construir outra ponte que ainda está de pé.
+
+A forma que geralmente usamos para lidar com esses problemas é através do acúmulo de [[Soluções Satisficientes]].
+
+[[Códigos Generativos]] são tentativas de transmitir conhecimento ao criar receitas contendo instruções que resolvem uma classe de problemas sempre que forem aplicados. Porém eles não são algoritmos comuns,já que seu caráter gerativo deixa espaço para a [[Imprevisibilidade]] do estado final.
+

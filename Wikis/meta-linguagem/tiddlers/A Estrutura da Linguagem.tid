@@ -1,0 +1,22 @@
+created: 20241029221047653
+modified: 20250101213234859
+tags: blank
+title: A Estrutura da Linguagem
+tmap.id: 56d49019-8fbb-4a61-b6dc-b4263994f762
+
+[[O Tomo Perdido]]
+
+Baseando-se no trabalho de outros estruturalistas, Alexander desenvolveu sua teoria da linguagem como uma série de relações. Essencial para o entendimento dos padrões é saber como um se comporta quando interage com todos os demais. 
+
+Afinal, eles não podem ser pensados isoladamente, mas ganham seu valor e significado a depender de onde eles se encontram e de como são utilizados.
+
+<<image-pretty img:[[Pasted image 20230922154039.png]] width:300px>>
+
+<<image-pretty img:https://i.postimg.cc/k5H3M3Q9/2025-01-01-181231.png width:300px>>
+
+Apesar de podermos ter uma noção através dos hyperlinks entre os padrões no livro, ainda assim é fácil ignorar esse aspecto.  A ferramenta desenvolvida para a Wiki de Padrões tenta tornar visível e dinâmica essa estrutura, colocando cada padrão no centro dos padrões próximos. Diferente do livro ela é sucetível a modificações e expansões com o tempo. Cada pessoa pode desenvolver sua própria e reorganizar os padrões como achar relevante.
+
+<footer>
+1.SALINGAROS, Nikos A. Structure of Pattern Languages. *ARQ: Architectural Research Quarterly*, Cambridge, v. 2, n. 3, 1998. ISSN 1359-1355. eISSN 1474-0516. Disponível em: <https://www.cambridge.org/core/journals/arq-architectural-research-quarterly>. Acesso em: 02 nov. 2024.
+
+2.QUILLEN, Jenny. History from A Pattern Language to the Nature of Order. [S.l.: s.n.], 2024. Disponível em: <https://youtu.be/ad5XAPgKJoM>. Acesso em: 02 dez. 2024.

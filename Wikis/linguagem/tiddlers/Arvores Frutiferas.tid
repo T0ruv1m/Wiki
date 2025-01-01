@@ -1,0 +1,38 @@
+created: 20241109193706259
+img_intro: https://i.pinimg.com/736x/76/8f/43/768f432454daa14b5ab105334d5288fb.jpg
+modified: 20250101204132865
+tags: .padrão
+title: Árvores Frutíferas
+tmap.edges: {"7bf4934e-c911-4246-a03e-554757ac9eeb":{"to":"c5ee2ac3-90db-4cfd-822a-357deeff3faa","type":"pode incluir"},"1af1e044-79b7-489c-8c2d-6d50c20f2ead":{"to":"c23526f3-bb26-4c07-a053-9be083078023","type":"pode incluir"},"503e48a6-6ac3-4102-9f10-063e44316635":{"to":"f4f63642-8f04-460e-8558-972f34ffb332","type":"pode incluir"}}
+tmap.id: 1a705a0c-375c-478a-87b5-a032a7da77db
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Nos climas onde crescem árvores frutíferas, os pomares dão à terra uma identidade quase mágica: pense nos laranjais do sul da Califórnia, nas cerejeiras do Japão, nas oliveiras da Grécia. Mas o crescimento das cidades parece sempre destruir essas árvores e a qualidade que elas possuem.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Plantar pequenos pomares de árvores frutíferas em jardins e em terrenos comuns ao longo de caminhos e ruas, em parques, em bairros: onde quer que haja grupos bem estabelecidos que possam cuidar das árvores e colher os frutos.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

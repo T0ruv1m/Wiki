@@ -1,0 +1,38 @@
+created: 20241106125712891
+img_intro: https://i.pinimg.com/736x/74/e2/de/74e2dee77e901136f36496e359395947.jpg
+modified: 20250101204708985
+tags: .padrão falta/editar
+title: A Estufa
+tmap.edges: {"192b30fd-558d-4002-b8e7-94bea15fad98":{"to":"820b8d31-8136-416b-9114-2b9d14a7b460","type":"conecta-se a"},"33ada5e6-43f5-47d8-ae9e-c7eda67f0b65":{"to":"c23526f3-bb26-4c07-a053-9be083078023","type":"pode incluir"},"818c6637-8bee-4064-bbe5-99a3d415643e":{"to":"cecf17cb-8c46-4c31-990c-ad222811482c","type":"pode incluir"}}
+tmap.id: 3ff9dbdd-79e4-4911-a634-bc1d6d1021c1
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Muitos esforços estão sendo feitos para aproveitar a energia solar, convertendo-a em água quente ou energia elétrica. E, no entanto, a maneira mais fácil de aproveitar a energia solar é a mais óbvia e a mais antiga: aprisionar o calor dentro de uma estufa e usá-lo para o cultivo de flores e vegetais.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Em climas temperados, construa uma estufa como parte de sua casa ou escritório, de modo que ela seja tanto um "cômodo" da casa que possa ser acessado diretamente sem sair para o exterior quanto uma parte do jardim que possa ser acessada diretamente do jardim.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

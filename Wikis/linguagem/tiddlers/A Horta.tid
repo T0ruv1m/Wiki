@@ -1,0 +1,37 @@
+created: 20241109193743467
+img_intro: https://i.pinimg.com/736x/77/8f/40/778f40f0621345439fbdbb90a03fa4aa.jpg
+modified: 20250101205116410
+tags: .padrão falta/editar
+title: A Horta
+tmap.id: 820b8d31-8136-416b-9114-2b9d14a7b460
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Em uma cidade saudável, cada família pode cultivar vegetais para si mesma. Já passou o tempo de pensar nisso como um hobby para entusiastas; é uma parte fundamental da vida humana.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Separe um pedaço de terra no jardim particular ou em um terreno comum como horta. É necessário cerca de 400 metros quadrados para cada família de quatro pessoas. Certifique-se de que a horta esteja em um local ensolarado e central para todas as famílias às quais ela serve. Cerque-a e construa um pequeno galpão de armazenamento para ferramentas de jardinagem ao lado dela.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

@@ -1,0 +1,8 @@
+{
+    "light-palette": "$:/palettes/SpartanDay",
+    "view-toolbar-buttons-visibility": "yes",
+    "colorify-sidebar-active-tab": "yes",
+    "breadcrumbs-type": "$:/plugins/kookma/shiraz/breadcrumbs/storylist",
+    "breadcrumbs-enabled": "yes",
+    "dark-palette": "$:/palettes/SpartanNight"
+}
