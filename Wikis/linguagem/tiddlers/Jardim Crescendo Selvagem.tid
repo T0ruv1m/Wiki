@@ -1,7 +1,7 @@
 created: 20241028214330100
 descricao: {{_desc_JardimCrescendoSelvagem}}
 img_intro: https://i.pinimg.com/564x/05/87/a3/0587a38c5837d9849dcb74470149e123.jpg
-modified: 20241231190501974
+modified: 20250101220236456
 tags: .padrão arquetipico falta/referencia
 title: Jardim Crescendo Selvagem
 tmap.edges: {"d77e3256-6020-4f4a-bdf5-f4777af2938b":{"to":"c23526f3-bb26-4c07-a053-9be083078023","type":"deve conter"}}
@@ -21,7 +21,7 @@ Um jardim que cresce de acordo com suas próprias leis não é um lugar selvagem
 
 <<diamantes>>
 
-<<descricao>>
+<<descricao"{{_desc_livro}}">>
 
 Portanto:
 

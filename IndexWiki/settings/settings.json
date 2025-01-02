@@ -37,14 +37,14 @@
     }
   },
   "wikis": {
-    "wiki_cisalv": {
-      "__path": "wiki_cisalv"
-    },
     "linguagem": {
       "__path": "linguagem"
     },
     "meta-linguagem": {
       "__path": "meta-linguagem"
+    },
+    "cisalv": {
+      "__path": "cisalv"
     }
   },
   "ws-server": {
