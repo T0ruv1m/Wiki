@@ -1,9 +1,9 @@
 created: 20250101133438096
-img_intro: https://i.pinimg.com/736x/68/f0/49/68f049b5cb5247ff1742caf7801e2138.jpg
-modified: 20250101134617561
+img_intro: https://i.pinimg.com/736x/01/7f/78/017f7825d2596cb0326bd4b343456a7b.jpg
+modified: 20250102150559553
 tags: pessoal
 title: Pequenas Pontes e Passarelas
-tmap.edges: {"85bf7ec4-62c4-4da7-af07-02f3967da386":{"to":"f6aa1eb4-5c42-4335-926f-1c4ed9035742","type":"colabora com"}}
+tmap.edges: {"85bf7ec4-62c4-4da7-af07-02f3967da386":{"to":"f6aa1eb4-5c42-4335-926f-1c4ed9035742","type":"colabora com"},"2fdfd85e-7b8d-48fb-926e-f08fb5f69552":{"to":"f6aa1eb4-5c42-4335-926f-1c4ed9035742","type":"colabora com"},"7be022e2-1528-4437-99a0-1c7a62f84ff9":{"to":"45e5f9d4-94bd-4842-a969-7a7055b614a5","type":"deve conter"}}
 tmap.id: f87e2db0-a954-4aca-a59a-9786cf5a41de
 
 <<img_intro>>
@@ -14,7 +14,7 @@ Problema:
 
 <problema>
 
-Esse é o Problema.
+Em muitas ocasiões existe a necessidade de conectar dois pavimentos de edificações distintas. Considere  as passarelas pois, além de cumprirem essa função, a sensação de passar por elas ou debaixo delas é única.
 
 </problema>
 
@@ -24,7 +24,7 @@ Portanto:
 
 <solucao>
 
-Faça isso e aquilo.
+Tenha em mente a possibilidade de construir essas pequenas estruturas, talvez aproveitando aberturas de janelas e sacadas. Construa de modo que elas também ajudem a configurar transições de entrada ao criar uma espécie de portal nos corredores inferiores.
 
 </solucao>
 

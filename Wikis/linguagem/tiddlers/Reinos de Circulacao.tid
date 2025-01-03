@@ -1,9 +1,9 @@
 created: 20241024192304823
 img_intro: https://i.pinimg.com/564x/e4/79/da/e479da918434e33f9a4ff36afab74f86.jpg
-modified: 20241109193206680
+modified: 20250102115434796
 tags: .padrão arquetipico
 title: Reinos de Circulação
-tmap.edges: {"93213f53-5378-40dc-9a79-a2040fe13c9e":{"to":"ca1596d6-f046-4c91-9567-d9b4cbf01155","type":"deve conter"},"2e5d86da-349a-45b0-a55e-22cdca869df7":{"to":"45e5f9d4-94bd-4842-a969-7a7055b614a5","type":"deve conter"}}
+tmap.edges: {"93213f53-5378-40dc-9a79-a2040fe13c9e":{"to":"ca1596d6-f046-4c91-9567-d9b4cbf01155","type":"deve conter"},"2e5d86da-349a-45b0-a55e-22cdca869df7":{"to":"45e5f9d4-94bd-4842-a969-7a7055b614a5","type":"deve conter"},"a693a543-7796-48c6-b160-f01f7b6202e5":{"to":"6c262210-f9ef-4054-a8f7-6356fba61892","type":"deve conter"}}
 tmap.id: 31104a00-cc49-4f63-bbb6-8b0465332d63
 tmap.style: {}
 

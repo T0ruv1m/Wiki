@@ -1,0 +1,11 @@
+{
+    "created": "20250102120435980",
+    "text": "<<img_intro>>\n\n<<diamantes>>\n\nProblema:\n\n<problema>\n\nEsse é o Problema.\n\n</problema>\n\n<<descricao\"{{_desc_livro}}\">>\n\nPortanto:\n\n<solucao>\n\nFaça isso e aquilo.\n\n</solucao>\n\n<<diamantes>>\n\n<<mapa \"Live View\">>\n\nReferências:\n<footer>\n1.<<refbib\" \">>\n</footer>",
+    "img_intro": "https://i.pinimg.com/736x/b6/92/29/b69229e9e175c7915328998c0c1b2702.jpg",
+    "modified": "20250102120505957",
+    "tags": "",
+    "title": "Draft of 'Novo Padrão'",
+    "tmap.id": "cf6796fd-044a-47a3-ba08-dfbdc5071664",
+    "draft.title": "Luz Filtrada",
+    "draft.of": "Novo Padrão"
+}

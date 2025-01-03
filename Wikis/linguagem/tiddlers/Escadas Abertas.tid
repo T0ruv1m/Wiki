@@ -3,6 +3,7 @@ img_intro: https://i.pinimg.com/736x/d1/bb/97/d1bb97289516bb7196e477c593f41925.j
 modified: 20241207003434918
 tags: .padrão
 title: Escadas Abertas
+tmap.edges: {"bc76a90f-ff42-4230-a1f4-ff32c076ef01":{"to":"2329d13f-6aad-4d2e-8a2b-47bd76935c71","type":"conecta-se a"},"a49360f3-bc9e-4d63-9c33-c03256e9a456":{"to":"a0650955-b945-4beb-8414-2eb06d2f7e95","type":"deve conter"},"8424949c-4c3f-4868-9fb2-007049c4141f":{"to":"2329d13f-6aad-4d2e-8a2b-47bd76935c71","type":"pode incluir"}}
 tmap.id: e9c89719-85af-4083-94c7-5134b36388e2
 
 <<img_intro>>

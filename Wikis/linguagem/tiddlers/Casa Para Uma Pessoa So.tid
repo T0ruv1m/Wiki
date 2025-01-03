@@ -1,0 +1,36 @@
+created: 20250102121651717
+img_intro: https://i.pinimg.com/736x/24/2f/ea/242fea4f8fd3c3fb68e1c686888ce124.jpg
+modified: 20250102122535135
+title: Casa Para Uma Pessoa Só
+tmap.edges: {"d9ec9d9b-415e-43d0-bdca-91c4561ae8ae":{"to":"e9c89719-85af-4083-94c7-5134b36388e2","type":"deve conter"},"3a366b35-16c9-46be-af78-b974f7068151":{"to":"7d4f4198-1b78-419b-bf33-472149a431c1","type":"deve conter"},"5dbdfa63-8599-499e-818d-0746ea46dd77":{"to":"1316adcf-8ff1-4485-bdf8-7a58d24aab20","type":"deve conter"},"d833aeef-115d-4150-b6c3-d13e9762f7e7":{"to":"cecf17cb-8c46-4c31-990c-ad222811482c","type":"deve conter"}}
+tmap.id: eedab5e1-dad5-4e76-8669-539c8c8946c1
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Quando uma casa para uma pessoa faz parte de um grupo maior, o problema mais crítico que surge é a necessidade de simplicidade.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Conceba uma casa para uma pessoa como um local de extrema simplicidade: essencialmente um chalé ou estúdio de um cômodo, com grandes e pequenas nichos ao redor. No caso mais complexo, a casa inteira pode ter apenas algo entre 28 a 40 metros quadrados. 
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

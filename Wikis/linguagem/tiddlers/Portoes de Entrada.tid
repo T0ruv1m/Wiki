@@ -1,0 +1,38 @@
+created: 20250102120947417
+img_intro: https://i.pinimg.com/736x/fc/2b/3e/fc2b3e4dd98ec10bb34dc3abcce2ceb7.jpg
+modified: 20250102121250433
+tags: 
+title: Portões de Entrada
+tmap.edges: {"fa33b220-6858-4506-8427-a2cf2407943c":{"to":"f6aa1eb4-5c42-4335-926f-1c4ed9035742","type":"deve conter"},"45157b97-1c03-401e-97b1-3a084cf103e8":{"to":"ca1596d6-f046-4c91-9567-d9b4cbf01155","type":"deve conter"},"76e64a7c-937a-434f-96a9-54c1d95fe4ff":{"to":"cf9232a0-a02a-4d4b-b50f-3a531b20bbd0","type":"deve conter"},"79bd5ce9-4c88-48ab-9605-436a22d5082f":{"to":"f87e2db0-a954-4aca-a59a-9786cf5a41de","type":"pode aparecer como"}}
+tmap.id: 6c262210-f9ef-4054-a8f7-6356fba61892
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Qualquer parte de uma cidade - grande ou pequena - que deva ser identificada por seus habitantes como um recinto de algum tipo, será reforçada, ajudada em sua distinção, marcada e tornada mais vívida, se os caminhos que entram nela forem marcados por portões onde cruzam a fronteira.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Marque cada limite da cidade que tenha um significado humano importante - o limite de um conjunto de edifícios, um bairro, um distrito - com grandes portões onde os principais caminhos de entrada cruzam o limite.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

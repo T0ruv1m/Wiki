@@ -1,11 +1,12 @@
 created: 20241109190638639
-modified: 20241229221937044
+img_intro: https://i.pinimg.com/736x/bf/99/9c/bf999c01a6311cd635cfb1aec7d599a8.jpg
+modified: 20250102124016752
 tags: .padrão
 title: Edificação Como Complexo
 tmap.edges: {"196e6642-e36d-404a-bbe5-cc0387ca0cd4":{"to":"712c77d7-aa61-432e-a3c6-3781f0d90955","type":"pode incluir"},"59e2b794-2e76-4919-aeab-c423407e23f2":{"to":"f555db49-4e3b-4769-a68b-d546bd1338ce","type":"pode incluir"},"66dcd239-8ed1-4146-939f-8b2f76db41a0":{"to":"d33000af-5bd6-4db6-9cda-08e9a4b5d023","type":"deve conter"},"97d6bbdb-3d3f-4008-ab20-98eea900d20b":{"to":"4daaef7e-b2e9-491c-bef3-4b9ccde135b7","type":"deve conter"},"a3ea13e9-88a3-47c2-bde4-da0add042ef1":{"to":"68b63ea2-865b-45dc-a7dc-54284d64825a","type":"deve conter"},"14b36828-5d15-4447-91d6-bb81912e8cee":{"to":"01c113cc-90cd-4373-a814-a12796356ff9","type":"deve conter"},"8cee7f31-0e93-49e8-ab01-09f4de78b8c9":{"to":"d780dfbc-da40-4be9-970f-db63ed28fa56","type":"deve conter"}}
 tmap.id: 8445fe2f-9931-4274-b0eb-4fb2280fefce
 
-<</img_intro>>
+<<img_intro>>
 
 <<diamantes>>
 

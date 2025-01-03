@@ -1,5 +1,5 @@
 created: 20241030115557824
-modified: 20241225233946518
+modified: 20250103012332132
 tags: padroes
 title: Padrões são Recorrentes
 tmap.id: 4c534640-509e-4180-9634-4a93e2e7d6d8
@@ -11,7 +11,7 @@ Seguindo a ideia de que os padrões são ferramentas, nada impede sua reutiliza�
 >"Cada padrão descreve um problema que ocorre repetidas vezes em nosso meio ambiente e então descreve o ponto central da solução do problema, de modo que você possa usar a mesma solução milhares de vezes, mas sem jamais ter de repetí-la". ^^(1)^^
 
 
-A repetição que ocorre nos padrões é diferente da repetição mecânica e exata típica dos espaços produzidos sob métodos industriais. Aqui buscamos se aproximar mais da imperfeição e rugosidade das formações naturais.^^(3)^^
+A repetição que ocorre nos padrões é diferente da repetição mecânica e exata típica dos espaços produzidos sob métodos industriais. Aqui buscamos nos aproximar da imperfeição e rugosidade das formações naturais.^^(3)^^
 
 
 A capa de [[Livro: The Timeless Way of Building]] contém uma enigmática figura, não de uma construção, mas de uma de onda do mar. O que nós chamamos de onda é a repetição perpétua de um mesmo padrão formal na água do oceano. A onda ocorre aqui devido a dinâmica entre as partículas da água, o vento e a gravidade. Essas formações efêmeras reincidem sempre em resposta esse jogo de forças. É essencial notar que, dentro dessa repetição, elas se fazem, a cada incidência, de forma interamente única.

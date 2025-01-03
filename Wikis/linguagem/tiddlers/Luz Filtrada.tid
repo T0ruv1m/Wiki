@@ -1,7 +1,52 @@
 created: 20241114223957994
-img_intro: https://i.pinimg.com/736x/bc/c0/2e/bcc02e92b35385e724dd712593721e81.jpg
-modified: 20241114231650150
+img_intro: https://i.pinimg.com/736x/b6/92/29/b69229e9e175c7915328998c0c1b2702.jpg
+modified: 20250102120849031
 numero: 161
 tags: padrão/construcao
 title: Luz Filtrada
 tmap.id: 78edf241-3f76-42fc-9c48-dbc562f57350
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+A luz filtrada pelas folhas, ou rendilhado, é maravilhosa. Mas por quê?
+
+</problema>
+
+<<descricao+"
+Sabemos que a luz filtrada por uma árvore frondosa é muito agradável - ela transmite entusiasmo, alegria, jovialidade; e sabemos que áreas de iluminação uniforme criam espaços monótonos e desinteressantes. Mas por quê? 
+
+1. O motivo mais óbvio: a luz direta proveniente de uma fonte pontual projeta sombras fortes, resultando em imagens duras com fortes contrastes. E as pessoas têm um hábito óptico que piora esse contraste: nossos olhos reforçam automaticamente os limites para que pareçam mais nítidos do que são. Por exemplo, um gráfico de cores com tiras de cores diferentes dispostas uma ao lado da outra parecerá que há linhas escuras entre as tiras. Esses contrastes e limites rígidos são desagradáveis - os objetos parecem ter um caráter rígido, e nossos olhos, incapazes de se ajustar ao contraste, não conseguem captar os detalhes.
+
+Por todos esses motivos, temos um desejo natural de difundir a luz com abajures ou iluminação indireta, de modo que as imagens criadas pela luz sejam mais 'suaves', ou seja, que os limites percebidos não sejam nítidos, que haja menos contraste, menos sombras e que os detalhes sejam mais fáceis de ver. É também por isso que os fotógrafos usam luz refletida em vez de luz direta ao fotografar objetos; ela capta detalhes que, de outra forma, se perderiam na sombra. 
+
+2. O segundo motivo: para reduzir o brilho ao redor da janela. Quando há luz brilhante entrando pela janela, ela cria brilho contra a escuridão da parede ao redor da janela. Filtrar a luz, especialmente nas bordas da janela, reduz o brilho ao deixar entrar menos luz. 
+
+3. Um terceiro motivo que é pura conjectura: pode ser simplesmente que um objeto que tenha padrões de luz em pequena escala dançando sobre ele seja sensualmente agradável e nos estimule biologicamente. Alguns cineastas afirmam que o jogo de luz sobre a retina é naturalmente sensual, por si só.
+
+Para criar uma luz filtrada, cubra parcialmente as janelas que recebem luz solar direta com trepadeiras e treliças. As folhas são especiais porque se movem. E a borda da janela pode ter um rendilhado fino, ou seja, a borda do vidro em si, não a moldura, de modo que a luz que entra seja gradualmente mais forte da borda para o centro da janela; o rendilhado é melhor na parte superior da janela, onde a luz é mais forte. Muitas janelas antigas combinam essas ideias.
+
+
+">>
+
+Portanto:
+
+<solucao>
+
+Quando a borda de uma janela ou a beirada de um telhado estiver em silhueta contra o céu, faça uma tapeçaria rica e detalhada de claro e escuro, para quebrar a luz e suavizá-la.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

@@ -1,5 +1,5 @@
 created: 20241028031637388
-modified: 20241231014921444
+modified: 20250102144352902
 tags: Notes sistemas
 title: Sistema Altamente Acoplado
 tmap.id: 3652485e-a766-4082-aef5-918f1c216aa3
@@ -17,7 +17,7 @@ Esse princípio, exposto de maneira humorística por Gall, é essencialmente o m
 >Por outro lado, imagine interconexões tão ricas entre as luzes que qualquer luz ainda acesa desperte rapidamente todas as outras do estado desligado e as acenda novamente. A única maneira pela qual esse sistema pode alcançar a adaptação é pela pura chance de que todas as 100 luzes se apaguem no mesmo momento. O tempo médio que deve transcorrer antes que isso aconteça será da ordem de 2.100 segundos, ou 1.022 anos. (Alexander, 1964, p.40)
 
 Desenvolvemos um código capaz de mostrar esse cenário:
-[[Jogo de Luzes]]
+[[Jogo de Luzes|https://padroes.wiki.br/testes/light_bulb5.html]]
 
 O exemplo foi empregado por Alexander com o objetivo de explicar um caso extremo, e ao mesmo tempo tornar evidente a necessidade de separar o problema em sub-circuitos isolados.
 

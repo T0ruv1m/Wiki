@@ -1,5 +1,5 @@
 created: 20241027210211534
-modified: 20241230095211505
+modified: 20250103012043814
 tags: TableOfContents
 title: O que é um Padrão afinal?
 tmap.id: 982b4bac-b0f5-42ff-ac87-20482872c7b9
@@ -12,7 +12,9 @@ Uma definição mais concisa seria:
 
 Vemos como necessário não só destrinchar como expandir essa definição. Por isso,aqui estão separadas algumas notas que descrevem positivamente , por meio de metáforas, aqueles aspectos dos padrões que julgamos mais importantes:
 
-<<tabs "[tag[padroes]]" class:"tc-vertical">>
+Ordem recomendada de leitura é o padrão ocidental(de cima pra baixo da esquerda para direita)
+
+<<tabs "[tag[padroes]]">>
 
 <footer>
 A enfase em //inventado// é explicado melhor na nota [[Padrões são Diamantes]]
