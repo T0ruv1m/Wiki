@@ -45,6 +45,9 @@
     },
     "cisalv": {
       "__path": "cisalv"
+    },
+    "secreto": {
+      "__path": "secreto"
     }
   },
   "ws-server": {
