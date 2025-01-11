@@ -1,11 +1,21 @@
 created: 20241109003550034
-modified: 20241231181925591
+modified: 20250110125338600
 tags: biologia sistemas
 title: Sistema de Complexidade Ordenada
 tmap.id: 69bce5ee-b70e-4735-9e69-b5840c07e47d
 
+[[Jane Jacobs]] cita um breve trecho de um tal Dr. Weaver no final de Morte e Vida de Grandes Cidades. Esse trecho apresenta três tipos distintos de sistemas: Sistemas de Simplicidade Ordenada, Sistemas de Complexidade Desordenada e Sistemas de Complexidade Ordenada. Esses termos descrevem diferentes esquemas estudados por várias disciplinas científicas.
 
+Pelos nomes, pode-se presumir que os sistemas de complexidade desordenada seriam os mais difíceis de estudar. No entanto, a humanidade desenvolveu ferramentas como as da estatística e da termodinâmica para compreender o comportamento geral de sistemas caóticos e aleatórios. No outro extremo, os sistemas de simplicidade ordenada já tinham sido explorados principalmente pela física newtoniana e outras teorias mecanicistas.
+
+Restou no meio um enorme vão livre inacessível por essas ferramentas. Nem os modelos de sistemas simples nem os de sistemas desordenados conseguiam explicar completamente essas estruturas intricadas. Foi por meio de áreas como as ciências biológicas e a teoria dos sistemas que pesquisadores começaram a descobrir formas de captar padrões e desenvolver modelos capazes de compreender essas estruturas. Porém, compreender um sistema não é o mesmo que controlá-lo, e a lição que tiramos dos primeiros experimentos foi a de que tentativas de impor controle sobre sistemas complexos frequentemente resultam em problemas ainda maiores.
+
+John Gall, ao propor o Teorema Kantiano dos Sistemas, destaca os limites da compreensão humana e do controle sobre S.C.Os . Seu conselho é claro: devemos evitar criar novos sistemas quando os existentes ainda atendem às nossas necessidades. Nas palavras dele: "Faça sem um sistema, se puder." Nos casos em que a criação de um novo sistema é inevitável, ele deve ser o mais simples possível. Conforme o aforismo batizado com seu nome sugere, [[sistemas artificiais que nascem complexos estão fadados ao fracasso |Lei de Gall]].
+
+As cidades são Sistemas de Complexidade Ordenada. Essa é a conclusão deixada por Jacobs no final do livro. Isso nos ajuda a entender porquê o planejamento urbano em larga escala não é apenas inefetivo como também causa danos ao desenvolvimento das cidades. Essa nova mentalidade, desbravada inicialmente por Jacobs, e que outros autores também ajudaram a construir, como Alexander no [[Livro: A Cidade Não É Uma Árvore]], ajudou a afastar o planejamento urbano de abordagens rígidas de cima para baixo. Hoje, os urbanistas veem as cidades como processos dinâmicos que se desenvolvem quase que espontaneamente. O foco mudou de grandes intervenções para pequenas reformas em pequena escala, guiadas por planos diretores mais amplos.
+
+Com essa virada de perspectiva já tivemos um grande avanço. Entretanto, propomos neste trabalho que mesmo as edificações individuais já são complexas demais para serem tratadas como Sistemas de Simplicidade Ordenada e resolvidas através de um grande planejamento antecipado. Edifícios possuem, de forma inerente, um nível de complexidade que nossos métodos tradicionais de trabalho têm dificuldade em conceber. Se esse argumento sustentar, então nos encontramos utilizando ferramentas ultrapassadas demais para lidar com a complexidade inerente ao processo de edificar/morar.
 
 ---
  
-A nota [[Sistema Altamente Acoplado]] se refere a um caso particular de S.C.O em desequilíbrio, onde as variáveis envolvidas estão entranhadas umas com as outras de tal forma que resolvê-lo, mesmo usando dividir e conquistar, se torna uma tarefa humanamente impossível.
+A nota [[Sistema Altamente Acoplado]] se refere a um caso particular de S.C.O em um estado de desequilíbrio, onde as variáveis envolvidas estão entranhadas umas com as outras de tal forma que resolvê-lo se torna uma tarefa humanamente impossível.
