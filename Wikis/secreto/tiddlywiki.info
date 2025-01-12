@@ -1,8 +1,9 @@
 {
     "description": "Bob index edition",
     "plugins": [
-        "OokTech/Bob",
-        "OokTech/TWederBob"
+        "flibbles/relink-markdown",
+        "flibbles/relink",
+        "tiddlywiki/markdown"
     ],
     "themes": [
         "tiddlywiki/vanilla",

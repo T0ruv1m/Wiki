@@ -1,0 +1,44 @@
+created: 20250112013336067
+modified: 20250112014559630
+tags: 
+title: Estruturas Eficientes e Resilientes
+tmap.id: 94d0ff0f-d2ea-4d59-abcd-5c17e7d17de4
+
+O que aqui se refere como Estruturas eficientes e Resilientes são uma alteração nos termos "Low-Road Building" e "High-Road Building" do trabalho de Brand,1994. Como as traduções literais não fazem muito sentido em português, optamos por utilizar no lugar essa outra dicotomia, que faz alusão também a organismos e sistemas no geral. Algumas das afirmações acerca dessas estruturas derivam no entanto de interpretação própria e/ou do trabalho de demais autores. Essa dicotomia é muito próxima do que foi desenvolvido em [[Gerado versus Fabricado]].
+
+!!! Estruturas eficiêntes : Ninguém se importa com o que você faz aqui.
+
+Estruturas eficientes são aquelas governadas por uma alta taxa de alterações adaptativas imediatas, o que foi trabalhado até então como soluções satisficientes.
+Essas construções provavelmente emergiram para cumprir uma demanda específica e contigente, o que não impede que elas perdurem após cumprirem suas funções primárias.
+
+Um exemplo trivial seria uma tenda. Tendas são nômades assim como o povo que vive nelas. Elas se desmontam e se recompoem em outro contextos, devem ser leves o suficiente para que se desloquem junto aos habitantes.
+
+Essas edificações são geralmente feitas de materiais baratos e que podem ser facilmente desmontados, cerrados ou destruídos. Ser barato aqui é quase que necessário, para ninguém ter dó de modificar a estrutura quando der na telha. 
+
+Para uma maior adaptabilidade com o mínimo de resiliência é desejável que a [[2.Carcaça]](ou seja, a estrutura) seja separada da [[2.Casca]], para não restrinjir eventuais alterações e expansões. Casas em alvenaria estrutural por exemplo permitem pouca ou nenhuma abertura de canais de circulação, ventilação e iluminação, e portanto nesse sentido não são eficientes.
+
+Casas feitas de materiais modulares pré-moldados não são tão adaptativas quanto parecem. Apesar de serem mais fáceis de montar, se esses materiais são de medidas grandes e determinados na industria, não permitem uma adaptabilidade as especificidades do contexto onde são implantados.
+
+Estruturas eficiêntes podem muito bem ser parasitas anexadas à estruturas mais resilientes, em muitos casos isso constitui uma relação mutualitica. 
+
+Jacobs aponta para o problema da [[Diversidade Auto-Destrutiva]] nas cidades, quando a prosperidade de um centro de atividade começa a ser destruída pelo domínio predatório de ocupações mais lucrativas sob as lojas menores. Essa diversidade autodestrutiva também pode ocorrer dentro de uma estrutura eficiente. Os mesmos mecanismos que a tornam adaptativa podem causar sua autodestruição.  
+
+Para evitar uma produção autodestrutiva é necessario inserir um mecanismo de feedback artificial. Uma preocupação em manter vivos os espaços sagrados, (aqueles que não são só agradáveis de estar como funcionam bem) enquanto aprimora-se aquilo que está em desuso, como cantos decadentes e vazios, ajudando a construir de forma gradual um todo coerente. Isso é o que Alexander se refere quando utiliza o termo "Transformações que Preservam a estrutura", ou "Transformações que Extendem a Totalidade". 
+
+A eventual morte dessas construções é justificável, sua decomposição é até facilitada pelos materiais baratos e tipologias contingentes. No entanto, elas podem permanecer vivas ao ceder seus materiais ou até mesmo informações valiosas para uma construção futura, como um código genético de padrões sendo transmitido aos descendentes.
+
+É necessário levar em consideração que nessas construções, quaisquer [[Gambiarras se tornam permanentes]]. Isso porque estruturas eficientes otimizam para [[Ordem Funcional]].
+
+Nosso exemplo maior seria o [[Building 20 MIT]].
+
+!!! Estruturas Resilientes: O orgulho da família e das Instituições.
+
+Elas expandem pouco a pouco, com alterações e refinamentos constantes, mas tendem a manter sua configuração antiga, por vezes resignificada. 
+
+Sua tipologia pode mudar completamente: De Igreja a biblioteca, de casarão pra museu ou restaurante. Geralmente são casas grandes de pessoas abastadas ou de instituições públicas. 
+
+Essas estruturas atravessaram gerações e se manifestam como o resíduo material das vidas que abrigaram e que ajudaram-na a tomar uma vida própria. Uma propriedade interessante dessas estruturas é seu potencial de acumular caráter e ficar mais interessante com o passar do tempo.
+
+São construções desse tipo que conferem à arquitetura sua vontade de permanência. Enquanto as edificações eficiente são sobre utilidade, as resilientes são sobre legado. 
+
+Essas estruturas podem perder sua capacidade adaptativa com o tempo, forçando seus usuários a se adequarem as suas demandas ao invés do contrário. Como dito em [[Edificações Congeladas]].

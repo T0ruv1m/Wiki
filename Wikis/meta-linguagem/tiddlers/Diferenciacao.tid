@@ -1,5 +1,5 @@
 created: 20241108150638146
-modified: 20250110131115113
+modified: 20250112010532381
 tags: biologia blank
 title: Diferenciação
 tmap.id: 2ab83ce0-4851-4d59-8c2b-9213d2cbf9aa
@@ -8,17 +8,30 @@ Seguindo a ideia da [[Gestalt]]. Alexander propõe a diferenciação ou desdobra
 
 Não é de forma inocente que Alexander usa como principal paralelo o desenvolvimento embrionário. Um bebê, que concorre como sendo a estrutura orgânica mais complexa do universo, nasce de um bolo de células iguais que, através de uma sequência de processos de diferenciação, torna-se progressivamente mais complexo até que resulta em um mini ser humano completamente formado.  Logo no início, toda a potencialidade já estava contida, precisando apenas de tempo e nutrição para alcançar seu estado pleno.
 
-Como é que toda essa complexidade poderia emergir de simples instruções presentes apenas na nossa receita de DNA? A resposta é: não está. Ou melhor, pelo menos, não somente.
+Como é que toda essa complexidade poderia emergir de simples instruções presentes apenas na nossa receita de DNA? A resposta é: não está. Ou melhor, pelo menos, não somente. Veja como esse professor de biologia descreve o processo de desenvolvimento embrionário:
 
-TEXTO BIOLOGO
+>“O embrião contém um programa generativo e não descritivo. Todas as informações para o desenvolvimento embrionário estão contidas em um óvulo fertilizado. Então, como essas informações são interpretadas para dar origem a um embrião? Uma possibilidade é que a estrutura do organismo seja de alguma forma codificada como um programa descritivo no genoma. O DNA contém uma descrição completa do organismo ao qual ele dará origem? A resposta é não. Em vez disso, o genoma contém um programa de instruções para a criação do organismo - um programa generativo - no qual os constituintes citoplasmáticos dos óvulos e das células são participantes essenciais, juntamente com os genes, como o DNA que codifica a sequência de aminoácidos em uma proteína.
 
-Entendemos a partir disso que o que realmente ocorre é que o próprio processo guia a forma, e os múltiplos níveis de escala se adaptam simultaneamente. Conseguimos compreender também que instruções simples possuem consequências espaciais complexas, mas mais ainda que, nesse caso, a ordem dos fatores altera o produto. 
+>“Um programa descritivo, como uma planta ou um plano, descreve um objeto em alguns detalhes, enquanto um programa generativo descreve como fazer um objeto. Para o mesmo objeto, os programas são muito diferentes. Considere o origami, a arte de dobrar papel. Ao dobrar um pedaço de papel em várias direções, é muito fácil fazer um chapéu de papel ou um pássaro a partir de uma única folha. Descrever detalhadamente a forma final do papel com as complexas relações entre suas partes é realmente muito difícil e não ajuda muito a explicar como fazer isso. Muito mais úteis e fáceis de formular são as instruções sobre como dobrar o papel. A razão para isso é que as instruções simples sobre dobrar têm consequências espaciais complexas. No desenvolvimento, a ação gênica também põe em movimento uma sequência de eventos que pode provocar mudanças profundas no embrião. Assim, pode-se pensar nas informações genéticas do óvulo fertilizado como equivalentes às instruções de dobradura do origami: ambas contêm um programa generativo para criar uma estrutura específica.” (Wolpert apud Alexander, 2006, tradução nossa).
 
-Seguindo o exemplo do Origami, podemos  concluir que instruções, além de tomarem menos espaço, são mais adequadas que um desenho descritivo.
+Entendemos a partir disso que o que realmente ocorre é que:
 
-NOTE HERE
-Porquê então não utilizamos códigos que produzem espaços ao invés de depender de desenhos? Acaso seria possível construir um ser humano utilizando pranchas técnicas?
+* O próprio processo guia a forma, e os múltiplos níveis de escala se adaptam simultaneamente. 
+
+e também que:
+
+* Instruções simples possuem consequências espaciais complexas.
+
+porém mais ainda que: 
+
+* Como no caso do origami, as instruções, além de tomarem menos espaço, são mais adequadas que um desenho descritivo, e a ordem dos fatores altera o produto.
 
 ---
 
+!!! Porquê então não utilizamos códigos que produzem espaços ao invés de depender de desenhos?
+
 Talvez considere que a metáfora biológica tenha ido longe demais e que, na verdade, edifícios e criaturas sejam coisas irremediavelmente distintas. Porém, temos a história ao nosso favor (ver [[Livro: The Timeless Way of Building]]) para mostrar que há não muito tempo as construções eram fruto não de um planejamento perfeito mas de sucessivas iterações, e que a eternidade da hegemonia do desenho técnico, que tanto defendem os arquitetos, tem apenas um ou dois séculos de vigor.  Seja como for, estamos dependentes demais dessa novo sistema para sequer pensar em conceber o espaço por outro caminho. Sendo assim, podemos ao menos considerar a possibilidade de permitir, após essa concepção artificial, que essas estruturas "[[aprendam|Livro: How Buildings Learn]]" através de [[Adaptações Razoáveis]].
+
+
+<footer>
+1.ALEXANDER, Christopher. The birth of form: making the land harmonious. 2006. Disponível em: https://www.livingneighborhoods.org/ht-0/morphogenesis-two.htm#rules. Acesso em: 11 jan. 2025.
