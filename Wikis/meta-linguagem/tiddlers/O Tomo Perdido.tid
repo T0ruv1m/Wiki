@@ -1,5 +1,5 @@
 created: 20241211231704157
-modified: 20241212025117909
+modified: 20250112150942684
 title: O Tomo Perdido
 tmap.id: bbf54d65-5b4c-4d27-a2d5-47c3a8566d48
 
@@ -9,7 +9,7 @@ tmap.id: bbf54d65-5b4c-4d27-a2d5-47c3a8566d48
 
 Sua frustração foi tanta que, logo após a publicação do [[Livro: Uma Linguagem de Padrões]] em 1977, ele abandona todo seu trabalho e se dedica a escrever o que iremos chamar posteriormente de sua "Segunda Teoria", uma última tentativa de endereçar esses aspectos que a linguagem de padrões não conseguia resolver. 
 
-A publicação dessa outra teoria, que alguns autores consideram uma versão  revisada da primeira(Leitner) (Quillen), ocorre apenas após um longo período de silêncio, um hiato que leva 25 anos e culmina na publicação de quatro volumes de uma mesma obra entitulada [[The Nature of Order]]. 
+A publicação dessa outra teoria, que alguns autores consideram uma versão  revisada da primeira(Leitner) (Quillen), ocorre apenas após um longo período de silêncio, um hiato de 25 anos que termina diante da publicação de quatro volumes de uma mesma obra entitulada [[The Nature of Order]]. 
 
 Entretanto, o objetivo aqui não é discutir seus pensamentos mais recentes, mas sim resgatar um //tomo perdido//. Um livro citado nas primeiras palavras da primeira página do livro uma linguagem de padrões, mencionado como sendo "a outra metade de uma única obra".
 
@@ -23,7 +23,7 @@ Para entender isso podemos começar lendo as primeira páginas do Livro, que cit
 
 > Uma linguagem de padrões tem a estrutura de uma rede. Esse conceito é explicado em detalhes no volume //The Timeless Way of Building//. Contudo, quando usamos a rede de uma linguagem, sempre a empregamos com uma sequência, utilizando os padrões, sempre passando dos padrões maiores para os menores, partindo daqueles que criam as estruturas para aqueles que as refinam e então aos que refinam ainda mais... (Alexander, 2013, p. xxi)
 
-[[Nikos Salingaros]], um matemático por formação e amigo antigo de Alexander, mas que ainda é ativo e bastante influente no campo da arquitetura, atribui o fracasso da aplicabilidade dos padrões no universo da arquitetura à falta de compreensão sobre essa estrutura da linguagem, dizendo que exatamente esse aspecto de rede foi negligênciado pelos primeiros usuários:
+[[Nikos Salingaros]], um matemático por formação e amigo antigo de Alexander, que ainda é ativo e bastante influente no campo da arquitetura, atribui o fracasso da aplicabilidade dos padrões no universo da arquitetura à falta de compreensão sobre essa estrutura da linguagem, dizendo que exatamente esse aspecto de rede foi negligênciado pelos primeiros usuários:
 
 >Qualquer fraqueza percebida dos padrões pode estar nos padrões individuais, mas é mais provável que seja o resultado de não se compreender a sua linguagem combinatória. Embora os padrões de design escritos na forma alexandrina façam alusão à sua conetividade com outros padrões (no prelúdio e no posfácio), é difícil visualizá-los sem um mapa de ligação. Mesmo os arquitectos que utilizam padrões tendem a não saber como é que os padrões se ligam uns aos outros, de forma que o design resultante carece frequentemente de coerência em grande escala. (Salingaros, 1998, p.151)
 

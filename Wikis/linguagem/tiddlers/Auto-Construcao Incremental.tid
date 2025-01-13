@@ -1,0 +1,40 @@
+created: 20250112020027740
+img_intro: http://npl.wiki/assets/image/14.4._Incremental_Self-Build.jpg
+link_npl: http://npl.wiki/view/incremental-self-build
+modified: 20250112020258161
+tags: NPL
+title: Auto-Construção Incremental
+tmap.id: 98f11d2a-1ccb-4034-934b-e630110d94f3
+
+<<img_intro>>
+
+<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='{{!!link_npl}}' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Em geral, os moradores de assentamentos informais não têm condições de construir tudo de uma vez ou com os serviços de construtores ou empreiteiros. Tampouco têm a capacidade de comprar casas prontas.
+
+</problema>
+
+<<descricao"">>
+
+Portanto:
+
+<solucao>
+
+Fornecer recursos para que as pessoas construam suas próprias casas e outros edifícios de forma incremental, à medida que puderem pagar pela construção e tiverem tempo.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+{{!!link_npl}}
+</footer>

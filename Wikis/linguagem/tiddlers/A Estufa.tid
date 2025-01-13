@@ -1,7 +1,7 @@
 created: 20241106125712891
 img_intro: https://i.pinimg.com/736x/74/e2/de/74e2dee77e901136f36496e359395947.jpg
-modified: 20250101204708985
-tags: .padrão falta/editar
+modified: 20250112020503745
+tags: .padrão
 title: A Estufa
 tmap.edges: {"192b30fd-558d-4002-b8e7-94bea15fad98":{"to":"820b8d31-8136-416b-9114-2b9d14a7b460","type":"conecta-se a"},"33ada5e6-43f5-47d8-ae9e-c7eda67f0b65":{"to":"c23526f3-bb26-4c07-a053-9be083078023","type":"pode incluir"},"818c6637-8bee-4064-bbe5-99a3d415643e":{"to":"cecf17cb-8c46-4c31-990c-ad222811482c","type":"pode incluir"}}
 tmap.id: 3ff9dbdd-79e4-4911-a634-bc1d6d1021c1

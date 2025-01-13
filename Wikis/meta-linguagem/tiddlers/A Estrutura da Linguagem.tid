@@ -1,5 +1,5 @@
 created: 20241029221047653
-modified: 20250105000630099
+modified: 20250112150629312
 tags: blank
 title: A Estrutura da Linguagem
 tmap.id: 56d49019-8fbb-4a61-b6dc-b4263994f762
@@ -8,7 +8,7 @@ tmap.id: 56d49019-8fbb-4a61-b6dc-b4263994f762
 
 Baseando-se no trabalho de outros estruturalistas, Alexander desenvolveu sua teoria da linguagem como uma série de relações. Essencial para o entendimento dos padrões é saber como um se comporta quando interage com todos os demais. 
 
-Afinal, eles não podem ser pensados isoladamente, mas ganham seu valor e significado a depender de onde eles se encontram e de como são utilizados.
+Afinal, eles não podem ser pensados isoladamente, mas ganham seu valor e significado a depender de onde se encontram e de como são utilizados.
 
 <<image-pretty img:[[Pasted image 20230922154039.png]] width:400px>>
 
