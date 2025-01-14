@@ -1,16 +1,16 @@
 created: 20241030020036280
-modified: 20241212150012500
+modified: 20250113150807033
+tags: linguagem
 title: Metáforas
 tmap.id: 520d9520-f104-4a0a-845f-36adc9003a1f
 
->... mas, de longe, o mais importante é o uso da metáfora. Isso, por si só, não pode ser aprendido; é o símbolo do gênio. Pois o uso correto da metáfora significa um olho para as semelhanças.  -Aristóteles
+A criatividade não se trata de criar novas informações a partir do nada, mas sim de estabelecer equivalências incomuns entre coisas existentes.
 
-A criatividade não se trata de criar novas informações a partir do nada, mas sim de estabelecer equivalências incomuns entre coisas existentes. a ≡ w
+''a ≡ w''
 
 As analogias transmitem informações de uma forma agradável, usando conceitos familiares para descrever um conceito mais difícil de entender. Elas ajudam a escapar da [[Dependência de Domínio]], forçando a pessoa a ver um conjunto de relações fora de seu contexto original, sendo aplicado para formular a compreensão de um conceito mais distante.
 
 !!! Metáforas e Analogias andam juntas e Alexander as utiliza fortemente:
-
 
 * [[A flor e a Semente]]
 * [[Costura Aspecto/Gestalt]]
@@ -18,16 +18,13 @@ As analogias transmitem informações de uma forma agradável, usando conceitos 
 * [[Abordagem Tudo ou Nada]]
 * [[Livro: A Cidade Não É Uma Árvore]]
 
-
-
 !!! Eu também tentei utilizar analogias aqui:
 
-* [[Como resolver um Cubo Mágico]]
-* [[Repetição sem Repetição]]
-* [[Feedback Comunicativo]]
-* [[Sistema Altamente Acoplado]]
+
+<<list-links "[tag[metafora]]">>
 
 ---
 
 Embora as metáforas possam ser balsas poderosas para atravessar o rio da compreensão, é preciso saber quais são as limitações de uma comparação. Conhecer as diferenças entre ideias semelhantes é mais difícil.Entretanto, podemos usar um [[Mapa de Bolha Dupla]] como uma estrutura para comparar conceitos comuns e suas divergências.
 
+O artifício da metafora é utilizado nesse trabalho com o intuito de fornecer pontos de vista, e não de construir um regime de verdades sobre essas coisas.

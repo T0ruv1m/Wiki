@@ -1,9 +1,10 @@
 created: 20241202113248354
-modified: 20241222230933664
+modified: 20250113130952573
+tags: linguagem
 title: Padrões estabelecem uma Lingua Franca de Design
 tmap.id: 1abd29f5-5efa-408b-b768-dad6e8cfdbb5
 
-Neologismos são criados a todo tempo para tentar acompanhar as mudanças culturais e preencher lacunas comunicativas. Todo campo de conhecimento acumula inevitavelmente um jargão contendo termos que modificam o significado de palavras cotidianas, ou até mesmo inventam novos termos e expressões para se referir a determinado aspecto ou processo recorrente. 
+Neologismos são criados a todo tempo para tentar acompanhar as mudanças culturais e preencher lacunas comunicativas. Todo campo de conhecimento acumula inevitavelmente um jargão contendo termos que modificam o significado de palavras cotidianas, ou até mesmo inventam novos termos e expressões para se referir a determinado aspecto ou processo recorrente. Em arquitetura e urbanismo podemos pensar em termos como cachorrada, volumetria, croqui, elemento vazado, brise, retrofit, abertura zenital, tecido urbano, marquise...
 
 Os padrões são poderosos justamente por serem capazes de guardar simultaneamente essas novas entidades e as condições necessárias para alcançá-las. Padrões Generativos são ainda mais potentes por serem capazes de especificar ''como'' chegar até aquele estado.
 
@@ -13,21 +14,23 @@ Imagine discussões entre planejadores que se deem da seguinte maneira:
 
 ---
 
--Acho que o entorno dessa edificação está faltando em alguma coisa...
+-Acho que as //Bordas dessa Edificação// ainda não estão completamente formadas...
 
-- Talvez ainda precise de um //Espaço Externo Positivo// que torne o exterior mais habitável.
+- Precisamos configurar o //Espaço Externo Positivo// e tornar o exterior mais habitável.
 
-- Mas se alterarmos a forma dela perderemos as potencialidades de uma //Edificação Longa e Estreita//.
+- Mas se tornarmos a edificação mais larga perderemos as potencialidades de uma //Edificação Longa e Estreita//, como as //Alas para Luz Natural//.
 
-- Que tal propor uma //Arcada// nas //Bordas da Edificação// e aproveitar o pavimento superior para construir uma //Sacada Habitável//?
+- Que tal propor uma //Arcada// nas //Bordas da Edificação//, oque vai ajudar a montar uma //Rua de Pedestres// e criar uma //Transição de Entrada//? 
+
+-Também podemos aproveitar o pavimento superior para construir uma //Sacada Habitável//, de modo a estabelecer uma //Conexão com a Rua// e ainda manter o //Local Ensolarado// nos pavimentos superiores.
 
 - Boa ideia, acho que isso resolveria os conflitos nessa escala.
 
 ---
 
-Note como os termos utilizados se referem à entidades que podem ser imediatamente reconhecidas por ambos os integrantes da conversa. Isso não é simplesmente uma sofisticação artificial usada para impressionar os clientes. Acontece que muitos dos termos utilizados na conversa são abstratos demais para referenciar diretamente objetos na edificação, e justamente por isso são tão úteis. Eles referem-se a [[Modelos Mentais]] que são carregados por cada indíviduo. Os padrões nessa escala são melhor interpretados como sendo estruturas nebulosas que contém algumas propriedades desejáveis, eles não informam toda a implementação, mas estabelcem as principais características, aquelas que não poderiam ser deixadas para depois.
+Note como os termos utilizados se referem à entidades que podem ser imediatamente reconhecidas por ambos os integrantes da conversa. Isso não é simplesmente uma sofisticação artificial usada para impressionar os clientes. Acontece que muitos dos termos utilizados na conversa são abstratos demais para referenciar diretamente objetos na edificação, e justamente por isso são tão úteis. Eles referem-se a [[Modelos Mentais]] que são carregados por cada indíviduo. Os padrões nessa escala são melhor interpretados como sendo estruturas nebulosas que contém algumas propriedades desejáveis, eles não informam toda a implementação, mas estabelecem as principais características, aquelas que não poderiam ser deixadas para depois.
 
-Pensar desse modo requer um entendimento mais profundo das relações espaciais presentes no espaço edificado. Muitas vezes essas entidades existem na nossa mente de planejador, mas não conseguimos expressá-las senão por meio de desenhos. É fato de que os arquitetos possuem um vocabulário muito limitado que consegue expressar apenas formas, volumes, materiais e superficies.(Salingaros, 1998, p.159) Agora, armados com um vocabulário de padrões, podemos usar palavras para definir esses aspectos cruciais e comunicar nossas intenções com facilidade.
+Pensar desse modo requer um entendimento mais profundo das relações espaciais presentes no espaço edificado. Muitas vezes essas entidades existem na nossa mente de planejador, mas não conseguimos expressá-las senão por meio de desenhos. Talvez a verdade seja que, apesar de possuirmos um jargão vasto, a linguagem arquitetônica ainda esteja muito limitada à formas, volumes, materiais e superfícies.(Salingaros, 1998, p.159) Agora, armados com um vocabulário de padrões, podemos usar palavras para definir esses aspectos cruciais para a usabilidade a bem estar nas cidades e edificações, comunicando nossas intenções com facilidade.
 
 
 <footer>

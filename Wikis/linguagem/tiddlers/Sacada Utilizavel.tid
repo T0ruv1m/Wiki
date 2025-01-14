@@ -3,6 +3,7 @@ img_intro: https://i.pinimg.com/564x/86/5a/46/865a461dca9b74dd90d6ad19f5a290e5.j
 modified: 20241112001955337
 tags: .padrão
 title: Sacada Utilizável
+tmap.edges: {"7f2e60a3-88ee-4cd7-b2ac-08ed091ee905":{"to":"d9769666-40dc-4787-ad32-95e991eb0550","type":"deve conter"},"388ce5a1-54da-4288-9dbf-a692faf15964":{"to":"dbfb010e-bf65-443e-8923-f9a0921f04c9","type":"deve conter"}}
 tmap.id: dd2357c1-ea9b-4ff4-ab2b-3e5739f98a8a
 
 <<img_intro>>

@@ -1,6 +1,8 @@
 created: 20241027163235377
-modified: 20241109033541374
+modified: 20250113175849397
+tags: pessoal
 title: Expansão dentro da Borda
+tmap.edges: {"35422bc5-808a-4590-b658-19fb27faaaa1":{"to":"f555db49-4e3b-4769-a68b-d546bd1338ce","type":"compete com"},"804b798c-668d-419f-9fc8-c3a0340f7283":{"to":"85c0a344-9be4-4441-9f43-b56eea9cc8ab","type":"compete com"},"3d06d4a7-8b10-4301-ac93-53f133034a78":{"to":"dd2357c1-ea9b-4ff4-ab2b-3e5739f98a8a","type":"compete com"}}
 tmap.id: a1e30b82-10a4-46c4-b3c7-da8610afd0ba
 type: text/vnd.tiddlywiki
 
@@ -30,6 +32,8 @@ Pense nas edificações como processos que inevitavelmente se expandem.Construa 
 
 Permita que edificações expandirem ao criar áreas semi-públicas ao redor, como [[Varandas e Galerias]], [[Arcadas]], Garagens ou até [[Sacada Utilizável]]. Essa extensão da casa é um processo natural e será mais barato se a construirmos levando esse aspecto em conta.
 
+<<mapa "Live View">>
+
 Referência:
 <footer>
-1."[[How Buildings Learn]]"
+1."[[How Buildings Learn]]" Esse aspecto é comparado aos pseudópodes de uma célula.

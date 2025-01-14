@@ -1,14 +1,14 @@
 created: 20241022213512713
 icon: $:/wiki.gif
-modified: 20241212144329101
-tags: software
+modified: 20250113180801713
+tags: sistemas1
 title: Wiki
 tmap.id: 1598e4af-d311-44cf-b121-2ffeef12e61a
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
 
-Wikis permitem que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]].
+Wikis é um sistema que permite com que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]].
 
 [[Michael Mehaffy]] explica algumas relações da Wiki com a Linguagem de Padrões:
 

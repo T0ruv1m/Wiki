@@ -1,5 +1,6 @@
 created: 20241113220459647
-modified: 20241204135755444
+modified: 20250113194425879
+tags: sistemas1
 title: Feedback
 tmap.id: 5e6f51ec-bc93-446f-9a44-fd8249affecd
 
@@ -12,6 +13,7 @@ tmap.id: 5e6f51ec-bc93-446f-9a44-fd8249affecd
 
 ---
 
+Acreditamos que os arquitetos que não levam feedback em consideração estão //planejando por coincidência//. Pode até ser que projetem um edifício que funcione, mas não têm nenhuma razão em particular pra isso acontecer.
 
 [[Feedback Comunicativo]] tenta esclarecer o conceito por meio de analogias com a troca de mensagens.
 
@@ -20,6 +22,8 @@ tmap.id: 5e6f51ec-bc93-446f-9a44-fd8249affecd
 [[Diversidade Auto-Destrutiva]] termo cunhado por [[Jane Jacobs]] para definir o estrago provocado pela própria economia dentro de uma região próspera quando essa ignora o feedback.
 
 [[Imediatismo do Feedback]] foca na necessidade de responsividade, dizendo que o intervalo comunicativo possui uma frequência ideal.
+
+Ver também [[Dualismo Planejar/Construir]] e [[Construção como um Fazer]]
 
 <footer>
 1. NORMAN, Donald A. O Design do Dia-a-Dia. Rio de Janeiro: Rocco, 2006.

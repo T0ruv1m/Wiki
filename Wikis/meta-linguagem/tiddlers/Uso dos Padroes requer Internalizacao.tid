@@ -1,5 +1,6 @@
 created: 20241101153958153
-modified: 20241225145135094
+modified: 20250113123700932
+tags: linguagem
 title: Uso dos Padrões requer Internalização
 tmap.id: 52ff0cd7-1f5a-4602-921a-486ffa5f88dd
 
@@ -8,11 +9,11 @@ A posição de Alexander é a de que [[Todos se baseiam em Regras Gerais]], e me
 Fazendo uma analogia com o aprendizado de um idioma, somente quando internalizamos o vocabulário e certas regras gramáticais conseguimos torná-lo operável. O ato da fala se torna então uma resposta espontânea e imediata à situação. Em poucas palavras:  
 A velocidade é a essencia da espontaneidade.^^(1)^^
 
-> ''No momento em que uma pessoa se depara com um problema de design, ela não tem tempo de pensar nisso do zero. Ela se depara com a necessidade de agir e precisa agir rápido''(p.204)
+> //No momento em que uma pessoa se depara com um problema de design, ela não tem tempo de pensar nisso do zero. Ela se depara com a necessidade de agir e precisa agir rápido//(p.204)
 
 A minha ideia aqui é que os padrões passam a ter utilidade quando não necessitamos mais de consultá-los a todo momento, quando sua lógica se torna uma segunda natureza da nossa forma de lidar com problemas, acessível imediatamente na hora de construir um espaço.
 
-Um outro fragmento de TWB sugere que, assim como a linguagem, os padrões levam muito tempo - quem sabe anos - para serem internalizados.Porém, uma vez adquiridos, é necessário apenas alguns minutos para aplicá-los, de modo que a construção vem até nós tão fácil como as frases.
+Um outro fragmento de [[TWB|Livro: The Timeless Way of Building]] sugere que, assim como a linguagem, os padrões levam muito tempo - quem sabe anos - para serem internalizados.Porém, uma vez adquiridos, é necessário apenas alguns minutos para aplicá-los, de modo que a construção vem até nós tão fácil como as frases.
 
 > "[...] Estamos acostumados a pensar que o planejamento de uma construção ou jardim leva um longo tempo; e que a preparação para o processo de planejamento é curta. Porém, num processo onde a linguagem atua propriamente, isso é revertido. A preparação da linguagem pode levar um bom tempo: semanas, meses, anos. Mas o uso da linguagem leva não mais que algumas horas." p.323 (tradução nossa)
 
@@ -20,9 +21,13 @@ Em outra ocasião, descrevendo como uma construção foi feita utilizando uma li
 
 >Acontece com uma facilidade surpreendente. A construção quase "se faz sozinha", assim como uma frase parece se fazer quando falamos. p.407 (tradução nossa)
 
-!!!''Seguir uma regra é segui-la cegamente:''
+Essa internalização das regras remete ao [[Núcleo do Caminho]], onde Alexander diz que a última etapa da disciplina é abandoná-la completamente. Do mesmo modo, um falante de um idioma não se sente restrito pelas regras que internalizou. Muito pelo contrário, sentimos que já não dependemos mais de regras. ver [[Regras Permitem a Criatividade]].
 
-Essa internalização das regras remete ao [[Núcleo do Caminho]], onde Alexander diz que a última etapa da disciplina é abandoná-la completamente. Do mesmo modo, um falante de um idioma não se sente restrito pelas regras que internalizou. Muito pelo contrário, as [[Regras Permitem a Criatividade]].
+Dentro dessa analogia, podemos notar que a forma como arquitetura nos é ensinada nas faculdades se assemelha muito a um cenário não ideal para ensino de linguagem. Você não pede para alguém, nos primórdios do seu aprendizado linguístico,  elaborar um texto completo, logo de cara. Qualquer pessoa que tenha aprendido um idioma depois de adulto percebe que necessitamos de milhares de horas imerso num ambiente com falantes nativos até que as frases comecem a emergir naturalmente. Geralmente somos introduzidos a escrita apenas depois dos 6 anos, quando já obtemos estímulos compreensíveis ao longo de todo nosso tempo de vida, ao ponto em que já somos capazes de falar sem que isso nos cause peso cognitivo. A fala simplesmente emerge no pensamento, e com isso conseguimos focar no aprendizado da escrita.
+
+--- 
+
+Seguir fielmente uma regra seria segui-la cegamente. Isso pode implicar que elas não possam ser externalizadas. Alexander, entretanto, elabora sua teoria partindo do pressuposto de que [[Essas Regras são Externalizáveis]].
 
 <footer>
 

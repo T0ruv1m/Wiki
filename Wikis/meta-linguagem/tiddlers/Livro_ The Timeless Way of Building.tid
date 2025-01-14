@@ -1,8 +1,8 @@
 created: 20241026223928387
-modified: 20250105000825494
+modified: 20250113180909679
 tags: livro
 title: Livro: The Timeless Way of Building
-tmap.edges: {"f712cc49-10ec-4829-8e4f-283d37e422c8":{"to":"74ee80f0-d330-460b-b22f-bcaefb02be75","type":"guia complementar de"}}
+tmap.edges: {"44a5636b-f068-461a-89b7-469c90243367":{"to":"2d9ea82e-93c3-42f3-bad5-95a96625a8cf","type":"guia complementar de"}}
 tmap.id: b63b567d-b123-4512-bcea-e3fbd63c431d
 tmap.style: {}
 type: text/vnd.tiddlywiki

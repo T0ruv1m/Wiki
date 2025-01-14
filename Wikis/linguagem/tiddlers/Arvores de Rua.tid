@@ -1,0 +1,44 @@
+created: 20250113174117332
+link_npl: http://npl.wiki/view/street-trees
+modified: 20250113175441918
+tags: NPL
+title: Árvores de Rua
+tmap.edges: {"1cf0c051-5854-4d60-8ba1-1dd8142d658e":{"to":"c5ee2ac3-90db-4cfd-822a-357deeff3faa","type":"colabora com"},"dad41e1e-f348-4777-80f6-bff0302271ec":{"to":"78edf241-3f76-42fc-9c48-dbc562f57350","type":"pode incluir"}}
+tmap.id: d8f04736-b704-4990-8295-9ffc2b364f53
+
+<</img_intro>>
+
+<<details label:"NPL - Acesso ao Padrão" src:"<iframe src='{{!!link_npl}}' height='400' width='600'>" srcClass:"alert alert-primary" labelClass:"alert alert-secondary">>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Poucos elementos proporcionam mais benefícios aos bairros e às cidades do que as árvores de rua. No entanto, há desafios em sua colocação e manutenção.
+
+</problema>
+
+<<descricao+"
+
+Às vezes, a suposição sobre as árvores de rua é que elas avançarão por todas as ruas, com espécies idênticas em um espaçamento regular. Mas elas não precisam ter um padrão tão implacável. Por exemplo, algumas árvores podem ser de uma espécie distinta, produzindo uma flor ou uma folha de cor particularmente bonita. O padrão das árvores também pode variar, às vezes alternando-se, às vezes agrupando-se em padrões naturais ou formando “bosques” de fileiras paralelas. Há também outras considerações sobre as árvores de rua, e uma das mais importantes é a capacidade das árvores de sobreviverem com pouca manutenção em um ambiente e clima urbanos que podem ser estressantes. Muitos bairros perderam um grande número de árvores devido a doenças (por exemplo, a doença do olmo holandês). Portanto, é importante escolher espécies resistentes e apropriadas para o clima e misturá-las de modo que a morte de uma única espécie não prejudique toda a rua. As árvores de rua também devem ser colocadas de modo a evitar interferências com linhas elétricas aéreas e com serviços públicos enterrados. Os chamados “protetores de raízes” - barreiras que forçam as raízes a se deslocarem para baixo e não para os lados - podem proteger os serviços públicos e as calçadas de concreto. Árvores que estão em locais vulneráveis, propensas a danos.
+
+">>
+
+Portanto:
+
+<solucao>
+
+Planeje as ruas com árvores de rua em suas bordas e canteiros centrais, variando as espécies e o posicionamento conforme apropriado para as fachadas dos edifícios. Posicione as árvores para evitar conflitos com linhas elétricas aéreas e proteja os serviços públicos enterrados com protetores de raízes, se necessário. Proteja-os com protetores de árvores quando jovens.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+{{!!link_npl}}
+</footer>

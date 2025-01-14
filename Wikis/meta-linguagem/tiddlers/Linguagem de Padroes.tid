@@ -1,37 +1,7 @@
 caption: Padrões formam uma Linguagem
 created: 20241028010238983
-modified: 20241225145135093
-tags: pdf
+modified: 20250113104854592
+tags: 
 title: Linguagem de Padrões
 tmap.id: b5137ce8-d3d2-4bf6-8343-6c42be1f29fd
 tmap.style: {}
-
-A teoria da Linguagem de Padrões se baseia em alguns pressupostos, que são todos abordados no [[Livro: The Timeless Way of Building]].
-
-* [[Existe uma Qualidade Fundamental]]
-* [[Todos se baseiam em Regras Gerais]]
-* [[Essas Regras são Externalizáveis]]
-
-<</tabs "[tag[pressuposto]]">>
-
-A partir disso ele conclui que:
-
-* [[Regras Permitem a Criatividade]]
-* [[Uso dos Padrões requer Internalização]]
-
----
-
-O aspecto mais importante a ser enfatizado aqui é a
-
-![[A Estrutura da Linguagem]].
-
-Segundo Alexander, sem ela os padrões perdem a coerência e deixam de funcionar adequadamente. 
-
----
-
-Outros aspectos e curiosidades sobre a linguagem:
-
-* [[Como Utilizar a Linguagem]]
-* [[Padrões estabelecem uma Lingua Franca de Design]]
-* [[Linguagem de Padrões Poética]]
-* [[Criando sua Própria Linguagem|Crie sua própria Linguagem]]

@@ -1,5 +1,5 @@
 created: 20241114162554517
-modified: 20250112014103814
+modified: 20250113131811910
 title: Feedback no Canteiro
 tmap.id: b7d80101-af2e-4819-a8ce-bf54776c43da
 
@@ -16,7 +16,10 @@ Isso pode parecer absurdo porém é dessa forma que a maioria das edificações 
 
 Tomamos o exemplo do eskimó em seu iglu. (Alexander, 1979, p. 49) Ele reage imediatamente a quaisquer mudanças de temperatura no interior fazendo ou tapando buracos na parede do Iglu. A rapidez das alterações é uma função crucial para manter o conforto termico nesse sistema. A inadequação da forma leva diretamente a uma alteração nela. Se o feedback demora ele deixa de ser útil. ver [[Imediatismo do Feedback]].
 
-{{Edificações Congeladas}}
+<<details label:"Edificações Congeladas" src:"{{Edificações Congeladas}}" labelClass: "alert alert-primary">>
+
+
+Ver também [[Dualismo Planejar/Construir]] e [[Construção como um Fazer]]
 
 <footer>
 

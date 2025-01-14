@@ -1,11 +1,11 @@
 created: 20241024170622010
-modified: 20250101214743504
+modified: 20250113180257936
 tags: 
 title: Home
 tmap.id: b3776389-b10a-4516-a700-9080d580bd1f
 
 <footer>
-[[Retornar para Livro: Uma Linguagem de Padrões|http://padroes.wiki.br/meta-linguagem]]
+[[Retornar para Meta Wiki |http://padroes.wiki.br/meta-linguagem]]
 </footer>
 
 <<details label:"Pequeno Disclaimer" src:"{{_disclaimer}}" srcClass:"alert alert-secondary" labelClass:"alert alert-secondary">>

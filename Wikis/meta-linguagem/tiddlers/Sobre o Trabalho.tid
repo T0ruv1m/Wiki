@@ -1,0 +1,27 @@
+created: 20241022211719080
+modified: 20250113150520872
+tags: pdf
+title: Sobre o Trabalho
+tmap.edges: {}
+tmap.id: 74ee80f0-d330-460b-b22f-bcaefb02be75
+tmap.style: {"color":{"background":"rgba(255,236,132,1)"}}
+type: text/vnd.tiddlywiki
+
+Todo esse trabalho gira em torno de um livro que de tão volumoso e pesado se parece mais com um tijolo amarelo. Ele foi escrito em 1977 pelo arquiteto austríaco/americano Christopher Alexander junto a alguns outros colaboradores e, apesar do sucesso de vendas, não é muito conhecido entre os arquitetos.
+
+<<image-pretty img:https://i.postimg.cc/k5YzjX0d/Imagem-Whats-App-2025-01-01-s-16-39-20-1301832f.jpg width:400px>>
+
+{{Livro: Uma Linguagem de Padrões}}
+
+Para além disso, o proposito deste primeiro site é endereçar algumas questões que podem surgir em um primeiro contato. A maior parte das notas registradas aqui foram escritas enquanto eu mesmo me esforçava  para entender o assunto, o que pode torná-lo mais complicado do que é realmente.
+
+<$tiddlymap view="Mapa de Influência" height="450px"/>
+
+O mapa acima serve para localizar o Livro, seu autor e outras pessoas e coisas que foram influenciadas por ele e também me influenciaram a criar esse site. Para além do livro "Uma linguagem de Padrões", existem outras obras de Alexander e outros autores que exerceram influência e que estão resumidos em suas respectivas notas coloridas do mapa ou na aba livros.
+
+Ao navegar pelo site irá notar que com certa frequência são citados temas que são, a princípio, completamente remotos à arquitetura.O que ocorre é uma tentativa de utilizar [[Metáforas]] como artifício de locomoção para pontos de vista inusitados. Portanto, de maneira alguma elas devem ser vistas como tentativa de construir um regime de verdades acerca dessas coisas.
+
+Alguns desses temas foram tão fortes que mereceram ser compilados em suas próprias categorias, por isso também podemos interpretar:
+
+{{Arquitetura Como Mapa}}
+
