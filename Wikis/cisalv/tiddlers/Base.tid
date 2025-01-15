@@ -1,26 +1,14 @@
 created: 20241023225254343
-modified: 20241228011750002
+modified: 20250114151327934
 tags: TableOfContents
 title: Base
 tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
 
-! Bem Vindo a Base!
-
-!! Projetos
-
-{{Projetos}}
-
----
-
-<<details label:"Princípios de Programação" src:"{{programmingPrinciples}}" srcClass:"alert alert-primary" labelClass:"alert alert-primary">>
-
 !! Documentação:
-[[Ubuntu]] | [[Delphi]]
 
-[[User Interface Design]]
+[[Ubuntu]] 
 
-[[BehaviourDrivenDevelopment]]
-
+[[Delphi]]
 
 ⚒ [[utilities]]
 

@@ -1,10 +1,10 @@
 created: 20241027210211534
-modified: 20250113105008262
+modified: 20250114103720470
 tags: TableOfContents linguagem
 title: O que é um Padrão afinal?
 tmap.id: 982b4bac-b0f5-42ff-ac87-20482872c7b9
 
-"Padrão" é traduzido do inglês "Pattern". Esse termo foi //inventado// por Alexander e seus amigos e se refere ao formato em que a informação do livro é armazenada. É um formato bem simples que cita um problema corriqueiro seguido de uma instrução que ajuda a resolvê-lo. Porém, além de serem um formato, o conteúdo dos padrões tenta apontar para alguns aspectos profundos do espaço construído.
+"Padrão" é traduzido do inglês "Pattern". Esse termo foi //inventado// por [[Christopher Alexander]] e seus amigos e se refere ao formato em que a informação do livro é armazenada. É um formato bem simples que cita um problema corriqueiro seguido de uma instrução que ajuda a resolvê-lo. Porém, além de serem um formato, o conteúdo dos padrões tenta apontar para alguns aspectos profundos do espaço construído.
 
 Uma definição mais concisa seria:
 

@@ -1,5 +1,5 @@
 created: 20241022211511080
-modified: 20250113180828906
+modified: 20250114120350655
 title: Christopher Alexander
 tmap.edges: {"24c28d69-827e-4e14-923b-c1f109005380":{"to":"fb2a09a4-fe93-48dd-9fa1-647f063b5ac4","type":"amigo de"},"3be2a5cd-b56c-4581-9e72-36a486e009e8":{"to":"e6e688e2-5f24-4aca-bf99-996a7a6a3aaa","type":"amigo de"},"564d9cc8-0431-4462-a6e1-ee56138fc24b":{"to":"b63b567d-b123-4512-bcea-e3fbd63c431d","type":"escreveu"},"2c98870a-97de-455e-8219-23470b1777f3":{"to":"2ccfb938-6805-4066-9bb8-c54cd4b1470d","type":"escreveu"},"90155f98-022a-4320-8ba1-3900d03c7933":{"to":"e8abc87c-88ce-4469-991a-f05895848d52","type":"influenciou"},"9270880e-d314-4c56-9adb-9ae56f57097a":{"to":"60ef5987-e7ba-4972-ac99-36b1df4757bf","type":"escreveu"},"26e6f6b2-ce0e-4fb7-9d33-a31b5c271849":{"to":"dbd1c80f-4e4c-46b9-9618-fabcffc70706","type":"escreveu"},"1ff05989-c550-428c-8f83-c07e51484837":{"to":"2d9ea82e-93c3-42f3-bad5-95a96625a8cf","type":"escreveu"}}
 tmap.id: 6025a0aa-6bd4-427e-8e31-4e2cee7d42d5
@@ -8,16 +8,25 @@ type: text/vnd.tiddlywiki
 
 Autor de [[Livro: Notas sobre a Síntese da Forma]]  | [[Livro: A Cidade Não É Uma Árvore]] | [[Livro: The Timeless Way of Building]] | [[Livro: Uma Linguagem de Padrões]]
 
-Pragmatismo Romântico
-Jenny Quillen o descreve como o homem zig-zag. Isto pois é capaz de saltar entre uma abordagem analítica: que segue um raciocínio linear e está confortável em pensar em termos de formulações matemáticas, para uma abordagem intuitiva: uma proposta receptiva, fenomenológica misteriosa e até mística do assunto.
+Jenny Quillen o descreve como o homem zig-zag. Isto porque era capaz de saltar entre uma abordagem ''analítica''( que segue um raciocínio linear e está confortável em pensar em termos de formulações matemáticas) para uma abordagem ''intuitiva''(receptiva, fenomenológica e mística).
 
-Ele é Platônico pois o trabalho de sua vida se resume na tentativa de unir o intemporal ao observável, dando prioridade ao eterno:
+Ele quase sempre não sabia o que estava fazendo até terminar: 
+(ref) subo em uma árvore.
+
+Era um platônico pois o trabalho de sua vida se resume na tentativa de unir o intemporal ao observável, dando prioridade ao eterno:
 
 >Será possível, então, que as pessoas digam, com firmeza, que os poemas não são reais e que os padrões não passam de imagens, quando, na verdade, o mundo das imagens controla o mundo da matéria?(tradução nossa)
 
-E ao mesmo tempo Aristotélico quando assume que os padrões emergem no mundo, e não nas nossas mentes, e em seguida parte em uma empreitada obcessiva para categorizá-los.
+E ao mesmo tempo aristotélico por assumir que os padrões emergem no mundo, e não nas nossas mentes, e em seguida partir em uma empreitada obsessiva para categorizá-los:
 
 >aprendemos a ver um padrão como algo “no mundo” - um padrão unitário de atividade e espaço, que se repete várias vezes, em qualquer lugar, sempre aparecendo em uma manifestação ligeiramente diferente.(Alexander, 1979, p 181)
+
+Alexander queria muito que sua teoria fosse levada a sério, que fosse vista como uma nova forma de fazer ciência(ref). Por outro lado era, em suas próprias palavras, o arquiteto mais católico de seu tempo(ref), e utilizava frequentemente aspectos dos caminhos orientais como o Zen e [[Wabi-to-Sabi]] como veículo de expressão de suas próprias concepções de beleza e mundo. Dada essa visão cosmopolita, talvez por conta dela, nunca tenha sido  entendido por nenhum dos lados.
+
+Podemos então definí-lo como uma espécie de arquiteto-filósofo, que também era um construtor e um teórico //sui generis//, certamente contaminado por uma espécie de //Pragmatismo Romântico// que o fazia andar por ai com a cabeça nas nuvens e com os pés pregados no chão. Em uma das suas últimas entrevistas, ele deixa o seguinte conselho aos jovens arquitetos:
+
+>(ref)
+
 
 <footer>
 1.QUILLIEN, Jenny. The Zigzag Man: Christopher Alexander's Dual Regard. The Side View Journal, 21 de junho de 2023. Disponível em: https://thesideview.co/journal/the-zigzag-man/. Acesso em: 13 nov. 2024.

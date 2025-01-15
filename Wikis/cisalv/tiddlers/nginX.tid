@@ -1,7 +1,7 @@
 created: 20241023224300628
 list: nginx/installation nginx/mbs nginx/enabling
-modified: 20241227182103530
-tags: ubuntu/tools
+modified: 20250114151104950
+tags: tool ubuntu
 title: nginX
 tmap.id: c0e74632-a666-4058-a153-85bdd22c84b8
 

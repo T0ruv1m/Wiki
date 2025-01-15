@@ -1,0 +1,10 @@
+created: 20250114144217725
+modified: 20250114144557260
+tags: $:/tags/Macro
+title: sudo-apt-update
+tmap.id: 4cb475e6-4b6d-4e26-8ed6-22c871a91c43
+type: text/vnd.tiddlywiki
+
+\define aptupdate()
+<<code "sudo apt update">>
+\end
