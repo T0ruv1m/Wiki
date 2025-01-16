@@ -1,5 +1,5 @@
 created: 20241216015914949
-modified: 20241216020034870
+modified: 20250116001238454
 tags: CamadaRitmo
 title: 5.Configuração
 tmap.id: 1b04eacd-15cd-4cf7-867d-30ef606d8100
@@ -9,3 +9,7 @@ Essa camada não pode ser tocada, apenas abstraída. Ainda assim constitui o car
 Os Padrões de Alexander habitam essa camada e se referem as relações menos óbvias honradas pelo tempo. A totalidade dessas relações determina a configuração da edificação. Essas mudam quando paredes são demolidas, ou criadas, quando cômodos mudam de lugar ou função. Mas também quando qualquer coisa relevante é arrastada. 
 
 Podemos dizer que a relação que as coisas possuem entre si é a estrutura mais efêmera e flexível, ao mesmo tempo essencial para a identidade e o funcionamento da edificação.
+
+>Não sei dizer o que mudou, mas nada está igual.
+
+Pense em como uma casa pode mudar completamente sem que seja necessário arredar as [[6.Coisas]] de lugar. É possível modificar essa camada enquanto deixamos tudo como está, tocando apenas no uso. Se resolvemos considerar a sala como quarto ou o quarto como sala, a configuração da casa torna-se outra. Portanto, essa camada existe apenas em relação as suas [[7.Criaturas]].

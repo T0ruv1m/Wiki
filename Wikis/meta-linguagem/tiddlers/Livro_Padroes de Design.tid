@@ -1,5 +1,5 @@
 created: 20241022214545535
-modified: 20241214013535417
+modified: 20250116005434507
 tags: livro software
 title: Livro:Padrões de Design
 tmap.edges: {"e116f3b2-da55-452a-8ae0-3628b3b6f8bc":{"to":"21d7639a-41c7-4cbc-992a-43bb2810736e","type":"influenciou"}}
@@ -18,4 +18,4 @@ Algumas das conquistas foram:
 
 > Já deve ter ouvido que não é necessário reinventar a roda. No campo do desenvolvimento de softwares isso é levado a sério. Bibliotecas, pacotes, plugins e fragmentos de código são reutilizados o tempo todo. Os padrões permitiram também a reaplicação de abstrações úteis. [[Padrões são Recorrentes]]
 
-Outros verbo muito usado na computação, que se relaciona intimamente com a abordagem de Alexander com a arquitetura, é [[Refatorar]].
+Outros verbo muito usado na computação, que se relaciona intimamente com a abordagem de Alexander com a arquitetura, é o [[Refatorar]].

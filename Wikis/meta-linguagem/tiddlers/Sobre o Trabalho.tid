@@ -1,5 +1,5 @@
 created: 20241022211719080
-modified: 20250113150520872
+modified: 20250116020032016
 tags: pdf
 title: Sobre o Trabalho
 tmap.edges: {}
@@ -12,8 +12,6 @@ Todo esse trabalho gira em torno de um livro que de tão volumoso e pesado se pa
 <<image-pretty img:https://i.postimg.cc/k5YzjX0d/Imagem-Whats-App-2025-01-01-s-16-39-20-1301832f.jpg width:400px>>
 
 {{Livro: Uma Linguagem de Padrões}}
-
-Para além disso, o proposito deste primeiro site é endereçar algumas questões que podem surgir em um primeiro contato. A maior parte das notas registradas aqui foram escritas enquanto eu mesmo me esforçava  para entender o assunto, o que pode torná-lo mais complicado do que é realmente.
 
 <$tiddlymap view="Mapa de Influência" height="450px"/>
 

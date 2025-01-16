@@ -1,12 +1,12 @@
 created: 20241114165513175
-modified: 20241215220128269
-tags: BibliadosSistemas blank
+modified: 20250115215137725
+tags: BibliadosSistemas sistemas1
 title: Coeficiente de Ficção
 tmap.id: fedd2753-cea8-4015-a7e8-9f075c9c41fe
 
 >A modelagem e a simulação por computador podem ser úteis, mas também podem desviar os projetistas para soluções “ideais” ilusórias. Essas soluções são inevitavelmente frágeis - elas funcionam somente em um conjunto de condições. O projeto auxiliado por computador (CAD) levou a construções mais fracas que não suportam circunstâncias incomuns, como furacões. Antes dos computadores, os engenheiros lidavam com a incerteza criando uma grande margem de segurança. Eles estavam certos. Superdimensione seus componentes. (Brand, 1995, p.408)
 
-Os modelos que criamos para manipular a forma com antecedência geralmente carecem das restrições e as necessidades físicas do mundo real.
+Os modelos que criamos para manipular a forma com antecedência geralmente carecem das restrições e as necessidades físicas do mundo real. Por isso, ainda que nossos softwares sejam avançados, ainda [[O mundo é o melhor modelo de si]].
 
 Um modelo não é melhor que seus orgãos sensoriais, a realidade que nos é apresentada no computador não é suficiente para prever os problemas que emergem na realidade. A coleta de dados estatísticos e outras simulações de computador podem ajudar, mas construir um entendimento compartilhado das demandas a partir da realidade observada no cotidiano em conjunto com as próprias pessoas que utilizam o local pode ser mais útil do que utilizar essas ferramentas elaboradas e propor um projeto inteiro de uma vez só, sem nem mesmo consultar seus usuários.
 

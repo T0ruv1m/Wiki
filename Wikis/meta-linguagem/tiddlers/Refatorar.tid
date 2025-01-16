@@ -1,0 +1,23 @@
+created: 20250116005447887
+modified: 20250116012429463
+title: Refatorar
+tmap.id: cdee8c3e-18fa-4d8e-a39c-1ac81ffb6726
+
+Refatoração leva em conta a necessidade de alterar a forma do código sem alterar sua função. Ele continua operando do mesmo jeito, mas agora é mais organizado, elegante e expansível que antes.
+
+Refatoração assume que programar é uma tarefa não-deterministica(ver [[Imprevisibilidade]]). Isto é, não é possível tomar as decisões todas antes de começar a tarefa de escrever código. A maneira mais simples de especificar as instruções para o computador não vai ser visível logo de cara, é preciso começar a fazer o código e só então o processo irá nos na tarefa de resolver conflitos e reduzir duplicações. 
+
+Quanto maior o [[Imediatismo do Feedback]], mais fácil se torna a tarefa de refatorar o código sem quebrá-lo.
+
+
+!!! Conserte as janelas quebradas.
+
+No livro O programador pragmático, Hunt e Thomas nos dizem que códigos tendem a serem abandonados e se tornarem um pesadelo de manutenção quando a tarefa de organização e refatoração é adiada por muito tempo. Eles comparam essa situação à teoria das janelas quebradas, desenvolvida no ramo da criminologia.
+
+Segundo essa teoria, sinais visíveis de negligência, como as janelas quebradas, encorajam o aumento da criminalidade de edificações, pois deixa bem visível que elas estão abandonadas.
+
+O conselho é portanto consertar as janelas quebradas, não deixar com que demandas por manutenção se acumularem. Afinal, uma pequena desordem inicial pode escalar muito rápido para um [[Problema Intratável]]. 
+
+Trazendo de volta para arquitetura, podemos dizer que quanto mais nos permitirmos a auto-correção ao longo da construção, menores as chances de decisões ruins serem carregadas ao ponto de tornar a edificação final um caso perdido. 
+
+Além disso, consideramos que o design de edificações se assemelha ao design de código no sentido de que o ato construtivo não é isento de decisões importantes. Na verdade, na medida em que nos permitimos interpretar a [[Construção como um Fazer]] - como um ato criativo em si e não como uma atividade mecânica e morta que pode ser repassada para construtores cujo único papel é seguir cegamente as escrituras - quanto mais nos afastarmos dessa visão problemática, mais bem sucedidas serão as nossas criações.

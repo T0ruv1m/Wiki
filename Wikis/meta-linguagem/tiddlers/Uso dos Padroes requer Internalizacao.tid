@@ -1,5 +1,5 @@
 created: 20241101153958153
-modified: 20250114120810165
+modified: 20250115212250175
 tags: linguagem
 title: Uso dos Padrões requer Internalização
 tmap.id: 52ff0cd7-1f5a-4602-921a-486ffa5f88dd
@@ -23,7 +23,7 @@ Em outra ocasião, descrevendo como uma construção foi feita utilizando uma li
 
 Essa internalização das regras remete ao [[Núcleo do Caminho]], onde Alexander diz que a última etapa da disciplina é abandoná-la completamente. Do mesmo modo, um falante de um idioma não se sente restrito pelas regras que internalizou. Muito pelo contrário, sentimos que já não dependemos mais de regras. ver [[Regras Permitem a Criatividade]].
 
-Dentro dessa analogia, podemos notar que a forma como arquitetura nos é ensinada nas faculdades se assemelha muito a um cenário não ideal para ensino de linguagem. Você não pede para alguém elaborar, nos primórdios do seu aprendizado linguístico, um texto e prosa completo, logo de cara. Qualquer pessoa que tenha se aventurado em aprender um novo idioma depois de adulto percebe que necessitamos de milhares de horas de imersão num ambiente com falantes nativos até que as frases comecem a emergir naturalmente. Geralmente somos introduzidos a escrita apenas depois dos 6 anos, quando já obtemos estímulos compreensíveis ao longo de todo nosso tempo de vida, ao ponto em que já somos capazes de falar sem que isso nos cause peso cognitivo. A fala simplesmente emerge no pensamento, e com isso conseguimos focar no aprendizado da escrita.
+Dentro dessa analogia, podemos notar que a forma como arquitetura nos é ensinada nas faculdades se assemelha muito a um cenário não ideal para ensino de linguagem. Você não pede para alguém elaborar, nos primórdios do seu aprendizado linguístico, um texto e prosa completo, logo de cara. Qualquer pessoa que tenha se aventurado em aprender um novo idioma depois de adulto percebe que necessitamos de milhares de horas de imersão num ambiente com falantes nativos até que as frases comecem a emergir naturalmente. Geralmente somos introduzidos a escrita apenas depois dos 5 anos, quando já obtemos estímulos compreensíveis ao longo de todo nosso tempo de vida, ao ponto em que já somos capazes de falar sem que isso nos cause peso cognitivo. A fala simplesmente emerge no pensamento, e com isso conseguimos focar no aprendizado da escrita.
 
 --- 
 
