@@ -1,5 +1,5 @@
 created: 20241022211719080
-modified: 20250116020032016
+modified: 20250117110107462
 tags: pdf
 title: Sobre o Trabalho
 tmap.edges: {}
@@ -11,7 +11,21 @@ Todo esse trabalho gira em torno de um livro que de tão volumoso e pesado se pa
 
 <<image-pretty img:https://i.postimg.cc/k5YzjX0d/Imagem-Whats-App-2025-01-01-s-16-39-20-1301832f.jpg width:400px>>
 
-{{Livro: Uma Linguagem de Padrões}}
+O livro opta por um formato de escrita muito particular, tão frutífero que escapou da sua aplicação original e passou a ser utilizado em vários campos que não tem nada a ver com arquitetura. Só para citar alguns exemplos, já foram escritas linguagens de padrões sobre Design de Jogos, Educação, Escrita e Storytelling, [[Programas de exploração interestelar|https://www.academia.edu/1354848/PROJECT_ICARUS_STAKEHOLDER_SCENARIOS_FOR_AN_INTERSTELLAR_EXPLORATION_PROGRAM]] e até uma linguagem sobre como escrever Padrões!
+
+A seguir está uma fala do autor [[Stewart Brand]] acerca do livro:
+
+>"As pessoas dizem que //"Uma Linguagem de Padrões"// mudou suas vidas, e eu acho que elas querem dizer que mudou a maneira como organizam fisicamente suas vidas... O que Alexander e seus coautores se propuseram a fazer foi coletar e organizar os elementos que fazem com que os edifícios sejam amados, que fazem com que os edifícios "vivam". Livres da modernidade, eles descobriram a profunda "linguagem de padrões" com a qual as pessoas entendem os edifícios... Todos os anos, cerca de 10.000 cópias desse tomo bíblico de US$ 50 são compradas, e o número aumenta a cada ano."
+
+!!! Provavelmente o que veio a sua cabeça é:
+
+Mas O que é um padrão afinal? E porque eles formam uma linguagem?
+
+Acredito que o melhor jeito de explicar é mostrando, e caso você queira conhecer um pedaço do livro pode fazer isso imediatamente acessando a...
+
+!!![[Wiki de Padrões|http://padroes.wiki.br/linguagem]].  
+
+Esse link te levará para uma wiki dentro desta, onde estão armazenados fragmentos de alguns padrões. O trabalho original é por si bastante auto-explicativo e garanto que simplesmente navegar pelos padrões já irá fornecer pistas o suficiente de como eles funcionam.
 
 <$tiddlymap view="Mapa de Influência" height="450px"/>
 
