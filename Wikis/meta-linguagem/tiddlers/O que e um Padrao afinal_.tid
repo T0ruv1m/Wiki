@@ -1,5 +1,5 @@
 created: 20241027210211534
-modified: 20250114103720470
+modified: 20250118173436687
 tags: TableOfContents linguagem
 title: O que é um Padrão afinal?
 tmap.id: 982b4bac-b0f5-42ff-ac87-20482872c7b9
@@ -12,4 +12,4 @@ Uma definição mais concisa seria:
 
 Vemos como necessário não só destrinchar como expandir essa definição. Por isso,aqui estão separadas algumas notas que descrevem positivamente , por meio de metáforas, aqueles aspectos dos padrões que julgamos mais importantes:
 
-<<tabs "[tag[padroes]]" class:"tc-vertical">>
+<<tabs "[tag[padroes]]">>

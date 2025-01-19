@@ -1,5 +1,5 @@
 created: 20241108150638146
-modified: 20250116005012142
+modified: 20250118164624281
 tags: biologia
 title: Diferenciação
 tmap.id: 2ab83ce0-4851-4d59-8c2b-9213d2cbf9aa
@@ -8,7 +8,7 @@ Seguindo a ideia da [[Gestalt]]. Alexander propõe a //diferenciação// ou //de
 
 Não é de forma inocente que Alexander usa como principal paralelo o desenvolvimento embrionário. Um bebê, que concorre como sendo a estrutura orgânica mais complexa do universo, nasce de um bolo de células iguais que, através de uma sequência de processos de diferenciação, torna-se progressivamente mais complexo até que resulta em um mini ser humano completamente formado.  Logo no início, toda a potencialidade já estava contida, precisando apenas de tempo e nutrição para alcançar seu estado pleno.
 
-Como é que toda essa complexidade poderia emergir de simples instruções presentes apenas na nossa receita de DNA? A resposta é: não está. Ou melhor, pelo menos, não somente. Veja como esse professor de biologia descreve o processo de desenvolvimento embrionário:
+Como é que toda essa complexidade poderia emergir de simples instruções presentes apenas na nossa receita de DNA? A resposta é: não está. Ou melhor, pelo menos, não somente. Veja como Lewis Wolpert, professor de Biologia da Universidade de Londres, descreve o processo de desenvolvimento embrionário:
 
 >“O embrião contém um programa generativo e não descritivo. Todas as informações para o desenvolvimento embrionário estão contidas em um óvulo fertilizado. Então, como essas informações são interpretadas para dar origem a um embrião? Uma possibilidade é que a estrutura do organismo seja de alguma forma codificada como um programa descritivo no genoma. O DNA contém uma descrição completa do organismo ao qual ele dará origem? A resposta é não. Em vez disso, o genoma contém um programa de instruções para a criação do organismo - um programa generativo - no qual os constituintes citoplasmáticos dos óvulos e das células são participantes essenciais, juntamente com os genes, como o DNA que codifica a sequência de aminoácidos em uma proteína.
 
@@ -30,8 +30,7 @@ porém mais ainda que:
 
 !!! Porquê então não utilizamos códigos que produzem espaços ao invés de depender de desenhos?
 
-Talvez considere que a metáfora biológica tenha ido longe demais e que, na verdade, edifícios e criaturas sejam coisas irremediavelmente distintas. Porém, temos a história ao nosso favor (ver [[Livro: The Timeless Way of Building]]) para mostrar que há não muito tempo as construções eram fruto não de um planejamento perfeito mas de sucessivas iterações, e que a eternidade da hegemonia do desenho técnico, que tanto defendem os arquitetos, tem apenas um ou dois séculos de vigor.  Seja como for, estamos dependentes demais dessa novo sistema para sequer pensar em conceber o espaço por outro caminho. Sendo assim, podemos ao menos considerar a possibilidade de permitir, após essa concepção artificial, que essas estruturas "[[aprendam|Livro: How Buildings Learn]]" através de [[Adaptações Razoáveis]].
-
+<<details label:"Códigos Generativos" src:"{{Códigos Generativos}}">>
 
 <footer>
 1.ALEXANDER, Christopher. The birth of form: making the land harmonious. 2006. Disponível em: https://www.livingneighborhoods.org/ht-0/morphogenesis-two.htm#rules. Acesso em: 11 jan. 2025.

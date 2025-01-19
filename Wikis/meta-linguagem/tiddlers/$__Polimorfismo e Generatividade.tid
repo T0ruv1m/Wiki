@@ -1,5 +1,5 @@
 created: 20241028015428654
-modified: 20250117103442839
+modified: 20250118134917248
 tags: 
 title: $:/Polimorfismo e Generatividade
 tmap.id: fe3f5383-38a3-4f6c-bea4-139ee125c9fd
@@ -24,7 +24,7 @@ Portanto:
 
 Justamente por conta dessa adaptabilidade e por serem fruto de uma sequência os padrões sempre terão uma certa ''rugosidade''.
 
-Ver [[Wabi-to-Sabi]] | [[Padrões são como Ondas]]
+Ver [[Wabi-to-Sabi]] | [[Padrões são Eventos]]
 
 <footer>
 1.https://www.bradapp.com/docs/patterns-intro.html#GenerativePatterns

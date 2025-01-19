@@ -1,5 +1,5 @@
 created: 20241030024020758
-modified: 20241226002534777
+modified: 20250118165135811
 title: Códigos Generativos
 tmap.id: 91872a3e-4059-4149-80aa-14d27793a263
 
@@ -9,13 +9,13 @@ Encontrar snippet onde ele diz que os códigos não só dizem o que fazer mas co
 
 >[...] //Ela é muito mais complexa do que qualquer outro tipo de ordem. Ela não pode ser criada por decisão. Não pode ser projetada. Não pode ser prevista em um projeto. É o testemunho vivo de centenas e milhares de pessoas, manifestando suas próprias vidas e todas as suas forças internas. //(p.510)
 
-!!! UMA LIÇÃO DA BIOLOGIA
-citação de Lewis Wolpert, professor de Biologia da Universidade de Londres:
+<<details label:"Diferenciação" src:{{Diferenciação}} >>
 
->"O embrião contém um programa generativo e não descritivo. Todas as informações para o desenvolvimento embrionário estão contidas em um óvulo fertilizado. Então, como essas informações são interpretadas para dar origem a um embrião? Uma possibilidade é que a estrutura do organismo seja de alguma forma codificada como um programa descritivo no genoma. O DNA contém uma descrição completa do organismo ao qual ele dará origem? A resposta é não. Em vez disso, o genoma contém um programa de instruções para a criação do organismo - um programa generativo - no qual os constituintes citoplasmáticos dos óvulos e das células são participantes essenciais, juntamente com os genes, como o DNA que codifica a sequência de aminoácidos em uma proteína.
+Essa nota contém uma demonstração de [[Recursividade]]. Alexander acredita que todo espaço gerado deve depender da aplicação recursiva das mesmas regras simples.
+Um código generativo é poranto um ciclo.
 
->"Um programa descritivo, como uma planta ou um plano, descreve um objeto em alguns detalhes, enquanto um programa generativo descreve como fazer um objeto. Para o mesmo objeto, os programas são muito diferentes. Considere o origami, a arte de dobrar papel. Ao dobrar um pedaço de papel em várias direções, é muito fácil fazer um chapéu de papel ou um pássaro a partir de uma única folha. Descrever detalhadamente a forma final do papel com as complexas relações entre suas partes é realmente muito difícil e não ajuda muito a explicar como fazer isso. Muito mais úteis e fáceis de formular são as instruções sobre como dobrar o papel. A razão para isso é que as [[instruções simples têm consequências espaciais complexas]]. No desenvolvimento, a ação gênica também põe em movimento uma sequência de eventos que pode provocar mudanças profundas no embrião. Assim, pode-se pensar nas informações genéticas do óvulo fertilizado como equivalentes às instruções de dobradura do origami: ambas contêm um programa generativo para criar uma estrutura específica."(2024, tradução nossa)
+Acesse o site : [[stmarks unfolding|https://www.livingneighborhoods.org/unfoldingmovies/stmarks/stmarks-final.htm]] e veja como a concepção da Praça de São Marcos pode ser vista como a reaplicação recursiva de 4 etapas transformacionais.
+
 
 <footer>
-
 LIVING NEIGHBORHOODS. The birth of form: making the land harmonious. Disponível em: https://www.livingneighborhoods.org/ht-0/morphogenesis-two.htm#rules. Acesso em: 25 dez. 2024.
