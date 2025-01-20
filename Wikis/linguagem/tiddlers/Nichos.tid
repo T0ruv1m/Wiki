@@ -1,5 +1,38 @@
 created: 20241109193758106
-modified: 20241109193758740
+img_intro: https://i.pinimg.com/736x/b2/d6/7b/b2d67bd229ad75734e0ca69e58c9967d.jpg
+modified: 20250119172501931
 tags: .padrão
 title: Nichos
+tmap.edges: {"bb8315c6-bedd-4ae2-aca4-8ed568b4a0cc":{"to":"f8f3a797-d046-42b9-a86e-0e0755932e88","type":"deve conter"},"35f94ae0-d591-4334-8b61-d4c082c357eb":{"to":"cecf17cb-8c46-4c31-990c-ad222811482c","type":"pode incluir"},"958bc883-0ff2-47f3-994d-d8a3b1311262":{"to":"4f691d05-3ac7-48da-a5ba-9f4eb8239126","type":"conecta-se a"},"4e47397c-1ef9-46f5-967a-3372a2e099ac":{"to":"e95234c3-e99a-4ade-86bb-f095bbb150d5","type":"conecta-se a"}}
 tmap.id: 2e583b65-dcdd-4413-8e20-17bbcea64d94
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Nenhuma sala homogênea, de altura homogênea, pode atender bem a um grupo de pessoas. Para dar a um grupo a chance de ficar junto, como um grupo, uma sala também deve dar a eles a chance de ficarem sozinhos ou em duplas no mesmo espaço.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Faça pequenos espaços na periferia de qualquer recinto de uso comum - geralmente 1,8 metro de largura e 0,9 a 1,8 metro de profundidade. Estes nichos devem ser grandes o suficiente para que duas pessoas possam se sentar, conversar ou jogar e , às vezes, também devem ter um tamanho que comporte uma escrivaninha ou uma mesa.
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib"827">>
+</footer>

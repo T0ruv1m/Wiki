@@ -1,8 +1,9 @@
 created: 20241109191636014
-img_intro: 
-modified: 20241207002158346
+img_intro: https://i.pinimg.com/736x/91/e1/99/91e199531d4ec142a09307dcd3b1d681.jpg
+modified: 20250119173605540
 tags: .padrão
 title: Gradiente de Intimidade
+tmap.edges: {"b83cf11d-e261-4134-a9f2-c04a97182684":{"to":"83d4f091-6df6-4c6b-8b31-020fd89c10e6","type":"deve conter"},"412e5850-77f6-4732-9265-3c0ad323e54d":{"to":"f72773b9-883b-484b-a98a-fb1a53f84e72","type":"deve conter"},"dd110a65-494d-492d-98a5-9997ca267938":{"to":"2ba46b2d-b427-436f-8e26-5b25529d1e66","type":"pode incluir"},"75b36429-4a3e-4214-95bd-d69d8ec87b29":{"to":"3ec33179-8856-4f9c-8ce5-9eab3109573f","type":"deve conter"}}
 tmap.id: 1892a05c-9a93-4f05-8382-46e9e41bb54a
 
 <<img_intro>>
@@ -13,7 +14,7 @@ Problema:
 
 <problema>
 
-Esse é o Problema.
+A menos que os espaços em um edifício sejam organizados em uma sequência que corresponda a seus graus de privacidade, as visitas de estranhos, amigos, convidados, clientes e familiares sempre serão um pouco desconfortáveis.
 
 </problema>
 
@@ -23,7 +24,7 @@ Portanto:
 
 <solucao>
 
-Faça isso e aquilo.
+Organize os espaços de um edifício de modo que eles criem uma sequência que comece com a entrada e as partes mais públicas do edifício, depois leve às áreas um pouco mais privadas e, por fim, aos domínios mais privados.
 
 </solucao>
 
@@ -33,5 +34,5 @@ Faça isso e aquilo.
 
 Referências:
 <footer>
-1.<<refbib" ">>
+1.<<refbib"611">>
 </footer>

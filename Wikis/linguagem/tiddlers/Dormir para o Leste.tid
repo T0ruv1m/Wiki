@@ -1,5 +1,39 @@
 created: 20241109191903629
-modified: 20241109191959853
-tags: .padrão inserir
+img_intro: https://i.pinimg.com/736x/43/0e/69/430e69a4a5c2c411e679099139db14a4.jpg
+modified: 20250119170938960
+tags: .padrão
 title: Dormir para o Leste
+tmap.edges: {"beb2fd84-81ba-453c-94f3-4847d97d46ea":{"to":"78edf241-3f76-42fc-9c48-dbc562f57350","type":"deve conter"},"9f9582c6-eaa1-425a-9c39-2bc3aea6bab4":{"to":"cecf17cb-8c46-4c31-990c-ad222811482c","type":"pode aparecer como"},"2fcf8ffa-3797-4f19-9714-ada20ff2f4f0":{"to":"849f044f-2433-4608-aa5e-da791e779e08","type":"pode incluir"}}
 tmap.id: 97fffc5d-375b-4743-83a4-ff0623335d48
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Esse é um dos padrões com os quais as pessoas mais frequentemente discordam. No entanto, acreditamos que elas estão enganadas.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Dê às partes da casa onde as pessoas dormem uma orientação leste, para que elas acordem com a luz do sol. Isso significa, normalmente, que a área de dormir precisa estar no lado leste da casa, mas também pode estar no lado oeste, desde que haja um pátio ou um terraço a leste.
+
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>

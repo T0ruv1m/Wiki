@@ -1,5 +1,40 @@
 created: 20241109193804445
-modified: 20241109193805494
+img_intro: https://i.pinimg.com/736x/99/41/b9/9941b90e8117d0ec7b48e884b1a48007.jpg
+modified: 20250119171547127
 tags: .padrão
 title: Lugar Junto à Janela
+tmap.edges: {"2f48c2ca-dc18-451d-8506-741afdd57b6b":{"to":"849f044f-2433-4608-aa5e-da791e779e08","type":"deve conter"}}
 tmap.id: cecf17cb-8c46-4c31-990c-ad222811482c
+
+<<img_intro>>
+
+<<diamantes>>
+
+Problema:
+
+<problema>
+
+Todo mundo gosta de assentos nas janelas, janelas salientes e janelas grandes com peitoris baixos e cadeiras confortáveis próximas a elas.
+
+</problema>
+
+<<descricao"{{_desc_livro}}">>
+
+Portanto:
+
+<solucao>
+
+Em cada cômodo onde você passa algum tempo durante o dia, transforme pelo menos uma janela em um "lugar junto à janela".
+
+
+
+</solucao>
+
+<<diamantes>>
+
+<<mapa "Live View">>
+
+Referências:
+<footer>
+1.<<refbib" ">>
+</footer>
