@@ -1,5 +1,5 @@
 created: 20241028013844367
-modified: 20241220013533837
+modified: 20250122230820026
 tags: padroes
 title: Padrões são Campos, não Coisas!
 tmap.id: 146759ed-09d4-4144-be41-d2e8c4d77ebc
@@ -11,7 +11,7 @@ Padrões são Campos Morfologicos constituidos de relações entre coisas. E pod
 O padrão mais simples de todos seria uma porta^^(1)^^. Uma porta é um padrão porque ela depende da relação espacial entre a maçaneta e as dobradiças. Pense em como seria custoso abrir a porta caso ficasse tudo no mesmo lado.
 (além disso ela é desacoplada do resto da casa, o funcionamento da porta como porta não depende do resto).
 
-Em [[Livro: The Timeless Way of Building]] Alexander descreve a nave de uma igreja da seguinte forma:
+Em [[Livro: The Timeless Way of Building]] Alexander descreve o corredor de uma igreja da seguinte forma:
 
 {{Descrição de uma Nave de Igreja}}
 

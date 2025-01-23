@@ -1,3 +1,8 @@
+p {
+    text-align: justify;
+}
+
+
 .centered-image {
   display: flex;
   justify-content: center;
