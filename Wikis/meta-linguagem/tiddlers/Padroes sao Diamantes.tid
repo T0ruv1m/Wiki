@@ -1,6 +1,6 @@
 caption: Padrões são Diamantes
 created: 20241026005058622
-modified: 20241225234544276
+modified: 20250124175057950
 tags: falta/consertar padroes
 title: Padrões são Diamantes
 tmap.id: cb9551a8-0669-4450-a7dd-4266b28ae842
@@ -24,7 +24,7 @@ No entando ele esquece, ou não percebe, que existia uma outra força essencial 
 Esses vastos e abstratamente belos espaços verdes ao redor de suas construções não são utilizados justamente por que são publicos demais, eles pertencem a muitas pessoas ao mesmo tempo, e estão sobre os olhos de muitos apartamentos ao redor deles. Devido a essas circunstancias, essa única força destrói a capacidade do padrão de gerar espaços vivos.(Alexander 1979,p284).
 -->
 
-''Tudo isso é para dizer que nós não tiramos os padrões da própria cabeça, simplesmente. Essas boas práticas tendem a brotar expontâneamente nas cidades. Por isso apenas observamos o que já dá certo e tentamos formular essa configuração em uma [[Entidade Compartilhável]] e reutilizável.''
+''Tudo isso é para dizer que, na maioria das vezes, nós não tiramos os padrões da própria cabeça. Essas boas práticas tendem a brotar expontâneamente nas cidades. Por isso apenas observamos o que já dá certo e tentamos reformular essa configuração em uma [[Entidade Compartilhável]] e reutilizável.''
 
 
 <footer>

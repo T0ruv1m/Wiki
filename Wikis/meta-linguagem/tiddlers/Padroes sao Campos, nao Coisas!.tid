@@ -1,12 +1,12 @@
 created: 20241028013844367
-modified: 20250122230820026
+modified: 20250124174937981
 tags: padroes
 title: Padrões são Campos, não Coisas!
 tmap.id: 146759ed-09d4-4144-be41-d2e8c4d77ebc
 
 >Mas cachoeira é barranco de chão, e água se caindo por ele, retombando; o senhor consome essa água, ou desfaz o barranco, sobra cachoeira alguma? Viver é negócio muito perigoso...(Rosa, 2001)
 
-Padrões são Campos Morfologicos constituidos de relações entre coisas. E poderia-se dizer que essas coisas que os constituem são também relações.
+''Padrões são Campos Morfologicos constituidos de relações entre coisas. E poderia-se dizer que essas coisas que os constituem são também relações.''
 
 O padrão mais simples de todos seria uma porta^^(1)^^. Uma porta é um padrão porque ela depende da relação espacial entre a maçaneta e as dobradiças. Pense em como seria custoso abrir a porta caso ficasse tudo no mesmo lado.
 (além disso ela é desacoplada do resto da casa, o funcionamento da porta como porta não depende do resto).

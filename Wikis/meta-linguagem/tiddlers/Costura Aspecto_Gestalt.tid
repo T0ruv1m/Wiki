@@ -1,5 +1,5 @@
 created: 20241029043226727
-modified: 20241215212343641
+modified: 20250124223432548
 tags: 
 title: Costura Aspecto/Gestalt
 tmap.id: 5f458b63-ef0e-4ac9-9d30-6e7ce18b6a37
@@ -16,13 +16,13 @@ Seguir a estrutura da Linguagem de Padrões também requer ir e voltar do todo p
 
 Chamaremos isso de Costura Aspecto/Gestaul. Gestalt é uma palavra alemã que não contém uma tradução digna. Ela se popularizou devido a //psicologia da Gestalt//, uma abordagem que se propunha a estudar como as pessoas percebem o mundo em termos de padrões completos, e não como uma simples soma de partes individuais. Em outras palavras, Gestalt assume que o todo constitui as partes e é maior que a soma delas.
 
-Alexander concebe seus padrões da mesma forma, como existindo apenas em relação ao todo do qual fazem parte. Veja esse trecho em que ele descreve a nave de uma igreja:
+Alexander concebe seus padrões da mesma forma, como existindo apenas em relação ao todo do qual fazem parte. Veja esse trecho em que ele descreve o corredor de uma igreja:
 
 {{Descrição de uma Nave de Igreja}}
 
 Dentro dessa concepção, as coisas só existem dentro de outras coisas e contendo outras, total ou parcialmente relacionadas (como uma trama)^^(1)^^ e isso se repete [[recursivamente|Recursividade]] em todos níveis de escala.
 
-Ler [[Desdobramento]]
+Ler [[Diferenciação]]
 
 <footer>
 1.[[Livro: A Cidade Não É Uma Árvore]]

@@ -1,5 +1,5 @@
 created: 20241030024020758
-modified: 20250118165135811
+modified: 20250124235158336
 title: Códigos Generativos
 tmap.id: 91872a3e-4059-4149-80aa-14d27793a263
 
@@ -7,7 +7,7 @@ tmap.id: 91872a3e-4059-4149-80aa-14d27793a263
 <!--
 Encontrar snippet onde ele diz que os códigos não só dizem o que fazer mas como fazer. --->
 
->[...] //Ela é muito mais complexa do que qualquer outro tipo de ordem. Ela não pode ser criada por decisão. Não pode ser projetada. Não pode ser prevista em um projeto. É o testemunho vivo de centenas e milhares de pessoas, manifestando suas próprias vidas e todas as suas forças internas. //(p.510)
+>“De fato, tanto o A Pattern Language quanto o The Timeless Way of Building dizem que a linguagem de padrões deve ser usada sequencialmente. Na prática, no entanto, esse recurso foi esquecido e não foi enfatizado no uso. Como resultado, a bela eficácia das linguagens tradicionais e sua natureza sequencial simples e bela desapareceram de vista. Em nosso trabalho mais recente, isso mudou. Agora estamos nos concentrando em linguagens de padrões que são verdadeiramente generativas. Isso significa que elas são sequências de instruções que permitem que uma pessoa faça uma construção completa e coerente, seguindo as etapas do esquema generativo. Fizemos isso para casas, prédios públicos, layout de móveis de escritório e assim por diante. Funciona. E é poderoso.”(ALEXANDER, 1999)
 
 <<details label:"Diferenciação" src:{{Diferenciação}} >>
 
@@ -16,6 +16,7 @@ Um código generativo é poranto um ciclo.
 
 Acesse o site : [[stmarks unfolding|https://www.livingneighborhoods.org/unfoldingmovies/stmarks/stmarks-final.htm]] e veja como a concepção da Praça de São Marcos pode ser vista como a reaplicação recursiva de 4 etapas transformacionais.
 
-
 <footer>
-LIVING NEIGHBORHOODS. The birth of form: making the land harmonious. Disponível em: https://www.livingneighborhoods.org/ht-0/morphogenesis-two.htm#rules. Acesso em: 25 dez. 2024.
+LIVING NEIGHBORHOODS. The birth of form: making the land harmonious. Disponível em: https://www.livingneighborhoods.org/ht-0/morphogenesis-two.htm#rules. Acesso em: 25 dez. 2024.  
+
+ALEXANDER, C. The origins of pattern theory: the future of the theory, and the generation of a living world. IEEE Software, v. 16, n. 5, p. 71–82, out. 1999.

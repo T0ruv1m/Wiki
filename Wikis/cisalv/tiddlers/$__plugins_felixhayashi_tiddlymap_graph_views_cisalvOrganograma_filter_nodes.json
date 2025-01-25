@@ -1,0 +1,7 @@
+[
+    {
+        "filter": "[field:tmap.id[f8227dc6-db5c-4de0-92ee-001529caa53f]] [field:tmap.id[b3c69f54-8c89-4604-8909-73eb719c9498]] [field:tmap.id[6991611b-251b-42bf-adbf-83c3a217dc2c]] [field:tmap.id[541b7711-a7b9-487e-afb5-194da19d1edb]] [field:tmap.id[960891cb-7bad-4e66-b8f1-81cbfe9b4869]] [field:tmap.id[ad740886-0d9a-4d44-a4e2-a3bb545935ef]] [field:tmap.id[94446c51-58ea-4a72-8566-8ccececffbe2]] [field:tmap.id[a5ba96b5-18b4-4a76-a561-fddd901a02df]] [field:tmap.id[dcc25760-4dd7-4ef6-b562-0fe3fb68aa28]] [field:tmap.id[80d1ff27-94e3-42f7-9aa7-6520000291b8]] [field:tmap.id[885cafe4-f805-408c-92c4-0385de0e2d79]] [field:tmap.id[ec661fa6-9c75-4eda-87a5-6f7f2878c5ca]] [field:tmap.id[581ea7a0-a2b1-4834-a26f-d6ca8277dd90]] [field:tmap.id[d28441d9-f617-4209-b05a-b074235d9665]] [field:tmap.id[8732c434-3c79-4202-91ca-e36c0930434e]] [field:tmap.id[c81a8897-077e-4f6d-adf8-f974352de070]]",
+        "text": "",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/cisalvOrganograma/filter/nodes"
+    }
+]

@@ -1,0 +1,8 @@
+config.physics_mode: false
+config.raster: 
+config.vis: {"nodes":{"borderWidth":2,"shape":"box","font":{"size":22}},"edges":{"smooth":{"type":"cubicBezier","roundness":0}}}
+created: 20250124162739241
+id: 184a2db4-8ebe-4b05-86ba-35511e807dc8
+isview: true
+modified: 20250124170301530
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/cisalvOrganograma
