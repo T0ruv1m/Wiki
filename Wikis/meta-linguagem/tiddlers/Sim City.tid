@@ -1,11 +1,24 @@
 created: 20241022213205314
 icon: $:/simcity-icon.png
-modified: 20241213231308198
+modified: 20250125231907115
 title: Sim City
 tmap.id: 58dfbeb1-5a29-4da3-a380-70ed53a78c47
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-O primeiro e mais famoso jogo de simulação de cidades. Simcity usa o caos e a complexidade das relações como elemento chave para manter-se divertido e imprevisível.
+O primeiro e mais famoso jogo de simulação de cidades. Simcity usa o caos e a complexidade das relações entre os diferentes elementos da cidade como artifício chave para manter-se divertido e imprevisível.
 
-Seu sucesso culminou na criação do jogo mais famoso da franquia, [[The Sims]].
+Encontrei o manual original do jogo para super Nintendo. Um trecho em particular me chama a atenção:
+
+>O SimCity não tem um único objetivo, como derrotar um dragão maligno. O objetivo principal é construir uma Megalópole com meio milhão de pessoas, mas você pode definir outros objetivos, também. Por exemplo, você pode tentar construir uma cidade de 100.000 habitantes sem derrubar nenhuma floresta. Você também pode tentar chegar a Metrópolis em vinte anos de jogo. A escolha é sua. Você nem precisa ter um objetivo. //Alguns prefeitos simplesmente gostam de lidar com os problemas à medida que eles ocorrem.// (tradução nossa, enfase nossa)
+
+Por conta disso, Sim city é um forte candidato para o primeiro jogo no estilo “SandBox”. Isto é - em que o jogador determina suas próprias condições de vitória.
+Isso porque o objetivo está contido no processo, planejamento e construção são mesclados em uma atividade.
+
+(ver [[Dualismo Planejar/Construir]].
+
+Will Wright, o criador do jogo, diz ter se inspirado diretamente no livro de Alexander. Seu sucesso culminou na criação do jogo mais famoso da franquia, [[The Sims]].
+
+
+<footer>
+https://snolli.fr/dwl/gamelist/docs/Sim%20City.pdf

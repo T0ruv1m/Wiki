@@ -1,23 +1,31 @@
 created: 20241124221630702
-modified: 20250116013738122
+modified: 20250125185312212
 tags: linguagem
 title: Abordagem do Jardineiro
 tmap.id: 498e8a12-b5e7-41de-aa13-5058aa522bda
 
-Quando começo a escrever não sei exatamente aonde o texto vai desembocar, apenas me deixo levar pelo fluxo e escrevo. Descubro o que eu queria ter dito quando termino de escrever. Apesar de ser fácil pensar assim sobre a escrita, concebemos a arquitetura com outros olhos. Veja como o renomado autor da série de livros //As Crônicas de Gelo e Fogo// descreve duas abordagens de escrita:
+Quando começo a escrever não sei exatamente aonde o texto vai desembocar, apenas me deixo levar pelo fluxo e escrevo. Descubro o que eu queria ter dito quando termino de escrever. 
+
+Apesar de ser fácil para mim, que não sou um escritor, pensar desse jeito sobre a escrita, minha relação com a arquitetura sempre foi entendida com outros olhos. 
+
+Veja como o renomado autor da série de livros //As Crônicas de Gelo e Fogo// descreve duas abordagens de escrita:
 
 >"Acho que há dois tipos de escritores: os arquitetos e os jardineiros. Os arquitetos planejam tudo com antecedência, como um arquiteto que constrói uma casa. Eles sabem quantos cômodos haverá na casa, que tipo de telhado terão, por onde passarão os fios, que tipo de encanamento haverá. Eles têm tudo planejado e projetado antes mesmo de pregarem a primeira tábua. 
 
 >Os jardineiros cavam um buraco, colocam uma semente e a regam. Eles meio que sabem qual é a semente, sabem se plantaram uma semente de fantasia ou uma semente misteriosa ou qualquer outra. Mas quando a planta nasce e eles a regam, eles não sabem quantos galhos ela terá, mas descobrem à medida que ela cresce. E eu sou muito mais um jardineiro do que um arquiteto". 
 -George R. R. Martin (tradução nossa)
 
+Então, embora na escrita eu seja um jardineiro, existem pessoas que a veem de forma arquitetônica, e planejam tudo com antecedência!
+
 Hayao Miyazaki, o famoso diretor japonês de filmes de animação também parece seguir a abordagem do jardineiro:
 
->Hayao Miyazaki parou de escrever roteiros há muito tempo. Ele nem sequer se preocupa em finalizar os storyboards. ... Depois de mergulhar no processo, ele começa a criar storyboards enquanto faz todos os outros trabalhos, desde a animação principal até o final. Usando seus poderes de concentração contínua, a produção começa a assumir os elementos de uma performance infinitamente improvisada.
+>Hayao Miyazaki parou de escrever roteiros há muito tempo. Ele nem sequer se preocupa em finalizar os storyboards. ... Depois de mergulhar no processo, ele começa a criar storyboards enquanto faz todos os outros trabalhos, desde a animação principal até o final. Usando seus poderes de concentração contínua, a produção começa a assumir os elementos de uma performance infinitamente improvisada.^^(2)^^
 
-Aqui podemos ver que o que informa o desenrolar da trama é justamente o processo de criação. É claro que existem alguns padrões gerais, como o tradicional *kishotenketsu*, semelhante, mas também muito diferente do modelo ocidental da *jornada do herói*.  Podemos ver aqui o conceito de padrões desempenhando um papel na criação da história. O criador não segue storyboards (semelhante a um arquiteto seguindo seus planos), em vez disso, ele recorre apenas aos padrões acumulados em sua própria mente. Os padrões da narrativa, assim como os arquitetônicos, não estão explicitamente presentes na história. Embora invisíveis à primeira vista, quando os entendemos, não podemos deixar de vê-los em toda parte. Depois de internalizar a abstração, podemos facilmente apontar sua manifestação em casos específicos.
+Aqui podemos ver que o que informa o desenrolar da trama é justamente o processo de criação. É claro que existem alguns padrões gerais, como o tradicional *kishotenketsu*, semelhante, mas também muito diferente do modelo ocidental da *jornada do herói*.  
 
->Na época de _Howl's Moving Castle_, Miyazaki havia [abandonado a estrutura tradicional do enredo]. Em vez disso, ele permitiu que o **processo** estruturasse a história.
+Podemos ver nessas estruturas de storytelling o conceito de padrões desempenhando um papel no desdobramento da criação. O criador não segue storyboards (semelhante a um arquiteto seguindo seus planos), em vez disso, ele recorre apenas aos padrões acumulados em sua própria mente. Os padrões da narrativa, assim como os arquitetônicos, não estão explicitamente presentes na história. Embora invisíveis à primeira vista, quando os entendemos, não podemos deixar de vê-los em toda parte. Depois de internalizar a abstração, podemos facilmente apontar sua manifestação em casos específicos.
+
+>Na época de //Howl's Moving Castle//, Miyazaki havia [abandonado a estrutura tradicional do enredo]. Em vez disso, ele permitiu que o ''processo'' estruturasse a história.^^(2)^^
 
 Alexander apostas as suas fichas na ideia de que a arquitetura, sendo uma disciplina que lida com um [[Sistema de Complexidade Ordenada]], e que seus profissionais estão sempre a resolver um [[Problema Intratável]], a abordagem correta até mesmo para o arquiteto é seguir o caminho do jardineiro e permitir com que decisões sejam tomadas durante o processo de forma que a criação influencie também o desdobramento de si mesma. Isso é chamado de [[Diferenciação]].
 

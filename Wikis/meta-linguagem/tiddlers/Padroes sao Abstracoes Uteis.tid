@@ -1,5 +1,5 @@
 created: 20241028010259903
-modified: 20241225233926305
+modified: 20250125215948186
 tags: padroes
 title: Padrões são Abstrações Úteis
 tmap.id: 71f0b01e-e424-4be1-b181-f40b26e6d99f
@@ -23,7 +23,7 @@ Portanto:
 
 * Trabalhando um padrão de cada vez é possível resolver problemas que jamais seriam solúveis se tentassemos visualizar todo o sistema de uma vez só. ^^([[3|Sistema de Complexidade Ordenada]])^^.
 
-Se estiver interessado em abstrações ver [[漢字]] ｜ [[Como resolver um Cubo Mágico]] | [[Modelos Mentais]]
+Se estiver interessado em abstrações ver [[Modelos Mentais]] | [[漢字]]｜[[Como resolver um Cubo Mágico]] 
 
 <footer>
 1. [[Livro: A Cidade Não É Uma Árvore]]  
