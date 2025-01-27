@@ -8,7 +8,7 @@ Classes are like genome, index is like epigenome.
 
 Current concatenational style is more intutive and requires less modules, but object orieted provides encapsulation and reuse.
 
-by organizing files by affinity, not aritificial categories, we make reduce file traveling and gain agility. Most importantly, we make the code more cohese and less coupled.
+by organizing files by affinity, not aritificial categories, we make reduce file traveling and gain agility.[[Spenlunkyness]] Most importantly, we make the code more cohese and less coupled.
 
 se iremos seguir a metafora orgânica a sério, devemos pensar cada elemento como se fosse também evento, e não como coisa.
 

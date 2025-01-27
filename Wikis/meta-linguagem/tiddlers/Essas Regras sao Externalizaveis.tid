@@ -1,10 +1,12 @@
 created: 20241104142136707
-modified: 20250118163136991
+modified: 20250126023329258
 tags: pressuposto
 title: Essas Regras são Externalizáveis
 tmap.id: a78a3514-90fd-4de7-8e78-e0bbc8e74693
 
-Outro pressuposto é o de que as regras que determinam nossa forma de pensar podem ser expressas em linguagem corrente e expressas de forma simples. ver [[Padrões são Memes]]
+Outro pressuposto é o de que as regras que determinam nossa forma de pensar podem ser expressas em linguagem corrente e expressas de forma simples.
+
+---
 
 No clássico “Cem Anos de Solidão” de Gabriel García Márquez. Uma das crises marcantes que assolam a cidade de Macondo ocorre através de uma estranha epidemia de insônia. As pessoas começam a perder a capacidade de dormir e gradualmente também a memória, esquecendo até mesmo os nomes das coisas mais básicas. Com o tempo, para lidar com essa perda de memória, os habitantes de Macondo começam a etiquetar objetos com seus nomes para não esquecê-los. Temendo um nível pior de esquecimento, se tornam mais explícitos e compoem um letreiro. 
 
@@ -19,3 +21,5 @@ Um paralelo pode ser estabelecido com a arquitetura vernacular, como exposto por
 O conteúdo expresso no livro “Uma Linguagem de Padrões” por vezes soa óbvio, e deveria mesmo. O problema é justamente que a maioria esmagadora desses parâmetros nem sequer pairam pela cabeça do projetista que opera, ainda que de forma inconsciente, seguindo o mesmo tipo de procedimento habitual contido no letreiro sobre como ordenhar uma vaca. 
 
 Partindo da ideia de que [[Todos se baseiam em Regras Gerais]], e que elas implicitamente governam nosso comportamento e tomada de decisões, o trabalho de Alexander et al pode ser compreendido com um esforço em trazer para o nível consciente as heurísticas da criação de espaços,  elaborando-as no formato de [[Entidade Compartilhável]]. Na verdade, devido a atual situação da epidemia do esquecimento, tornou-se necessário reinserir ao vocabulário cognitivo dos construtores todas essas práticas e parâmetros perdidos. Na falta de uma via de imersão em uma linguagem estrangeira, devemos tomar a posição do linguista e aprender a língua de modo artificial. Essa seria a via de acesso a sabedoria perdida com a transição do sistema tradicional para o [[Taylorismo]] ma arquitetura.
+
+

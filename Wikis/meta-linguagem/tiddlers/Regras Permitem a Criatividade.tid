@@ -1,19 +1,25 @@
 created: 20241028032633427
-modified: 20250113111551388
-tags: linguagem
+modified: 20250126173850307
+tags: pressuposto
 title: Regras Permitem a Criatividade
 tmap.id: a785a3f3-8a79-4926-9137-a00849aac0fb
 
-Pode-se pensar que obedecer cegamente a um conjunto de regras irá nos tornar dependentes e limitar toda a nossa criatividade. Porém, assim como, para o artista, a limitação é estimulante, as regras da linguagem nos libertam de todas as combinações de palavras sem sentido.
+Pensamos imediatamente que obedecer cegamente a um conjunto de regras irá nos tornar dependentes e limitar toda a nossa criatividade. Porém, pense 
+ no idioma falado. As regras que obedecemos, ao inves de nos restringirem, na verdade são o que possibilita a comunicação ao nos libertar de todas as combinações de palavras sem sentido.
 
 Da mesma forma as linguagens de padrões, longe de restringir, atuam somente em proteger as edificações das múltiplas armadilhas e formas problemáticas de elaborar espaços. Podemos formular essas ciladas em seus próprios conceitos, para isso ver [[Anti-Padrão]].
 
-[[Stewart Brand]] vê o processo de construção vernacular e seu condicionamento rígido como proporcionando uma liberdade parecida:
+[[Stewart Brand]] cita o trabalho do historiador Thomas Hubka, que considera o processo de construção vernacular e seu condicionamento rígido como proporcionando uma liberdade parecida:
 
->Ele(quem?) caracteriza o processo do arquiteto vernacular como "pré-condicionado"; ao optar por limitar as ideias arquitetônicas ao que está disponível no contexto local, o arquiteto vernacular reduz a tarefa de projeto a proporções gerenciáveis. Embora esse modo de composição pareça superficialmente gerar estruturas monotonamente semelhantes, ele permite, na verdade, uma individualidade considerável dentro de seus limites, permitindo que o designer se concentre na solução hábil de problemas específicos em vez de reinventar formas inteiras. - localização: [3340]
+>Ele (Thomas Hubka) caracteriza o processo do arquiteto vernacular como "pré-condicionado"; ao optar por limitar as ideias arquitetônicas ao que está disponível no contexto local, o arquiteto vernacular reduz a tarefa de projeto a proporções gerenciáveis. Embora esse modo de composição pareça superficialmente gerar estruturas monotonamente semelhantes, ele permite, na verdade, uma individualidade considerável dentro de seus limites, permitindo que o designer se concentre na solução hábil de problemas específicos em vez de reinventar formas inteiras. - localização: [3340]
 
-O ponto de vista de Alexander sustenta que o modo de vida determina em grande parte o estilo arquitetônico. Afinal, as técnicas de construção mais empregadas dirão muito sobre a [[Ordem Visual]] de uma cidade. Considerando que o modo de produção determina a forma e qualidade do produto e que não podemos construir um edifício sem depender de técnicas, a perda do conhecimento procedural construtivo (técnicas vernaculares) correspondem à perda da sintaxe em um idioma. Alexander teoriza que com o [[Taylorismo]] e outros avanços na forma de produzir, perdemos a capacidade de articular edificações.
- 
+O ponto de vista de Alexander sustenta que o modo de vida determina em grande parte o estilo arquitetônico. Afinal, as técnicas de construção mais empregadas dirão muito sobre a [[Ordem Visual]] de uma cidade. 
+
+>A FUNÇÃO (OU PRODUTO) É DEFINIDA PELOS SISTEMAS - OPERAÇÕES QUE OCORREM EM SEU DESEMPENHO OU FABRICAÇÃO.(Gall, 2018,p.67)
+
+Considerando que o modo de produção determina a forma e qualidade do produto e que não podemos construir um edifício sem depender de técnicas, a perda do conhecimento procedural construtivo (técnicas vernaculares) correspondem à perda da sintaxe em um idioma. Alexander teoriza que com o [[Taylorismo]] e outros avanços na forma de produzir, perdemos a capacidade de articular edificações.
+
+
 Os padrões surgem com uma tentativa de restaurar, não a sintaxe, mas o léxico. Estabelecer conceitos para descrever certos elementos que ocorriam(e ainda ocorrem) repetidamente no espaço. Muitos desses foram perdidos com a morte dessas linguagens compartilhadas. Sem as palavras, nossa capacidade de expressão diminui.
 
 >O arquiteto Peter Calthorpe diz que é como se a arquitetura tivesse sofrido um derrame após a Segunda Guerra Mundial, perdido a linguagem e a inteligência e não conseguisse mais articular edifícios reais, por isso fez somente caixas. - Localização: 1355
@@ -22,3 +28,4 @@ Aprender a usar linguagens de padrão não seria diferente de adquirir um novo i
 
 <footer>
 <<hbl>>
+<<tsb>>

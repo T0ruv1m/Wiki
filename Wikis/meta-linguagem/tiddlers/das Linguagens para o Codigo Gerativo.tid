@@ -1,5 +1,5 @@
 created: 20250126015415374
-modified: 20250126020101485
+modified: 20250126020142153
 tags: sistemas1
 title: das Linguagens para o Código Gerativo
 tmap.id: 01e310cc-ccc1-4265-847a-41801a5e3b0a
@@ -8,7 +8,7 @@ tmap.id: 01e310cc-ccc1-4265-847a-41801a5e3b0a
 
 * ''LINGUAGENS DE PADRÕES VIERAM PRIMEIRO'', por volta de 1967. Houve muitas linguagens de padrões de vários tipos, publicadas. Cada linguagem de padrões continha vários padrões, em uma ordem aproximada indo dos maiores padrões para os menores. A linguagem de padrões dava uma descrição de um certo tipo de ambiente, exibindo a estrutura funcional básica, para que se pudesse garantir que edifícios ou outros ambientes, ao menos, responderiam adequadamente, por meio de sua geometria, às necessidades funcionais identificadas nos padrões.
 
-* ''SEQUÊNCIAS MORFOGENÉTICAS'', também conhecidas apenas como SEQUÊNCIAS, VIERAM SEGUNDO, por volta de 1990. Uma sequência é uma linguagem de padrões que enfatiza a ordem de desdobramento e dá muito mais importância ao desdobramento ordenado, de forma que, aplicando os passos da sequência, na ordem especificada, uma ordem geométrica coerente será desdobrada, que também contém os padrões e, portanto, é bem estruturada como ambiente.                                                                                                                                            
+* ''SEQUÊNCIAS MORFOGENÉTICAS'', também conhecidas apenas como ''SEQUÊNCIAS'', vieram segundo, por volta de 1990. Uma sequência é uma linguagem de padrões que enfatiza a ordem de desdobramento e dá muito mais importância ao desdobramento ordenado, de forma que, aplicando os passos da sequência, na ordem especificada, uma ordem geométrica coerente será desdobrada, que também contém os padrões e, portanto, é bem estruturada como ambiente.                                                                                                                                            
  
 * ''CÓDIGOS GERATIVOS VIERAM TERCEIRO'', e mais recentemente, por volta de 2002. Um código gerativo inclui todas as informações necessárias para a implementação prática: assim, ele não apenas descreve a ordem na qual as decisões devem ser tomadas para gerar uma forma coerente, mas também descreve todas as interações humanas, além dos detalhes práticos, legais e procedimentais, para que um verdadeiro bairro vivo apareça no terreno, como resultado das interações entre as pessoas que vivem e trabalham ali.                                                                                          
 

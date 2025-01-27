@@ -1,6 +1,6 @@
 created: 20241029221047653
-modified: 20250124235243231
-tags: linguagem pressuposto
+modified: 20250126170711107
+tags: pressuposto
 title: A Estrutura da Linguagem
 tmap.id: 56d49019-8fbb-4a61-b6dc-b4263994f762
 
@@ -16,7 +16,7 @@ Afinal, eles não podem ser pensados isoladamente, mas ganham seu valor e signif
 > Nessa Rede, as conexões entre os padrões são quase tão parte da linguagem quanto os próprios padrões. (Alexander, 1979, p.314, tradução nossa)
 
 
-<<image-pretty img:https://i.postimg.cc/k5H3M3Q9/2025-01-01-181231.png width:400px label:>>
+<<image-pretty img:https://i.postimg.cc/k5H3M3Q9/2025-01-01-181231.png width:400px caption: "//Cada padrão fica no centro de uma rede semelhante//.">>
 
 Apesar de podermos ter uma noção através dos hyperlinks entre os padrões no livro, ainda assim é fácil ignorar esse aspecto.  A ferramenta desenvolvida para a Wiki de Padrões tenta tornar visível e dinâmica essa estrutura, colocando cada padrão no centro dos padrões próximos. Diferente do livro ela é sucetível a modificações e expansões com o tempo. Cada pessoa pode desenvolver sua própria e reorganizar os padrões como achar relevante.
 

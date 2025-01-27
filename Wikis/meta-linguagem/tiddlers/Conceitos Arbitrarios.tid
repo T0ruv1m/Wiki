@@ -1,5 +1,5 @@
 created: 20241109173505648
-modified: 20250113163503322
+modified: 20250126021904227
 tags: jacobs linguagem
 title: Conceitos Arbitrarios
 tmap.id: cadf5a48-5774-4198-9669-c88bb515111d
@@ -9,7 +9,9 @@ Para Alexander, termos como Acustica, Ventilação e Circulação, que são ensi
 Jane Jacobs compartilha de uma visão similar quando diz que, ao conjurar um conceito, nossa mente dicotomiza o mundo em função deste.
 Como dito por ela, a forma como nós gostamos de enquadrar um assunto não é necessariamente a forma do próprio assunto. Entender o tipo de problema que estamos lidando é essencial para resolvê-los. Para isso, talvez seja necessário abrir mão dos nossos conceitos pré-fabricados e observar o mundo com olhos curiosos. p.477
 
-Segundo o pensamento de Alexander, os que propuseram esses métodos foram levados pelo [[Viés do Essencialismo]] a acreditar que todos os problemas de ordem arquitetônica devem conformar a essas categorias gerais quando, na verdade, cada situação indivídual iria requerir sua própria família de conceitos que consegue melhor encapsular e tornar evidentes os sub-problemas em jogo. Esses termos são utilizados e diagramados por profissionais na tentativa de reduzir o problema em partes menores, fáceis de serem lidadas. Entretando, ele argumenta, a escolha dessas categorias é arbitrária e se refere muito mais à maneira como a arquitetura é ensinada do que com uma preocupação real com os subsistemas em jogo.
+Segundo o pensamento de Alexander, os que propuseram esses métodos foram levados pelo [[Viés do Essencialismo]] a acreditar que todos os problemas de ordem arquitetônica devem conformar a essas categorias gerais quando, na verdade, cada situação indivídual iria requerir sua própria família de conceitos que consegue melhor encapsular e tornar evidentes os sub-problemas em jogo. 
+
+Esses termos são utilizados e diagramados por profissionais na tentativa de reduzir o problema em partes menores, fáceis de serem lidadas. Entretando, ele argumenta, a escolha dessas categorias é arbitrária e se refere muito mais à maneira como a arquitetura é ensinada do que com uma preocupação real com os subsistemas em jogo.
 
 <<image-pretty img:[[notsubsystem.png]] width:"" align:"" caption:"A parte preenchida se refere aos aspectos que o conceito trás a tona, enquanto os verdadeiros subsistemas seriam dois grupos de pontos menos acoplados." tooltip:"(Alexander, 1964, p.66)" alt:"">>
 
@@ -20,7 +22,9 @@ Além disso, o uso de conceitos nos leva, muito facilmente, a confundir [[o mapa
 
 >"O NOME NÃO É, DE FORMA ALGUMA, A COISA" (Gall, 2018, p. 69)
 
-As palavras que utilizamos no dia a dia acumulam diferentes funções a depender do contexto onde são empregadas, por isso se tornam amplas e genéricas demais para serem úteis na hora de identificar um problema específico. Jacobs direciona esse argumento para a utilização do conceito abstrato "Habitação".
+As palavras que utilizamos no dia a dia acumulam diferentes funções a depender do contexto onde são empregadas, por isso se tornam amplas e genéricas demais para serem úteis na hora de identificar um problema específico. 
+
+Jacobs direciona esse argumento para a utilização do conceito abstrato "Habitação".
 
 >“Assim, por exemplo, nada pode ser entendido ou feito de proveitoso quanto à melhoria das moradias se elas forem consideradas abstratamente como "habitação". As moradias urbanas – existentes ou por existir – são construções específicas e particularizadas, sempre incluídas em processos diversos, específicos, como recuperação de cortiços, formação de cortiços, geração de diversidade, [[auto-destruição de diversidade.|Diversidade Auto-Destrutiva]].” (Jacobs, 2011, p. 291)
 
