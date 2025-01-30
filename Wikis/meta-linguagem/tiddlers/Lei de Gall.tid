@@ -1,10 +1,10 @@
 created: 20241030144436420
-modified: 20250116001605853
+modified: 20250130002843562
 tags: BibliadosSistemas sistemas
 title: Lei de Gall
 tmap.id: 1484660c-b193-41d1-9bdc-67e6fc5bac79
 
-Esse é um dos aforismos expressos no [[Livro: A Bíblia dos Sistemas]]. Apesar de não ter sido criado pelo autor, este especificamente carrega seu nome e se expressa da seguinte forma:
+Esse é um dos aforismos expressos no [[Livro:Sistemântica, A Bíblia dos Sistemas]]. Apesar de não ter sido criado pelo autor, este especificamente carrega seu nome e se expressa da seguinte forma:
 
 > "Um sistema complexo que funciona é invariavelmente considerado como tendo evoluído de um sistema simples que funcionava. A proposição inversa também parece ser verdadeira: Um sistema complexo projetado do zero nunca funciona e não pode ser levado a funcionar. É preciso começar do zero, começando com um sistema simples que funcione." (tradução nossa)
 
@@ -14,14 +14,14 @@ No contexto da arquitetura poderíamos dizer que toda casa complexa que funciona
 
 Nós, arquitetos, complexificamos as formas de propósito, fazemos isso na tentativa de replicar esses [[Traços Interessantes de Evolução]]. Mas como a falsa evolução não corresponderá à necessidade do usuário, a casa certamente não estará em equilíbrio em termos de sua [[Ordem Funcional]].
 
-Carl Sagan ilustrou poeticamente esse princípio quando disse: "se quisermos fabricar uma torta de maçâ do 0 teríamos de recriar o universo". Pensamos que toda entidade complexa carrega consigo um histórico das transformações que culminaram no estado atual. Se quisermos replicar os resultados da natureza, devemos entender seus processos de formação, e não apenas sua forma final. Ver [[Gerado versus Fabricado]]
+Carl Sagan ilustrou poeticamente esse princípio quando disse: "se quisermos fabricar uma torta de maçâ do 0 teríamos de recriar o universo". Ressaltamos que toda entidade complexa carrega consigo um histórico das transformações que culminaram no estado atual. Se quisermos replicar os resultados da natureza, devemos entender seus processos de formação, e não apenas sua forma final. Ver [[Gerado versus Fabricado]]
 
 Toda a produção de arquitetura atual, por ser guiada pela [[Abordagem Tudo ou Nada]], pode ser resumida a tentativas de implementar sistemas complexos que funcionem logo de cara. Nossos projetos operam como uma nave alienígena que lança espécies estranhas em pontos aleatórios da cidade.
 
 Se considerarmos a veracidade da Lei de Gall, então admitiriamos que essas tentativas jamais produzirão resultados frutíferos e que uma edificação seria mais bem sucedida se vista como um organismo, sujeito a uma adaptação gradual que se dá ao longo do tempo.
 
 <footer>
-[[Livro: A Bíblia dos Sistemas]]  
+[[Livro:Sistemântica, A Bíblia dos Sistemas]]  
 Alexander formula algo bem proximo dessa ideia por meio da noção de [[Diferenciação]].
 
 <<hbl>>
