@@ -1,6 +1,6 @@
 created: 20241022213512713
 icon: $:/wiki.gif
-modified: 20250125205606819
+modified: 20250131214533933
 tags: sistemas1
 title: Wiki
 tmap.id: 1598e4af-d311-44cf-b121-2ffeef12e61a
@@ -8,7 +8,10 @@ tmap.style: {}
 type: text/vnd.tiddlywiki
 
 
-Wikis é um sistema que permite com que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]].
+<<image-pretty img:https://upload.wikimedia.org/wikipedia/commons/4/42/HNL_Wiki_Wiki_Bus.jpg width:"550px">>
+
+
+Wiki-Wiki, ou simplesmente Wiki é um sistema que permite com que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]]. Ele batizou sua criação copiando o nome do sistema de transporte urbano do Hawaii, cuja a tradução literal seria algo como "Rápido-Rápido".
 
 [[Michael Mehaffy]] explica algumas relações da Wiki com a Linguagem de Padrões:
 
