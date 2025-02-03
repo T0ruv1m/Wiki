@@ -1,4 +1,4 @@
-I was a perfectionist. This is not to say that i like to do good things, but that I did not tolerate imperfect ones. This is rooted in my insecurity and my dad's fixation with the intellect.
+I was a perfectionist. This is not to say that i like to do good things, but that I did not tolerate imperfect ones. This was rooted in my insecurity and my dad's fixation with the intellect.
 
 What I've learned on the recent years was not to overcome perfectionism, but to transfer it from product to process. So, I still need to make things neat, as an architect, I'm overly concerned with details. But I'm much more critical of the way I do than of the end result. This means that I can tolerate bad products if I'm always striving for a better one. 
 
