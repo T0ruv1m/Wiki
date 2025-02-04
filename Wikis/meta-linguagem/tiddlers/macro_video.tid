@@ -1,0 +1,9 @@
+created: 20250203222819483
+modified: 20250203223830498
+tags: $:/tags/Macro
+title: macro/video
+tmap.id: 936319c9-f680-440d-b395-cc8f65abaa09
+
+\define video(tittle:"")
+<<details src:"{{$tittle$}}" label:"$tittle$" labelClass:"text-danger">>
+\end

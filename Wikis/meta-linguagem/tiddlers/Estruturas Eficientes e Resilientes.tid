@@ -1,5 +1,5 @@
 created: 20250112013336067
-modified: 20250120103413541
+modified: 20250203234652230
 tags: 
 title: Estruturas Eficientes e Resilientes
 tmap.id: 94d0ff0f-d2ea-4d59-abcd-5c17e7d17de4
@@ -8,18 +8,30 @@ O que aqui se refere como Estruturas eficientes e Resilientes são uma alteraç�
 
 !!! Estruturas eficiêntes : Ninguém se importa com o que você faz aqui.
 
-Estruturas eficientes são aquelas governadas por uma alta taxa de alterações adaptativas imediatas, o que foi trabalhado até então como soluções satisficientes.
-Essas construções provavelmente emergiram para cumprir uma demanda específica e contigente, o que não impede que elas perdurem após cumprirem suas funções primárias.
+<div class="flex-row justify-content-center">
+    <div class="flex-col text-justify" style="flex: 70%;">
+       <p>Estruturas eficientes são aquelas governadas por uma alta taxa de alterações adaptativas imediatas, o que foi trabalhado até então como soluções satisficientes.</p>
 
-Um exemplo trivial seria uma tenda. Tendas são nômades assim como o povo que vive nelas. Elas se desmontam e se recompoem em outro contextos, devem ser leves o suficiente para que se desloquem junto aos habitantes.
+     <p> Essas construções provavelmente emergiram para cumprir uma demanda específica e contingente, o que não impede que elas perdurem após cumprirem suas funções primárias.</p>
 
-Essas edificações são geralmente feitas de materiais baratos e que podem ser facilmente desmontados, cerrados ou destruídos. Ser barato aqui é quase que necessário, para ninguém ter dó de modificar a estrutura quando der na telha. 
+      <p> Um exemplo trivial seria uma tenda. Tendas são nômades assim como o povo que vive nelas. Elas se desmontam e se recompõem em outros contextos, devendo ser leves o suficiente para que se desloquem junto aos habitantes.</p>
 
-Para uma maior adaptabilidade com o mínimo de resiliência é desejável que a [[2.Carcaça]](ou seja, a estrutura) seja separada da [[2.Casca]], para não restrinjir eventuais alterações e expansões. Casas em alvenaria estrutural por exemplo permitem pouca ou nenhuma abertura de canais de circulação, ventilação e iluminação, e portanto nesse sentido não são eficientes.
+       <p> Essas edificações são geralmente feitas de materiais baratos e que podem ser facilmente desmontados, cerrados ou destruídos. Ser barato aqui é quase que necessário, para ninguém ter dó de modificar a estrutura quando der na telha.</p>
 
-Casas feitas de materiais modulares pré-moldados não são tão adaptativas quanto parecem. Apesar de serem mais fáceis de montar, se esses materiais são de medidas grandes e determinados na industria, não permitem uma adaptabilidade as especificidades do contexto onde são implantados.
+ <p>Para uma maior adaptabilidade com o mínimo de resiliência é desejável que a [[2.Carcaça]](ou seja, a estrutura) seja separada da [[2.Casca]], para não restrinjir eventuais alterações e expansões. Casas em alvenaria estrutural por exemplo permitem pouca ou nenhuma abertura de canais de circulação, ventilação e iluminação, e portanto nesse sentido não são eficientes.</p>
 
-Estruturas eficiêntes podem muito bem ser parasitas anexadas à estruturas mais resilientes, em muitos casos isso constitui uma relação mutualitica. 
+<p>Casas feitas de materiais modulares pré-moldados não são tão adaptativas quanto parecem. Apesar de serem mais fáceis de montar, se esses materiais são de medidas grandes e determinados na industria, não permitem uma adaptabilidade as especificidades do contexto onde são implantados.</p>
+
+<p>Estruturas eficiêntes podem muito bem ser parasitas anexadas à estruturas mais resilientes, em muitos casos isso constitui uma relação mutualitica.</p>
+
+</div>
+    <div class="flex-col" style="flex: 30%;">
+        <img src="https://i.pinimg.com/736x/79/a4/31/79a431087751883350212866b22de02a.jpg" alt="Imagem representativa">
+    </div>
+</div>
+
+
+
 
 Jacobs aponta para o problema da [[Diversidade Auto-Destrutiva]] nas cidades, quando a prosperidade de um centro de atividade começa a ser destruída pelo domínio predatório de ocupações mais lucrativas sob as lojas menores. Essa diversidade autodestrutiva também pode ocorrer dentro de uma estrutura eficiente. Os mesmos mecanismos que a tornam adaptativa podem causar sua autodestruição.  
 

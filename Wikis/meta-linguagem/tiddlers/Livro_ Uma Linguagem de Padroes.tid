@@ -1,12 +1,16 @@
 created: 20250113103107493
-modified: 20250126174343813
+modified: 20250204003306739
 tags: livro
 title: Livro: Uma Linguagem de Padrões
 tmap.edges: {"956b36d8-a31f-49ac-870c-71039fcf302d":{"to":"1564407e-2e36-4f7b-93ef-f42568bf77ea","type":"influenciou"},"8b085228-0025-407d-8555-a443e39ccf04":{"to":"82bf67a1-a7b5-4f26-8d8b-25af5327be16","type":"influenciou"},"c068cc1f-8323-4ab5-9da1-866e448ab4b0":{"to":"21d7639a-41c7-4cbc-992a-43bb2810736e","type":"influenciou"},"158779d2-f0a7-4859-97d6-be3a9272e568":{"to":"c7798e38-ed5e-4178-a8d7-93648ef8552e","type":"influenciou"}}
 tmap.id: 2d9ea82e-93c3-42f3-bad5-95a96625a8cf
 tmap.style: {}
 
-Vamos destrinchar o título do Livro:
+O livro “Uma Linguagem de Padrões”, publicado por Christopher Alexander ,Ishikawa e Silverstein em 1977, apresenta uma possível linguagem dentro de uma nova teoria arquitetônica. Esta obra consiste em uma coletânea de 252 proposições que abrangem desde a escala da cidade até a arquitetura e construção. Cada proposição contém soluções práticas para problemas recorrentes, estruturadas no formato de problema, descrição e solução.
+
+A proposta dos padrões, apesar de bem sucedida em outros campos do conhecimento, não teve uma aplicação efetiva dentro do próprio domínio da Arquitetura e Urbanismo. Uma das justificativas apontadas para esse paradoxo é a compreensão defeituosa de sua teoria.
+
+Destrinchando o Título do Livro:
 
 <<tabs '[tag[UmaLinguagemdePadroes]]' >>
 

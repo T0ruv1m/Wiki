@@ -1,0 +1,10 @@
+created: 20250203223734986
+modified: 20250203223748380
+tags: $:/tags/Macro
+title: macro/video
+tmap.id: f5c0660b-f957-4940-b89a-ee25aaedc77c
+type: text/vnd.tiddlywiki
+
+\define video(tittle:"")
+<<details src:"{{$tittle$}}" label:"$tittle$" labelClass:"text-danger">>
+\end

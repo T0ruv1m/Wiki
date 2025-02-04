@@ -1,8 +1,10 @@
 created: 20241027004848555
-modified: 20250126171553610
+modified: 20250204000617544
 tags: linguagem
 title: Crie sua própria Linguagem
 tmap.id: 98ab4bd6-fe58-4710-bfa5-b986da04100a
+
+<<image-pretty img:https://figures.semanticscholar.org/2c63c4079cac88581c8eec15d3f9e21c5f794fbd/2-Figure1-1.png width:400px caption:"[[A Pattern Language for Pattern Writing|https://www.semanticscholar.org/paper/A-pattern-language-for-pattern-writing-Meszaros-Doble/2c63c4079cac88581c8eec15d3f9e21c5f794fbd]]">>
 
 Essa explicação é baseada em uma nota de [[Ward Cunningham]]. 
 
@@ -16,12 +18,3 @@ Sugerimos um tema diferente de arquitetura simplesmente por ser mais fácil cria
 #Termine de estruturar os padrões criando um texto com o maximo de contexto e usando o minimo de espaço. É um bom momento para revisitar o livro do Alexander e quem sabe copiar do seu estilo de escrita(como colocar bastante peso na primeira e ultima frase).
 #Estruture a conexão entre os padrões mencionando como um se relaciona com todos os outros.
 #Opcionalmente, acrescente uma imagem e diagramas que ajudem a transmitir a mensagem.
-
-
-Ver [[Linguagem de Padrões Poética]]
-
-
-Referência:
-
-<div class="footnote">
-CUNNINGHAM, Ward. Pattern Language For Pattern Language. WikiWikiWeb, 2024. Disponível em: https://wiki.c2.com/?PatternLanguageForPatternLanguage. Acesso em: 26 out. 2024.

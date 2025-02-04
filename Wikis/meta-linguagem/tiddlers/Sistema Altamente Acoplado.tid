@@ -1,5 +1,5 @@
 created: 20241028031637388
-modified: 20250113150736499
+modified: 20250203232614969
 tags: Notes metafora sistemas sistemas1
 title: Sistema Altamente Acoplado
 tmap.id: 3652485e-a766-4082-aef5-918f1c216aa3
@@ -7,6 +7,8 @@ tmap.id: 3652485e-a766-4082-aef5-918f1c216aa3
 
 
 Essa nota explica da pior maneira [[O problema da Coesão e Acoplamento]].
+
+<<image-pretty img:https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.fineartamerica.com%2Fimages%2Fartworkimages%2Fmediumlarge%2F3%2Fflock-of-helmeted-guinea-fowl-marta-kazmierska.jpg&f=1&nofb=1&ipt=5949d0fa5fd3def3c24329c701e67d1d9982dbf54ce75f18c027d186ecb6638b&ipo=images width:300>>
 
 >''“O princípio da gelatina: quando tudo se correlaciona com tudo o mais, as coisas nunca se acomodam ''
 >
