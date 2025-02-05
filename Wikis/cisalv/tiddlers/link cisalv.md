@@ -1,0 +1,1 @@
+https://i-download.s3.sa-east-1.amazonaws.com/upd_ged.exe
