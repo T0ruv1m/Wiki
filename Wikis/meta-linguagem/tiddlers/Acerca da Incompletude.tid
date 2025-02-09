@@ -1,18 +1,16 @@
 created: 20250122232642136
-modified: 20250203235112288
+modified: 20250208121730994
 tags: 
 title: Acerca da Incompletude
 tmap.id: a9c05c5a-ee83-4025-aabc-26baa764ccc7
 
-<div class="flex-row justify-content-center">
-    <div class="flex-col" style="flex: 30%; text-align: center;">
-        <img src="https://i.pinimg.com/736x/32/45/94/3245944356c0d9e65c7f0ffacee5efe6.jpg" alt="Imagem representativa" style="max-width: 100%; height: auto;">
-    </div>
+
+        <<image-pretty img:"https://i.pinimg.com/736x/32/45/94/3245944356c0d9e65c7f0ffacee5efe6.jpg" width: 50% align: center>>
 
     <div class="flex-col text-justify" style="flex: 70%;">
         <p>Caro leitor, deixo avisado que este <strong>não é</strong> meu Trabalho Final de Graduação. Isto porque, como poderá notar ao lê-lo, ele não está propriamente finalizado.</p>
 
-        <p>Isso não ocorre por puro desleixo ou falta de tempo. Por favor, acredite! (Embora isso seja também verdade).</p>
+        <p>Isso não acontece por puro desleixo ou falta de tempo. Por favor, acredite! (Embora isso seja também verdade).</p>
 
         <p>Ocorre também que esse site contém diversos pensamentos inacabados justamente como uma forma de convidar o leitor a criticá-lo e alterá-lo conforme sua vontade. Como propôs Ward Cunningham, o criador da [[Wiki]] (Não sabe o que é uma Wiki? <a href="#Wiki">Clique no hyperlink!</a>).</p>
 
@@ -22,7 +20,6 @@ tmap.id: a9c05c5a-ee83-4025-aabc-26baa764ccc7
 
         <p>Esse trabalho defende um ponto de vista incomum, no fundo uma investigação teórica a respeito de uma revisão metodológica. Deverá notar que preferimos a metáfora do organismo ao monumento. Ao invés de estruturas permanentes, planejamos o fluxo de criação. Ao invés da produção autoral, preferimos a colaboração e o dinamismo das discussões.</p>
     </div>
-</div>
 
 
 Uma outra tendência particular é valorizar as coisas imperfeitas^^(1)^^ em detrimento daquelas que já nascem prontas. Isso porque já sofri demais achando que era minha obrigação acertar tudo de primeira. O que aprendi enquanto escrevia esse trabalho foi a enxergar o processo com bons olhos e o produto como nada além de um subproduto | ou, nas palavras de John Gall:
