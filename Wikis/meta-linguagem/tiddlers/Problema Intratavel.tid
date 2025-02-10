@@ -1,10 +1,12 @@
 created: 20241124213537362
-modified: 20250115214537488
+modified: 20250209222335751
 tags: sistemas1
 title: Problema Intratável
 tmap.id: 849947c1-daff-4e81-938e-40b27c7f5eee
 
-O casamento da forma com a função não é tão simples, eles não se dão muito bem um com o outro. Porém imaginamos inocentemente, quando ainda iniciantes na arte de projetar edifícios, que de alguma forma seremos capazes de conceber uma construção perfeita, no sentido de corresponder ou até superar a todos os requisitos estéticos e funcionais dos nossos clientes. Mesmo quando você perde a inocência e abandona essa expectativa, passando a buscar apenas um resultado minimamente satisfatório, ainda assim, acredito que complexidade do problema não está clara na superfície.
+''O casamento da forma com a função não é tão simples, eles não se dão muito bem um com o outro. ''
+
+Porém imaginamos inocentemente, quando ainda iniciantes na arte de projetar edifícios, que de alguma forma seremos capazes de conceber uma construção perfeita, no sentido de corresponder ou até superar a todos os requisitos estéticos e funcionais dos nossos clientes. Mesmo quando você perde a inocência e abandona essa expectativa, passando a buscar apenas um resultado minimamente satisfatório, ainda assim, acredito que complexidade do problema não está clara na superfície.
 
 Por exemplo, quando fazemos um programa de necessidades da edificação, acabamos selecionando apenas aquilo que conseguimos enxergar como necessário e relevante. Mas, se realmente fossemos levar em conta todos os problemas que poderiam ser solucionados através da forma planejada, chegariamos à uma lista extenuante. Vamos pegar como escopo apenas uma cozinha simples e pensar apenas em termos de configuração(removendo limitações de orçamento, estética e escolha de materiais), algumas das variáveis a serem consideradas são:
 
@@ -23,7 +25,7 @@ O problema pode ficar mais complexo ao considerar que  essas variáveis se inter
 
 Por essas especificações serem tão específicas, uma forma realmente adaptada ao contexto nunca poderia ser suprida por um modelo único de cozinha que se encaixa como um lego.
 
-Se fôssemos estudar todas as varíaveis e a forma como elas se relacionam, e  só depois calcular qual é a maneira mais adequada para aquele contexto, provavelmente ficaríamos presos no mesmo projeto o resto da vida.  Esse tipo de problema cai no que é chamado pelos matemáticos de explosão combinatória, quando as variáveis são tantas que seu processamento se torna *computacionalmente intratável*.
+Se fôssemos estudar todas as varíaveis e a forma como elas se relacionam, e  só depois calcular qual é a maneira mais adequada para aquele contexto, provavelmente ficaríamos presos no mesmo projeto o resto da vida.  Esse tipo de problema cai no que é chamado pelos matemáticos de explosão combinatória, quando as variáveis são tantas que seu processamento se torna ''computacionalmente intratável''.
 
 >Intratabilidade é a propriedade de um sistema que, sendo complexo o suficiente, não permite nenhuma maneira de saber o resultado de uma ação, exceto pela execução completa da simulação. Ou seja, deixar o sistema funcionar e verificar o resultado posteriormente.
 

@@ -1,6 +1,6 @@
 created: 20241022213512713
 icon: $:/wiki.gif
-modified: 20250131214533933
+modified: 20250209222055071
 tags: sistemas1
 title: Wiki
 tmap.id: 1598e4af-d311-44cf-b121-2ffeef12e61a
@@ -11,7 +11,9 @@ type: text/vnd.tiddlywiki
 <<image-pretty img:https://upload.wikimedia.org/wikipedia/commons/4/42/HNL_Wiki_Wiki_Bus.jpg width:"550px">>
 
 
-Wiki-Wiki, ou simplesmente Wiki é um sistema que permite com que os usuários criem, editem e compartilhem informações de maneira dinâmica. A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]]. Ele batizou sua criação copiando o nome do sistema de transporte urbano do Hawaii, cuja a tradução literal seria algo como "Rápido-Rápido".
+''Wiki-Wiki, ou simplesmente Wiki é um sistema que permite com que os usuários criem, editem e compartilhem informações de maneira dinâmica.''
+
+ A tecnologia for criada por [[Ward Cunningham]] , que inspirou-se no próprio [[Livro: Uma Linguagem de Padrões]]. Ele batizou sua criação copiando o nome do sistema de transporte urbano do Hawaii, cuja a tradução literal seria algo como "Rápido-Rápido".
 
 [[Michael Mehaffy]] explica algumas relações da Wiki com a Linguagem de Padrões:
 
@@ -22,7 +24,7 @@ Você certamente conhece o formato por conta do seu maior exponente, a Wikipedia
 
 A Wikipedia continua a contribuir com o propósito original dessas plataformas, que é promover a colaboração e o compartilhamento de conhecimento. No entanto, seu crescimento exponencial a transformou em uma instituição global, revisada de forma incessante mundialmente. Esse caráter conflituoso, centralizado e de alta exposição afasta a apropriação como um espaço de livre colaboração para comunidades menores.
 
-Ao estudar o livro da linguagem de padrões, chegamos à conclusão de que o formato wiki - sendo derivado da lógica do próprio livro - é na verdade um formato mais adequado para armazenar e compartilhar padrões que sua mídia original.
+''Ao estudar o livro da linguagem de padrões, chegamos à conclusão de que o formato wiki - sendo derivado da lógica do próprio livro - é na verdade um formato mais adequado para armazenar e compartilhar padrões que sua mídia original.''
 
 <<pretty-image label:"Observe o quão antiquado e volumoso o livro se apresenta hoje. Além disso, ele não favorece a colaboração e disseminação, por mais que essa fosse a intenção do autor.">>  
 Ver: [[Como Utilizar a Linguagem]]
