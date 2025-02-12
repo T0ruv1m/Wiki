@@ -1,0 +1,9 @@
+<<code "DELETE * FROM tabela WHERE ID in (id1,id2,id3);", "remover multiplas entradas" >>
+
+<<code "mysql -u root -p","entra na base de dados mariadb">>
+
+<<code " show databases;">>
+<<code "show tables;">>
+<<code "SELECT * FROM canhotos;","ver todos os dados">> 
+
+
