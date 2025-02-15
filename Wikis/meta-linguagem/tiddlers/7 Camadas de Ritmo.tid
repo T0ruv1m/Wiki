@@ -1,5 +1,5 @@
 created: 20241030114057888
-modified: 20250113163040990
+modified: 20250215003727221
 tags: biologia metafora
 title: 7 Camadas de Ritmo
 tmap.id: 7f0f4979-156d-4a4b-b73b-b9c92e8fe118
@@ -10,5 +10,5 @@ Nossa contribuição aqui foi renomea-las de modo que todas as camadas começass
 
 <<details label:"Nomes Originais" src:"{{_Original_Names}}">>
 
-<<tabs "[tag[CamadaRitmo]]" class:"tc-vertical">>
+<<tabs "[tag[CamadaRitmo]]">>
 
