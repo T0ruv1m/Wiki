@@ -1,0 +1,1 @@
+"A Linguagem é um programa cujo as Regras de Negócio mudam em tempo de execução." -Vistorm
