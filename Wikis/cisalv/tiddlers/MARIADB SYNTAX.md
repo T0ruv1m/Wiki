@@ -7,3 +7,5 @@
 <<code "SELECT * FROM canhotos;","ver todos os dados">> 
 
 <<code "mysql -u root -h 179.108.209.127 -p","Entrar mariadb">>
+
+<<code "DELETE FROM canhotos WHERE id = 114;","Deletar apenas um id">>
