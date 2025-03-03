@@ -1,0 +1,10 @@
+created: 20200426151001495
+dependents: 
+description: Embed YouTube Video in TiddlyWiki
+modified: 20200426152709469
+name: Embed YouTube
+plugin-type: plugin
+revision: 4
+title: $:/ak/plugins/EmbedYouTube
+type: application/json
+version: 0.0.4

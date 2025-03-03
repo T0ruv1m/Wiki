@@ -1,0 +1,46 @@
+{
+    "tiddlers": {
+        "$:/ak/plugins/EmbedYouTube/EmbedYouTube.js": {
+            "text": "/*\\\ntitle: $:/ak/plugins/EmbedYouTube/EmbedYouTube.js\ntype: application/javascript\nmodule-type: macro\n\n\n<<embedYouTube \"YouTube url\" \"YouTube API\">>\n\n\\*/\n\n(function(){\n\n\n\"use strict\";\n\n\n\nexports.name = \"embedYouTube\";\n\n\nexports.params = [{name: \"url\"}, {name: \"APIKey\"}];\n\n/*\nRun the macro\n*/\n\nexports.run = function(url, APIKey) {\n\n var url = url || \"None\";\n var encurl = encodeURI(url) || \"None\";\n var tiddlerTitle = \"None\";\n var tiddlerText = \"None\";\n\n\n   var regExp = /.*(?:youtu.be\\/|v\\/|u\\/\\w\\/|embed\\/|watch\\?v=)([^#\\&\\?]*).*/;\n   var match = url.match(regExp);\n//   console.log(\">>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<\");\n   var VideoCode = (match&&match[1].length==11)? match[1] : false ;\n//   console.log(\">>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<\");\n\n\n//\nvar ytApiKey = APIKey;\n\n//\n\n   tiddlerText = \"<iframe width='560' height='315' src='https://www.youtube.com/embed/\" + VideoCode + \"' frameborder='0' ></iframe>\"\n\n //   console.log(\">>>>>>>>>>>>>>>>>> \" + tiddlerTitle + \"<<<<<<<<<<<<<<<<<<\");\n\n// $tw.wiki.addTiddler({title:tiddlerTitle, text:tiddlerText});\n\n// $.get(, function(data) {tiddlerTitle = (data.items[0].snippet.title);});\n\n$tw.utils.httpRequest({url: \"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=\" + VideoCode + \"&key=\" + ytApiKey,   callback: function (error,data){\n    if (error){\n    console.log(\"ERROR:\"+error);\n    }\n\n    const parser = JSON.parse(data);\n\n    //console.log(\">>>>>>>>>>>>>>>>>> \" + parser[\"items\"][0][\"snippet\"][\"title\"] + \"<<<<<<<<<<<<<<<<<<\");\n   \n    tiddlerTitle =  parser[\"items\"][0][\"snippet\"][\"title\"] ;\n\n    $tw.wiki.addTiddler({title:tiddlerTitle, text:tiddlerText});\n  \n  }}) \n\n\n  return \"[[\"+tiddlerTitle +\"]]\";\n};\n\n\n})();",
+            "bag": "default",
+            "revision": "22",
+            "type": "application/javascript",
+            "title": "$:/ak/plugins/EmbedYouTube/EmbedYouTube.js",
+            "tags": "",
+            "module-type": "macro",
+            "modified": "20200426150727358",
+            "created": "20200426122110951"
+        },
+        "$:/ak/plugins/EmbedYouTube/change.log": {
+            "created": "20200426151520281",
+            "text": "\"\"\"\n''2020-04-25'': v0.0.4 initial release\n\"\"\"",
+            "bag": "default",
+            "revision": "1",
+            "type": "text/vnd.tiddlywiki",
+            "title": "$:/ak/plugins/EmbedYouTube/change.log",
+            "tags": "",
+            "modified": "20200426152636462"
+        },
+        "$:/ak/plugins/EmbedYouTube/state/EmbedYouTube": {
+            "created": "20200426121839070",
+            "text": "",
+            "bag": "default",
+            "revision": "51",
+            "url": "",
+            "type": "text/vnd.tiddlywiki",
+            "title": "$:/ak/plugins/EmbedYouTube/state/EmbedYouTube",
+            "modified": "20200426152007932",
+            "apikey": ""
+        },
+        "Add YouTube Video": {
+            "text": "\\define embed-YTVideo()\n<<embedYouTube \"$(extUrl)$\" \"$(APIKey)$\">>\n\\end\n\n<$edit-text class='tc-edit-texteditor' tiddler='$:/ak/plugins/EmbedYouTube/state/EmbedYouTube' field='url' placeholder='YouTube video URL'/><br> \n\n<$edit-text class='tc-edit-texteditor' tiddler='$:/ak/plugins/EmbedYouTube/state/EmbedYouTube' field='apikey' placeholder='Your YouTube api'/><br> \n\n<$set name=\"APIKey\" value={{$:/ak/plugins/EmbedYouTube/state/EmbedYouTube!!apikey}} >\n<$set name=\"extUrl\" value={{$:/ak/plugins/EmbedYouTube/state/EmbedYouTube!!url}} >\n<$button actions=<<embed-YTVideo>> >\n<$action-setfield $tiddler='$:/ak/plugins/EmbedYouTube/state/EmbedYouTube' url='' />\nEmbed Video \n</$button>\n</$set>\n\n\n\n",
+            "bag": "default",
+            "revision": "6",
+            "type": "text/vnd.tiddlywiki",
+            "title": "Add YouTube Video",
+            "tags": "$:/tags/SideBar",
+            "modified": "20200426150547409",
+            "created": "20200426121247659"
+        }
+    }
+}
