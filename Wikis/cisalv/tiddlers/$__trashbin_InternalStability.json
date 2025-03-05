@@ -1,0 +1,9 @@
+{
+    "title": "InternalStability",
+    "text": "Codigo que é internamente estável são menos propensas a erros.\n\nPor isso [[OCP]].\n",
+    "type": "text/markdown",
+    "created": "20250222193428863",
+    "modified": "20250222193545388",
+    "tags": "principle",
+    "tmap.id": "3cdb5fa4-4cd3-4e6a-8ce3-d0316ed3dfe0"
+}

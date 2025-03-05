@@ -1,21 +1,18 @@
 created: 20241023225254343
-modified: 20250213181403416
+modified: 20250304151551984
 tags: TableOfContents
 title: Base
 tmap.id: 4986ab16-c1f4-49fe-ba1e-9b4c3353dfac
 
-!! Documentação:
+<<details label:"Documentação:" src:"""
 
-[[Ubuntu]]
+* [[ubuntu]]
+* [[delphi]]
+* [[git]]
+* [[utilities]]
 
-[[Delphi]]
-
-[[git]]
-
-[[utilities]]
-
-[[Principios]]
-
+""" >>
 ---
 
-{{lista implementação}}
+
+<<details src:"> {{Quote of the Day}}" label:"Frase do Dia:" >>

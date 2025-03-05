@@ -1,11 +1,3 @@
-created: 20241122111445885
-iniciantes: 
-modified: 20250114145314933
-tags: 
-title: Delphi
-tmap.id: ce035a8e-55ca-4df5-85d5-8e1edfb5c798
-type: text/markdown
-
 ## Playlists:
 
 [Tutoriais para Futuras Implementações](https://www.youtube.com/playlist?list=PLCLIKt-QpRhKyxYj8lzLfr-Oe_NB8p_oT&jct=IRz8OdlSFCKusEJSDEbyNA)
