@@ -1,6 +1,6 @@
 created: 20241022213512713
 icon: $:/wiki.gif
-modified: 20250209222055071
+modified: 20250306232323940
 tags: sistemas1
 title: Wiki
 tmap.id: 1598e4af-d311-44cf-b121-2ffeef12e61a
@@ -27,7 +27,7 @@ A Wikipedia continua a contribuir com o propósito original dessas plataformas, 
 ''Ao estudar o livro da linguagem de padrões, chegamos à conclusão de que o formato wiki - sendo derivado da lógica do próprio livro - é na verdade um formato mais adequado para armazenar e compartilhar padrões que sua mídia original.''
 
 <<pretty-image label:"Observe o quão antiquado e volumoso o livro se apresenta hoje. Além disso, ele não favorece a colaboração e disseminação, por mais que essa fosse a intenção do autor.">>  
-Ver: [[Como Utilizar a Linguagem]]
+Ver: [[Wiki de Padrões|http://padroes.wiki.br/linguagem]]
 
 Na verdade, essa foi uma ideia que pegamos emprestada de outros sites hospedados com o mesmo objetivo: compartilhar ideias e colaborar com o trabalho original.  <br>
 Ver: [[NPL]]

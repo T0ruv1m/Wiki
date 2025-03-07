@@ -1,5 +1,5 @@
 created: 20241028034354754
-modified: 20250126234249539
+modified: 20250306232758059
 tags: sistemas1
 title: Imprevisibilidade
 tmap.id: 96c652c6-12a7-4a93-8975-3ce0e68410db
@@ -7,15 +7,20 @@ tmap.id: 96c652c6-12a7-4a93-8975-3ce0e68410db
 >Se você perguntar de onde vêm as flores, 
 >nem mesmo o deus da primavera saberá.
 
-Podemos entender a imprevisibilidade de um processo generativo ao compararmos com o efeito borboleta que diz:
+Podemos entender a imprevisibilidade de um processo generativo ao compararmos com o //efeito borboleta.//
 
 !!! Efeito Borboleta:
 Quando observamos um sistema natural complexo evoluindo, cada estagio posterior depende do estado anterior. O termo origina-se de uma anedota que imagina um bater de asas de uma borboleta no Brasil afetar as condições climáticas no Texas duas semanas depois.
 
 A ciência mecanicista do século XIX criou um modelo de pensamento que faz parecer com que cada estagio pudesse ser facilmente previsto de um estado anterior. Mas acontece que o mundo não é como esse modelo mecanicista. Descobertas mais sofisticadas tornaram claro que, em um sistema complexo, o próximo estágio é inteiramente dependente da configuração do todo, que depende de minúcias sutis no histórico de todos os estados anteriores. Não existe uma maneira precisa de predizer o caminho de um sistema emergente com antecedência.
 
+Veja o que Alexander diz sobre a ordem almejada pela Linguagem de Padrões:
+
 >[...] //Essa ordem é muito mais complexa do que qualquer outro tipo de ordem. Ela não pode ser criada por decisão. Não pode ser projetada. Não pode ser prevista em um projeto. É o testemunho vivo de centenas e milhares de pessoas, manifestando suas próprias vidas e todas as suas forças internas. //(p.510)
 
-O próprio processo revela o resultado. Note como escrever é um ato criativo totalmente imprevisível. Ver a [[Abordagem do Jardineiro]].
+O próprio processo revela o resultado. Inclusive, escrita pode ser vista como uma dessas atividades generativas cujo resultado final é totalmente imprevisível. Ver a [[Abordagem do Jardineiro]].
 
-Ver [[Serendipidade]] ou [[Arquitetura do Improviso]].
+Ver também [[Serendipidade]] ou [[Arquitetura do Improviso]].
+
+<footer>
+1.<<twb>>

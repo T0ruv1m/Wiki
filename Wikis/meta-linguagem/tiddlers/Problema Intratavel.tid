@@ -1,5 +1,5 @@
 created: 20241124213537362
-modified: 20250209222335751
+modified: 20250306233742360
 tags: sistemas1
 title: Problema Intratável
 tmap.id: 849947c1-daff-4e81-938e-40b27c7f5eee
@@ -8,7 +8,9 @@ tmap.id: 849947c1-daff-4e81-938e-40b27c7f5eee
 
 Porém imaginamos inocentemente, quando ainda iniciantes na arte de projetar edifícios, que de alguma forma seremos capazes de conceber uma construção perfeita, no sentido de corresponder ou até superar a todos os requisitos estéticos e funcionais dos nossos clientes. Mesmo quando você perde a inocência e abandona essa expectativa, passando a buscar apenas um resultado minimamente satisfatório, ainda assim, acredito que complexidade do problema não está clara na superfície.
 
-Por exemplo, quando fazemos um programa de necessidades da edificação, acabamos selecionando apenas aquilo que conseguimos enxergar como necessário e relevante. Mas, se realmente fossemos levar em conta todos os problemas que poderiam ser solucionados através da forma planejada, chegariamos à uma lista extenuante. Vamos pegar como escopo apenas uma cozinha simples e pensar apenas em termos de configuração(removendo limitações de orçamento, estética e escolha de materiais), algumas das variáveis a serem consideradas são:
+Por exemplo, quando fazemos um programa de necessidades da edificação, acabamos selecionando apenas aquilo que conseguimos enxergar como necessário e relevante. Mas, se realmente fossemos levar em conta todos os problemas que poderiam ser solucionados através da forma planejada, chegariamos à uma lista extenuante. 
+
+Vamos pegar como escopo apenas uma cozinha simples e pensar apenas em termos de configuração (removendo limitações de orçamento, estética e escolha de materiais), algumas das variáveis a serem consideradas são:
 
 * A cozinha como um todo deve ser bem iluminada;
 * A bancada deve ser extensa e na altura ideal para as pessoas que mais utilizam;
@@ -21,9 +23,11 @@ Por exemplo, quando fazemos um programa de necessidades da edificação, acabamo
 * O fogão e forno devem ficar distantes de outros objetos para não danificá-los com o calor;
 * Temperos e ferramentas usados constantemente devem estar sempre disponíveis a mão, possivelmente em uma prateleira;
 
-O problema pode ficar mais complexo ao considerar que  essas variáveis se inter-relacionam de alguma maneira.(Janelas limitam o espaço onde a geladeira pode ficar, reduzem a área disponível para armários suspensos e prateleiras e, quando abertas, podem atrapalhar no cozimento. Mesmo assim é necessário manter o mínimo de iluminação ventilação). Pensar somente nesses ajustes também deixa de lado demandas específicas e preferências estéticas.  
+O problema pode ficar mais complexo ao considerar que  essas variáveis se inter-relacionam de alguma maneira.(Janelas limitam o espaço onde a geladeira pode ficar, reduzem a área disponível para armários suspensos e prateleiras e, quando abertas, podem atrapalhar no cozimento. Mesmo assim é necessário manter o mínimo de iluminação ventilação). Como já foi dito, pensar somente nesses ajustes também deixa de lado demandas específicas e preferências estéticas.
 
-Por essas especificações serem tão específicas, uma forma realmente adaptada ao contexto nunca poderia ser suprida por um modelo único de cozinha que se encaixa como um lego.
+Por essas especificações serem tão específicas, uma forma realmente adaptada ao contexto nunca poderia ser suprida por um modelo único de cozinha que se encaixa como um lego. O problema precisa ser reavaliado em todos os casos.
+
+!! Problemas Intratáveis:
 
 Se fôssemos estudar todas as varíaveis e a forma como elas se relacionam, e  só depois calcular qual é a maneira mais adequada para aquele contexto, provavelmente ficaríamos presos no mesmo projeto o resto da vida.  Esse tipo de problema cai no que é chamado pelos matemáticos de explosão combinatória, quando as variáveis são tantas que seu processamento se torna ''computacionalmente intratável''.
 
