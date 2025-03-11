@@ -1,2 +1,0 @@
-
-> <<randomTiddler "[tag[quote]]" >>
