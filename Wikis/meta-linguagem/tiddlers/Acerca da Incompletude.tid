@@ -1,5 +1,5 @@
 created: 20250122232642136
-modified: 20250308220801751
+modified: 20250325235214709
 tags: 
 title: Acerca da Incompletude
 tmap.id: a9c05c5a-ee83-4025-aabc-26baa764ccc7
@@ -8,11 +8,11 @@ tmap.id: a9c05c5a-ee83-4025-aabc-26baa764ccc7
         <<image-pretty img:"https://i.pinimg.com/736x/32/45/94/3245944356c0d9e65c7f0ffacee5efe6.jpg" width: 50% align: center>>
 
     <div class="flex-col text-justify" style="flex: 70%;">
-        <p>Caro leitor, deixo avisado que os textos escritos aqui não correspondem ao meu Trabalho Final de Graduação. Isto porque, como poderá notar ao lê-lo, ele não está propriamente finalizado.</p>
+        <p>Caro leitor, deixo avisado que os textos escritos aqui podem não corresponder exatamente ao meu Trabalho Final de Graduação. Isto porque, como poderá notar ao lê-lo, ele parece não estar propriamente finalizado.</p>
 
         <p>Isso não acontece por puro desleixo ou falta de tempo. Por favor, acredite! (Embora isso seja também verdade).</p>
 
-        <p>Ocorre também que esse site contém diversos pensamentos inacabados justamente como uma forma de convidar o leitor a criticá-lo e alterá-lo conforme sua vontade. Como propôs Ward Cunningham, o criador da [[Wiki]] (Não sabe o que é uma Wiki? <a href="#Wiki">Clique no hyperlink!</a>).</p>
+        <p>Ocorre também que esse site contém diversos pensamentos que aparentam não ir à lugar algum.  Esse estilo inacabado de algumas notas é  justamente uma estratégia para convidar o leitor a tornar-se um co-autor. Caso alguem se dê ao trabalho de ler, poderá também criticá-lo e alterá-lo conforme sua vontade. Como propôs Ward Cunningham, o criador da [[Wiki]] (Não sabe o que é uma Wiki? <a href="#Wiki">Clique no hyperlink!</a>).</p>
 
         <blockquote>
             <p><em>"A melhor maneira de obter a resposta certa na Internet não é fazer uma pergunta; é publicar a resposta errada."</em></p>
@@ -21,15 +21,15 @@ tmap.id: a9c05c5a-ee83-4025-aabc-26baa764ccc7
         <p>Esse trabalho defende um ponto de vista incomum, no fundo uma investigação teórica a respeito de uma revisão metodológica. Deverá notar que preferimos a metáfora do organismo ao monumento. Ao invés de estruturas permanentes, planejamos o fluxo de criação. Ao invés da produção autoral, preferimos a colaboração e o dinamismo das discussões.</p>
     </div>
 
-Uma outra tendência particular é valorizar as coisas imperfeitas^^(1)^^ em detrimento daquelas que já nascem prontas. Isso porque já sofri demais achando que era minha obrigação acertar tudo de primeira. O que aprendi enquanto escrevia esse trabalho foi a enxergar o processo com bons olhos e o produto como nada além de um subproduto | ou, nas palavras de John Gall:
+Uma outra tendência particular é valorizar as coisas imperfeitas^^(1)^^ em detrimento daquelas que já nascem prontas. Isso porque já sofri demais achando que era minha obrigação acertar tudo de primeira. O que aprendi enquanto escrevia esse trabalho foi a valorizar as iterações mais do que o resultado delas. Com isso pude, indo contra as minhas tendências naturais, passar a enxergar o processo com bons olhos e o produto como nada além de um subproduto | ou, nas palavras de John Gall:
 
 > A FUNÇÃO (OU PRODUTO) É DEFINIDA PELOS SISTEMAS - OPERAÇÕES QUE OCORREM EM SEU DESEMPENHO OU FABRICAÇÃO.
 
- Por conta disso, agora eu prefiro as obras inacabadas, as verdades metamorfas, tomadas de decisão //ad-hoc// e soluções que apenas satisfazem - se estes estiverem em movimento.
+ Por conta disso, agora eu prefiro as obras inacabadas, as verdades metamorfas, tomadas de decisão //ad-hoc// e soluções que apenas satisfazem - ''se e apenas se'' estas estiverem em movimento.
 
 Em outras palavras, tive contato com uma [[Arquitetura do Improviso]], e resolvi injetar na forma do trabalho a filosofia em que se baseia o conteúdo.
 
-Diferente da entrega física que, sendo impressa, tem suas palavras escritas em pedra, o que for dito neste site estará sempre sujeito à mudanças, revisões, reformas. Um eterno //Work in Progress// que não é só meu mas de qualquer um que queira deixá-lo interessante. Por isso deverá ter em mente que este site está sendo modificado de forma lenta e gradual, ao ponto em que seu estado atual será naturalmente diferente do dia em que o trabalho foi defendido.
+Diferente da entrega física que, sendo impressa, tem suas palavras escritas em pedra, o que for dito neste site estará sempre sujeito à mudanças, revisões, reformas. Um eterno //Work in Progress// que não é só meu mas de qualquer um que queira deixá-lo interessante. Por isso deverá ter em mente que, desde a entrega, este site pode ter sido modificado de forma lenta e gradual, ao ponto de seu estado atual ser naturalmente diferente do dia em que o trabalho foi defendido.
 
 ---
 
