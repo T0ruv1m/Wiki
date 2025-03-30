@@ -1,0 +1,11 @@
+created: 20250329153025622
+modified: 20250329153052339
+tags: $:/tags/Macro
+title: macro/img_antipattern
+tmap.id: 4b009b27-e78e-4b28-b284-6f0c63752a6b
+
+\define img_bw()
+<div class="centered-image">
+  <img src={{!!img_bw}} alt={{!!title}} style="width: 540px; height: 720px; object-fit: cover; overflow: hidden; border: 2px solid #616161; border-radius: 8px; filter: grayscale(100%);" />
+</div>
+\end
