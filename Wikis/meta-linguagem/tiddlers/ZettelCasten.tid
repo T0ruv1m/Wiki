@@ -1,5 +1,5 @@
 created: 20250402225010567
-modified: 20250402225127952
+modified: 20250402225419500
 title: ZettelCasten
 tmap.id: 4436ff63-688d-4d2b-8aa5-f39abf9567d3
 
@@ -8,6 +8,6 @@ tmap.id: 4436ff63-688d-4d2b-8aa5-f39abf9567d3
     <<image-pretty img:https://upload.wikimedia.org/wikipedia/commons/3/33/Zettelkasten_%28514941699%29.jpg width: 560px label:'Kai Schreiber from Münster, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons' >>
 </div>
 
-Zettel 📝 → "Nota" ou "Papelzinho" (uma folha de anotação)
+!!! Zettel 📝 → "Nota" ou "Papelzinho" (uma folha de anotação)
 
-Kasten 📦 → "Caixa" ou "Arquivo" (um lugar para guardar coisas)
+!!! Kasten 📦 → "Caixa" ou "Arquivo" (um lugar para guardar coisas)
