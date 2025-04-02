@@ -1,14 +1,12 @@
 created: 20250401222125299
-modified: 20250402224713011
+modified: 20250402224827181
 tags: [[Apresentação TFG]]
 title: New slide2
 tmap.id: a2f3b57c-2222-44ee-8e2c-5f85051bd5b8
 
-<div style="display: flex; align-items: flex-start;">
- <div>
-        <h1> ZettelCasten </h1> 
-    </div>
-    <<image-pretty img:https://upload.wikimedia.org/wikipedia/commons/3/33/Zettelkasten_%28514941699%29.jpg width: 560px label:'Kai Schreiber from Münster, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons'>>
-   
+<div style="float: right; margin-left: 40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Zettelkasten_%28514941699%29.jpg" width="300px">
 </div>
+This is some normal text. It will remain on the left and wrap around the image.
+
 
