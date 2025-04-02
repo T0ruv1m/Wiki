@@ -1,5 +1,5 @@
 created: 20241225152744204
-modified: 20241230212815228
+modified: 20250402211133944
 title: Dualismo Planejar/Construir
 tmap.id: b245a3d1-b91e-425b-8dcf-bfbfaa0cb965
 
@@ -7,7 +7,7 @@ Referindo-se as metodologias predominantes atualmente, temos como principal  a c
 A construção começa exatamente onde as decisões de projeto terminam.
 Podemos ver a estrutura cartesiana operando através perfeita dissociação entre o que é "planejamento" e o que é execução.
 
-<<image-pretty img:[[Pasted image 20240603150927.png]] width:200 >>
+<<image-pretty img:[[traditionaldesign.png]] width:200 >>
 
 Para o designer preso a essa mentalidade, a execução nunca pode superar a qualidade do projeto concebido. A execução está, no melhor dos casos, à altura da proposta. Mas é claro que nenhuma arquitetura está livre de seu contexto, e as coisas inevitavelmente sairão do planejado. Isso poderia ser visto como normal, em qualquer cultura sã, mas aqui não há surpresas felizes, apenas decadência, um desvio da versão idealizada e inalterada.
 
@@ -15,7 +15,7 @@ Para o designer preso a essa mentalidade, a execução nunca pode superar a qual
 
 Por outro lado, o [[Processo Design-Build]] diminui o dualismo ao integrar o projeto e a construção por meio de ciclos de feedback em todos os níveis. O projeto e a construção entram em uma conversa em que um informa o outro conforme a forma ganha vida.  
 
-<<image-pretty img:[[Pasted image 20240603151236.png]] width:300>>
+<<image-pretty img:[[designbuild.png]] width:300>>
 
 (Para uma abordagem ainda mais direta, podemos ver [[Construção como um Fazer]]
 
