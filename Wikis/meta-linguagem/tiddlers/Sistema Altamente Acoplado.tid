@@ -1,5 +1,5 @@
 created: 20241028031637388
-modified: 20250203232614969
+modified: 20250401235330354
 tags: Notes metafora sistemas sistemas1
 title: Sistema Altamente Acoplado
 tmap.id: 3652485e-a766-4082-aef5-918f1c216aa3
@@ -29,7 +29,6 @@ O essencial aqui é o fato de que, quando um sistema é altamente interconectado
 
 Para os problemas que ainda não chegaram nesse estado de [[Intratabilidade|Problema Intratável]], a abordagem sugerida é descrita em [[Sistema de Complexidade Ordenada]]
 
-Na computação isso é chamado de [[Código Espaguete]].
 
 [[Problemas Perversos]]
 

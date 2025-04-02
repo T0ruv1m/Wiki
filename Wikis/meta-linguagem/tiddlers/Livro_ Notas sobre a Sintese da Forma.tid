@@ -1,5 +1,5 @@
 created: 20241030122036255
-modified: 20250126022403275
+modified: 20250401235708200
 tags: livro
 title: Livro: Notas sobre a Síntese da Forma
 tmap.id: dbd1c80f-4e4c-46b9-9618-fabcffc70706
@@ -25,6 +25,8 @@ O exemplo concreto desse pensamento é dado utilizando uma chaleira.
 Esse aspecto é abordado também quando falamos de [[Erro de Enquadramento]].
 
 !!! Subsistemas em jogo
+
+[img[image.png]]
 
 Outro mérito do livro está em ter desenvolvido, de forma pioneira e completamente paralela a toda uma tradição emergente(campo da engenharia de softwares), uma investigação  sobre o que é chamado nesse campo de "[[O problema da Coesão e Acoplamento]]". 
 

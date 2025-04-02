@@ -1,0 +1,10 @@
+{
+    "text": "<$tiddler  tiddler={{{[<tiddler>get[title]else<currentTiddler>]}}} >\n<$link/>\n<$transclude $field=\"text\" $mode=\"block\"/>\n</$tiddler>",
+    "created": "20250401221947112",
+    "modified": "20250401222039114",
+    "tags": "[[Apresentação TFG]]",
+    "title": "Draft of 'New slide...'",
+    "tmap.id": "bed53eb3-63ed-4c1f-9f77-8f1a43a007a1",
+    "draft.title": "New slide...",
+    "draft.of": "New slide..."
+}
