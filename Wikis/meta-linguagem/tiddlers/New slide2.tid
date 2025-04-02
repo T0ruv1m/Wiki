@@ -1,33 +1,13 @@
 created: 20250401222125299
-modified: 20250402223937086
+modified: 20250402224009549
 tags: [[Apresentação TFG]]
 title: New slide2
 tmap.id: a2f3b57c-2222-44ee-8e2c-5f85051bd5b8
 
-    <style>
-        .container {
-            display: flex;
-            align-items: flex-start; /* Align image and text at the top */
-        }
-        img {
-            max-width: 100%; /* Ensure responsiveness */
-            height: auto;
-            margin-right: 20px; /* Space between image and text */
-        }
-        .text {
-            max-width: 500px; /* Limit text width */
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Zettelkasten_%28514941699%29.jpg" width="560" alt="Zettelkasten">
-        <div class="text">
-            <p>This is some text that appears to the right of the image. You can add more paragraphs here.</p>
-            <p>Adjust the styling as needed to fit your layout.</p>
-        </div>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Zettelkasten_%28514941699%29.jpg" width="560px" style="margin-right: 20px;">
+    <div>
+        This is some text that appears to the right of the image. You can add more paragraphs here.
     </div>
+</div>
 
-</body>
-</html>
