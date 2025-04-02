@@ -1,0 +1,10 @@
+created: 20250402230002230
+modified: 20250402230035453
+tags: $:/tags/Macro
+title: $:/macro/rightImage
+
+\define rightImage(url, size)
+<div style="float: right; margin-left: 40px;">
+    <<image-pretty img: $url$ width: $size$ >>
+</div>
+\end
