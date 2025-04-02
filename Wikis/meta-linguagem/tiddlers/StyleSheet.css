@@ -47,7 +47,7 @@ body {
 
 .image-text-container {
     display: flex;
-    align-items: flex-start;
+    align-items: flex-end;
 }
 .image-text-container img {
     margin-right: 20px;
