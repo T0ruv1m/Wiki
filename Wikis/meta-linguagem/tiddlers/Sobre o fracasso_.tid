@@ -1,0 +1,21 @@
+created: 20250402233842402
+modified: 20250402233917083
+tags: [[Apresentação TFG]]
+title: Sobre o fracasso:
+tmap.id: f43c7237-bfd5-423b-8447-dbc48f1c1449
+
+<<card 
+header:"Plano de Trabalho"
+title:"Objetivos"
+subtitle:"''Cronograma''"
+text:"[img[https://i.postimg.cc/WzYMSKFt/2025-04-02-203318.png]]"
+footer:"''Produtos e Metas''"
+width:"40rem"
+class:"text-dark"
+>>
+* Estrutura Linear
+* Unidimensional
+
+```
+A --> B --> C.
+```
