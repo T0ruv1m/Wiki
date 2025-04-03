@@ -53,6 +53,12 @@ body {
     margin-right: 20px;
 }
 
+.tc-tag-fonteGrande {
+  font-size: 40px;
+}
+
+
+
 @media print {
   /* General text styles for PDF */
   body {
@@ -60,6 +66,7 @@ body {
     font-size: 14px;
     line-height: 1.6;
   }
+
 
   /* Headings */
   h1 {
