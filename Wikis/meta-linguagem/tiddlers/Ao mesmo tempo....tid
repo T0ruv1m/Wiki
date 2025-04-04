@@ -1,5 +1,5 @@
 created: 20250403233247683
-modified: 20250404142327001
+modified: 20250404162443212
 tags: [[Apresentação TFG]]
 title: Ao mesmo tempo...
 tmap.id: b2aa6c02-8dd7-474b-8871-9696f2f142af
@@ -9,24 +9,27 @@ Não poderia entregar um projeto.
 !! Método ZettelCasten
 
 
+O método foi recentemente popularizado por conta do [[Livro:Como Escrever Boas Notas]].
+
+
 <div style="float: right; margin-left: 40px;">
     <<image-pretty img:https://upload.wikimedia.org/wikipedia/commons/3/33/Zettelkasten_%28514941699%29.jpg width: 560px label:'Kai Schreiber from Münster, Germany, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons' >>
 </div>
-
-!!!! Zettel 📝 → "Nota" ou "Papelzinho" (uma folha de anotação)
-
-!!!! Kasten 📦 → "Caixa" ou "Arquivo" (um lugar para guardar coisas)
 
 ---
 
 desenvolvido por Niklas Luhmann (1927–1998), um sociólogo alemão. Ele criou esse sistema para organizar ideias e facilitar a escrita acadêmica.
 
+!!!! Zettel 📝 → "Nota" ou "Papelzinho" (uma folha de anotação)
+
+!!!! Kasten 📦 → "Caixa" ou "Arquivo" (um lugar para guardar coisas)
+
 Luhmann publicou mais de 70 livros e cerca de 400 artigos ao longo da vida! Seu Zettelkasten continha mais de 90.000 notas, ajudando-o a produzir conhecimento de forma extremamente eficiente.
 
-O método foi recentemente popularizado por conta do [[Livro:Como Escrever Boas Notas]].
+ !!⛔📂📓📚
 
-Conteúdo da nota é dissociado do material de origem.
-
+* Conteúdo da nota é dissociado do material de origem.
+ 
 Esse sistema possui equivalentes digitais que podem ser construídos em softwares como [[Obsidian]].
 
 !! Promete permitir pessoas distraídas, desorganizadas e perfeccionistas criarem coragem para escrever.
