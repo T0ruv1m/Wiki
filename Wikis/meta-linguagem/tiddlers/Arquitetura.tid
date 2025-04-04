@@ -1,0 +1,52 @@
+created: 20250404133717144
+modified: 20250404134007534
+title: Arquitetura
+tmap.id: d56e57a5-d7e1-439d-afe1-bf703185c348
+
+''Arquitetura pode ser pensada de diversas formas. Mas se nos restringirmos a conceber o arquiteto como um resolvedor de problemas, um tomador de decisões especializado, então a arquitetura são as decisões que tomamos ao longo do caminho. Nesse sentido, uma boa arquitetura seria definida como : " as decisões que eu gostaria de ter tomado antes, para evitar essas reformas e retrabalhos."''
+
+Se arquitetura não é o monumento e sim as decisões que ocasionaram nele, então Isso significa que ela não depende diretamente dos desenhos, que estes são apenas um meio coveniente para transmitir decisões espaciais.
+
+Entretanto, O arquiteto atualmente se encontra refém de uma forma de trabalho que exige o uso dessas representações, sejam elas plantas, cortes modelos e renderizações, desenhos descritivos e detalhamentos precisos.
+
+Nesse projeto queremos propor que os modelos e desenhos extremamente detalhados que somos ensinados a produzir são desnecessários e até prejudiciais para a tarefa em questão. e que nada(exceto a lei) impede que decisões sejam tomadas apenas com o auxilio de descrições verbais, protótipos improvisados in loco ou desenhos muito rudimentares.
+
+Não estamos propondo simplesmente improvisar no canteiro, isso seria loucura.
+Para nao chegarmos lá de mãos vazias, iremos necessitar de algumas ferramentas.
+
+Aqui os padrões entram em jogo. Eles são ferramentas mentais poderosas que podem ser aplicadas infinitas vezes e, ainda assim, sempre vão produzir resultados diferentes.
+
+Os padrões são modelos mentais elaborados a partir da sabedoria empirica das construções humanas ao redor do mundo. Ao ser documentados , formam uma pepita de sabedoria que instrui retroativamente o que fazer na proxima vez em que nos depararmos com uma situação parecida. O esforço de documentação tambem fornece um nome  para o que antes era uma noção vaga de como fazer as coisas, e graças a isso eles agoram podem ser refinados, discutidos, escrutinados ao extremo. Os que sobreviverem ao teste de estress provavelmente são os verdadeiros e úteis.
+
+Se organizados sequencialmente(um atrás do outro) eles configuram receitas que guiam o desdobramento da forma em uma direção. Uma boa sequência é aquela que acumula o minimo possivel de retrocesso na forma final.
+
+Conhecer os padrões não é o mesmo que saber utilizá-los. Pois é preciso saber quando e onde um padrão se aplica, e para chegar ao nível de detalhamento da construção ainda serão necessarias muitas micro decisões. 
+
+Além de elaborar receitas, o arquiteto deve manejar essas micro decisões.
+
+Esse é o segundo papel do arquiteto, um gerenciador de detalhes. 
+Porém mais uma vez somos, na maior parte do tempo, forçados a oferecer um trabalho especulativo, pois no atual sistema todos os detalhes devem ser fornecidos a priori.  
+
+Atuar dessa forma nos faz parecer incopententes. Isso ocorre pelo simples fato de utilizarmos a abordagem errada. 
+
+Argumentamos que o melhor jeito de conduzir uma obra é deixar a maioria das decisões para serem tomadas apenas quando e onde elas se tornam absolutamente necessárias. 
+
+Portanto:
+
+''Um Arquiteto deve dominar a arte de procrastinar suas decisões.'' 
+
+Ao inves de prematuramente escolher a linha de parafusos para instalação de uma janela, o profissional deve focar em onde posicioaná-la para ter a melhor vista e iluminação, e apenas essa tarefa implica em tomar não uma, mas várias, decisões sutis e primordiais às especificações.
+
+A Gestalt precede o detalhamento em ordem e importância.
+
+Ao nao tomar todas as decisões, isto é, não criando desenhos e renderizações caras logo de cara, diminuimos o custo monetario e cognitivo de mudar de ideia.
+
+O motivo de isso não ser aplicável talvez seja a necessidade de mudar o modelo de negócios. A abordagem do jardineiro inevitavelmente fará com que o arquiteto pare de fornecer produtos e passe a prestar serviços. Mesmo a ideia de uma casa "pronta" deixa de fazer sentido ao notar [[Livro: How Buildings Learn]].
+
+Com essa limitação auto imposta de procrastinar decisões, evitamos a [[Falácia de Concorde]] e nos tornamos receptivos a [[Serendipidade]].
+
+Ser guiado por uma linguagem de padrões nao seria tão limitante e totalitario quanto muitos pensam. Elas nos ajudam a ignorar os detalhes e focar no que realmente importa. Ao invés de resolver um problema usando apenas nossa experiência limitada, Montamos na sabedoria daqueles que vieram antes e sofreram muito para encontrar maneiras eficientes de resolver um problema comum. Ignorar esses padrões faria o sacrificio de todas as geracoes anteriores ter sido em vão.
+
+é tentar reinventar a porta, e a porta é um Padrão.
+
+O que a filosofia e alexander me ensinaram é que a maioria dos problemas são frutos da nossa forma de pensar, e que a maneira mais elegante de resolver um problema é dissolvendo ele. percebendo que ele nunca foi um problema , ou que ele só existia enquanto pensavamos por essa perspectiva.
