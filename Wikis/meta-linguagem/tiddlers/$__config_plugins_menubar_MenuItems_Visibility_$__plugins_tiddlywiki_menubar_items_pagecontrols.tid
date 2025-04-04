@@ -1,5 +1,5 @@
 created: 20250118182533077
-modified: 20250118182929787
+modified: 20250403233549307
 title: $:/config/plugins/menubar/MenuItems/Visibility/$:/plugins/tiddlywiki/menubar/items/pagecontrols
 
-hide
+show
