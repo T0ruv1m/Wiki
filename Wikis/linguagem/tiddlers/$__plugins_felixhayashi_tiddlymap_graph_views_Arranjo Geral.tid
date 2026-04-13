@@ -1,7 +1,0 @@
-config.raster: 
-config.vis: {"edges":{"width":4},"layout":{"hierarchical":{"blockShifting":false,"edgeMinimization":false,"parentCentralization":false,"enabled":false}}}
-created: 20241108002738222
-id: 608ddf01-2ce4-4732-952b-34b5b1aaae7b
-isview: true
-modified: 20241108002802307
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/Arranjo Geral

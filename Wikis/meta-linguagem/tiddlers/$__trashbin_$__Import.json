@@ -1,7 +1,0 @@
-{
-    "title": "$:/Import",
-    "type": "application/json",
-    "plugin-type": "import",
-    "status": "pending",
-    "text": "{\n    \"tiddlers\": {\n        \"Untitled 1\": {\n            \"title\": \"Untitled 1\",\n            \"text\": \"Existe uma Qualidade Fundamental que sustenta todo Julgamento de Valor\"\n        }\n    }\n}"
-}

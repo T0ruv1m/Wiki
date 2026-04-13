@@ -1,7 +1,0 @@
-[
-    {
-        "filter": "-[[tw-list:tags]] -[[tw-body:link]] [field:tmap.id[ca1596d6-f046-4c91-9567-d9b4cbf01155]]  [field:tmap.id[f6aa1eb4-5c42-4335-926f-1c4ed9035742]] [field:tmap.id[712c77d7-aa61-432e-a3c6-3781f0d90955]] [field:tmap.id[d6335272-6c7a-4c9d-a1b4-ebbf0f8aca1d]] [field:tmap.id[2329d13f-6aad-4d2e-8a2b-47bd76935c71]] [field:tmap.id[6696eb40-a4f7-4bfc-ba70-9c4445ce338a]] [field:tmap.id[193126ea-a90e-4505-ba4e-fb56b53b336c]] [field:tmap.id[8d91ca5e-4f1d-4793-bca3-87cd9009957a]] [field:tmap.id[cd42b212-1bff-4511-9671-345d5a61d12f]]  ",
-        "text": "",
-        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Harmonia Interior Exterior/filter/nodes"
-    }
-]

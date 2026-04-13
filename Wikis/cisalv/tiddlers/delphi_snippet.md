@@ -1,1 +1,0 @@
-<<tabs [tag[delphi]tag[snippet]] >>

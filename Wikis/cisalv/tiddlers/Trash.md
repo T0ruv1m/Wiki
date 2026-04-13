@@ -1,1 +1,0 @@
-Links úteis: [Delphi Ultimate Codebank](https://www.softpedia.com/get/Programming/Other-Programming-Files/Delphi-Ultimate-Codebank.shtml)

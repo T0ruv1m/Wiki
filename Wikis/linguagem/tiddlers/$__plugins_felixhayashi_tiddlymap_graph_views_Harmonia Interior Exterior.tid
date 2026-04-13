@@ -1,8 +1,0 @@
-config.neighbourhood_scope: 1
-config.show_inter_neighbour_edges: true
-config.vis: {"edges":{"font":{"size":16},"smooth":{"forceDirection":"vertical"},"width":4}}
-created: 20241108012418166
-id: c40b5d54-7399-4685-8f14-faca9cacd3bd
-isview: true
-modified: 20241108104350085
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/Harmonia Interior Exterior
